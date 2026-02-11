@@ -349,7 +349,7 @@ Mila und Ben sahen sich an.
 „Von einem Tag auf den anderen.
 Niemand weiß, was passiert ist."
 
-Jonas' Herz klopfte jetzt deutlich schneller.
+Ein Kribbeln breitete sich in Jonas' Fingern aus.
 Ein verschwundener Mann.
 Ein verlassenes Herrenhaus.
 Seltsame Geräusche in der Nacht.

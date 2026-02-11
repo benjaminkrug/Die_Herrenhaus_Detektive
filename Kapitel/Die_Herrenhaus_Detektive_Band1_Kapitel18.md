@@ -239,7 +239,7 @@ Das Kratzen am Gemälde."
 
 „Was haben Sie am Gemälde gemacht?" fragte Jonas.
 
-„Geprüft, ob das Geheimfach noch intakt ist.
+„Geprüft, ob das Geheimfach noch heil ist.
 Heinrich hatte Angst, dass der Rahmen kaputt geht.
 Dass jemand zufällig den Mechanismus auslöst."
 
@@ -385,10 +385,10 @@ Dann grinste er.
 Der Bürgermeister setzte sich wieder.
 Er faltete die Hände.
 
-„Was Heinrich Winter getan hat, war bemerkenswert", sagte er.
+„Was Heinrich Winter getan hat, war etwas Besonderes", sagte er.
 „Die Münzen und der Schmuck gehören dem Dorf.
 Sein Testament ist klar.
-Der Erlös geht an die Schule."
+Das Geld geht an die Schule."
 
 Er sah Meier an.
 Streng.
@@ -510,7 +510,6 @@ Sie gingen zusammen nach draußen.
 
 Die Sonne hatte den Nebel vertrieben.
 Der Marktplatz lag warm und hell vor ihnen.
-Am Brunnen plätscherte Wasser.
 Die alte Eiche warf Schatten auf die Pflastersteine.
 
 Jonas blieb stehen.
@@ -533,8 +532,25 @@ Ben legte den Arm um Jonas' Schulter.
 
 Jonas lachte.
 
-Und als sie über den Marktplatz gingen, dachte er an den versiegelten Brief in der Truhe.
-An die zweite Tür im Tunnel.
-An vier Linien und einen Stern.
+Sie gingen über den Marktplatz.
+Am Brunnen vorbei.
+Das Wasser plätscherte leise.
 
-Aber das war eine Geschichte für einen anderen Tag.
+Jonas sah hinein.
+Sein Spiegelbild sah zurück.
+Verzerrt.
+Dunkel.
+
+Und für einen Moment dachte er an den versiegelten Brief.
+An Winters Worte.
+
+*Die Wahrheit über den Brunnen.*
+
+Was hatte der alte Mann gewusst?
+Was verbarg sich unter den Pflastersteinen?
+
+Jonas schüttelte den Kopf.
+
+Nicht heute.
+
+Aber bald.

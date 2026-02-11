@@ -126,7 +126,7 @@ Er konnte den Gartenweg sehen.
 Die Eingangstür.
 Die steinernen Stufen.
 
-Sein Herz schlug schneller.
+Seine Ohren rauschten.
 So nah war er dem Haus noch nie gewesen.
 
 Mila beugte sich ebenfalls vor.
@@ -298,8 +298,7 @@ An der Hauswand entlang.
 „Sondern?" fragte Mila.
 
 Jonas stand auf.
-Sein Herz klopfte laut.
-Er konnte es in seinen Ohren hören.
+Sein Blut pochte in den Schläfen.
 
 „Ich folge den Spuren", sagte er.
 
@@ -320,7 +319,7 @@ Um die Ecke des Grundstücks.
 Und dann blieben sie stehen.
 
 Jonas blieb auch stehen.
-Sein Herz klopfte.
+Sein Magen zog sich zusammen.
 
 Vor ihm war die Seitenwand des Herrenhauses.
 Efeu bedeckte den größten Teil.

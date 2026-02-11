@@ -167,7 +167,7 @@ Die Luft war kühl und abgestanden.
 Als hätte niemand seit Jahren ein Fenster geöffnet.
 
 Er blieb stehen und sah sich um.
-Sein Herz schlug so laut, dass er Angst hatte, jemand könnte es hören.
+Sein Puls raste.
 
 Er stand in einem großen Raum.
 Vielleicht das Wohnzimmer.
@@ -369,8 +369,7 @@ Bens Augen waren so groß wie Untertassen.
 „Mäuse sind klein.
 Das klang groß."
 
-Jonas' Herz klopfte laut.
-Er konnte es in seinen Ohren hören.
+Gänsehaut kroch über Jonas' Arme.
 
 Aber er ging weiter.
 Stufe für Stufe.

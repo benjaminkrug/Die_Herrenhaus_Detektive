@@ -83,7 +83,7 @@ Sie roch nach Staub und feuchtem Holz.
 Und nach etwas anderem.
 Kerzenwachs.
 
-Jonas' Herz hämmerte.
+Sein Atem ging schnell.
 
 „Bereit?" flüsterte Mila.
 
@@ -235,7 +235,7 @@ Drinnen lag ein einzelnes Blatt Papier.
 Vergilbt.
 Zusammengefaltet.
 
-Sein Herz machte einen Sprung.
+Sein Atem stockte.
 
 Er nahm es heraus.
 Faltete es vorsichtig auf.
@@ -530,7 +530,7 @@ Drei Striche.
 Ein Kreis."
 
 Jonas nickte.
-Sein Herz klopfte jetzt so laut, dass er es in den Ohren hören konnte.
+Sein Blut rauschte in seinen Ohren.
 
 Er sah sich das Symbol im Tagebuch genauer an.
 Daneben hatte Herr Winter etwas geschrieben.

@@ -114,7 +114,7 @@ Und auf dem Einband stand in verblasster Tinte:
 
 *Eigentum -- H. Winter*
 
-Jonas' Herz machte einen Sprung.
+Jonas' Atem stockte.
 
 „Ich habe etwas gefunden", sagte er.
 

@@ -481,7 +481,12 @@ Am allerersten Tag am Herrenhaus.
 Herr Winter hatte ihn dort gelassen.
 Wie den ersten Hinweis einer langen Schnitzeljagd.
 
-Und jetzt, nach dem Tagebuch, dem Grundriss, dem Symbol, dem Gemälde und der Schatzkarte, waren sie am vorletzten Schritt.
+Das Tagebuch.
+Der Grundriss.
+Das Symbol.
+Das Gemälde.
+Die Schatzkarte.
+Und jetzt waren sie am vorletzten Schritt.
 
 Sie brauchten nur noch das Schloss.
 

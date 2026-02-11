@@ -228,7 +228,7 @@ Ben riss die Augen auf.
 „So hat es nachts geklungen!
 Genau so!"
 
-Mila kniete sich neben die Vorrichtung.
+Mila kniete sich neben das Ding.
 Sie leuchtete alles ab.
 Von der Platte bis zum Haken an der Decke.
 

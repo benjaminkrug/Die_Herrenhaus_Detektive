@@ -6,7 +6,9 @@
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nKapitel 18 umgeschrieben \\(~1662 Woerter\\)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nKapitel 19 \\(Epilog\\) neu geschrieben \\(~803 Woerter\\)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(dir:*)",
+      "Read(//c/Users/krugb/OneDrive/Desktop/GMBH/Projekte/Buecher/**)"
     ]
   }
 }

@@ -374,7 +374,7 @@ Seine Stimme wurde leiser.
 „Das Haus hat viele Räume.
 Und manche Häuser haben Räume, die man nicht sieht."
 
-Jonas' Herz klopfte schneller.
+Sein Puls beschleunigte sich.
 „Sie meinen geheime Räume?"
 
 Herr Krüger lehnte sich zurück.

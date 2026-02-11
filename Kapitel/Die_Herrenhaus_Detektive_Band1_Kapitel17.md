@@ -6,7 +6,22 @@
 
 # Kapitel 17 -- Der letzte Wille
 
-Jonas hielt das Dokument in beiden Händen.
+Jonas kniete neben der Truhe.
+
+Der Kerzenstummel auf dem Tisch flackerte.
+Schatten tanzten über die Steinwände.
+Die Luft roch nach feuchtem Papier und altem Wachs.
+
+In der Truhe lagen Münzen.
+Silberne Ringe.
+Eine schwere Taschenuhr mit Kette.
+
+Und darunter: Papiere.
+
+Jonas nahm das dicke Dokument heraus.
+Das mit dem roten Siegel.
+Vorsichtig.
+Als könnte es zerbrechen.
 
 Das Papier war dick.
 Schwer.
@@ -16,13 +31,22 @@ Das rote Siegel war gebrochen.
 Jemand hatte es schon einmal geöffnet.
 Vor langer Zeit.
 
+Krüger stand an der Wand.
+Seine Hand lag auf dem Stock.
+Er sagte nichts.
+Aber er atmete schneller als sonst.
+
 „Lies vor", sagte Mila.
 
-Jonas schluckte.
+Jonas hielt das Dokument ins Kerzenlicht.
+Die Schrift war klein.
+Krakelig.
+Aber lesbar.
+
 Seine Stimme zitterte am Anfang.
 Aber dann wurde sie fester.
 
-*Ich, Heinrich Winter, geboren in Eichenhain, schreibe diesen letzten Willen im vollen Bewusstsein meiner Lage.*
+*Ich, Heinrich Winter, geboren in Eichenhain, schreibe diesen letzten Willen.*
 
 *Ich muss das Dorf verlassen.
 Nicht weil ich will.
@@ -36,6 +60,12 @@ Ben setzte sich auf den Boden.
 Er zog die Knie an.
 Seine Augen waren weit.
 
+Mila stand dicht neben Jonas.
+Sie las über seine Schulter.
+Ihre Lippen bewegten sich lautlos.
+
+Das Kerzenlicht warf ihren Schatten groß an die Wand.
+
 Jonas las weiter.
 
 *In diesem Haus liegt die Geschichte von Eichenhain.
@@ -45,33 +75,58 @@ Fotografien.
 Beweise für Dinge, die vergessen werden sollten.
 Aber die nicht vergessen werden dürfen.*
 
+Ben hob den Kopf.
+„Beweise?" flüsterte er.
+„Beweise für was?"
+
+Krüger schüttelte leise den Kopf.
+Nicht jetzt.
+
+Jonas las weiter.
+
 *Ich habe alles versteckt.
 Im Tunnel unter dem Haus.
 In der Kammer, die ich gebaut habe.
 Wer diesen Brief liest, hat die Rätsel gelöst.
-Wer die Rätsel gelöst hat, versteht, wie wichtig das hier ist.*
+Wer die Rätsel gelöst hat, versteht.*
 
-Mila stand neben Jonas.
-Sie las über seine Schulter.
-Ihre Lippen bewegten sich lautlos.
+Jonas hielt inne.
+Er sah zu Mila.
+Dann zu Ben.
+
+Wer die Rätsel gelöst hat, versteht.
+
+Das waren sie.
+Sie hatten jedes Rätsel gelöst.
+Jede Tür geöffnet.
+Und jetzt hielten sie Winters letzten Willen in der Hand.
+
+Er las den nächsten Absatz.
 
 *In der Truhe liegen Münzen und Schmuck.
 Sie gehören nicht mir.
 Sie gehören dem Dorf.
-Ich bitte darum, dass der Erlös für die Schule verwendet wird.
+Ich bitte darum, dass das Geld für die Schule verwendet wird.
 Für die Kinder von Eichenhain.*
 
 Ben blinzelte.
 „Für die Schule?"
 
-„Er wollte nicht reich werden", sagte Mila leise.
-„Er wollte helfen."
+Seine Stimme klang ungläubig.
 
-Krüger stand an der Wand.
-Er sagte nichts.
-Aber seine Augen glänzten im Kerzenlicht.
+„Er wollte nicht reich werden", sagte Mila leise.
+„Er wollte etwas zurückgeben."
+
+Krüger schloss die Augen.
+Nur für einen Moment.
+Als müsste er sich sammeln.
+
+Dann öffnete er sie wieder.
+Sie glänzten im Kerzenlicht.
 
 Jonas las den letzten Absatz.
+Seine Stimme war jetzt fest.
+Klar.
 
 *Und an meinen Freund, der dies bewahrt hat:
 Danke.
@@ -90,8 +145,15 @@ Als wäre es aus Glas.
 Stille.
 
 Nur das leise Tropfen von der Decke.
+Und das Flackern der Kerze.
 
-„Er war kein Verbrecher", sagte Ben.
+Niemand sprach.
+
+Ben saß still auf dem Boden.
+Er starrte auf seine Hände.
+Dann sah er auf.
+
+„Er war kein Verbrecher", sagte er.
 Seine Stimme war anders.
 Nicht ängstlich.
 Nicht witzig.
@@ -102,25 +164,60 @@ Ernst.
 „Er war das Gegenteil.
 Er hat alles aufgegeben, um etwas Wichtigeres zu retten."
 
-Mila sah auf die Bücher an den Wänden.
-Dutzende.
+Mila ging zu den Regalen.
+Sie strich mit dem Finger über die Buchrücken.
+Dutzende Bücher.
 Alle voller Geschichte.
 Eichenhains Geschichte.
 
+„Dreißig Jahre", sagte sie leise.
+„So lange hat er das hier gesammelt."
+
+Krüger nickte.
+„Sein halbes Leben.
+Jede Seite.
+Jeder Brief.
+Er wollte, dass nichts verloren geht."
+
+Mila drehte sich um.
 „Was für Beweise meint er?" fragte sie.
 „Beweise für was?"
 
 Krüger sah sie an.
 Lange.
+Sein Blick war warm.
+Aber er verriet nichts.
 
 „Das ist eine Geschichte für einen anderen Tag."
 
 Jonas wollte nachfragen.
 Aber etwas in Krügers Blick sagte ihm: Nicht jetzt.
 
+Es gab Dinge, die mussten warten.
+Auch wenn es schwer war.
+
 ---
 
-Dann sah Jonas noch etwas in der Truhe.
+Ben stand auf.
+Er klopfte sich den Staub von der Hose.
+„Was machen wir jetzt mit der Truhe?"
+
+„Wir bringen sie zum Bürgermeister", sagte Krüger.
+„Morgen.
+So hat Heinrich es gewollt."
+
+Jonas nickte.
+Das war richtig.
+Die Truhe gehörte dem Dorf.
+Nicht ihnen.
+
+Er sah noch einmal hinein.
+Die Münzen.
+Die Ringe.
+Die Taschenuhr.
+Die Briefe.
+
+Dann sah er etwas.
 
 Unter den Briefen.
 Ganz unten.
@@ -129,6 +226,10 @@ Ein versiegelter Umschlag.
 
 Aus schwerem Papier.
 Mit rotem Wachs verschlossen.
+Das Siegel war ungebrochen.
+
+Jonas nahm ihn heraus.
+Sein Puls beschleunigte sich.
 
 Auf der Vorderseite stand in Winters krakeliger Schrift:
 
@@ -137,7 +238,7 @@ Nur zu öffnen, wenn die Zeit gekommen ist.*
 
 Jonas hielt den Umschlag hoch.
 
-Mila sah ihn an.
+Mila kam näher.
 Ihre Augen wurden groß.
 
 „Der Brunnen", flüsterte sie.
@@ -145,10 +246,18 @@ Ihre Augen wurden groß.
 Eichenhain ohne Brunnen.
 Das hat damit zu tun."
 
-Ben stand auf.
+Ben streckte die Hand aus.
 „Machen wir ihn auf."
 
-Jonas sah zu Krüger.
+Jonas drehte den Umschlag um.
+Das rote Wachs fühlte sich glatt an.
+Kühl.
+Ungebrochen seit Jahren.
+
+Er wollte ihn öffnen.
+Jede Faser in ihm wollte es.
+
+Er sah zu Krüger.
 
 Der alte Mann schüttelte den Kopf.
 Langsam.
@@ -166,17 +275,14 @@ Wissend.
 „Wenn ihr bereit seid.
 Manche Wahrheiten brauchen ihre Zeit."
 
-Jonas sah den Umschlag an.
-Er wog ihn in der Hand.
+Jonas wog den Umschlag in der Hand.
 Schwer für einen Brief.
 Da waren Papiere drin.
 Vielleicht Fotos.
 
-Er wollte ihn öffnen.
-Jede Faser in ihm wollte es.
-
 Aber Krüger hatte Recht.
 Nicht alles auf einmal.
+Sie hatten heute genug gefunden.
 
 Er legte den Brief zurück in die Truhe.
 
@@ -188,6 +294,9 @@ Mila nickte.
 Ben seufzte.
 „Ich hasse Versprechen, die mit Brunnen zu tun haben."
 
+Mila grinste.
+Trotz allem.
+
 ---
 
 Sie nahmen die Truhe.
@@ -196,6 +305,9 @@ Ben leuchtete den Weg.
 Krüger ging vorne.
 
 Durch den Tunnel.
+Schritt für Schritt.
+Die Taschenlampen warfen Lichter an die Wände.
+
 An der kleinen Metalltür vorbei.
 Vier Linien und ein Stern.
 Jonas sah sie im Vorbeigehen.
@@ -203,6 +315,21 @@ Noch ein Rätsel.
 Noch ein Geheimnis.
 
 Aber nicht heute.
+
+Ben blieb kurz stehen.
+Er sah die Tür an.
+„Was glaubst du, ist da dahinter?"
+
+„Keine Ahnung", sagte Jonas.
+„Aber wir finden es raus."
+
+„Natürlich tun wir das", murmelte Ben.
+„Das tun wir immer."
+
+Sie gingen weiter.
+Die Truhe war schwer.
+Jonas' Arme brannten.
+Aber er beschwerte sich nicht.
 
 Sie kamen aus der Mühle ins Tageslicht.
 
@@ -214,6 +341,9 @@ Jonas stellte die Truhe ins Gras.
 Er streckte sich.
 Seine Arme schmerzten.
 Aber es war ein guter Schmerz.
+
+Die Luft roch nach Gras und Sommer.
+Vögel sangen in den Bäumen.
 
 „Was jetzt?" fragte Ben.
 
@@ -243,9 +373,25 @@ Aber nichts würde mehr normal sein.
 
 „Morgen", sagte Krüger.
 
-Sie gingen den Feldweg hinunter.
+Der alte Mann legte Jonas die Hand auf die Schulter.
+Kurz.
+Fest.
+Dann ging er den Feldweg hinunter.
+
+Sein Stock auf dem Weg.
+Tock.
+Tock.
+
+Sie sahen ihm nach.
+
+---
+
+Die drei gingen zusammen ins Dorf.
 Seite an Seite.
 Die Truhe zwischen ihnen.
+
+Die Sonne sank tiefer.
+Der Himmel färbte sich rot.
 
 Ben sah noch einmal zurück.
 Zum Herrenhaus auf dem Hügel.

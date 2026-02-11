@@ -86,7 +86,8 @@ Er hat uns eingesperrt."
 
 Aber seine Stimme war nicht mehr wütend gewesen.
 
-Der Bürgermeister hatte verkündet, dass Meier bei der Renovierung des Herrenhauses helfen würde.
+Der Bürgermeister hatte entschieden.
+Meier würde bei der Renovierung helfen.
 Jeden Samstag.
 Ein ganzes Jahr lang.
 
@@ -215,6 +216,9 @@ Das selbst Krüger nicht kannte.
 
 Und der versiegelte Brief in der Truhe.
 *Die Wahrheit über den Brunnen.*
+
+Und das leere Blatt Papier aus dem versteckten Raum.
+Leer -- oder doch nicht?
 
 Jonas sah zum Brunnen neben ihnen.
 Das Wasser plätscherte wie immer.

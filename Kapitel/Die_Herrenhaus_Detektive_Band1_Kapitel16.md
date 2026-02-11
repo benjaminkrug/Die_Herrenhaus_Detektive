@@ -110,7 +110,7 @@ Krüger nickte langsam.
 „Das Haus brauchte Reparaturen.
 Das Dach.
 Die Wände.
-Es kostete ein Vermögen.
+Es kostete sehr viel Geld.
 Heinrich nahm Geld von der Bank.
 Aber es reichte nie."
 
@@ -155,7 +155,7 @@ Im Tunnel.
 In der Schatzkammer.
 Er hat den Code geschrieben.
 Die Karten gezeichnet.
-Er hat alles so eingerichtet, dass nur jemand mit Geduld und Verstand es finden kann."
+Nur jemand mit Geduld und Verstand konnte es finden."
 
 „Und dann ist er gegangen", sagte Mila.
 
@@ -407,7 +407,7 @@ Dann drückte er auf eine davon.
 Klick.
 
 Die Platte hob sich.
-Darunter lag eine Vertiefung.
+Darunter lag ein Loch im Boden.
 Und darin: eine alte Metalltruhe.
 
 Schwer.

@@ -349,7 +349,7 @@ Sogar Ben wurde aufmerksam.
 „Wozu ist er dann?"
 
 Jonas dachte nach.
-Sein Herz klopfte schneller.
+Sein Atem ging schneller.
 
 „Vielleicht zur Haustür?" sagte Mila.
 
@@ -436,7 +436,7 @@ Mila stieß Jonas leicht mit dem Ellbogen an.
 „Hast du Angst?" flüsterte sie.
 
 Jonas überlegte.
-Sein Herz klopfte.
+Seine Hände zitterten leicht.
 Aber nicht vor Angst.
 Eher vor Aufregung.
 
