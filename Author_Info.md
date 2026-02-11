@@ -170,7 +170,10 @@ Jedes Kapitel muss enthalten:
 ## Kontinuitaets-Tracker
 
 ### Zeitlinie
-- **Tag 1, Nachmittag:** Jonas kommt in Eichenhain an. Umzug. Trifft Mila und Ben. (Kapitel 1)
+- **Tag 1, Nachmittag:** Jonas kommt in Eichenhain an. Umzug. Trifft Mila und Ben. Sieht Schatten im Fenster. (Kapitel 1)
+- **Tag 1, Nacht:** Jonas kann nicht schlafen. Sieht keinen Schatten mehr. (Kapitel 2, Anfang)
+- **Tag 2, Morgen:** Mila erzaehlt von Herr Winter. Gespraech mit Herr Krueger. (Kapitel 2)
+- **Tag 2, Abend:** Jonas sieht Kerzenlicht im Herrenhaus. Schreibt Mila. (Kapitel 2, Ende)
 
 ### Gefundene Hinweise/Gegenstaende
 - (noch keine)
@@ -180,16 +183,22 @@ Jedes Kapitel muss enthalten:
 - Niemand darf dort hin
 - Nachts gibt es seltsame Geraeusche und Lichter
 - Bens Onkel hat Licht im Haus gesehen (letzten Herbst)
-- Der Besitzer hiess Herr Winter
-- Herr Winter ist spurlos verschwunden (von einem Tag auf den anderen)
-- Die Polizei hat nichts gefunden
-- Die Erwachsenen reden nicht darueber
+- Der Besitzer hiess Herr Winter -- alt, reich, allein, trug dunklen Mantel
+- Herr Winter hatte keine Familie
+- Er kaufte kistenweise Kerzen
+- Er hat vor seinem Verschwinden viel Geld von der Bank geholt
+- Er verschwand spurlos -- Mantel und Schuhe blieben zurueck, Fruehstueck auf dem Tisch
+- Der Baecker hat ihn als vermisst gemeldet
+- Die Polizei hat das Haus durchsucht und nichts gefunden
+- Herr Krueger deutet an, dass es geheime Raeume geben koennte
+- Jonas hat Kerzenlicht im oberen Fenster gesehen (Tag 2 Abend)
 
 ### Offene Fragen
 - Was ist mit Herr Winter passiert?
-- Wer oder was bewegt sich im Haus? (Jonas sah einen Schatten im Fenster)
-- Warum ist das Haus "verboten"?
-- Gibt es einen Schatz? (noch nicht erwaehnt in Kap 1)
+- Wer zuendet Kerzen im leeren Haus an?
+- Wo ist das Geld von der Bank?
+- Gibt es geheime Raeume im Haus?
+- Warum warnt Herr Krueger sie, deutet aber gleichzeitig Hinweise an?
 
 ### Wichtige Details
 - Dorfname: Eichenhain (wegen der 300 Jahre alten Eiche auf dem Marktplatz)
@@ -200,3 +209,6 @@ Jedes Kapitel muss enthalten:
 - Besitzer: Herr Winter (verschwunden, Polizei fand nichts)
 - Ben hat einen Onkel im Dorf
 - Mila hat eine Oma im Dorf
+- Herr Krueger: alter Mann, sitzt auf Bank am Brunnen, fuettert Tauben, redet in Raetseln
+- Jonas und Mila tauschen Handynummern (Ende Kap 2)
+- Milas Antwort auf Jonas' Nachricht ueber das Licht: "Morgen."
