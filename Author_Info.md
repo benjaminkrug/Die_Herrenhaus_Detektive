@@ -177,6 +177,7 @@ Jedes Kapitel muss enthalten:
 - **Tag 3, Morgen:** Kinder treffen sich, gehen zum Herrenhaus. Jonas findet rostigen Schluessel am Zaun. Knacken im Gebuesch. (Kapitel 3)
 - **Tag 3, Morgen (Fortsetzung):** Gebuesch-Geraeusch war eine Katze. Kinder gehen am Zaun entlang, finden Luecke. Schluessel passt nicht zum Tor. Frische Fussspuren (Erwachsener). Offenes Fenster an Seitenwand. Goldener Knopf mit gleichem Muster wie Schluessel. Kinder beschliessen, ins Dorfarchiv zu gehen. (Kapitel 4)
 - **Tag 4, Morgen (Mittwoch):** Kinder gehen ins Dorfarchiv im Rathaus. Jonas findet Tagebuch von H. Winter + Grundriss des Herrenhauses. Tagebuch enthaelt Code. Grundriss zeigt Raum ohne Eingang. (Kapitel 5)
+- **Tag 4, Mittag:** Kinder betreten das Herrenhaus zum ersten Mal durchs offene Fenster. Erdgeschoss: Salon mit alten Moebeln, Gemaelde von Herr Winter, Fussspuren. 1. Stock: Vorhang am Flurende verbirgt geheime Tuer (schmal, niedrig, ohne Griff). Ticken hinter der Tuer. (Kapitel 6)
 
 ### Gefundene Hinweise/Gegenstaende
 - **Rostiger Schluessel:** Gefunden am Zaun des Herrenhauses, im hohen Gras. Alt, schwer, Griff mit Blumen-/Sternmuster. Bart sieht aus wie Buchstabe "W" (Winter?). Riecht nach Erde und Kerzenwachs. Passt NICHT zum Tor (zu klein). Jonas hat ihn in der Hosentasche.
@@ -184,7 +185,9 @@ Jedes Kapitel muss enthalten:
 - **Frische Fussspuren:** Erwachsenenschuhe vor dem Tor, fuehren seitlich zum offenen Fenster.
 - **Offenes Fenster:** Erdgeschoss, Seitenwand. Spalt ca. 10cm. Alter schiefer Vorhang.
 - **Tagebuch von H. Winter:** Gefunden im Archiv, in Karton "DIVERSE ALTE DOKUMENTE". Ledereinband, dunkelbraun. Enthaelt: krakeliges Intro ("Das Haus birgt mehr als Waende und Tueren"), Zeichnungen/Grundrisse/Symbole, Code (Turm-drei-Mond / Stein-sieben-Nord / Tuer-eins-Licht), Hinweis "Wer die Anfangsbuchstaben versteht, findet den Weg". Jonas hat es im Rucksack.
-- **Grundriss des Herrenhauses:** Gefunden im gleichen Karton. Handgezeichnet, alt. Zeigt einen RAUM OHNE EINGANG in der Mitte des Hauses. Jonas hat ihn.
+- **Grundriss des Herrenhauses:** Gefunden im gleichen Karton. Handgezeichnet, alt. Zeigt einen RAUM OHNE EINGANG in der Mitte des Hauses (1. Stock). Jonas hat ihn.
+- **Geheime Tuer:** 1. Stock, Ende des Flurs, hinter schwerem dunklem Vorhang. Schmal, niedrig, ohne Griff, ohne Schloss. Nicht auf dem Grundriss eingezeichnet. Ticken dahinter hoerbar.
+- **Gemaelde:** Im Salon (EG). Zeigt alten Mann mit weissem Bart und dunklem Mantel -- vermutlich Herr Winter.
 
 ### Was die Kinder wissen
 - Das Herrenhaus auf dem Huegel ist "verboten"
@@ -200,6 +203,8 @@ Jedes Kapitel muss enthalten:
 - Die Polizei hat das Haus durchsucht und nichts gefunden
 - Herr Krueger deutet an, dass es geheime Raeume geben koennte
 - Jonas hat Kerzenlicht im oberen Fenster gesehen (Tag 2 Abend)
+- Im Haus: Fussspuren von Erwachsenem im Staub (wie draussen), Geruch nach Kerzenwachs im 1. Stock
+- Geheime Tuer hinter Vorhang im 1. Stock, Ticken dahinter
 
 ### Offene Fragen
 - Was ist mit Herr Winter passiert?
@@ -207,6 +212,9 @@ Jedes Kapitel muss enthalten:
 - Wo ist das Geld von der Bank?
 - Gibt es geheime Raeume im Haus?
 - Warum warnt Herr Krueger sie, deutet aber gleichzeitig Hinweise an?
+- Was tickt hinter der geheimen Tuer?
+- Fuehrt die Tuer zum Raum ohne Eingang auf dem Grundriss?
+- Was bedeutet der Code im Tagebuch (Turm-drei-Mond etc.)?
 
 ### Wichtige Details
 - Dorfname: Eichenhain (wegen der 300 Jahre alten Eiche auf dem Marktplatz)
@@ -222,7 +230,10 @@ Jedes Kapitel muss enthalten:
 - Rathaus: Klein, gelbe Waende, Seitentuer, Flur mit Pinnwand, Archiv hinten links
 - Archiv: Klein, vollgestopft, Regale bis zur Decke, Ordner beschriftet (GRUNDSTUECKE, STEUERN etc.)
 - Mila hat Ersatzschluessel zum Archiv von Oma (NICHT zum Herrenhaus)
-- Naechster Schritt der Kinder: Zurueck zum Herrenhaus mit Tagebuch und Grundriss
+- Haus Innenraum: EG hat Salon (Tapete in Fetzen, Sessel, dreibeiniger Tisch, Gemaelde), langer dunkler Flur, geschlossene Tueren, Kronleuchter ueber Treppe
+- Treppe: dunkles Holz, 16 Stufen, Gelaender mit Luecken, knarrt laut
+- 1. Stock: dunkler als EG, Efeu bedeckt Fenster, feuchte Waende, Kerzenwachsgeruch, 4 Tueren, Vorhang am Ende
+- Kraehe auf Schaukel im Garten
 - Besitzer: Herr Winter (verschwunden, Polizei fand nichts)
 - Ben hat einen Onkel im Dorf
 - Mila hat eine Oma im Dorf
