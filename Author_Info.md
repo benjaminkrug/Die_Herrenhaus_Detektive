@@ -186,6 +186,12 @@ Jedes Kapitel muss enthalten:
 - **Tag 5, Nachmittag:** Kinder betreten den Keller (Tuer unter der Treppe, eiserner Riegel). Steinstufen, feuchter Gang, niedrige Decke, 4 Raeume. Fussspuren der unbekannten Person auch im Keller! Im letzten Raum (Nord-Ecke): verstecktes Fach in der Mauer (heller, glatter Stein als Ausloeser). Darin: vollstaendige Schatzkarte in Lederhuelle. Zeigt TUNNEL vom Keller zur Muehlenruine + "Schatzkammer" am Ende. Schluessel-Symbol neben Tunnel-Eingang = rostiger Schluessel passt! Schloss gefunden: winziges Schluesselloch im Moertel, ganz rechts unten. Schluessel passt. (Kapitel 11)
 - **Tag 5, Nachmittag (Fortsetzung):** Schluessel oeffnet Mechanismus -- Mauerteil schiebt sich zur Seite (~60cm Spalt). Dahinter: Tunnel aus rohem Fels. Eng, niedrig, feucht. ~100 Schritte lang. Werkzeugspuren im Fels (handgegraben). Kurve nach links, leicht bergab. Tropfwasser, Schaben in den Waenden (Spinnen). Tunnel endet an Eisentuer mit Nieten + Symbol (3 Linien + Kreis) = Schatzkammer. Dann: Krachen vom Keller-Eingang! Kellertuer wird von aussen verriegelt -- Kinder sind eingesperrt! Vermutlich Herr Meier. Entscheidung: vorwaerts durch Schatzkammer zur Muehle. (Kapitel 12)
 - **Tag 5, Nachmittag (Schatzkammer):** Eisentuer geoeffnet. Dahinter: Schatzkammer (~5x5m). Steinplattenboden. Regale mit Buechern, Metalldosen (Fotos), Holzkisten. Tisch mit Papieren + Kerze. KEIN Goldschatz -- sondern Archiv! Briefe von Herr Winter ("Die Wahrheit muss bewahrt werden", "Geschichte unseres Dorfes"). Foto: Eichenhain 1952 OHNE Brunnen, Notiz "Die Wahrheit ueber den Brunnen". Zweite Tuer (Holz, Messing-Schloss) abgeschlossen. BEN erinnert sich an 3. Code-Zeile: Tuer-eins-Licht = Kerze anzuenden! Ben hat Feuerzeug von Onkel dabei. Kerze auf Waerme-Ausloeser, Tuer springt auf. Kurzer Gang, dann Tageslicht: Muehlenruine. BEN BEWEIST MUT. (Kapitel 13)
+- **Tag 6, Morgen:** Kinder treffen sich am Brunnen. Gehen durch Muehlen-Tunnel zurueck ins Herrenhaus. Im Keller: Spuk-Mechanismus entdeckt (Schnur, Eimer, Metallplatte -- erzeugt Geraeusche im Haus). Ben entdeckt: Schnur ist NEU (weiss, sauber), Eimer hat Preisschild (3,99 Euro) = von Meiers Laden. Oben im Haus: warmer Kaffeebecher, Erdkruempel, verschobener Gemaelderahmen. Jemand war gerade hier. Dann: Haustuer knarrt, schwere Schritte -- Herr Meier kommt! (Kapitel 14)
+- **Tag 6, Vormittag:** Kinder verstecken sich hinter Sessel im Salon. Belauschen Meier beim Telefonieren: Er kennt Winter persoenlich, wurde gebeten das Geheimnis zu schuetzen. "Ich werde sein Geheimnis nicht verraten. Nicht an drei neugierige Kinder." Kinder fliehen durch Keller/Tunnel zur Muehle. Diskussion: Meier ist kein Dieb sondern Waechter -- aber er hat sie eingesperrt. Mila zeigt erstmals Unsicherheit ("Was wenn wir einen Fehler machen?"). Ben erwaehnt zweite Metalltuer in Tunnelwand (4 Linien + Stern). Dann: Herr Krueger kommt zur Muehle. "Ich habe auf euch gewartet. Jetzt erfahrt ihr die ganze Wahrheit." (Kapitel 15)
+- **Tag 6, Mittag:** Krueger erzaehlt: Winter war sein bester Freund. Zusammen aufgewachsen. Winter = Hueter der Dorfgeschichte. Schulden zwangen ihn zum Gehen. Er hat sich vorbereitet (nicht geflohen). Verschwand nachts durch den Tunnel/Muehle. Lebt bei seiner Schwester im Sueden (Brief vor 1 Jahr). Meier = Winters anderer Freund, sollte Haus bewachen. Spuk war Meiers Idee (nicht Heinrichs). Meier ging zu weit (Kinder einsperren). Krueger + Kinder gehen zusammen in den Tunnel. Ben zeigt die zweite Tuer (4 Linien + Stern) -- Krueger kennt sie nicht ("Nach meinem letzten Besuch gebaut"). In der Schatzkammer: Krueger findet versteckte Metalltruhe unter loser Steinplatte. Schloss offen. (Kapitel 16)
+- **Tag 6, Nachmittag:** Jonas oeffnet die Truhe: Muenzen, silberne Ringe, Taschenuhr mit Kette, Papiere, Briefe, Testament mit rotem Siegel. Jonas liest Winters Testament vor: Winter verliess Dorf wegen Schulden, versteckte Archiv im Tunnel, Truhe gehoert dem Dorf (Erloes fuer die Schule). Ganz unten: versiegelter Umschlag "Die Wahrheit ueber den Brunnen -- Nur zu oeffnen, wenn die Zeit gekommen ist." Kinder entscheiden sich, den Brief NICHT zu oeffnen. Tragen Truhe durch Tunnel nach draussen. Krueger verspricht: morgen zum Buergermeister. (Kapitel 17)
+- **Tag 7, Morgen:** Kinder + Krueger gehen zum Rathaus mit der Truhe. Meier wartet im Buero des Buergermeisters. Meier gesteht alles: 30-jaehrige Freundschaft mit Winter, Spuk-Mechanismus war seine Idee, er zuendete jeden Donnerstag Kerzen an und zog Uhr auf, er war Person im dunklen Mantel (Tasche = Kerzen + Werkzeug), er prueft Geheimfach am Gemaelde, er hat Krueger angerufen als Kinder schnueffelten, er hat Kinder im Keller eingesperrt (bereut es). Buergermeister: Truhe/Erloes geht an Schule, Herrenhaus wird Dorfmuseum, Meier muss sich oeffentlich entschuldigen + bei Renovierung helfen (1 Jahr Samstags). (Kapitel 18)
+- **Tag 10 (3 Tage spaeter):** Epilog. Kinder am Brunnen. Herrenhaus wird renoviert (Lieferwagen, Bretter). Zeitung berichtet ueber die Entdeckung. Meier hat sich oeffentlich entschuldigt. Krueger bringt Brief von Heinrich Winter: "Gut gemacht. Aber passt auf. Ihr habt noch nicht alles gefunden." Kinder denken an zweite Tuer (4 Linien + Stern) und Brunnen-Brief. Serienhaken: "Das naechste Abenteuer wartete bereits." (Kapitel 19 -- Epilog)
 
 ### Gefundene Hinweise/Gegenstaende
 - **Rostiger Schluessel:** Gefunden am Zaun des Herrenhauses, im hohen Gras. Alt, schwer, Griff mit Blumen-/Sternmuster. Bart sieht aus wie Buchstabe "W" (Winter?). Riecht nach Erde und Kerzenwachs. Passt NICHT zum Tor (zu klein). Jonas hat ihn in der Hosentasche.
@@ -205,6 +211,11 @@ Jedes Kapitel muss enthalten:
 - **Vollstaendige Schatzkarte (Kap 11):** Gefunden im versteckten Fach in der Kellerwand (Nord-Ecke, heller Stein als Ausloeser). In Lederhuelle. Zeigt GESAMTES Haus + TUNNEL vom Keller zur Muehlenruine + "Schatzkammer" am Tunnel-Ende (markiert mit dem Symbol). Schluessel-Symbol neben Tunnel-Eingang. Jonas hat sie im Rucksack.
 - **Rostiger Schluessel PASST (Kap 11):** Schluessel passt zum winzigen Schluesselloch im Moertel der Kellerwand (rechts unten). Oeffnet vermutlich den Tunnel-Eingang.
 - **Keller-Details:** Tuer unter der Treppe im EG-Flur, eiserner Riegel. Steile Steinstufen. Gang ~15m, niedrige Decke. 4 Raeume (leer/Regale/Holz/Nord-Raum). Gestampfte Erde als Boden. Fussspuren der unbekannten Person.
+- **Spuk-Mechanismus (Kap 14):** Im 4. Kellerraum. Duenne Schnur von Haken an der Decke durch Loch in der Mauer. Metallplatte an Wand + Blecheimer auf Holzbrett. Zug an Schnur = Eimer stoesst gegen Platte = klingt wie Schritte/Poltern von oben. Schnur ist NEU (weiss, sauber). Eimer hat Preisschild (3,99 Euro) = aus Meiers Laden. Von Meier gebaut um Leute fernzuhalten.
+- **Zweite Metalltuer im Tunnel (Kap 15/16):** Kleine Metalltuer (~1m hoch) in Tunnelseitenwand, zwischen Schatzkammer und Muehle. Symbol: 4 Linien + Stern (NICHT im Tagebuch). Krueger kennt sie nicht. Von Winter NACH Kruegers letztem Besuch eingebaut. Verschlossen. OFFEN FUER BAND 2.
+- **Metalltruhe (Kap 16/17):** Unter loser Steinplatte im Boden der Schatzkammer (unter dem Tisch). Klein (Schuhkarton-Groesse), alt, dunkel. Schloss offen (Winter hat Schluessel behalten, aber nicht abgeschlossen). Inhalt: Muenzen, silberne Ringe, schwere Taschenuhr mit Kette, Buendel Briefe, Testament von Heinrich Winter (dickes Dokument mit rotem Siegel). Testament bestimmt: Erloes fuer die Schule von Eichenhain. Jetzt beim Buergermeister.
+- **Versiegelter Brunnen-Brief (Kap 17):** Ganz unten in der Metalltruhe. Schweres Papier, rotes Wachs-Siegel. Aufschrift in Winters Schrift: "Die Wahrheit ueber den Brunnen. Nur zu oeffnen, wenn die Zeit gekommen ist." Kinder entscheiden sich NICHT zu oeffnen. OFFEN FUER BAND 2.
+- **Brief von Winter an die Kinder (Kap 19):** Ueber Krueger zugestellt. Inhalt: "Gut gemacht. Ich wusste, dass die Richtigen kommen wuerden. Aber passt auf. Ihr habt noch nicht alles gefunden."
 
 ### Was die Kinder wissen
 - Das Herrenhaus auf dem Huegel ist "verboten"
@@ -235,23 +246,31 @@ Jedes Kapitel muss enthalten:
 - Person geht nicht ins Dorf sondern zur alten Muehlenruine
 - Keller-Grundriss zeigt Nord-Ecke mit Kreuz-Markierung
 
-### Offene Fragen
-- Was ist mit Herr Winter passiert?
-- Wer zuendet Kerzen im leeren Haus an?
-- Wo ist das Geld von der Bank?
-- Warum warnt Herr Krueger sie, deutet aber gleichzeitig Hinweise an?
-- Wer ist die Person im dunklen Mantel? (kommt regelmaessig, kennt das Haus, geht zur Muehlenruine)
-- Was traegt die Person in der grossen Tasche?
-- Was macht die Person am Gemaelde? (Kratzen)
-- Wer hat die Uhr im versteckten Raum aufgezogen?
-- Was ist im Keller Nord beim Kreuz? (naechstes Ziel der Kinder)
-- Dritte Code-Zeile noch ungeklaert: Tuer-eins-Licht
-- Ist Herr Meier die Person im dunklen Mantel? (verdaechtig, aber nicht bewiesen)
-- Wen hat Herr Meier sofort angerufen?
-- Was hat Herr Winter mit dem "Mann im Herbst" zu tun? (Meiers Erwaehnung)
+### Offene Fragen -- GELOEST in Band 1
+- ~~Was ist mit Herr Winter passiert?~~ → Wegen Schulden weggegangen (nicht geflohen). Lebt bei seiner Schwester im Sueden. Hat sich vorbereitet, Archiv versteckt. (Kap 16)
+- ~~Wer zuendet Kerzen im leeren Haus an?~~ → Herr Meier, jeden Donnerstag, durch den Tunnel. (Kap 18)
+- ~~Wo ist das Geld von der Bank?~~ → Winter hat damit Handwerker/Dachreparatur bezahlt. Rest fuer seine Schwester mitgenommen. (Kap 18)
+- ~~Warum warnt Herr Krueger sie, deutet aber gleichzeitig Hinweise an?~~ → Krueger war Winters bester Freund. Wusste von allem. Wollte, dass die Richtigen es finden. (Kap 16)
+- ~~Wer ist die Person im dunklen Mantel?~~ → Herr Meier. (Kap 15/18)
+- ~~Was traegt die Person in der grossen Tasche?~~ → Kerzen und Werkzeug fuer Instandhaltung. (Kap 18)
+- ~~Was macht die Person am Gemaelde? (Kratzen)~~ → Meier prueft, ob das Geheimfach noch intakt ist. (Kap 18)
+- ~~Wer hat die Uhr im versteckten Raum aufgezogen?~~ → Meier, auf Winters Wunsch. (Kap 18)
+- ~~Was ist im Keller Nord beim Kreuz?~~ → Verstecktes Fach mit Schatzkarte, fuehrt zum Tunnel/Schatzkammer. (Kap 11)
+- ~~Dritte Code-Zeile: Tuer-eins-Licht~~ → Kerze anzuenden = Waerme-Ausloeser oeffnet Holztuer in Schatzkammer. (Kap 13)
+- ~~Ist Herr Meier die Person im dunklen Mantel?~~ → Ja, bestaetigt. (Kap 15/18)
+- ~~Wen hat Herr Meier sofort angerufen?~~ → Herr Krueger. (Kap 18)
+
+### Offene Fragen -- FUER BAND 2
+- Was ist hinter der zweiten Metalltuer im Tunnel? (4 Linien + Stern-Symbol, selbst Krueger unbekannt)
+- Was ist "Die Wahrheit ueber den Brunnen"? (versiegelter Brief, nicht geoeffnet)
+- Warum hatte Eichenhain 1952 keinen Brunnen? (Foto in Schatzkammer, Kap 13)
+- Was hat Winter gemeint mit "Beweise fuer Dinge, die vergessen werden sollten"? (Testament, Kap 17)
+- Was meint Winters Brief "Ihr habt noch nicht alles gefunden"? (Kap 19)
+- Was steht auf dem leeren Blatt Papier? (Kap 7 -- moeglicherweise unsichtbare Tinte)
 
 ### Wichtige Details
-- **Herr Meier:** Ladenbesitzer am Marktplatz (gruene Markise), gross, breite Schultern, dicke Haende. Kannte Herr Winter, lieferte Kerzen. Nervoes bei Fragen zum Haus. Verdaechtig aber nicht bewiesen.
+- **Herr Meier:** Ladenbesitzer am Marktplatz (gruene Markise), gross, breite Schultern, dicke Haende. 30-jaehrige Freundschaft mit Winter. Wurde von Winter gebeten, das Haus zu bewachen. Baute Spuk-Mechanismus (seine Idee, nicht Winters). Zuendete Kerzen an, zog Uhr auf, prueft Gemaelde-Geheimfach. War die Person im dunklen Mantel. Hat Kinder im Keller eingesperrt (bereut). Fehlgeleiteter Beschuetzer -- gute Absicht, falsche Methode. Muss bei Renovierung helfen (1 Jahr Samstags) + oeffentliche Entschuldigung.
+- **Herr Krueger:** Alter Mann, Stock, weisse Haare, sitzt am Brunnen, fuettert Tauben. Winters BESTER Freund (zusammen aufgewachsen). Wusste von allem. Meier rief ihn an wenn etwas passierte. Hat die Kinder zur Wahrheit gefuehrt. Steht in Briefkontakt mit Winter. Vermittler zwischen Kindern, Meier und Buergermeister.
 - Dorfname: Eichenhain (wegen der 300 Jahre alten Eiche auf dem Marktplatz)
 - Es gibt einen Brunnen auf dem Platz, eine alte Muehlenruine, einen Bach
 - Jonas' Haus: Schmal, gruene Fensterladen, am Ende der Dorfstrasse, Fenster zum Huegel
