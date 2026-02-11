@@ -182,6 +182,7 @@ Jedes Kapitel muss enthalten:
 - **Tag 4, Nachmittag:** Kinder gehen zurueck in den Salon. Untersuchen Gemaelde genauer: zeigt Herr Winter, im Hintergrund durch Fenster ein Raum mit Buechern und einem ZWEITEN Bild. Das kleine Bild zeigt das Herrenhaus -- aber MIT einem Turm (den das echte Haus nicht hat!). Turm hat rundes Fenster (hell wie Mond), drei dunkle Dachziegel = Turm-drei-Mond aus dem Code. Symbol auch auf abgebrochenem Tischbein gefunden + Inschrift "Keller Nord" = Stein-sieben-Nord. Kinder wollen morgen den Keller untersuchen. Dann: schwere Schritte draussen auf dem Kiesweg. Jemand steht vor der Eingangstuer. (Kapitel 8)
 - **Tag 4, Nachmittag (Fortsetzung):** Person geht ums Haus zum offenen Fenster, klettert rein. Kinder verstecken sich hinter Sessel. Person traegt dunklen Mantel + grosse Tasche, geht nach oben. Kinder fliehen durchs Fenster zum Bach. (Kapitel 9, Teil 1)
 - **Tag 4, Nacht (~22:30):** Kinder schleichen sich aus ihren Haeusern. Jonas durchs Fenster, Mila wartet an Ecke, Ben kommt im Pyjama unter Jacke. Gehen zum Herrenhaus im Mondlicht. Im Salon: Gemaelde leuchtet anders im Mondlicht. Rundes Fenster am gemalten Turm glaenzt (Lack/Glas). Jonas drueckt darauf -- Klick! Geheimfach im Gemaelderahmen oeffnet sich. Darin: zusammengerolltes Papier mit rotem Band = Grundriss des Kellers! Markierung "Nord" mit Kreuz. Dann: Schritte von oben -- Person ist noch/wieder da! Kinder verstecken sich hinter Schrank im Flur. Person kommt runter, geht zum Gemaelde (Kratzen), verlaesst Haus durchs Fenster. Jonas sieht durchs Fenster: Gestalt geht nicht ins Dorf, sondern Richtung alte Muehlenruine. (Kapitel 9)
+- **Tag 5, Morgen:** Kinder treffen sich am Brunnen. Besprechen Nacht-Ereignisse. Gehen zu Herr Meier (Ladenbesitzer am Platz, gruene Markise). Er kannte Herr Winter, lieferte ihm Kerzen. Nervoes, laesst Schraubenschluessel zweimal fallen, wischt sich Stirn, luegt ueber Fernsehabend. Erde an Schuhen wie vom Feldweg. Warnt Kinder ("Es bringt nur Aerger", "Manche Dinge soll man nicht aufwuehlen"). Ruft sofort jemanden an nachdem Kinder gehen. Beobachtet sie durchs Schaufenster. Kinder planen Keller-Besuch fuer nachmittags. (Kapitel 10)
 
 ### Gefundene Hinweise/Gegenstaende
 - **Rostiger Schluessel:** Gefunden am Zaun des Herrenhauses, im hohen Gras. Alt, schwer, Griff mit Blumen-/Sternmuster. Bart sieht aus wie Buchstabe "W" (Winter?). Riecht nach Erde und Kerzenwachs. Passt NICHT zum Tor (zu klein). Jonas hat ihn in der Hosentasche.
@@ -239,8 +240,12 @@ Jedes Kapitel muss enthalten:
 - Wer hat die Uhr im versteckten Raum aufgezogen?
 - Was ist im Keller Nord beim Kreuz? (naechstes Ziel der Kinder)
 - Dritte Code-Zeile noch ungeklaert: Tuer-eins-Licht
+- Ist Herr Meier die Person im dunklen Mantel? (verdaechtig, aber nicht bewiesen)
+- Wen hat Herr Meier sofort angerufen?
+- Was hat Herr Winter mit dem "Mann im Herbst" zu tun? (Meiers Erwaehnung)
 
 ### Wichtige Details
+- **Herr Meier:** Ladenbesitzer am Marktplatz (gruene Markise), gross, breite Schultern, dicke Haende. Kannte Herr Winter, lieferte Kerzen. Nervoes bei Fragen zum Haus. Verdaechtig aber nicht bewiesen.
 - Dorfname: Eichenhain (wegen der 300 Jahre alten Eiche auf dem Marktplatz)
 - Es gibt einen Brunnen auf dem Platz, eine alte Muehlenruine, einen Bach
 - Jonas' Haus: Schmal, gruene Fensterladen, am Ende der Dorfstrasse, Fenster zum Huegel
