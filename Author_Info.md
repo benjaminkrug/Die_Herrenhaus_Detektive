@@ -170,20 +170,33 @@ Jedes Kapitel muss enthalten:
 ## Kontinuitaets-Tracker
 
 ### Zeitlinie
-- **Tag 1:** Jonas kommt in Eichenhain an (Kapitel 1)
-- (wird nach jedem Kapitel aktualisiert)
+- **Tag 1, Nachmittag:** Jonas kommt in Eichenhain an. Umzug. Trifft Mila und Ben. (Kapitel 1)
 
 ### Gefundene Hinweise/Gegenstaende
-- (wird nach jedem Kapitel aktualisiert)
+- (noch keine)
 
 ### Was die Kinder wissen
-- (wird nach jedem Kapitel aktualisiert)
+- Das Herrenhaus auf dem Huegel ist "verboten"
+- Niemand darf dort hin
+- Nachts gibt es seltsame Geraeusche und Lichter
+- Bens Onkel hat Licht im Haus gesehen (letzten Herbst)
+- Der Besitzer hiess Herr Winter
+- Herr Winter ist spurlos verschwunden (von einem Tag auf den anderen)
+- Die Polizei hat nichts gefunden
+- Die Erwachsenen reden nicht darueber
 
 ### Offene Fragen
-- (wird nach jedem Kapitel aktualisiert)
+- Was ist mit Herr Winter passiert?
+- Wer oder was bewegt sich im Haus? (Jonas sah einen Schatten im Fenster)
+- Warum ist das Haus "verboten"?
+- Gibt es einen Schatz? (noch nicht erwaehnt in Kap 1)
 
 ### Wichtige Details
-- Dorfname: Eichenhain
-- Herrenhaus: Auf einem Huegel, gross, dunkel, schwarze Fenster
-- Besitzer: Herr Winter (verschwunden)
-- (wird nach jedem Kapitel aktualisiert)
+- Dorfname: Eichenhain (wegen der 300 Jahre alten Eiche auf dem Marktplatz)
+- Es gibt einen Brunnen auf dem Platz, eine alte Muehlenruine, einen Bach
+- Jonas' Haus: Schmal, gruene Fensterladen, am Ende der Dorfstrasse, Fenster zum Huegel
+- Jonas kommt aus Hamburg
+- Herrenhaus: Auf einem Huegel, riesig, dunkel, schwarze Fenster, Loch im Dach, Efeu an den Waenden
+- Besitzer: Herr Winter (verschwunden, Polizei fand nichts)
+- Ben hat einen Onkel im Dorf
+- Mila hat eine Oma im Dorf
