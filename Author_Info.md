@@ -174,9 +174,10 @@ Jedes Kapitel muss enthalten:
 - **Tag 1, Nacht:** Jonas kann nicht schlafen. Sieht keinen Schatten mehr. (Kapitel 2, Anfang)
 - **Tag 2, Morgen:** Mila erzaehlt von Herr Winter. Gespraech mit Herr Krueger. (Kapitel 2)
 - **Tag 2, Abend:** Jonas sieht Kerzenlicht im Herrenhaus. Schreibt Mila. (Kapitel 2, Ende)
+- **Tag 3, Morgen:** Kinder treffen sich, gehen zum Herrenhaus. Jonas findet rostigen Schluessel am Zaun. Knacken im Gebuesch. (Kapitel 3)
 
 ### Gefundene Hinweise/Gegenstaende
-- (noch keine)
+- **Rostiger Schluessel:** Gefunden am Zaun des Herrenhauses, im hohen Gras. Alt, schwer, Griff mit Blumen-/Sternmuster. Bart sieht aus wie Buchstabe "W" (Winter?). Riecht nach Erde und Kerzenwachs. Passt NICHT zum Tor. Jonas hat ihn in der Hosentasche.
 
 ### Was die Kinder wissen
 - Das Herrenhaus auf dem Huegel ist "verboten"
@@ -205,7 +206,8 @@ Jedes Kapitel muss enthalten:
 - Es gibt einen Brunnen auf dem Platz, eine alte Muehlenruine, einen Bach
 - Jonas' Haus: Schmal, gruene Fensterladen, am Ende der Dorfstrasse, Fenster zum Huegel
 - Jonas kommt aus Hamburg
-- Herrenhaus: Auf einem Huegel, riesig, dunkel, schwarze Fenster, Loch im Dach, Efeu an den Waenden
+- Herrenhaus: Auf einem Huegel, 3 Stockwerke, ~20 Fenster, dunkel, schwarze Fenster, Loch im Dach, Efeu an halber Fassade, 2 Schornsteine (einer abgebrochen), schweres Eisentor mit Schloss, Eisenzaun (manche Staebe verbogen/fehlen), verwilderter Garten, alte kaputte Schaukel, umgestuerzter Blumentopf, breite Eingangstuer mit steinernen Stufen
+- Feldweg hinter dem Dorf fuehrt zum Huegel, hohes Gras, Buesche, kleiner Wald am Horizont
 - Besitzer: Herr Winter (verschwunden, Polizei fand nichts)
 - Ben hat einen Onkel im Dorf
 - Mila hat eine Oma im Dorf
