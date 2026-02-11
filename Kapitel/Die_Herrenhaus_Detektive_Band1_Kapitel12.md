@@ -1,131 +1,554 @@
-# 📚 Die Herrenhaus-Detektive
+# Die Herrenhaus-Detektive
 
 ## Band 1: Das verbotene Herrenhaus
 
-------------------------------------------------------------------------
+---
 
-# Kapitel 12
+# Kapitel 12 -- Der verschlossene Keller
 
-## Der verschlossene Keller
+Jonas drehte den Schlüssel.
 
-Die Kellertür war schmal.\
-Und aus dunklem Holz.
+Ein Klicken.
+Tief in der Mauer.
+Wie das Ticken der Uhr oben.
+Nur einmal.
 
-„Bereit?" fragte Jonas.
+Dann ein Knirschen.
+Laut.
+Als ob Zahnräder ineinandergreifen würden.
 
-Ben schüttelte langsam den Kopf.\
-„Nein. Aber egal."
+Jonas wich einen Schritt zurück.
+Mila griff nach seiner Schulter.
+Ben stolperte nach hinten und stieß gegen die gegenüberliegende Wand.
 
-Mila drückte die Klinke.
+„Was passiert?" flüsterte er.
 
-Die Tür quietschte laut.
+Vor ihren Augen begann sich die Mauer zu bewegen.
 
-Dahinter führte eine steile Treppe nach unten.
-
-Es war dunkel.
-
-Sehr dunkel.
-
-Jonas holte sein Handy heraus.\
-Er schaltete die Taschenlampe an.
-
-Ein schmaler Lichtstrahl fiel auf die Stufen.
-
-„Langsam", sagte Mila.
-
-Stufe für Stufe gingen sie hinunter.
-
-Knirsch.
+Nicht die ganze Wand.
+Nur ein Teil.
+Vielleicht einen Meter breit.
+Die Steine schoben sich zur Seite.
+Langsam.
+Zentimeter für Zentimeter.
 
 Staub rieselte von der Decke.
 
-Die Luft wurde kälter.
+Ben packte Jonas am Arm.
+„Die Wand bewegt sich!"
 
-Ben zog die Schultern hoch.\
-„Ich mag Keller nicht."
+„Ich sehe es", sagte Jonas.
 
-„Niemand mag Keller", sagte Jonas.
+Die Steine hörten auf sich zu bewegen.
+Ein dunkler Spalt war entstanden.
+Breit genug für eine Person.
+Vielleicht sechzig Zentimeter.
 
-Unten angekommen standen sie in einem niedrigen Raum.
+Jonas leuchtete hinein.
+Sein Lichtstrahl wurde von der Dunkelheit verschluckt.
+Als ob der Tunnel das Licht fraß.
 
-Steinwände.\
-Ein alter Tisch.\
-Und viele Spinnweben.
+Kalte Luft strömte heraus.
+Noch kälter als der Keller.
+Sie roch nach Erde und feuchtem Stein.
+Und nach etwas anderem.
+Etwas Süßlichem.
 
-„Hier war lange niemand", flüsterte Mila.
+Jonas leuchtete in den Spalt.
 
-Plötzlich hörten sie ein Geräusch.
+Ein Gang.
+Schmal.
+Niedrig.
+
+Die Wände waren nicht aus Mauersteinen.
+Sondern aus rohem Fels.
+Grau und nass.
+
+Der Boden war glatt.
+Wie poliert.
+Von vielen Schritten.
+
+Jonas' Herz hämmerte.
+Der Tunnel.
+Herr Winters geheimer Tunnel.
+Er war echt.
+Nicht nur eine Zeichnung auf einer Karte.
+
+Echte Wände.
+Echte Luft.
+Ein echter Weg unter der Erde.
+
+„Da ist er", flüsterte er.
+„Der Tunnel zur Mühle."
+
+Mila stellte sich neben ihn.
+Sie leuchtete in den Gang.
+Der Lichtstrahl verschwand nach ein paar Metern in der Dunkelheit.
+
+„Herr Winter hat das alles gebaut", flüsterte sie.
+„Allein.
+Im Geheimen."
+
+„Er muss Jahre dafür gebraucht haben", sagte Jonas.
+
+Mila nickte.
+„Er muss wirklich etwas Wichtiges versteckt haben."
+
+„Wie lang ist der Tunnel?" fragte sie dann.
+
+Jonas sah auf die Karte.
+„Schwer zu sagen.
+Vielleicht hundert Meter.
+Vielleicht mehr."
+
+Ben stand hinter ihnen.
+Er hatte beide Hände in den Taschen.
+Seine Kappe saß schief.
+
+„Hundert Meter unter der Erde", sagte er.
+„In einem Tunnel, den ein verschwundener Mann gegraben hat."
+
+Er atmete tief ein.
+
+„Na gut", sagte er.
+„Gehen wir."
+
+Jonas sah ihn an.
+Ben war blass.
+Seine Lippen waren schmal.
+Aber sein Blick war fest.
+
+Jonas nickte.
+„Ich gehe zuerst."
+
+Er holte tief Luft.
+Die kalte Tunnelluft brannte in seiner Nase.
+
+Dann trat er hinein.
+
+---
+
+Der Gang war eng.
+
+Enger, als Jonas gedacht hatte.
+
+Jonas konnte die Wände mit beiden Ellbogen berühren.
+Die Decke war so niedrig, dass er den Kopf einziehen musste.
+
+Der Boden unter seinen Füßen war feucht.
+Aber fest.
+Keine Erde.
+Eher Stein.
+
+Er ging langsam.
+Ein Schritt nach dem anderen.
+
+Der Lichtstrahl seiner Taschenlampe tanzte über die Wände.
+Wassertropfen glitzerten.
+Hier und da wuchsen Moosfetzen aus den Ritzen.
+
+Mila ging direkt hinter ihm.
+Ihr Atem war ruhig.
+Gleichmäßig.
+
+Ben ging als Letzter.
+Er murmelte vor sich hin.
+Jonas konnte es nicht verstehen.
+Aber es klang wie ein Gebet.
+
+„Alles okay, Ben?" flüsterte Jonas.
+
+„Super", sagte Ben.
+„Mir geht es fantastisch.
+Ich bin hundert Meter unter der Erde.
+In einem Tunnel.
+Im Dunkeln.
+Alles wunderbar."
+
+„Du bist mutig", sagte Mila.
+
+„Ich bin verrückt", sagte Ben.
+„Das ist ein Unterschied."
+
+Sie gingen weiter.
+
+Niemand sprach.
+Nur das Knirschen ihrer Schuhe auf dem Steinboden.
+Und das leise Atmen.
+
+Jonas konnte die Kälte durch seine Jacke spüren.
+Hier unten war es wie im Winter.
+Obwohl draußen die Sonne schien.
+
+An der Wand entdeckte er etwas.
+Kratzer im Fels.
+Werkzeugspuren.
+
+„Jemand hat das hier mit der Hand gegraben", flüsterte er.
+
+„Herr Winter?" fragte Mila.
+
+„Oder jemand, den er bezahlt hat", sagte Jonas.
+„Das muss Jahre gedauert haben."
+
+Er strich mit dem Finger über die Rillen.
+Tief.
+Gleichmäßig.
+Jemand hatte sehr hart gearbeitet.
+
+Der Tunnel machte eine leichte Kurve nach links.
+Dann ging er geradeaus.
+Leicht bergab.
+
+Jonas zählte seine Schritte.
+Zwanzig.
+Dreißig.
+Vierzig.
+
+Bei fünfzig blieb er stehen.
+
+„Hört ihr das?" flüsterte er.
+
+Alle drei lauschten.
+
+Ein Geräusch.
+Ganz leise.
+Von irgendwo vor ihnen.
+
+Ein Tropfen.
+
+Plop.
+Plop.
+Plop.
+
+„Wasser", sagte Mila.
+„Irgendwo tropft Wasser."
+
+Jonas atmete aus.
+Seine Schultern entspannten sich ein wenig.
+Nur Wasser.
+Kein Geist.
+Kein Monster.
+Kein Herr Meier.
+
+„Weiter", flüsterte er.
+
+Er ging weiter.
+
+Bei siebzig Schritten wurde der Tunnel breiter.
+Die Decke stieg an.
+Jonas konnte wieder aufrecht stehen.
+
+Und dann hörte er etwas anderes.
+
+Nicht Wasser.
 
 Ein Schaben.
 
-Ganz leise.
+Leise.
+Rhythmisch.
+Wie Stoff auf Stein.
 
-Von der anderen Seite des Raums.
+Jonas blieb stehen.
+Mila auch.
 
-Jonas leuchtete in die Dunkelheit.
+„Was war das?" flüsterte Ben.
 
+Jonas leuchtete nach vorne.
 Nichts.
+Nur der leere Tunnel.
 
-„Vielleicht nur eine Ratte", sagte Ben.
+Das Schaben kam wieder.
+Lauter diesmal.
+Näher.
 
-Doch das Geräusch kam wieder.
+Es kam von den Wänden.
 
-Schaben.
+Oder von hinter den Wänden.
 
-Kratzen.
+Ben griff nach Milas Arm.
+„Da ist etwas in den Wänden."
 
-Als würde jemand über Stein laufen.
+„Vielleicht Ratten", sagte Mila.
 
-Mila zeigte nach links.\
-„Da ist ein schmaler Gang!"
+„Vielleicht keine Ratten", sagte Ben.
 
-Jonas trat näher.
+Jonas leuchtete die Wand an.
+Der Fels war rissig.
+Feucht.
 
-Der Gang führte tiefer unter das Haus.
+In einem der Risse bewegte sich etwas.
+Klein.
+Schnell.
+Eine Spinne.
 
-„Das muss der Raum auf der Karte sein", flüsterte er.
+Ben machte einen Laut, der wie ein unterdrückter Schrei klang.
 
-Ben schluckte.\
-„Schnell rein und schnell wieder raus."
+„Nur eine Spinne", sagte Jonas.
 
-Sie gingen ein paar Schritte in den Gang.
+„'Nur' ist hier das falsche Wort", sagte Ben.
 
-Da hörten sie ein lautes Krachen.
+Das Schaben hörte auf.
+So plötzlich, wie es gekommen war.
 
-Oben.
+Stille.
 
-Die Kellertür.
+Ben stand wie festgefroren.
+Jonas musste ihn am Ärmel ziehen.
 
-Sie rannten zurück zur Treppe.
+„Komm.
+Je schneller wir vorankommen, desto schneller sind wir draußen."
 
-Jonas leuchtete nach oben.
+Ben nickte stumm.
 
-Die Tür war zu.
+Jonas ging weiter.
+Schneller jetzt.
+Er wollte vorankommen.
 
-„Das war der Wind", sagte Mila schnell.
+Der Tunnel führte weiter bergab.
+Die Luft wurde kühler.
+Feuchter.
 
-Jonas rannte die Stufen hinauf.
+Jonas' Taschenlampe flackerte.
 
-Er drückte gegen die Tür.
+Einmal.
+Zweimal.
 
-Nichts.
+Dann brannte sie wieder.
 
-Er drückte stärker.
+„Die Batterie", flüsterte Mila.
 
-Sie bewegte sich keinen Millimeter.
+„Ich weiß", sagte Jonas.
 
-„Sie ist verriegelt", flüsterte Ben.
+Er ging noch schneller.
+Mila hielt Schritt.
+Ben stolperte hinter ihnen her.
+
+Der Tunnel wurde wieder enger.
+Jonas musste sich ducken.
+Seine Schultern streiften die Wände.
+
+Dann, plötzlich, öffnete sich der Gang.
+
+Bei hundert Schritten endete der Tunnel.
+
+Vor ihnen war eine Wand.
+Aus Stein.
+Massiv.
+
+„Sackgasse?" fragte Ben.
+
+Jonas leuchtete die Wand ab.
+
+Nein.
+Kein Sackgasse.
+
+Der Tunnel bog nach rechts ab.
+In einen breiteren Gang.
+Und am Ende dieses Gangs konnte Jonas etwas sehen.
+
+Eine Tür.
+
+Jonas' Atem stockte.
+
+Sie war aus Eisen.
+Dick.
+Rostig.
+Mit einem schweren Riegel.
+Und mit Nieten beschlagen.
+
+Die Tür sah aus, als gehöre sie in eine Burg.
+Nicht unter einen Hügel in einem kleinen Dorf.
+
+Und auf der Tür war ein Symbol eingeritzt.
+
+Tief im Metall.
+
+Drei Linien.
+Ein Kreis.
+
+Das gleiche Zeichen wie überall.
+Im versteckten Raum.
+Im Tagebuch.
+Auf dem Tischbein.
+An der Kellerwand.
+
+Und jetzt hier.
+Am Ende eines Tunnels.
+Auf einer Eisentür.
+
+„Die Schatzkammer", flüsterte Jonas.
+
+Sein ganzer Körper kribbelte.
+
+Mila legte die Hand auf die Eisentür.
+„Sie ist kalt."
+
+Jonas griff nach dem Riegel.
+
+Da hörten sie es.
+
+Ein Krachen.
+Laut.
+Von weit hinter ihnen.
+
+Vom Anfang des Tunnels.
+
+Jonas fuhr herum.
+
+Das Krachen hallte durch den Gang.
+Dann Stille.
+
+„Was war das?" flüsterte Ben.
+
+Jonas leuchtete zurück.
+Der Tunnel lag dunkel und still.
+Hundert Schritte bis zum Keller.
+Hundert Schritte durch Dunkelheit.
+
+„Das kam vom Keller", sagte Mila.
+Ihre Stimme war angespannt.
+
+Ein zweites Geräusch.
+Leiser.
+Ein Klicken.
+Wie ein Riegel.
+
+Jonas' Magen zog sich zusammen.
+
+„Die Kellertür", sagte er.
+„Jemand hat die Kellertür zugemacht."
+
+Stille.
+
+Absolute Stille.
+
+Dann flüsterte Ben: „Wir sind eingesperrt."
 
 Jonas schluckte.
+Sein Mund war trocken.
+Seine Hände feucht.
 
-Er drückte noch einmal.
+Er leuchtete Milas Gesicht an.
+Sie war blass.
+Aber ruhig.
+Ihre Augen funkelten im Taschenlampenlicht.
 
-Vergeblich.
+„Die Tür oben hatte einen Riegel", sagte sie langsam.
+„Von außen.
+Man kann sie nur von außen verriegeln."
 
-Die drei sahen sich an.
+„Jemand hat den Riegel vorgeschoben", sagte Jonas.
+„Jemand, der wusste, dass wir unten sind."
 
-Der Lichtstrahl zitterte in Jonas' Hand.
+Ben presste den Rücken gegen die Wand.
+Seine Hände zitterten so stark, dass seine Taschenlampe Muster an die Decke warf.
 
-Sie waren im Keller.
+„Herr Meier", flüsterte er.
+Seine Stimme zitterte.
+„Er hat uns beobachtet.
+Er wusste, dass wir hierherkommen.
+Und jetzt hat er uns eingesperrt."
 
-Und die Tür war verschlossen.
+Jonas atmete tief ein.
+Und langsam wieder aus.
+
+Panik half nicht.
+Panik machte alles schlimmer.
+
+Er dachte an seinen Papa.
+Papa sagte immer: Wenn du Angst hast, such nach einer Lösung.
+Angst ist ein Signal.
+Kein Stopp-Schild.
+
+Jonas sah sich um.
+Den Tunnel.
+Die Eisentür vor ihnen.
+Den dunklen Gang hinter ihnen.
+
+Sie konnten nicht zurück.
+Die Kellertür war verriegelt.
+
+Aber vor ihnen war die Schatzkammer.
+Und laut der Karte führte der Tunnel weiter.
+Zur Mühle.
+
+„Wir gehen nicht zurück", sagte Jonas.
+Seine Stimme war ruhiger, als er sich fühlte.
+„Wir gehen vorwärts."
+
+Ben starrte ihn an.
+„Vorwärts?
+Wir sind eingesperrt.
+Unter der Erde.
+Und du willst vorwärts?"
+
+„Der Tunnel führt zur Mühle", sagte Jonas.
+„Wenn wir durch die Schatzkammer gehen, kommen wir raus.
+An der Mühle."
+
+„Wenn", sagte Ben.
+„Wenn die Karte stimmt.
+Wenn der Tunnel nicht eingestürzt ist.
+Wenn --"
+
+„Ben", sagte Jonas.
+„Die Karte stimmt.
+Bis jetzt hat alles gestimmt."
+
+Mila nickte.
+„Jonas hat recht.
+Die Karte zeigt den Weg.
+Der Tunnel endet an der Mühle."
+
+Ben sah von einem zum anderen.
+Dann zur Eisentür.
+Dann zum dunklen Gang hinter ihnen.
+
+Er schloss die Augen.
+Drei Sekunden.
+
+Dann öffnete er sie.
+
+„Okay", sagte er leise.
+„Vorwärts.
+Aber wenn wir da rauskommen, will ich eine Woche lang nichts mehr mit Tunneln, Kellern oder gruseligen Häusern zu tun haben."
+
+„Versprochen", sagte Mila.
+
+„Und Eis", sagte Ben.
+„Ich will Eis.
+Mit Streuseln."
+
+Trotz allem musste Jonas lächeln.
+Typisch Ben.
+Selbst hundert Meter unter der Erde dachte er an Eis.
+
+Jonas sah Ben an.
+In dem schwachen Licht der Taschenlampe konnte er sein Gesicht erkennen.
+Blass.
+Verängstigt.
+Aber da.
+
+Ben war immer da.
+Egal wie viel Angst er hatte.
+Das zählte mehr als alles andere.
+
+„Danke", sagte Jonas leise.
+
+Ben sah ihn überrascht an.
+„Wofür?"
+
+„Dass du mitkommst.
+Immer."
+
+Ben schluckte.
+Dann nickte er.
+Einmal.
+Kurz.
+
+Jonas drehte sich zur Eisentür.
+
+Er legte die Hand auf den Riegel.
+
+Das Metall war eiskalt.
