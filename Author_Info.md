@@ -176,12 +176,15 @@ Jedes Kapitel muss enthalten:
 - **Tag 2, Abend:** Jonas sieht Kerzenlicht im Herrenhaus. Schreibt Mila. (Kapitel 2, Ende)
 - **Tag 3, Morgen:** Kinder treffen sich, gehen zum Herrenhaus. Jonas findet rostigen Schluessel am Zaun. Knacken im Gebuesch. (Kapitel 3)
 - **Tag 3, Morgen (Fortsetzung):** Gebuesch-Geraeusch war eine Katze. Kinder gehen am Zaun entlang, finden Luecke. Schluessel passt nicht zum Tor. Frische Fussspuren (Erwachsener). Offenes Fenster an Seitenwand. Goldener Knopf mit gleichem Muster wie Schluessel. Kinder beschliessen, ins Dorfarchiv zu gehen. (Kapitel 4)
+- **Tag 4, Morgen (Mittwoch):** Kinder gehen ins Dorfarchiv im Rathaus. Jonas findet Tagebuch von H. Winter + Grundriss des Herrenhauses. Tagebuch enthaelt Code. Grundriss zeigt Raum ohne Eingang. (Kapitel 5)
 
 ### Gefundene Hinweise/Gegenstaende
 - **Rostiger Schluessel:** Gefunden am Zaun des Herrenhauses, im hohen Gras. Alt, schwer, Griff mit Blumen-/Sternmuster. Bart sieht aus wie Buchstabe "W" (Winter?). Riecht nach Erde und Kerzenwachs. Passt NICHT zum Tor (zu klein). Jonas hat ihn in der Hosentasche.
 - **Goldener Knopf:** Gefunden auf dem Fensterbrett des offenen Fensters (Erdgeschoss, Seitenwand). Alt aber nicht rostig, glaenzt. GLEICHES Muster wie auf dem Schluessel (Blume/Stern). Jonas hat ihn in der Hosentasche.
 - **Frische Fussspuren:** Erwachsenenschuhe vor dem Tor, fuehren seitlich zum offenen Fenster.
 - **Offenes Fenster:** Erdgeschoss, Seitenwand. Spalt ca. 10cm. Alter schiefer Vorhang.
+- **Tagebuch von H. Winter:** Gefunden im Archiv, in Karton "DIVERSE ALTE DOKUMENTE". Ledereinband, dunkelbraun. Enthaelt: krakeliges Intro ("Das Haus birgt mehr als Waende und Tueren"), Zeichnungen/Grundrisse/Symbole, Code (Turm-drei-Mond / Stein-sieben-Nord / Tuer-eins-Licht), Hinweis "Wer die Anfangsbuchstaben versteht, findet den Weg". Jonas hat es im Rucksack.
+- **Grundriss des Herrenhauses:** Gefunden im gleichen Karton. Handgezeichnet, alt. Zeigt einen RAUM OHNE EINGANG in der Mitte des Hauses. Jonas hat ihn.
 
 ### Was die Kinder wissen
 - Das Herrenhaus auf dem Huegel ist "verboten"
@@ -216,7 +219,10 @@ Jedes Kapitel muss enthalten:
 - Hinter dem Garten: alte Baeume, niedrige Mauer, Schuppen/Stall
 - Fenster im 2. Stock hat Riss im Glas (Blitzform) -- das Schattenfenster
 - Dorfarchiv existiert, Milas Oma arbeitet dort freiwillig
-- Naechster Schritt der Kinder: Dorfarchiv besuchen
+- Rathaus: Klein, gelbe Waende, Seitentuer, Flur mit Pinnwand, Archiv hinten links
+- Archiv: Klein, vollgestopft, Regale bis zur Decke, Ordner beschriftet (GRUNDSTUECKE, STEUERN etc.)
+- Mila hat Ersatzschluessel zum Archiv von Oma (NICHT zum Herrenhaus)
+- Naechster Schritt der Kinder: Zurueck zum Herrenhaus mit Tagebuch und Grundriss
 - Besitzer: Herr Winter (verschwunden, Polizei fand nichts)
 - Ben hat einen Onkel im Dorf
 - Mila hat eine Oma im Dorf
