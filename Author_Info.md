@@ -178,6 +178,7 @@ Jedes Kapitel muss enthalten:
 - **Tag 3, Morgen (Fortsetzung):** Gebuesch-Geraeusch war eine Katze. Kinder gehen am Zaun entlang, finden Luecke. Schluessel passt nicht zum Tor. Frische Fussspuren (Erwachsener). Offenes Fenster an Seitenwand. Goldener Knopf mit gleichem Muster wie Schluessel. Kinder beschliessen, ins Dorfarchiv zu gehen. (Kapitel 4)
 - **Tag 4, Morgen (Mittwoch):** Kinder gehen ins Dorfarchiv im Rathaus. Jonas findet Tagebuch von H. Winter + Grundriss des Herrenhauses. Tagebuch enthaelt Code. Grundriss zeigt Raum ohne Eingang. (Kapitel 5)
 - **Tag 4, Mittag:** Kinder betreten das Herrenhaus zum ersten Mal durchs offene Fenster. Erdgeschoss: Salon mit alten Moebeln, Gemaelde von Herr Winter, Fussspuren. 1. Stock: Vorhang am Flurende verbirgt geheime Tuer (schmal, niedrig, ohne Griff). Ticken hinter der Tuer. (Kapitel 6)
+- **Tag 4, Mittag (Fortsetzung):** Kinder oeffnen geheime Tuer (Schiebetuer). Dahinter: kleiner quadratischer Raum (~3x3m), Holzwaende, kein Fenster. Ticken stammt von Messing-Standuhr (laeuft noch!). 5 alte Holzkisten -- alle leer oder nur zerfallene Tuecher. Enttaeuschung. Mila entdeckt eingeritztes Symbol an der Wand (3 senkrechte Linien + Kreis darueber). Symbol ist identisch mit Zeichnung im Tagebuch. Neben dem Symbol im Tagebuch steht das Wort "Gemaelde". (Kapitel 7)
 
 ### Gefundene Hinweise/Gegenstaende
 - **Rostiger Schluessel:** Gefunden am Zaun des Herrenhauses, im hohen Gras. Alt, schwer, Griff mit Blumen-/Sternmuster. Bart sieht aus wie Buchstabe "W" (Winter?). Riecht nach Erde und Kerzenwachs. Passt NICHT zum Tor (zu klein). Jonas hat ihn in der Hosentasche.
@@ -188,6 +189,9 @@ Jedes Kapitel muss enthalten:
 - **Grundriss des Herrenhauses:** Gefunden im gleichen Karton. Handgezeichnet, alt. Zeigt einen RAUM OHNE EINGANG in der Mitte des Hauses (1. Stock). Jonas hat ihn.
 - **Geheime Tuer:** 1. Stock, Ende des Flurs, hinter schwerem dunklem Vorhang. Schmal, niedrig, ohne Griff, ohne Schloss. Nicht auf dem Grundriss eingezeichnet. Ticken dahinter hoerbar.
 - **Gemaelde:** Im Salon (EG). Zeigt alten Mann mit weissem Bart und dunklem Mantel -- vermutlich Herr Winter.
+- **Messing-Standuhr:** Im versteckten Raum (1. Stock), auf groesster Kiste. Angelaufen, Zeiger steht still, aber Uhrwerk tickt noch. Kleines leeres Fach auf der Unterseite. Jemand muss sie aufgezogen haben.
+- **Eingeritztes Symbol:** An der Wand des versteckten Raums, ganz unten nahe Boden. 3 senkrechte Linien + Kreis darueber. Muenzengroess, sorgfaeltig geritzt. IDENTISCH mit Symbol im Tagebuch. Im Tagebuch steht daneben: "Gemaelde".
+- **Leeres Blatt Papier:** In der groessten Kiste im versteckten Raum. Vergilbt, zusammengefaltet. Komplett leer (oder doch nicht?).
 
 ### Was die Kinder wissen
 - Das Herrenhaus auf dem Huegel ist "verboten"
@@ -205,16 +209,20 @@ Jedes Kapitel muss enthalten:
 - Jonas hat Kerzenlicht im oberen Fenster gesehen (Tag 2 Abend)
 - Im Haus: Fussspuren von Erwachsenem im Staub (wie draussen), Geruch nach Kerzenwachs im 1. Stock
 - Geheime Tuer hinter Vorhang im 1. Stock, Ticken dahinter
+- Ticken war eine Messing-Standuhr (jemand hat sie aufgezogen)
+- Versteckter Raum enthielt nur leere Kisten -- Enttaeuschung
+- Symbol an Wand (3 Linien + Kreis) = identisch mit Tagebuch-Symbol
+- Neben dem Symbol im Tagebuch steht "Gemaelde" -- Hinweis auf das Gemaelde im Salon?
 
 ### Offene Fragen
 - Was ist mit Herr Winter passiert?
 - Wer zuendet Kerzen im leeren Haus an?
 - Wo ist das Geld von der Bank?
-- Gibt es geheime Raeume im Haus?
 - Warum warnt Herr Krueger sie, deutet aber gleichzeitig Hinweise an?
-- Was tickt hinter der geheimen Tuer?
-- Fuehrt die Tuer zum Raum ohne Eingang auf dem Grundriss?
 - Was bedeutet der Code im Tagebuch (Turm-drei-Mond etc.)?
+- Was hat das Gemaelde im Salon mit dem Symbol zu tun?
+- Wer hat die Uhr im versteckten Raum aufgezogen?
+- War frueher etwas in den Kisten, das jemand geholt hat?
 
 ### Wichtige Details
 - Dorfname: Eichenhain (wegen der 300 Jahre alten Eiche auf dem Marktplatz)
@@ -233,6 +241,7 @@ Jedes Kapitel muss enthalten:
 - Haus Innenraum: EG hat Salon (Tapete in Fetzen, Sessel, dreibeiniger Tisch, Gemaelde), langer dunkler Flur, geschlossene Tueren, Kronleuchter ueber Treppe
 - Treppe: dunkles Holz, 16 Stufen, Gelaender mit Luecken, knarrt laut
 - 1. Stock: dunkler als EG, Efeu bedeckt Fenster, feuchte Waende, Kerzenwachsgeruch, 4 Tueren, Vorhang am Ende
+- Versteckter Raum: ~3x3m, quadratisch, Holzwaende, kein Fenster, Schiebetuer (kein Griff, Vertiefung zum Schieben), 5 alte Holzkisten, Messing-Standuhr
 - Kraehe auf Schaukel im Garten
 - Besitzer: Herr Winter (verschwunden, Polizei fand nichts)
 - Ben hat einen Onkel im Dorf
