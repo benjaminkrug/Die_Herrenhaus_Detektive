@@ -15,7 +15,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 KAPITEL_DIR = os.path.join(BASE_DIR, "Kapitel")
 OUTPUT_FILE = os.path.join(BASE_DIR, "Die_Herrenhaus_Detektive_Band1_Manuskript.docx")
 
-# KDP Taschenbuch 5x8 Zoll (12.7 x 20.32 cm) - gängiges Kinderbuchformat
+# KDP Taschenbuch 5x8 Zoll (12.7 x 20.32 cm) - Kinderbuchformat
 PAGE_WIDTH = Cm(12.7)
 PAGE_HEIGHT = Cm(20.32)
 
@@ -24,7 +24,7 @@ CHAPTER_FILES = [
     f"Die_Herrenhaus_Detektive_Band1_Kapitel{i}.md" for i in range(1, 20)
 ]
 
-# Kapiteltitel extrahieren
+# Kapiteltitel
 CHAPTER_TITLES = {
     1: "Der Blick zum Hügel",
     2: "Das alte Gerücht",
@@ -61,37 +61,34 @@ def setup_document():
 
     paragraph_format = style.paragraph_format
     paragraph_format.space_before = Pt(0)
-    paragraph_format.space_after = Pt(4)
-    paragraph_format.line_spacing = Pt(15)
+    paragraph_format.space_after = Pt(0)
+    paragraph_format.line_spacing = Pt(14)
 
     # Seitenformat (5x8 Zoll)
     section = doc.sections[0]
     section.page_width = PAGE_WIDTH
     section.page_height = PAGE_HEIGHT
-    section.top_margin = Cm(2.0)
-    section.bottom_margin = Cm(2.0)
-    section.left_margin = Cm(1.8)
-    section.right_margin = Cm(1.5)
+    section.top_margin = Cm(1.6)
+    section.bottom_margin = Cm(1.6)
+    # Innen (Buchrücken): groesser wegen Bindung, Aussen: kleiner
+    section.left_margin = Cm(2.0)   # Innenseite (Gutter)
+    section.right_margin = Cm(1.3)  # Aussenseite
+
+    # Spiegel-Raender aktivieren (gerade/ungerade Seiten spiegeln)
+    doc.settings.element.append(OxmlElement('w:mirrorMargins'))
 
     return doc
 
 
 def add_page_break(doc):
-    """Fügt einen Seitenumbruch ein."""
+    """Fuegt einen Seitenumbruch ein."""
     doc.add_page_break()
-
-
-def add_blank_page(doc):
-    """Fügt eine leere Seite ein."""
-    doc.add_page_break()
-    p = doc.add_paragraph()
-    p.text = ""
 
 
 def add_title_page(doc):
     """Erstellt die Titelseite."""
     # Leerraum oben
-    for _ in range(6):
+    for _ in range(4):
         p = doc.add_paragraph()
         p.paragraph_format.space_after = Pt(12)
 
@@ -110,7 +107,7 @@ def add_title_page(doc):
     run = p.add_run("Band 1")
     run.font.size = Pt(14)
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(24)
+    p.paragraph_format.space_after = Pt(20)
 
     # Buchtitel
     p = doc.add_paragraph()
@@ -119,10 +116,10 @@ def add_title_page(doc):
     run.font.size = Pt(18)
     run.font.bold = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(48)
+    p.paragraph_format.space_after = Pt(40)
 
     # Leerraum
-    for _ in range(4):
+    for _ in range(3):
         p = doc.add_paragraph()
         p.paragraph_format.space_after = Pt(12)
 
@@ -144,7 +141,7 @@ def add_impressum_page(doc):
     lines = [
         "Die Herrenhaus-Detektive, Band 1: Das verbotene Herrenhaus",
         "",
-        "© [JAHR] [AUTORENNAME]",
+        "\u00a9 [JAHR] [AUTORENNAME]",
         "Alle Rechte vorbehalten.",
         "",
         "Independently published",
@@ -157,9 +154,9 @@ def add_impressum_page(doc):
         "ISBN: [ISBN-NUMMER]",
         "",
         "Dieses Buch ist ein Werk der Fiktion. Namen, Personen,",
-        "Orte und Ereignisse sind frei erfunden. Jede Ähnlichkeit",
-        "mit tatsächlichen Personen, lebend oder verstorben,",
-        "ist rein zufällig.",
+        "Orte und Ereignisse sind frei erfunden. Jede \u00c4hnlichkeit",
+        "mit tats\u00e4chlichen Personen, lebend oder verstorben,",
+        "ist rein zuf\u00e4llig.",
     ]
 
     for line in lines:
@@ -176,12 +173,12 @@ def add_dedication_page(doc):
     """Erstellt eine optionale Widmungsseite."""
     add_page_break(doc)
 
-    for _ in range(8):
+    for _ in range(6):
         doc.add_paragraph()
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("[Für ...]")
+    run = p.add_run("[F\u00fcr ...]")
     run.font.size = Pt(12)
     run.font.italic = True
     run.font.name = 'Georgia'
@@ -191,34 +188,34 @@ def add_table_of_contents(doc):
     """Erstellt das Inhaltsverzeichnis."""
     add_page_break(doc)
 
-    # Überschrift
+    # Ueberschrift
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run("Inhalt")
     run.font.size = Pt(16)
     run.font.bold = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(24)
+    p.paragraph_format.space_after = Pt(18)
 
-    # Kapiteleinträge
+    # Kapiteleintraege
     for i in range(1, 20):
         title = CHAPTER_TITLES.get(i, f"Kapitel {i}")
         if i == 19:
-            label = f"Epilog — {title}"
+            label = f"Epilog \u2014 {title}"
         else:
-            label = f"Kapitel {i} — {title}"
+            label = f"Kapitel {i} \u2014 {title}"
 
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.LEFT
         run = p.add_run(label)
         run.font.size = Pt(10)
         run.font.name = 'Georgia'
-        p.paragraph_format.space_after = Pt(6)
+        p.paragraph_format.space_after = Pt(4)
         p.paragraph_format.left_indent = Cm(0.5)
 
 
 def parse_markdown_chapter(filepath):
-    """Liest eine Markdown-Kapiteldatei und gibt den reinen Text zurück."""
+    """Liest eine Markdown-Kapiteldatei und gibt den reinen Text zurueck."""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -228,10 +225,10 @@ def parse_markdown_chapter(filepath):
     chapter_lines = []
 
     for line in lines:
-        # Suche nach der Kapitel-Überschrift
+        # Suche nach der Kapitel-Ueberschrift
         if line.startswith('# Kapitel') or line.startswith('# Epilog'):
             chapter_started = True
-            continue  # Überschrift überspringen (wird separat formatiert)
+            continue  # Ueberschrift ueberspringen (wird separat formatiert)
 
         if chapter_started:
             chapter_lines.append(line)
@@ -239,14 +236,28 @@ def parse_markdown_chapter(filepath):
     return '\n'.join(chapter_lines)
 
 
+def add_text_to_paragraph(p, text):
+    """Fuegt Text mit Kursiv-Erkennung zum Absatz hinzu."""
+    parts = re.split(r'(\*[^*]+\*)', text)
+    for part in parts:
+        if part.startswith('*') and part.endswith('*') and len(part) > 2:
+            run = p.add_run(part[1:-1])
+            run.font.italic = True
+            run.font.name = 'Georgia'
+            run.font.size = Pt(11)
+        else:
+            run = p.add_run(part)
+            run.font.name = 'Georgia'
+            run.font.size = Pt(11)
+
+
 def add_chapter(doc, chapter_num, title, content):
-    """Fügt ein Kapitel zum Dokument hinzu."""
+    """Fuegt ein Kapitel zum Dokument hinzu."""
     add_page_break(doc)
 
-    # Leerraum oben (ca. 1/3 Seite)
-    for _ in range(4):
-        p = doc.add_paragraph()
-        p.paragraph_format.space_after = Pt(8)
+    # Leerraum oben (kompakt)
+    p = doc.add_paragraph()
+    p.paragraph_format.space_after = Pt(10)
 
     # Kapitelnummer
     if chapter_num == 19:
@@ -257,73 +268,81 @@ def add_chapter(doc, chapter_num, title, content):
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run(label)
-    run.font.size = Pt(12)
+    run.font.size = Pt(11)
     run.font.name = 'Georgia'
     run.font.color.rgb = RGBColor(100, 100, 100)
-    p.paragraph_format.space_after = Pt(4)
+    p.paragraph_format.space_after = Pt(2)
 
     # Kapiteltitel
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run(title)
-    run.font.size = Pt(16)
+    run.font.size = Pt(14)
     run.font.bold = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(24)
+    p.paragraph_format.space_after = Pt(10)
 
-    # Kapitelinhalt
-    paragraphs = content.split('\n')
-    for para_text in paragraphs:
-        para_text = para_text.strip()
+    # Kapitelinhalt - Zeilen zu Absatzgruppen zusammenfassen
+    # Leerzeilen im Markdown trennen Absatzgruppen
+    # Zeilen INNERHALB einer Gruppe werden per Soft-Break (Shift+Enter)
+    # in EINEN Word-Absatz gepackt -> drastisch weniger Absaetze
+    lines = content.split('\n')
 
-        # Leerzeilen -> kleiner Abstand
-        if not para_text:
+    # Zeilen in Gruppen aufteilen (getrennt durch Leerzeilen)
+    groups = []
+    current_group = []
+
+    for line in lines:
+        stripped = line.strip()
+
+        if not stripped:
+            if current_group:
+                groups.append(current_group)
+                current_group = []
             continue
 
-        # Horizontale Trennlinien (---) als Szenen-Trenner
-        if para_text == '---':
+        # Markdown-Header ueberspringen
+        if stripped.startswith('#'):
+            continue
+
+        current_group.append(stripped)
+
+    if current_group:
+        groups.append(current_group)
+
+    # Jede Gruppe als einen fliessenden Absatz ausgeben
+    is_first = True  # Erster Absatz nach Kapitelstart: keine Einrueckung
+
+    for group in groups:
+        # Szenen-Trenner (---)
+        if len(group) == 1 and group[0] == '---':
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.CENTER
             run = p.add_run("* * *")
             run.font.size = Pt(11)
             run.font.name = 'Georgia'
-            p.paragraph_format.space_before = Pt(12)
-            p.paragraph_format.space_after = Pt(12)
+            p.paragraph_format.space_before = Pt(6)
+            p.paragraph_format.space_after = Pt(6)
+            is_first = True  # Nach Szenen-Trenner: naechster Absatz ohne Einrueckung
             continue
 
-        # Markdown-Header innerhalb des Kapitels überspringen
-        if para_text.startswith('#'):
-            continue
+        # Zeilen zu Fliesstext zusammenfuegen
+        joined_text = " ".join(group)
 
-        # Kursiv-Text behandeln (*text*)
+        # Absatz erstellen
         p = doc.add_paragraph()
-        p.paragraph_format.space_after = Pt(4)
-        p.paragraph_format.first_line_indent = Cm(0.5)
+        p.paragraph_format.space_before = Pt(4)
+        p.paragraph_format.space_after = Pt(0)
 
-        # Zerlege Text in kursive und normale Teile
-        parts = re.split(r'(\*[^*]+\*)', para_text)
-        for part in parts:
-            if part.startswith('*') and part.endswith('*') and len(part) > 2:
-                # Kursiver Text
-                run = p.add_run(part[1:-1])
-                run.font.italic = True
-                run.font.name = 'Georgia'
-                run.font.size = Pt(11)
-            else:
-                run = p.add_run(part)
-                run.font.name = 'Georgia'
-                run.font.size = Pt(11)
-
-        # Dialog-Absätze: kein Einzug bei direkter Rede (beginnt mit „)
-        if para_text.startswith('„') or para_text.startswith('"'):
-            p.paragraph_format.first_line_indent = Cm(0.5)
+        add_text_to_paragraph(p, joined_text)
+        is_first = False
 
 
 def add_end_page(doc):
     """Erstellt die Schlussseite."""
     add_page_break(doc)
 
-    for _ in range(6):
+    for _ in range(5):
         doc.add_paragraph()
 
     p = doc.add_paragraph()
@@ -332,11 +351,11 @@ def add_end_page(doc):
     run.font.size = Pt(14)
     run.font.bold = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(24)
+    p.paragraph_format.space_after = Pt(20)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Die Herrenhaus-Detektive kehren zurück in")
+    run = p.add_run("Die Herrenhaus-Detektive kehren zur\u00fcck in")
     run.font.size = Pt(11)
     run.font.name = 'Georgia'
     p.paragraph_format.space_after = Pt(8)
@@ -348,17 +367,17 @@ def add_end_page(doc):
     run.font.bold = True
     run.font.italic = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(24)
+    p.paragraph_format.space_after = Pt(20)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Danke fürs Lesen!")
+    run = p.add_run("Danke f\u00fcrs Lesen!")
     run.font.size = Pt(12)
     run.font.name = 'Georgia'
 
 
 def add_about_author_page(doc):
-    """Erstellt die Über-den-Autor-Seite."""
+    """Erstellt die Ueber-den-Autor-Seite."""
     add_page_break(doc)
 
     for _ in range(3):
@@ -366,11 +385,11 @@ def add_about_author_page(doc):
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Über den Autor")
+    run = p.add_run("\u00dcber den Autor")
     run.font.size = Pt(14)
     run.font.bold = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(24)
+    p.paragraph_format.space_after = Pt(20)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER

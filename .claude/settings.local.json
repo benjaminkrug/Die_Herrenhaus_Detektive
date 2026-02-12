@@ -11,7 +11,11 @@
       "Read(//c/Users/krugb/OneDrive/Desktop/GMBH/Projekte/Buecher/**)",
       "Bash(pip show:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(for:*)",
+      "Bash(do wc -w \"Kapitel/Die_Herrenhaus_Detektive_Band1_Kapitel$i.md\")",
+      "Read(//c/Users/krugb/OneDrive/Desktop/GMBH/Projekte/Buecher/Die_Herrenhaus_Detektive/**)",
+      "WebFetch(domain:intercom.help)"
     ]
   }
 }
