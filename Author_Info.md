@@ -341,6 +341,8 @@ Jedes Kapitel muss enthalten:
 - **Dienstag:** Jonas' Zimmer. Alle Funde ausgebreitet. Ben entdeckt Spuren auf dem leeren Blatt Papier im Licht. Idee: Geheimtinte (Zitronensaft, von Bens Oma gelernt). Papier ueber Kerze: braune Linien erscheinen. Geheimtinte-Karte zeigt Gangsystem unter Eichenhain. X unter Brunnen = "ANFANG". Symbol 4 Linien + Stern = zweite Metalltuer. Aber: Wasserfleck verdeckt wichtige Kreuzung. Ben schlaegt vor: Erst mit Frau Bergmann reden. (Kapitel 4)
 - **Mittwoch:** Kinder besuchen Frau Bergmann am Kirchplatz. Sie will sie erst wegschicken. Winters Name veraendert alles -- sie laesst sie rein. Tee in der Kueche. Frau Bergmann erzaehlt: Karl und sie fanden Loch hinter Kirche unter Efeu, kletterten rein, verliefen sich, Taschenlampe ging aus, 14 Stunden Dunkelheit. Meiers Vater trug sie raus. Cliffhanger: "Das Schlimmste war nicht die Dunkelheit. Ich habe etwas GESEHEN." Will morgen den Rest erzaehlen. (Kapitel 5)
 - **Donnerstag, Nachmittag:** Kinder gehen zum Herrenhaus (Bauarbeiter weg). Keller, Tunnel, zweite Metalltuer gefunden: 1m hoch, Eisen, Symbol 4 Linien + Stern, 4 runde Vertiefungen als Mechanismus. Kalter Luftzug von hinter der Tuer. Auf Karte winzige Schrift: "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg." Kinder muessen die vier Gruenderfamilien und ihre Gegenstaende finden. (Kapitel 6)
+- **Samstag:** Meier erzaehlt von seinem Vater (1953-Suchtrupp). Sein Vater verbot ihm den Brunnen -- hat etwas gesehen unten. Meier entscheidet sich, den Kindern zu helfen. Gibt ihnen alte Metalltaschenlampe seines Vaters (1953). Jonas findet mehr Text auf Karte: "Ihre Namen stehen im Stein." Mila: Steintafel an der Kirche! (Kapitel 7)
+- **Sonntag:** Kirche: Steintafel von 1712 nennt vier Gruenderfamilien: Winter, Bergmann, Hoffmann, Meier. Kinder haben Winters goldenen Knopf. Brauchen noch Meier-, Bergmann- und Hoffmann-Gegenstand. Problem: Hoffmann weggezogen. Cliffhanger: Ben erkennt, dass Frau Bergmann Karls Andenken nicht hergeben wird. (Kapitel 7)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
 - **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
@@ -372,6 +374,11 @@ Jedes Kapitel muss enthalten:
 - Tuer hat 4 runde Vertiefungen = Mechanismus fuer 4 Gegenstaende (Kap 6)
 - Kalter Luftzug von hinter der Tuer -- dahinter ist etwas Tiefes (Kap 6)
 - Winzige Schrift auf Karte: "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg." (Kap 6)
+- Meiers Vater war im 1953-Suchtrupp, hat etwas gesehen unten (Kap 7)
+- Meier gibt alte Metalltaschenlampe seines Vaters (Kap 7)
+- Steintafel an Kirche (1712): Winter, Bergmann, Hoffmann, Meier = vier Gruenderfamilien (Kap 7)
+- Winter-Gegenstand = goldener Knopf (haben sie schon aus Band 1) (Kap 7)
+- Hoffmann-Gegenstand unbekannt, Karl weggezogen (Kap 7)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
