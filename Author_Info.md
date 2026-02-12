@@ -343,6 +343,8 @@ Jedes Kapitel muss enthalten:
 - **Donnerstag, Nachmittag:** Kinder gehen zum Herrenhaus (Bauarbeiter weg). Keller, Tunnel, zweite Metalltuer gefunden: 1m hoch, Eisen, Symbol 4 Linien + Stern, 4 runde Vertiefungen als Mechanismus. Kalter Luftzug von hinter der Tuer. Auf Karte winzige Schrift: "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg." Kinder muessen die vier Gruenderfamilien und ihre Gegenstaende finden. (Kapitel 6)
 - **Samstag:** Meier erzaehlt von seinem Vater (1953-Suchtrupp). Sein Vater verbot ihm den Brunnen -- hat etwas gesehen unten. Meier entscheidet sich, den Kindern zu helfen. Gibt ihnen alte Metalltaschenlampe seines Vaters (1953). Jonas findet mehr Text auf Karte: "Ihre Namen stehen im Stein." Mila: Steintafel an der Kirche! (Kapitel 7)
 - **Sonntag:** Kirche: Steintafel von 1712 nennt vier Gruenderfamilien: Winter, Bergmann, Hoffmann, Meier. Kinder haben Winters goldenen Knopf. Brauchen noch Meier-, Bergmann- und Hoffmann-Gegenstand. Problem: Hoffmann weggezogen. Cliffhanger: Ben erkennt, dass Frau Bergmann Karls Andenken nicht hergeben wird. (Kapitel 7)
+- **Naechste Tage:** Meier gibt Bronze-Wappen-Siegel. Krueger vermittelt Bergmanns Silberkreuz. Jonas besucht Frau Bergmann allein wegen Karls Ring. Mila kommt dazu, ueberzeugt Frau Bergmann. Messingring mit H-Gravur erhalten. (Kapitel 8)
+- **Dienstag:** Vier Gegenstaende eingesetzt: Knopf, Kreuz, Siegel, Ring. Metalltuer oeffnet sich. Dahinter: Steintreppe nach unten, kalte alte Luft. Aber: Es beginnt zu regnen. Meiers Warnung: Gaenge instabil bei Regen. (Kapitel 8)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
 - **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
@@ -379,6 +381,12 @@ Jedes Kapitel muss enthalten:
 - Steintafel an Kirche (1712): Winter, Bergmann, Hoffmann, Meier = vier Gruenderfamilien (Kap 7)
 - Winter-Gegenstand = goldener Knopf (haben sie schon aus Band 1) (Kap 7)
 - Hoffmann-Gegenstand unbekannt, Karl weggezogen (Kap 7)
+- Meier gibt Bronze-Wappen-Siegel (Baum mit 4 Aesten) (Kap 8)
+- Krueger vermittelt Bergmanns Silberkreuz (leihweise) (Kap 8)
+- Frau Bergmann gibt Karls Messingring (H-Gravur, 64 Jahre alt) (Kap 8)
+- Vier Gegenstaende oeffnen Metalltuer: Klick-Mechanismus (Kap 8)
+- Hinter der Tuer: Steintreppe nach unten, sehr tief, sehr alt (Kap 8)
+- Regen beginnt -- Gaenge instabil bei Regen (Meiers Warnung) (Kap 8)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
