@@ -149,7 +149,7 @@ Jedes Kapitel muss enthalten:
 - [ ] 1 Mini-Entscheidung der Kinder
 - [ ] Cliffhanger am Ende (Pflicht!)
 - [ ] Ben hat mindestens 1 witzigen oder aengstlichen Moment
-- [ ] Wortzahl: 1.600-1.900
+- [ ] Wortzahl: 1.200-1.400 (Band 2) / 1.600-1.900 (Band 1)
 
 ---
 

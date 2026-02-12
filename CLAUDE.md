@@ -36,7 +36,7 @@ Schreibstil_Regeln_8_Jahre_Die_Herrenhaus_Detektive.md        # Writing style ru
 - **Vocabulary**: Concrete words only. No foreign/abstract words. "seltsam" not "mysterioes", "beobachten" not "observieren"
 - **Emotions**: Always physical ("Sein Herz klopfte schneller") never abstract ("Er spuerte ein seltsames Gefuehl")
 - **No passive voice**
-- **Chapter length**: 1,600-1,900 words
+- **Chapter length**: 1,200-1,400 words (Band 2), 1,600-1,900 words (Band 1)
 - **Cliffhanger at end of every chapter** -- mandatory, no exceptions
 - **Pacing**: Something must happen every 1-2 pages (new info, question, obstacle, surprise)
 - **Next chapter resolves previous cliffhanger immediately** -- no time skips

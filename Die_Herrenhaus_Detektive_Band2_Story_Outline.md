@@ -10,7 +10,7 @@
 
 - 100--120 Seiten
 - 18 Kapitel + 1 Epilog (= 19)
-- 1.600--1.900 Woerter pro Kapitel
+- 1.200--1.400 Woerter pro Kapitel
 - Jedes Kapitel endet mit einem Cliffhanger
 - Alle Band-1-Hooks werden eingeloest
 
