@@ -337,6 +337,7 @@ Jedes Kapitel muss enthalten:
 ### Zeitlinie Band 2
 - **Samstag, ~3 Wochen nach Band 1:** Jonas geht am Brunnen vorbei. Denkt an Winters Worte. Geht zum Herrenhaus (Renovierung). Beobachtet Meier bei der Arbeit. Trifft Mila und Ben auf der Mauer hinter dem Haus. Diskussion ueber den versiegelten Brief. Jonas bricht das Siegel. Liest den Brief. (Kapitel 1)
 - **Gleicher Tag, kurz danach:** Kinder rennen zu Krueger am Kirchplatz. Zeigen ihm den Brief. Krueger ist erschuettert -- Winter hat ihm nie von den Gaengen erzaehlt. Brief vorlesen: Gangsystem unter Brunnen, 1953 versiegelt. Krueger erzaehlt von 1953: Zwei Kinder (Lisbeth Bergmann, Karl Hoffmann) verschwanden 14 Stunden in den Gaengen. Dorf versiegelte alles, baute Brunnen ueber Haupteingang. Krueger verraet: Lisbeth lebt noch in Eichenhain. Blick zum Haus am Kirchplatz mit Katzen. (Kapitel 2)
+- **Montag (2 Tage spaeter):** Kinder gehen ins Archiv im Rathaus. Milas Oma hat Dienst. Suche in Karton ZEITUNGSAUSSCHNITTE 1950-1960. Ben findet Artikel: "Eichenhainer Wochenblatt, Oktober 1953". Foto: zwei dreckige, verweinte Kinder. Text bestaetigt: Lisbeth Bergmann (10) + Karl Hoffmann (11), Gemeinderat beschloss Versiegelung + Brunnenbau. Milas Oma reagiert ablehnend: "Frau Bergmann spricht nicht darueber." Warnt die Kinder. Mila: "Frau Bergmann war zehn. Genau wie wir." (Kapitel 3)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
 - **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
@@ -350,6 +351,9 @@ Jedes Kapitel muss enthalten:
 - Lisbeth Bergmann lebt noch in Eichenhain, am Kirchplatz (Kap 2)
 - Karl Hoffmann weggezogen (Kap 2)
 - Winter kannte die Gaenge, hat es selbst Krueger verschwiegen (Kap 2)
+- Zeitungsartikel bestaetigt 1953-Geschichte offiziell (Kap 3)
+- Gemeinderat beschloss Versiegelung + Brunnenbau (Kap 3, Zeitung)
+- Frau Bergmann = Lisbeth vom Foto, lebt am Kirchplatz (Kap 3)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
