@@ -85,18 +85,24 @@ Jonas' Atem bildete kleine Wolken.
 
 40 Stufen.
 
+"Mir ist kalt", sagte Ben.
+
+"Mir auch", sagte Mila.
+"Aber wir gehen weiter."
+
 Die Waende veraenderten sich.
-Nicht mehr rauer Fels wie in Winters Tunnel.
+Nicht mehr rauer Fels.
 Sondern bearbeiteter Stein.
 Grosse Bloecke.
 Sorgfaeltig aufeinandergeschichtet.
-Glatt.
-Alt.
-Manche Fugen waren mit etwas gefuellt, das wie Moertel aussah.
-Aber anders.
-Aelter.
-Jemand hatte diese Treppe mit grosser Sorgfalt gebaut.
-Vor sehr langer Zeit.
+
+"Jemand hat das gebaut", sagte Mila.
+"Mit Absicht.
+Das ist kein natuerlicher Gang."
+
+"Wer baut eine Treppe unter die Erde?" fragte Ben.
+
+"Jemand, der dort etwas verstecken wollte", sagte Jonas.
 
 50 Stufen.
 

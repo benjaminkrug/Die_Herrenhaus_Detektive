@@ -27,6 +27,15 @@ Steinerne Waende, moosig und gruen.
 Wasser sprudelte aus einem Rohr in der Mitte.
 Die Leute warfen Muenzen hinein.
 Frau Schneider stellte ihre Einkaufstasche daneben.
+
+"Schoener Tag, nicht wahr?" rief sie zu Jonas.
+
+Jonas nickte.
+"Ja, sehr schoen."
+
+Seine Stimme klang normal.
+Aber sein Blick hing am Brunnen.
+
 Herr Weber las Zeitung auf der Bank.
 Nichts Besonderes.
 
@@ -76,11 +85,13 @@ Und mittendrin: Herr Meier.
 Meier trug ein Brett ueber der Schulter.
 Sein Gesicht war rot.
 Schweisstropfen auf der Stirn.
-Er nickte Jonas zu.
+
+"Morgen", sagte er.
 Kurz.
 Ohne Laecheln.
 
-Jonas nickte zurueck.
+"Morgen", sagte Jonas.
+
 Sein Magen zog sich zusammen.
 
 Er wusste nicht, was er von Meier halten sollte.
@@ -374,11 +385,16 @@ Dann zu Jonas.
 Dann wieder zum Brunnen.
 
 "Das steht hier nicht", sagte sie.
-"Nur: Findet den anderen Zugang."
+"Nur: *Findet den anderen Zugang.*"
 
-Stille.
+Jonas' Haende wurden kalt.
+
+Ben schluckte.
+"Welchen... Zugang?"
+
+Niemand antwortete.
 
 Dann das Wasser.
 Es plaetscherte.
 Wie immer.
-Aber jetzt klang es wie ein Geheimnis.
+Aber jetzt klang es wie eine Warnung.

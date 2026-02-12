@@ -395,9 +395,28 @@ Jonas sah auf die Karte.
 Auf das X unter dem Brunnen.
 ANFANG.
 
-Die Gaenge fuehrten unter den ganzen Dorfplatz.
-Unter ihre Fuesse.
-Unter ihre Haeuser.
-Jeden Tag.
+Dann hoerte er etwas.
+Von unten.
+Durch den Fussboden.
+Ganz leise.
 
-Und niemand wusste es.
+Ein Grollen.
+Tief und dumpf.
+Wie ein Magen, der knurrte.
+Aber groesser.
+Viel groesser.
+
+Ben erstarrte.
+"Was war das?"
+
+Mila hielt den Atem an.
+
+Stille.
+
+Jonas sah auf die Karte.
+Auf die Gaenge unter dem Dorf.
+Unter ihren Fuessen.
+Genau jetzt.
+
+Und zum ersten Mal fragte er sich:
+Was, wenn dort unten nicht alles schlief?

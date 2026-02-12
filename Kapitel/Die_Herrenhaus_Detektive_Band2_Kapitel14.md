@@ -441,6 +441,30 @@ Aus dem Brunnen.
 Nass und dreckig und muede.
 
 Aber er laechelte.
-
 Weil Krueger recht hatte.
-Sie hatten es gefunden.
+
+Dann sah Krueger den Rucksack.
+Seinen Blick.
+Jonas kannte diesen Blick.
+Scharf.
+Aufmerksam.
+
+"Was habt ihr mitgebracht?" fragte er leise.
+
+Jonas spuerte die Truhe auf seinem Ruecken.
+Schwer.
+Kalt.
+300 Jahre alt.
+
+Er oeffnete den Mund.
+Aber die Worte blieben stecken.
+
+Denn ploetzlich waren da Stimmen.
+Ueberall.
+Die Dorfbewohner kamen naeher.
+Haende streckten sich aus.
+Fragen.
+Rufe.
+
+Und Jonas dachte nur:
+Was ist in der Truhe?

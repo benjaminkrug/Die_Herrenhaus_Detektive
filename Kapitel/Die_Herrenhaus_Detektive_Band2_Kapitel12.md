@@ -101,14 +101,26 @@ Die Kammer war hoch.
 Drei Meter.
 Vielleicht vier.
 Die Decke gewoelbt.
-Wie das Innere einer Kirche.
+
+"Wie eine Kirche", fluesterte Ben.
+"Eine Kirche unter der Erde."
+
+Er hatte recht.
+Die Woelbung.
+Der Raum.
+Das Echo.
 
 Es roch anders hier.
 Nicht nach Staub und Erde.
 Sondern nach Wasser.
 Nach Moos.
 Nach etwas Lebendigem.
-Als wuerde die Kammer atmen.
+
+"Riecht ihr das?" fragte Mila.
+
+"Wie ein Schwimmbad", sagte Ben.
+"Nur aelter.
+Viel aelter."
 
 Der Boden war glatt.
 Flacher Stein.
@@ -185,9 +197,11 @@ Sein Atem stockte.
 
 Zeichnungen.
 Ueberall.
-Nicht Schrift.
-Nicht Symbole.
-Zeichnungen.
+
+"Seht ihr das?" fluesterte Jonas.
+
+Mila trat neben ihn.
+Ben auch.
 
 Baeume.
 Haeuser.
@@ -196,21 +210,38 @@ Striche und Vierecke.
 Und Menschen.
 Kleine Figuren.
 Sie standen um etwas herum.
-Um eine Quelle.
 Haende ausgestreckt.
-Als wuerden sie das Wasser fangen.
 
-"Das ist...", begann Mila.
+"Die fangen Wasser", sagte Mila.
+"Mit den Haenden."
+
+"Das ist die Quelle", sagte Jonas.
+"Sie haben die Quelle gezeichnet."
+
+Ben fuhr mit dem Finger ueber eine Figur.
+"Die sehen aus wie Strichmaennchen.
+Meine kleine Schwester malt besser."
+
+"Die sind dreihundert Jahre alt, Ben", sagte Mila.
+
+"Trotzdem."
 
 Jonas leuchtete weiter.
-Mehr Zeichnungen.
 Ein Kreis mit Linien -- die Sonne.
 Tiere.
 Vielleicht Hirsche.
-Oder Pferde.
-Die Striche waren grob.
-Alt.
-Sehr alt.
+
+"Oder Kuehe", sagte Ben.
+"Koennten auch Kuehe sein.
+Sehr haessliche Kuehe."
+
+"Ben!"
+
+"Sorry.
+Historisch wertvolle haessliche Kuehe."
+
+Mila schnaubte.
+Aber Jonas sah, dass sie laechelte.
 
 "Das sind die Gruender", sagte Ben.
 Er stand neben Jonas.
@@ -258,30 +289,36 @@ Damit es niemand vergisst."
 
 "Und dann hat es doch jeder vergessen", sagte Jonas.
 
-Jonas dachte an Frau Bergmann.
-Zehn Jahre alt.
+Ben wurde still.
+Ganz still.
+Er nahm seine Kappe ab.
+
+"Frau Bergmann", sagte er leise.
+
+Jonas sah ihn an.
+
+"Sie war hier", sagte Ben.
+"Als Kind.
 In dieser Kammer.
-Im Licht einer Taschenlampe, die gleich ausgehen wuerde.
-Sie hatte genau das hier gesehen.
+Mit Karl.
+Im Licht einer Taschenlampe."
+
+Er sah sich um.
 Die Quelle.
 Die Zeichnungen.
+Die vier Figuren.
 
-Und niemand hatte ihr geglaubt.
-70 Jahre lang.
-Ein Maedchen, das die Wahrheit kannte.
-Und schweigen musste.
+"Sie hat genau das hier gesehen.
+Und dann ist das Licht ausgegangen."
 
-Ein Kloss sass in seinem Hals.
+Ein Kloss sass in Jonas' Hals.
 Gross.
 Er schluckte.
 Wieder und wieder.
 
-"DAS hat Frau Bergmann gesehen", sagte er.
-"Die Quelle.
-Die Zeichnungen.
-Sie war hier.
-Als Kind.
-Und niemand hat ihr geglaubt."
+"Und niemand hat ihr geglaubt", sagte Mila.
+Ihre Stimme war rau.
+"70 Jahre lang."
 
 Stille.
 

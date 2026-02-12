@@ -156,7 +156,21 @@ Kein Gold.
 Keine Edelsteine.
 Kein Schatz.
 
+"Kein Gold?" fluesterte Ben.
+
+"Nein", sagte Jonas.
+
+"Schade", sagte Ben.
+"Ich haette Gold genommen."
+
+"Ben!"
+
+"Aber Spass beiseite."
+Ben beugte sich vor.
+"Was ist da drin?"
+
 Jedenfalls nicht so ein Schatz.
+Etwas Besseres.
 
 Ganz oben lag ein gefaltetes Stueck Papier.
 Nein.

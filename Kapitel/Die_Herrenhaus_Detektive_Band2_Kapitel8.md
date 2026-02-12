@@ -308,9 +308,15 @@ Klick.
 
 Ben nahm das Bronze-Siegel.
 Seine Finger zitterten.
+"Wenn das schiefgeht", murmelte er,
+"bin ich nicht schuld."
 Dritte Vertiefung.
 
 Klick.
+
+"Niemand gibt dir die Schuld", sagte Mila.
+
+"Ich sage es trotzdem vorher."
 
 Drei von vier.
 Ein Summern im Metall.

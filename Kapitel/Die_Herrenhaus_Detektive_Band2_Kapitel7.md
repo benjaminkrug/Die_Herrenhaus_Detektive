@@ -383,4 +383,19 @@ Und der vierte gehoerte einem Mann, der vor Jahrzehnten weggegangen war.
 Weit weg.
 Fuer immer.
 
-Oder doch nicht?
+"Wisst ihr, was mich stoert?" sagte Ben ploetzlich.
+
+Jonas sah ihn an.
+
+"Frau Bergmann hat gesagt, sie hat etwas GESEHEN.
+In den Gaengen.
+Etwas, das dort nicht sein sollte."
+Ben zog seine Kappe tiefer.
+"Wir wissen immer noch nicht, was es war."
+
+Jonas' Magen wurde kalt.
+Ben hatte recht.
+Er hatte es vergessen.
+Vor lauter Tueren und Gegenstaenden.
+
+Was hatte Frau Bergmann in der Dunkelheit gesehen?

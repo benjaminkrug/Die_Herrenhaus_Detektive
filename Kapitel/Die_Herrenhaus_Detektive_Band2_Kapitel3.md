@@ -363,7 +363,26 @@ Versprecht mir das."
 Milas Oma sah ihn lange an.
 Als ob sie ihm nicht ganz glaubte.
 
-Aber Jonas wusste: Sie wuerden morgen an Frau Bergmanns Tuer klopfen.
-Alle drei.
-Und diesmal wuerde Ben mitkommen.
-Ob er wollte oder nicht.
+Draussen war es kalt geworden.
+Die Sonne war weg.
+Der Brunnen plaetscherte auf dem Marktplatz.
+Leise.
+Wie immer.
+
+Jonas sah zum Haus am Kirchplatz.
+Zu den weissen Gardinen.
+Zu den Katzen im Fenster.
+
+Und dann sah er es.
+
+Hinter der Gardine.
+Ein Gesicht.
+
+Frau Bergmann stand am Fenster.
+Sie sah heraus.
+Direkt zu ihnen.
+
+Jonas' Herz schlug schneller.
+
+Hatte sie sie beobachtet?
+Die ganze Zeit?

@@ -65,12 +65,28 @@ Und diesem Laecheln.
 Ja.
 Das hatten sie.
 
-Ein Sperling setzte sich auf den Brunnenrand.
-Nah bei Jonas.
-Legte den Kopf schief.
-Als ob er fragen wollte: Was jetzt?
+Jonas legte die Hand auf den Stein.
+Kuehl.
+Rau unter seinen Fingern.
+Er spuerte die feinen Rillen.
+Die Namen der Gruender, eingeritzt vor Jahrhunderten.
+Unter dem gleichen Himmel.
 
-Gute Frage.
+Die Baeckerei oeffnete ihre Tuer.
+Der Geruch von frischem Brot wehte ueber den Platz.
+Eine Katze schlich um die Eiche.
+Frau Bergmanns getigerte.
+Jonas erkannte sie.
+
+Die Katze sprang auf den Brunnenrand.
+Setzte sich neben Jonas.
+Schnurrte.
+
+Jonas streichelte sie.
+Ihr Fell war warm von der Sonne.
+
+Gute Frage, dachte er.
+Was jetzt?
 
 ---
 
@@ -127,12 +143,37 @@ In der Sonne.
 Wie am Anfang.
 
 Aber sie waren nicht mehr die gleichen drei Kinder.
-Nicht mehr der Neue und die zwei aus dem Dorf.
-Sie waren ein Team.
-Sie waren zusammen durch Tunnel gekrochen.
-Durch Dunkelheit gestiegen.
-Hatten eine Truhe gefunden.
-Hatten die Wahrheit ans Licht gebracht.
+
+"Wisst ihr, was komisch ist?" sagte Jonas.
+
+"Dass Ben im Dunkeln schlafen kann?" fragte Mila.
+
+"Nein."
+Jonas laechelte.
+"Vor ein paar Wochen sass ich genau hier.
+An meinem ersten Tag in Eichenhain.
+Ich kannte niemanden.
+Ich wollte zurueck nach Hamburg."
+
+Ben sah ihn an.
+"Und jetzt?"
+
+Jonas sah das Herrenhaus an.
+Den Brunnen.
+Die alte Eiche.
+Mila rechts.
+Ben links.
+
+"Jetzt koennte man mich nicht mehr wegkriegen."
+
+Mila stiess ihn mit der Schulter an.
+Kurz.
+Fest.
+Das war ihr "Danke".
+
+Ben legte ihm die Hand auf den Ruecken.
+Klopfte zweimal.
+Das war seins.
 
 Jonas spuerte es.
 Im Bauch.
@@ -140,7 +181,6 @@ In der Brust.
 Das Gefuehl, dazuzugehoeren.
 Zu diesen zwei Menschen.
 Zu diesem Dorf.
-Zu diesem Brunnen.
 
 Zu Hause.
 
