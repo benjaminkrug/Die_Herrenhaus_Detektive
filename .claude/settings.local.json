@@ -15,7 +15,8 @@
       "Bash(for:*)",
       "Bash(do wc -w \"Kapitel/Die_Herrenhaus_Detektive_Band1_Kapitel$i.md\")",
       "Read(//c/Users/krugb/OneDrive/Desktop/GMBH/Projekte/Buecher/Die_Herrenhaus_Detektive/**)",
-      "WebFetch(domain:intercom.help)"
+      "WebFetch(domain:intercom.help)",
+      "Bash(powershell -Command:*)"
     ]
   }
 }
