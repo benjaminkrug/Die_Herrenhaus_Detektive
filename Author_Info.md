@@ -345,6 +345,7 @@ Jedes Kapitel muss enthalten:
 - **Sonntag:** Kirche: Steintafel von 1712 nennt vier Gruenderfamilien: Winter, Bergmann, Hoffmann, Meier. Kinder haben Winters goldenen Knopf. Brauchen noch Meier-, Bergmann- und Hoffmann-Gegenstand. Problem: Hoffmann weggezogen. Cliffhanger: Ben erkennt, dass Frau Bergmann Karls Andenken nicht hergeben wird. (Kapitel 7)
 - **Naechste Tage:** Meier gibt Bronze-Wappen-Siegel. Krueger vermittelt Bergmanns Silberkreuz. Jonas besucht Frau Bergmann allein wegen Karls Ring. Mila kommt dazu, ueberzeugt Frau Bergmann. Messingring mit H-Gravur erhalten. (Kapitel 8)
 - **Dienstag:** Vier Gegenstaende eingesetzt: Knopf, Kreuz, Siegel, Ring. Metalltuer oeffnet sich. Dahinter: Steintreppe nach unten, kalte alte Luft. Aber: Es beginnt zu regnen. Meiers Warnung: Gaenge instabil bei Regen. (Kapitel 8)
+- **Gleicher Dienstag, trotz Regen:** Kinder steigen 73 Stufen hinunter. Bearbeiteter Stein, viel aelter als Winters Tunnel. Niedriger Gang, Pfeile und unbekannte Symbole an Waenden. 100 Schritte geradeaus. Kreuzung: drei Gaenge. Karte zeigt genau hier Wasserfleck -- nicht lesbar. Rechts: Wassergeraeusch. Regen staerker, Wasser sickert durch Stein. Kinder muessen umkehren. (Kapitel 9)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
 - **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
@@ -387,6 +388,11 @@ Jedes Kapitel muss enthalten:
 - Vier Gegenstaende oeffnen Metalltuer: Klick-Mechanismus (Kap 8)
 - Hinter der Tuer: Steintreppe nach unten, sehr tief, sehr alt (Kap 8)
 - Regen beginnt -- Gaenge instabil bei Regen (Meiers Warnung) (Kap 8)
+- 73 Stufen hinunter, bearbeiteter Stein, viel aelter als Winters Tunnel (Kap 9)
+- Pfeile eingeritzt in Waende (Wegweiser) + unbekannte Symbole (Kreise, Linien) (Kap 9)
+- Kreuzung: drei Gaenge, Karte genau hier durch Wasserfleck unleserlich (Kap 9)
+- Rechts: Wassergeraeusch (Quelle? Regen?) (Kap 9)
+- Regen wird staerker, Wasser sickert durch Stein, muessen umkehren (Kap 9)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
