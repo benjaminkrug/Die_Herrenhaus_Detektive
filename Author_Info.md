@@ -325,11 +325,12 @@ Jedes Kapitel muss enthalten:
 
 | Charakter | Band 1 Ende | Band 2 Entwicklung |
 |-----------|------------|-------------------|
-| Jonas | Akzeptierter Detektiv | Anfuehrer -- muss Entscheidungen treffen |
-| Mila | Erste Unsicherheit (Kap 15) | Mehr Verletzlichkeit zeigen (Haende zittern) |
-| Ben | Held in Kap 13 | Strategischer Denker. Rettet erneut die Lage (Kap 13) |
-| Meier | Samstags-Renovierung | Wird Verbuendeter. Gibt Taschenlampe. Stolz auf Familienerbe |
-| Krueger | Mentor/Briefkontakt | Erschuettert: Winter hatte Geheimnisse VOR ihm |
+| Jonas | Akzeptierter Detektiv | Anfuehrer -- muss unter Druck Entscheidungen treffen (Kreuzung Kap 9/10) |
+| Mila | Erste Unsicherheit (Kap 15) | Mehr Verletzlichkeit (Haende zittern Kap 11). Ueberredet Frau Bergmann (Kap 8). Gibt Ring zurueck (Kap 16) |
+| Ben | Held in Kap 13 | Strategischer Denker. Rettet erneut die Lage (Kap 13). Klettert zuerst (Kap 14) |
+| Meier | Samstags-Renovierung, Busse | Wird Verbuendeter. Gibt Taschenlampe. Stolz auf Familienerbe. Alarmiert Krueger als Kinder zu lange weg sind |
+| Krueger | Mentor/Briefkontakt | Erschuettert: Winter hatte Geheimnisse VOR ihm. Bleibt Anker fuer die Kinder |
+| Frau Bergmann | (neu) | Von 70 Jahren Schweigen zu Befreiung. Gibt Karls Ring her (Kap 8). Erzaehlt ihre Wahrheit (Kap 16) |
 
 ## Band 2 Kontinuitaets-Tracker
 
@@ -345,7 +346,7 @@ Jedes Kapitel muss enthalten:
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
 - Was steht auf dem leeren Blatt Papier? → Geheimtinte-Karte (Kap 4)
-- Was ist hinter der zweiten Metalltuer? → Zugang zum alten Gangsystem (Kap 6-7)
+- Was ist hinter der zweiten Metalltuer? → Zugang zum alten Gangsystem (Kap 6-8)
 - Warum hatte Eichenhain 1952 keinen Brunnen? → Brunnen wurde 1953 gebaut um Gangsystem-Eingang zu versiegeln (Kap 2/5)
 - Was meint Winter mit "Ihr habt noch nicht alles gefunden"? → Die Zeitkapsel unter der Quelle (Kap 12)
 

@@ -73,7 +73,8 @@ Erzaehlt erst den Kindern -- emotionaler Wendepunkt.
 Trifft Mila und Ben bei der Herrenhaus-Renovierung.
 Sie denken an den Brief mit dem roten Wachssiegel.
 Entscheidung: Heute oeffnen wir den Brief.
-**Cliffhanger:** Sie brechen das rote Wachssiegel.
+Jonas bricht das Siegel. Er zieht den Brief heraus -- und wird blass.
+**Cliffhanger:** Jonas: "Da steht etwas ueber den Brunnen."
 
 ------------------------------------------------------------------------
 
@@ -84,7 +85,7 @@ Inhalt: "Unter dem Brunnen liegt der Eingang zum alten Gangsystem.
 Das Dorf hat es 1953 versiegelt. Findet den anderen Zugang."
 Dazu eine einfache Skizze.
 Krueger wird blass.
-**Cliffhanger:** Krueger: "Davon wusste ich nichts. Heinrich hat mir nie davon erzaehlt."
+**Cliffhanger:** Krueger: "Heinrich hatte immer noch ein Geheimnis hinter dem Geheimnis. Aber eine der beiden lebt noch."
 
 ------------------------------------------------------------------------
 
@@ -105,6 +106,7 @@ Ben erinnert sich.
 Sie halten es ueber eine Kerze -- Geheimtinte wird sichtbar.
 Es ist eine Karte des unterirdischen Gangsystems.
 Mehrere Eingaenge markiert. Einer: die zweite Metalltuer im Tunnel.
+Aber eine Stelle hat einen Wasserfleck -- Tinte verwischt, nicht lesbar.
 **Cliffhanger:** Unter dem Brunnen steht ein X.
 
 ------------------------------------------------------------------------
@@ -131,23 +133,26 @@ Ben: "Nicht schon wieder ein dunkler Tunnel."
 
 ------------------------------------------------------------------------
 
-### Kapitel 7 -- Das Raetsel der vier Linien
-
-Code fuer die Tuer noetig.
-Die Karte hat Hinweise.
-Jonas verbindet: 4 Linien = 4 Gruenderfamilien. Der Stern = die Quelle.
-Raetsel-Loesung mit Hilfe der Gruendungsskizze.
-**Cliffhanger:** Die Tuer schwingt auf. Dahinter: kein Tunnel, sondern eine Treppe. Nach unten.
-
-------------------------------------------------------------------------
-
-### Kapitel 8 -- Meiers Gestaendnis
+### Kapitel 7 -- Meiers Gestaendnis
 
 Meier wird einbezogen (Samstags-Renovierung).
 Er kannte die Geschichten von 1953 -- seine Eltern waren dabei.
 "Mein Vater hat mir gesagt: Geh nie in die Naehe des Brunnens."
 Gibt den Kindern eine alte Taschenlampe seines Vaters.
-**Cliffhanger:** "Die Gaenge sind nicht stabil. Nach dem Regen brechen sie ein." Es hat gerade angefangen zu regnen.
+Jonas erklaert das Raetsel: 4 Linien = 4 Gruenderfamilien. Der Stern = die Quelle.
+Sie brauchen 4 Gegenstaende der 4 Familien. Haben schon Winters goldenen Knopf.
+Meier gibt sein Familien-Wappen-Siegel. Krueger vermittelt Bergmanns altes Kreuz.
+**Cliffhanger:** Fuer den vierten Gegenstand muessen sie zurueck zu Frau Bergmann. Sie brauchen Karls Ring.
+
+------------------------------------------------------------------------
+
+### Kapitel 8 -- Das Raetsel der vier Linien
+
+Frau Bergmann zoegert. Karl war ihr Freund. Der Ring ist alles, was sie von ihm hat.
+Mila: "Wir bringen ihn zurueck. Versprochen."
+Frau Bergmann gibt den Messingring. Ihre Hand zittert.
+Zurueck zum Tunnel. 4 Gegenstaende einsetzen. Klicken. Die Tuer schwingt auf.
+**Cliffhanger:** Dahinter: kein Tunnel, sondern eine Treppe. Nach UNTEN. Und Meiers Warnung: "Die Gaenge sind nicht stabil. Nach dem Regen brechen sie ein." Draussen: dunkle Wolken.
 
 ------------------------------------------------------------------------
 
@@ -157,7 +162,7 @@ Sie steigen die Treppe hinunter.
 Aeltere Gaenge als Winters Tunnel. Steinwaende, niedrige Decken.
 Markierungen an den Waenden: Pfeile, Symbole.
 Es wird feucht.
-**Cliffhanger:** Am Ende eine Kreuzung. Drei Gaenge. Die Karte ist beschaedigt -- Tinte verwischt.
+**Cliffhanger:** Am Ende eine Kreuzung. Drei Gaenge. Jonas holt die Karte heraus -- genau hier ist der Wasserfleck von Kap 4. Nicht lesbar.
 
 ------------------------------------------------------------------------
 
@@ -177,7 +182,9 @@ Ploetzlich: leises Rumpeln. Erde rieselt von der Decke.
 Panik. Ben atmet schnell. Mila bleibt stark (Haende zittern).
 Jonas erinnert sich an die Pfeile an den Waenden.
 "Die Pfeile zeigen den Weg. Immer dem Pfeil nach."
-**Cliffhanger:** Sie folgen den Pfeilen -- und hoeren WASSER. Laut. Nah.
+Aber: Wasser sickert durch die Waende. Der Regen von oben drueckt nach unten. Der Boden wird nass.
+Meiers Warnung hallt nach: "Nach dem Regen brechen sie ein."
+**Cliffhanger:** Sie folgen den Pfeilen -- und hoeren WASSER. Laut. Nah. Steigt es?
 
 ------------------------------------------------------------------------
 
@@ -185,7 +192,8 @@ Jonas erinnert sich an die Pfeile an den Waenden.
 
 Grosse unterirdische Kammer.
 In der Mitte: eine natuerliche Quelle. Wasser fliesst aus dem Felsen.
-Waende mit alten Symbolen bedeckt.
+Waende mit alten Symbolen bedeckt -- Zeichnungen von Baeumen, Haeusern, Menschen.
+Jonas: "DAS hat Frau Bergmann gesehen. Die Quelle. Die Zeichnungen."
 Auf einem Steinsockel: eine versiegelte Truhe.
 **Cliffhanger:** Die Truhe traegt das gleiche Wappen wie das Herrenhaus. Die Zeitkapsel.
 
@@ -193,7 +201,7 @@ Auf einem Steinsockel: eine versiegelte Truhe.
 
 ### Kapitel 13 -- Bens Plan
 
-Weg zurueck versperrt. Ausweg noetig.
+Weg zurueck versperrt. Ausweg noetig. Taschenlampe flackert -- Batterie wird schwach.
 Ben hat die Idee (!): Frau Bergmann wurde unter dem BRUNNEN gefunden.
 Also gibt es einen Aufgang zum Brunnen!
 Er folgt dem Wassergeraeusch.
@@ -228,6 +236,7 @@ Der Brief erklaert: Eichenhain wurde wegen der Heilquelle gegruendet.
 Dorfversammlung.
 Krueger und Kinder praesentieren die Funde.
 Frau Bergmann steht auf und erzaehlt ihre Geschichte von 1953.
+"Ich habe die Quelle gesehen. Die Zeichnungen an den Waenden. Ich wusste, dass dort etwas Wichtiges war. Aber niemand hat mir geglaubt."
 Traenen. Applaus. Das Dorf versoehnt sich mit seiner Vergangenheit.
 **Cliffhanger:** Der Buergermeister: "Und was machen wir jetzt mit den Gaengen?"
 
@@ -237,7 +246,8 @@ Traenen. Applaus. Das Dorf versoehnt sich mit seiner Vergangenheit.
 
 Gaenge werden gesichert, nicht versiegelt.
 Brunnen wird Denkmal mit Gedenktafel.
-Meier hilft bei der Sicherung -- Redemption komplett.
+Meier leitet die Sicherungsarbeiten. Das Dorf sieht ihn anders -- nicht mehr der Spuk-Mann, sondern ein Gruenderfamilien-Erbe. "Ich bin auch eine Gruenderfamilie. Meier. Das bin ich."
+Meier enthuellt: Er war es, der bemerkt hat, dass die Kinder zu lange weg waren. Er hat Krueger alarmiert -- deshalb stand Krueger am Brunnen.
 Kinder werden als "Ehrenbuerger" gewuerdigt.
 **Cliffhanger:** Jonas' Telefon klingelt. Eine unbekannte Nummer.
 
@@ -245,10 +255,11 @@ Kinder werden als "Ehrenbuerger" gewuerdigt.
 
 ### Kapitel 18 -- Der Anruf
 
-Winter ruft an. Kurzes, emotionales Telefonat.
-Er dankt den Kindern.
+Winter ruft an. Jonas schaltet auf Lautsprecher -- Mila und Ben hoeren mit.
+Kurzes, emotionales Telefonat. Er dankt den Kindern.
 "Es gibt eine zweite Quelle. Irgendwo im Wald hinter Eichenhain.
 Ich habe sie nie gefunden. Aber die Karte zeigt den Weg."
+Ben reisst die Augen auf. Mila greift Jonas am Arm.
 **Cliffhanger:** "Vielleicht komme ich bald nach Hause. Wenn ihr mir helft."
 
 ------------------------------------------------------------------------
@@ -263,6 +274,19 @@ Ben: "Oh nein. Nicht schon wieder."
 Mila grinst.
 Jonas faltet die Karte zusammen.
 Noch nicht. Aber bald.
+
+------------------------------------------------------------------------
+
+# Charakter-Entwicklung Band 2
+
+| Charakter | Band 1 Ende | Band 2 Entwicklung |
+|-----------|------------|-------------------|
+| Jonas | Akzeptierter Detektiv | Anfuehrer -- muss unter Druck Entscheidungen treffen |
+| Mila | Erste Unsicherheit (Kap 15) | Mehr Verletzlichkeit zeigen (Haende zittern in Kap 11) |
+| Ben | Held in Kap 13 | Strategischer Denker. Rettet erneut die Lage (Kap 13). Klettert zuerst (Kap 14) |
+| Meier | Samstags-Renovierung, Busse | Wird Verbuendeter. Gibt Taschenlampe. Stolz auf Familienerbe. Alarmiert Krueger |
+| Krueger | Mentor/Briefkontakt | Erschuettert: Winter hatte Geheimnisse VOR ihm. Aber bleibt Anker |
+| Frau Bergmann | (neu) | Von Schweigen zu Befreiung. 70 Jahre Last faellt ab |
 
 ------------------------------------------------------------------------
 

@@ -31,8 +31,8 @@ Dramaturgie und starke Cliffhanger. Gleicher Ton wie Band 1.
 Szene 1: Jonas geht durch Eichenhain. Vorbei am Brunnen. Er denkt an Winters Worte: "Ihr habt noch nicht alles gefunden." Blick zum Herrenhaus -- Gerueste, Haemmern, Stimmen.
 Szene 2: Bei der Renovierung. Jonas trifft Mila und Ben. Meier traegt Bretter. Ben macht Witze ueber Meiers neue Rolle. Mila verschraenkt die Arme: "Wir muessen ueber den Brief reden."
 Szene 3: Sie holen den Brunnen-Brief aus Jonas' Rucksack. Das rote Wachssiegel. "Die Wahrheit ueber den Brunnen." Diskussion: Oeffnen oder nicht? Ben: "Was, wenn da etwas Schlimmes drinsteht?" Mila: "Dann muessen wir es erst recht wissen."
-Szene 4: Jonas bricht das Siegel.
-**Cliffhanger:** Das Wachs zerbricht. Der Brief ist offen.
+Szene 4: Jonas bricht das Siegel. Das Wachs zerbricht. Er zieht den Brief heraus, faltet ihn auf. Seine Augen werden gross. Seine Hand zittert.
+**Cliffhanger:** Jonas wird blass. "Da steht etwas ueber den Brunnen."
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ Szene 4: Jonas bricht das Siegel.
 
 Szene 1: Bei Krueger. Er sitzt am Brunnen, fuettert Tauben (wie immer). Sie zeigen ihm den geoeffneten Brief. Krueger wird blass, als er liest.
 Szene 2: Inhalt des Briefs: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H.W." Dazu eine einfache Skizze.
-Szene 3: Krueger ist erschuettert. "Davon hat er mir nie erzaehlt." Jonas: "Er hat Ihnen nicht alles gesagt?" Krueger schuettelt den Kopf. Langsam. "Heinrich hatte immer noch ein Geheimnis hinter dem Geheimnis."
+Szene 3: Krueger ist erschuettert. Seine Hand zittert. "Ich wusste vieles. Aber DAS hat er mir nie erzaehlt." Jonas: "Er hat Ihnen nicht alles gesagt?" Krueger schuettelt den Kopf. Langsam. "Heinrich hatte immer noch ein Geheimnis hinter dem Geheimnis. Selbst vor mir."
 Szene 4: Mila: "Was ist 1953 passiert?" Krueger schweigt. Dann: "Daran erinnere ich mich. Ich war ein Kind. Zwei Kinder sind verschwunden. Einen ganzen Tag. Und als sie gefunden wurden... hat das Dorf beschlossen, nie wieder darueber zu reden."
 **Cliffhanger:** Krueger: "Aber eine der beiden lebt noch."
 
@@ -61,7 +61,7 @@ Szene 4: Milas Oma warnt: "Frau Bergmann spricht nicht darueber. Niemand im Dorf
 Szene 1: Am naechsten Tag. Jonas' Zimmer. Die drei sitzen auf dem Boden. Jonas breitet alles aus: den Brief, die Skizze, die Funde aus Band 1.
 Szene 2: Ben nimmt das leere Blatt Papier aus dem Rucksack. "Habt ihr das vergessen?" Jonas: "Das war doch leer." Ben dreht es im Licht. "Meine Oma hat frueher Briefe mit Zitronensaft geschrieben. Unsichtbar. Bis man sie warm macht."
 Szene 3: Sie halten das Papier ueber eine Kerze. Langsam, vorsichtig. Braune Linien erscheinen. Striche. Worte. Ben: "Das ist eine Karte!" Jonas' Haende zittern.
-Szene 4: Die Karte zeigt: Ein Netzwerk von Gaengen unter Eichenhain. Mehrere Eingaenge markiert. Einer mit einem Symbol: 4 Linien + Stern. Die zweite Metalltuer! Und unter dem Brunnen: ein X. Daneben ein Wort: "Anfang."
+Szene 4: Die Karte zeigt: Ein Netzwerk von Gaengen unter Eichenhain. Mehrere Eingaenge markiert. Einer mit einem Symbol: 4 Linien + Stern. Die zweite Metalltuer! Und unter dem Brunnen: ein X. Daneben ein Wort: "Anfang." Aber: An einer Stelle ist die Tinte verwischt. Ein alter Wasserfleck. Ben: "Hier fehlt ein Stueck. Das kann ich nicht lesen." Jonas: "Egal. Wir haben genug."
 **Cliffhanger:** Die Gaenge fuehren unter den ganzen Dorfplatz. Unter dem Brunnen steht das X.
 
 ------------------------------------------------------------------------
@@ -88,22 +88,22 @@ Szene 4: Aber die Tuer ist verschlossen. Kein Schloss. Kein Griff. Nur das Symbo
 
 ------------------------------------------------------------------------
 
-### Kapitel 7 -- Das Raetsel der vier Linien
+### Kapitel 7 -- Meiers Gestaendnis
 
-Szene 1: Jonas studiert die Karte. Neben dem 4-Linien-Symbol: winzige Schrift. "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg."
-Szene 2: Recherche: Welche 4 Familien gruendeten Eichenhain? Archiv, Krueger, alte Dokumente. Winter, Bergmann, Hoffmann, Meier -- die vier Gruenderfamilien!
-Szene 3: Jonas erkennt: 4 Linien = 4 Familien. Der Stern = die Quelle (der Grund fuer die Gruendung). Am Mechanismus sind 4 Vertiefungen. Sie brauchen 4 Gegenstaende der 4 Familien.
-Szene 4: Sie haben schon eines: Winters goldenen Knopf! Krueger gibt ihnen Bergmanns altes Kreuz (von Frau Bergmann). Meier hat ein Familien-Wappen-Siegel. Fuer Hoffmann: Frau Bergmann erinnert sich -- Karl hatte einen Messingring. Er liegt in ihrem Schmuckkaestchen. Sie gibt ihn den Kindern.
-**Cliffhanger:** Sie setzen die vier Gegenstaende ein. Ein Klicken. Die Tuer schwingt auf. Dahinter: kein Tunnel. Sondern eine Treppe. Nach UNTEN.
+Szene 1: Samstag. Meier bei der Renovierung. Die Kinder erzaehlen ihm von der verschlossenen Tuer mit dem 4-Linien-Symbol. Meier wird still.
+Szene 2: "Mein Vater hat mir davon erzaehlt. Von den Gaengen. Von der Nacht, als die Kinder verschwanden. Er war einer der Maenner, die sie gesucht haben." Meier schluckt. "Mein Vater hat gesagt: Geh nie in die Naehe des Brunnens. Nie."
+Szene 3: Meier gibt den Kindern die alte Taschenlampe seines Vaters. Schwer, Metall, funktioniert noch. "Die hat mein Vater benutzt, als er 1953 nach den Kindern gesucht hat." Jonas studiert die Karte. Neben dem 4-Linien-Symbol: winzige Schrift. "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg." Recherche mit Krueger: Winter, Bergmann, Hoffmann, Meier -- die vier Gruenderfamilien! 4 Linien = 4 Familien. Am Mechanismus sind 4 Vertiefungen. Sie brauchen 4 Gegenstaende.
+Szene 4: Sie haben Winters goldenen Knopf. Meier gibt sein Familien-Wappen-Siegel. Krueger vermittelt Bergmanns altes Kreuz. Aber fuer Hoffmann: Frau Bergmann erinnert sich -- Karl hatte einen Messingring. Er liegt in ihrem Schmuckkaestchen.
+**Cliffhanger:** Drei von vier. Fuer den letzten Gegenstand muessen sie zurueck zu Frau Bergmann. "Sie wird ihn nicht hergeben", sagt Ben. "Der Ring ist alles, was sie von Karl hat."
 
 ------------------------------------------------------------------------
 
-### Kapitel 8 -- Meiers Gestaendnis
+### Kapitel 8 -- Das Raetsel der vier Linien
 
-Szene 1: Samstag. Meier bei der Renovierung. Die Kinder erzaehlen ihm von der geoeffneten Tuer. Meier wird still.
-Szene 2: "Mein Vater hat mir davon erzaehlt. Von den Gaengen. Von der Nacht, als die Kinder verschwanden. Er war einer der Maenner, die sie gesucht haben." Meier schluckt. "Mein Vater hat gesagt: Geh nie in die Naehe des Brunnens. Nie."
-Szene 3: Meier gibt den Kindern die alte Taschenlampe seines Vaters. Schwer, Metall, funktioniert noch. "Die hat mein Vater benutzt, als er 1953 nach den Kindern gesucht hat."
-Szene 4: Aber dann Meiers Warnung: "Die Gaenge sind alt. Nicht stabil. Nach starkem Regen koennen sie einstuerzen." Ben sieht aus dem Fenster.
+Szene 1: Zurueck bei Frau Bergmann. Sie hoert zu. Ihre Hand schliesst sich um das Schmuckkaestchen. "Karls Ring. Er hat ihn mir gegeben, bevor..." Stille. Ihre Augen werden feucht.
+Szene 2: Mila setzt sich neben sie. "Wir bringen ihn zurueck. Versprochen. Aber ohne den Ring kommen wir nicht weiter." Frau Bergmann sieht Mila lange an. Dann oeffnet sie das Kaestchen. Ein kleiner Messingring. Abgegriffen. Sie gibt ihn Mila. Ihre Hand zittert.
+Szene 3: Zurueck im Tunnel. Die vier Gegenstaende. Jonas setzt Winters Knopf ein. Mila das Kreuz. Ben Meiers Siegel. Jonas den Ring. Ein Klicken. Noch eins. Die Tuer vibriert.
+Szene 4: Die Tuer schwingt auf. Dahinter: kein Tunnel. Sondern eine Treppe. Steinerne Stufen, die nach UNTEN fuehren. Kalte Luft steigt auf. Aber dann Meiers Warnung: "Die Gaenge sind alt. Nicht stabil. Nach starkem Regen koennen sie einstuerzen." Ben sieht nach oben.
 **Cliffhanger:** Draussen: dunkle Wolken. Es hat angefangen zu regnen.
 
 ------------------------------------------------------------------------
@@ -113,7 +113,7 @@ Szene 4: Aber dann Meiers Warnung: "Die Gaenge sind alt. Nicht stabil. Nach star
 Szene 1: Trotz Regen: Sie gehen zurueck zum Tunnel. Durch die geoeffnete Metalltuer. Zur Treppe. Die Stufen sind steinern, abgenutzt, feucht.
 Szene 2: Sie steigen hinunter. 30 Stufen. 40. 50. Es wird kaelter. Die Luft riecht nach Erde und Stein. Aelter als Winters Tunnel. Viel aelter.
 Szene 3: Am Fuss der Treppe: ein Gang. Niedrige Decke. Jonas muss sich buecken. An den Waenden: Pfeile, eingeritzt in den Stein. Und Symbole, die niemand lesen kann.
-Szene 4: Der Gang fuehrt 100 Meter geradeaus. Dann: eine Kreuzung. Drei Gaenge. Jonas holt die Karte heraus. Aber hier -- genau an dieser Stelle -- ist die Tinte verwischt. Wasserfleck. Nicht lesbar.
+Szene 4: Der Gang fuehrt 100 Meter geradeaus. Dann: eine Kreuzung. Drei Gaenge. Jonas holt die Karte heraus. Aber hier -- genau an dieser Stelle -- der Wasserfleck. Den sie in Kap 4 schon gesehen haben. "Das fehlende Stueck", fluestert Ben. Nicht lesbar.
 **Cliffhanger:** Drei Gaenge. Kein Hinweis welcher der richtige ist. Und von oben: das Rauschen von Regen, der staerker wird.
 
 ------------------------------------------------------------------------
@@ -134,9 +134,9 @@ Szene 4: KRACH. Hinter ihnen stuerzt der Gang ein. Staub. Dunkelheit. Husten.
 
 Szene 1: Panik. Ben atmet schnell. "Nein. Nein nein nein." Mila fasst seine Schulter. "Atmen. Langsam." Ihre eigenen Haende zittern.
 Szene 2: Jonas leuchtet mit der Taschenlampe vorwaerts. Der Gang geht weiter. "Wir koennen nicht zurueck. Aber wir koennen vorwaerts." Ben: "Das hast du beim letzten Mal auch gesagt." Jonas: "Und es hat funktioniert."
-Szene 3: Sie gehen weiter. Jonas achtet auf die Pfeile. "Die Pfeile zeigen den Weg. Immer dem Pfeil nach." Nach 10 Minuten: der Gang wird breiter. Hoeher. Die Luft wird feuchter.
-Szene 4: Und dann hoeren sie es. Leise zuerst. Dann lauter. Wasser. Nicht tropfend. Fliessend. Wie ein Bach.
-**Cliffhanger:** Das Wassergeraeusch kommt von vorne. Laut. Nah. Und der Boden unter ihren Fuessen wird nass.
+Szene 3: Sie gehen weiter. Jonas achtet auf die Pfeile. "Die Pfeile zeigen den Weg. Immer dem Pfeil nach." Aber: Wasser sickert durch die Waende. Kleine Rinnsale laufen den Stein hinunter. Der Regen von oben drueckt nach unten. Mila: "Es wird nasser." Ben: "Meier hat gesagt, nach dem Regen brechen sie ein." Jonas: "Dann muessen wir schneller sein."
+Szene 4: Nach 10 Minuten: der Gang wird breiter. Hoeher. Die Luft wird feuchter. Und dann hoeren sie es. Leise zuerst. Dann lauter. Wasser. Nicht tropfend. Fliessend. Wie ein Bach.
+**Cliffhanger:** Das Wassergeraeusch kommt von vorne. Laut. Nah. Und der Boden unter ihren Fuessen steht schon unter Wasser. Steigt es?
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ Szene 4: Und dann hoeren sie es. Leise zuerst. Dann lauter. Wasser. Nicht tropfe
 
 Szene 1: Der Gang oeffnet sich. Eine grosse Kammer. Hohe Decke. Die Taschenlampe reicht kaum bis zur gegenueberliegenden Wand.
 Szene 2: In der Mitte: ein natuerlicher Felsen. Und aus dem Felsen fliesst Wasser. Klar. Kalt. Es sammelt sich in einer Steinmulde und fliesst in einen Rinnsal davon. Ben: "Eine Quelle. Unter dem Dorf." Jonas: "DIE Quelle."
-Szene 3: Die Waende sind bedeckt mit alten Symbolen. Keine Schrift -- Zeichnungen. Baeume, Haeuser, Menschen um eine Wasserquelle. Uralt. Ben: "Das sind die Gruender." Mila: "Sie haben das Dorf wegen der Quelle gebaut."
+Szene 3: Die Waende sind bedeckt mit alten Symbolen. Keine Schrift -- Zeichnungen. Baeume, Haeuser, Menschen um eine Wasserquelle. Uralt. Ben: "Das sind die Gruender." Mila: "Sie haben das Dorf wegen der Quelle gebaut." Jonas starrt auf die Zeichnungen. "DAS hat Frau Bergmann gesehen. Die Quelle. Die Zeichnungen. Als Kind. Sie wusste, dass hier etwas Wichtiges war. Aber niemand hat ihr geglaubt."
 Szene 4: Und dort, auf einem Steinsockel neben der Quelle: eine versiegelte Truhe. Klein. Dunkel. Mit einem Wappen auf dem Deckel.
 **Cliffhanger:** Jonas kennt das Wappen. Es ist dasselbe wie am Herrenhaus. Die Zeitkapsel der Gruender.
 
@@ -152,8 +152,8 @@ Szene 4: Und dort, auf einem Steinsockel neben der Quelle: eine versiegelte Truh
 
 ### Kapitel 13 -- Bens Plan
 
-Szene 1: Sie nehmen die Truhe. Aber jetzt: raus. Der Weg zurueck ist versperrt. Die Karte hilft nicht -- Tinte verwischt. Mila: "Es muss einen anderen Weg geben."
-Szene 2: Jonas sucht die Waende ab. Keine Tuer. Kein Gang. Nur die Quelle, das Rinnsal, und die Symbole.
+Szene 1: Sie nehmen die Truhe. Aber jetzt: raus. Der Weg zurueck ist versperrt. Die Karte hilft nicht -- Tinte verwischt. Die Taschenlampe flackert. Einmal. Zweimal. Ben: "Die Batterie." Mila: "Es muss einen anderen Weg geben. Schnell."
+Szene 2: Jonas sucht die Waende ab. Keine Tuer. Kein Gang. Nur die Quelle, das Rinnsal, und die Symbole. Die Taschenlampe flackert wieder.
 Szene 3: Ben steht still. Denkt nach. Dann: "Wartet. Frau Bergmann. 1953. Sie wurde unter dem BRUNNEN gefunden." Jonas: "Und?" Ben: "Unter dem Brunnen. Nicht im Tunnel. Sie ist unter dem Brunnen RAUSGEKOMMEN. Es gibt einen Aufgang von hier zum Brunnen."
 Szene 4: Ben folgt dem Rinnsal. Es fliesst in eine Richtung -- weg von der Quelle, durch ein Loch in der Wand. Dahinter: ein schmaler Gang. Und am Ende des Gangs:
 **Cliffhanger:** Eine rostige Leiter. Sie fuehrt nach oben. Direkt unter den Brunnen.
@@ -186,7 +186,7 @@ Szene 4: Stille. Dann Jonas: "Eichenhain wurde wegen der Quelle gegruendet." Ben
 
 Szene 1: Dorfversammlung im Rathaus. Der Buergermeister hat eingeladen. Voller Saal. Alle wollen wissen, was passiert ist.
 Szene 2: Krueger erklaert: Die Gruendung, die Quelle, die Gaenge, die Versiegelung 1953. Gemurmel im Saal. Einige Aeltere senken den Blick.
-Szene 3: Frau Bergmann steht auf. Langsam. Gestuetzt auf ihren Stock. Alle werden still. "Ich war zehn. Wie diese drei Kinder." Ihre Stimme zittert. "Karl und ich haben die Gaenge gefunden. Wir dachten, es waere ein Abenteuer. Und dann war es dunkel. Und kalt. 14 Stunden." Traenen. Applaus. Eine Frau umarmt sie.
+Szene 3: Frau Bergmann steht auf. Langsam. Gestuetzt auf ihren Stock. Alle werden still. "Ich war zehn. Wie diese drei Kinder." Ihre Stimme zittert. "Karl und ich haben die Gaenge gefunden. Wir dachten, es waere ein Abenteuer. Und dann war es dunkel. Und kalt. 14 Stunden." Pause. "Aber ich habe etwas gesehen. Die Quelle. Die Zeichnungen an den Waenden. Ich wusste, dass dort etwas Wichtiges war. Aber niemand hat mir geglaubt. 70 Jahre lang." Traenen. Applaus. Eine Frau umarmt sie. Mila gibt Frau Bergmann Karls Ring zurueck. "Wie versprochen."
 Szene 4: Das Dorf versoehnt sich. Nicht Schuld -- Verstaendnis. "Wir wollten euch schuetzen", sagt ein alter Mann. "Aber man kann die Wahrheit nicht fuer immer vergraben."
 **Cliffhanger:** Der Buergermeister: "Und was machen wir jetzt mit den Gaengen?"
 
@@ -195,7 +195,7 @@ Szene 4: Das Dorf versoehnt sich. Nicht Schuld -- Verstaendnis. "Wir wollten euc
 ### Kapitel 17 -- Das richtige Erbe
 
 Szene 1: Entscheidung: Die Gaenge werden gesichert, nicht versiegelt. Ein Ingenieur wird beauftragt. Der Brunnen bekommt eine Gedenktafel: "Eichenhain -- gegruendet an der Heilquelle."
-Szene 2: Meier hilft aktiv bei der Sicherung. Er arbeitet nicht mehr aus Pflicht, sondern aus Ueberzeugung. "Ich bin auch eine Gruenderfamilie", sagt er. "Meier. Das bin ich." Sein Gesicht veraendert sich. Stolz.
+Szene 2: Meier leitet die Sicherungsarbeiten. Das Dorf sieht ihn anders -- nicht mehr der Spuk-Mann, sondern ein Gruenderfamilien-Erbe. "Ich bin auch eine Gruenderfamilie", sagt er. "Meier. Das bin ich." Sein Gesicht veraendert sich. Stolz. Meier enthuellt: Er war es, der bemerkt hat, dass die Kinder zu lange weg waren. Er hat Krueger alarmiert -- deshalb stand Krueger am Brunnenrand, als sie rauskamen.
 Szene 3: Kleine Zeremonie. Die Kinder bekommen eine Urkunde: "Ehrenbuerger von Eichenhain." Ben haelt die Urkunde verkehrt herum. Alle lachen. Mila verdreht die Augen. Jonas laechelt.
 Szene 4: Abends. Jonas allein. Er sieht aus dem Fenster zum Herrenhaus. Gerueste. Licht. Es ist kein verbotenes Haus mehr. Es ist ein lebendiges Haus.
 **Cliffhanger:** Sein Telefon klingelt. Eine unbekannte Nummer. Jonas hebt ab.
@@ -204,8 +204,8 @@ Szene 4: Abends. Jonas allein. Er sieht aus dem Fenster zum Herrenhaus. Gerueste
 
 ### Kapitel 18 -- Der Anruf
 
-Szene 1: "Hallo?" Stille. Dann eine Stimme. Ruhig. Alt. Freundlich. "Jonas?" Jonas' Herz klopft schneller. "Wer ist da?" "Mein Name ist Heinrich Winter."
-Szene 2: Kurzes, emotionales Telefonat. Winter dankt ihm. "Du und deine Freunde. Ihr habt getan, was ich mir immer gewuenscht habe. Die Wahrheit ans Licht gebracht."
+Szene 1: "Hallo?" Stille. Dann eine Stimme. Ruhig. Alt. Freundlich. "Jonas?" Jonas' Herz klopft schneller. "Wer ist da?" "Mein Name ist Heinrich Winter." Jonas reisst die Augen auf. Er drueckt auf Lautsprecher. Mila und Ben sitzen neben ihm -- sie hoeren alles.
+Szene 2: Kurzes, emotionales Telefonat. Winter dankt ihnen. "Du und deine Freunde. Ihr habt getan, was ich mir immer gewuenscht habe. Die Wahrheit ans Licht gebracht." Ben reisst die Augen auf. Mila greift Jonas am Arm.
 Szene 3: Jonas fragt: "Warum sind Sie gegangen? Wirklich?" Stille. Dann Winter: "Weil ich etwas suche. Es gibt eine zweite Quelle, Jonas. Irgendwo im Wald hinter Eichenhain. Die Gruender haben sie erwaehnt. Aber ich habe sie nie gefunden."
 Szene 4: Winter: "Die Karte, die ihr gefunden habt. Sie zeigt mehr, als ihr bisher gesehen habt. Schaut genau hin." Und dann, leise: "Vielleicht komme ich bald nach Hause. Wenn ihr mir helft, den letzten Teil zu finden."
 **Cliffhanger:** Die Leitung ist still. Winter hat aufgelegt. Jonas starrt auf die Karte. Im Wald hinter Eichenhain: ein zweites X.
@@ -230,10 +230,10 @@ Und er meint es ernst.
 | 1 | Brunnen-Brief (Siegel brechen) | Kap 2: Inhalt des Briefs |
 | 2 | Brief: "Gangsystem unter Brunnen, 1953 versiegelt" | Kap 3: Recherche 1953 |
 | 3 | Zeitungsartikel: Lisbeth Bergmann | Kap 5: Besuch bei Frau Bergmann |
-| 4 | Leeres Papier = Geheimtinte-Karte | Kap 6-7: Zweite Metalltuer lokalisiert |
-| 5 | Frau Bergmann: "Etwas gesehen" | Kap 12: Die Quelle |
-| 7 | 4 Linien = 4 Gruenderfamilien | Kap 7: Tuer oeffnen |
-| 8 | Meiers Warnung: instabile Gaenge + Regen | Kap 10: Einsturz |
+| 4 | Leeres Papier = Geheimtinte-Karte + Wasserfleck (!) | Kap 6-7: Zweite Metalltuer lokalisiert, Kap 9: Wasserfleck = fehlende Info |
+| 5 | Frau Bergmann: "Etwas gesehen" | Kap 12: Jonas erkennt die Quelle + Zeichnungen. Kap 16: Frau Bergmann bestaetigt |
+| 7 | 4 Linien = 4 Gruenderfamilien + 3 Gegenstaende | Kap 8: Frau Bergmann gibt Karls Ring, Tuer oeffnen |
+| 7 | Meiers Warnung: instabile Gaenge + Regen | Kap 10: Einsturz, Kap 11: Wasser sickert durch Waende |
 | 9 | Verwischte Karte an Kreuzung | Kap 10: Falsche Wahl |
 | 12 | Zeitkapsel auf Steinsockel | Kap 15: Oeffnung |
 | 13 | Bens Erinnerung: "unter dem Brunnen gefunden" | Kap 14: Leiter zum Brunnen |
@@ -252,8 +252,8 @@ Und er meint es ernst.
 | 4 | Haende zittern bei Karte | -- | BEN hat die Geheimtinte-Idee! |
 | 5 | Beobachtet Frau Bergmann genau | Ueberredet Frau Bergmann | Hoert still zu |
 | 6 | Vergleicht Karte mit Tuer | "Jetzt." | "Nicht schon wieder ein Tunnel" |
-| 7 | Loest das Raetsel (4 Familien) | Sammelt die Gegenstaende | Hilft beim Einsetzen |
-| 8 | Versteht Meiers Vater-Geschichte | -- | Nimmt Taschenlampe entgegen |
+| 7 | Loest das Raetsel (4 Familien) | -- | "Sie wird ihn nicht hergeben" |
+| 8 | Setzt den Ring ein | Ueberredet Frau Bergmann (sitzt neben ihr) | Nimmt Taschenlampe entgegen |
 | 9 | Achtet auf Pfeile | Geht voran | Zaehlt die Stufen |
 | 10 | Entscheidet: Mitte | "Weiter." | "Was war das?" |
 | 11 | "Immer dem Pfeil nach" | Haende zittern, bleibt stark | Atmet schnell, kaempft mit Panik |
@@ -261,7 +261,7 @@ Und er meint es ernst.
 | 13 | Sucht Ausweg an Waenden | "Es muss einen Weg geben" | BEN hat den rettenden Plan! |
 | 14 | Klettert als Letzter | Klettert nach Ben | BEN klettert zuerst! |
 | 15 | Liest Brief der Gruender | Stille, Ehrfurcht | "Seit Jahrhunderten" |
-| 16 | Beobachtet Frau Bergmann | -- | Ruehrt sich nicht |
+| 16 | Beobachtet Frau Bergmann | Gibt Karls Ring zurueck | Ruehrt sich nicht |
 | 17 | Sieht zum Herrenhaus | Verdreht Augen bei Bens Urkunde | Haelt Urkunde verkehrt herum |
-| 18 | Telefoniert mit Winter | -- | -- |
+| 18 | Telefoniert mit Winter (Lautsprecher) | Greift Jonas am Arm | Reisst Augen auf |
 | 19 | "Bald." | "Wann?" | "Oh nein. Nicht schon wieder." |
