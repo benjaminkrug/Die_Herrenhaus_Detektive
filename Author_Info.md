@@ -338,9 +338,11 @@ Jedes Kapitel muss enthalten:
 - **Samstag, ~3 Wochen nach Band 1:** Jonas geht am Brunnen vorbei. Denkt an Winters Worte. Geht zum Herrenhaus (Renovierung). Beobachtet Meier bei der Arbeit. Trifft Mila und Ben auf der Mauer hinter dem Haus. Diskussion ueber den versiegelten Brief. Jonas bricht das Siegel. Liest den Brief. (Kapitel 1)
 - **Gleicher Tag, kurz danach:** Kinder rennen zu Krueger am Kirchplatz. Zeigen ihm den Brief. Krueger ist erschuettert -- Winter hat ihm nie von den Gaengen erzaehlt. Brief vorlesen: Gangsystem unter Brunnen, 1953 versiegelt. Krueger erzaehlt von 1953: Zwei Kinder (Lisbeth Bergmann, Karl Hoffmann) verschwanden 14 Stunden in den Gaengen. Dorf versiegelte alles, baute Brunnen ueber Haupteingang. Krueger verraet: Lisbeth lebt noch in Eichenhain. Blick zum Haus am Kirchplatz mit Katzen. (Kapitel 2)
 - **Montag (2 Tage spaeter):** Kinder gehen ins Archiv im Rathaus. Milas Oma hat Dienst. Suche in Karton ZEITUNGSAUSSCHNITTE 1950-1960. Ben findet Artikel: "Eichenhainer Wochenblatt, Oktober 1953". Foto: zwei dreckige, verweinte Kinder. Text bestaetigt: Lisbeth Bergmann (10) + Karl Hoffmann (11), Gemeinderat beschloss Versiegelung + Brunnenbau. Milas Oma reagiert ablehnend: "Frau Bergmann spricht nicht darueber." Warnt die Kinder. Mila: "Frau Bergmann war zehn. Genau wie wir." (Kapitel 3)
+- **Dienstag:** Jonas' Zimmer. Alle Funde ausgebreitet. Ben entdeckt Spuren auf dem leeren Blatt Papier im Licht. Idee: Geheimtinte (Zitronensaft, von Bens Oma gelernt). Papier ueber Kerze: braune Linien erscheinen. Geheimtinte-Karte zeigt Gangsystem unter Eichenhain. X unter Brunnen = "ANFANG". Symbol 4 Linien + Stern = zweite Metalltuer. Aber: Wasserfleck verdeckt wichtige Kreuzung. Ben schlaegt vor: Erst mit Frau Bergmann reden. (Kapitel 4)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
 - **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
+- **Geheimtinte-Karte (Kap 4):** Ehemals "leeres Blatt" aus der Kiste im versteckten Raum (Band 1, Kap 7). Mit Zitronensaft geschrieben, durch Kerzenwaerme sichtbar. Zeigt Gangsystem unter ganz Eichenhain. X unter Brunnen = "ANFANG". Symbol 4 Linien + Stern markiert zweite Metalltuer. Manche Eingaenge mit Kreuz = versiegelt. Wasserfleck verdeckt wichtige Kreuzung (wird in Kap 9 relevant). Im Rucksack von Jonas.
 
 ### Was die Kinder in Band 2 NEU erfahren
 - Unter dem Brunnen liegt ein Eingang (Kap 1, Brief)
@@ -354,6 +356,12 @@ Jedes Kapitel muss enthalten:
 - Zeitungsartikel bestaetigt 1953-Geschichte offiziell (Kap 3)
 - Gemeinderat beschloss Versiegelung + Brunnenbau (Kap 3, Zeitung)
 - Frau Bergmann = Lisbeth vom Foto, lebt am Kirchplatz (Kap 3)
+- Leeres Blatt = Geheimtinte-Karte (Zitronensaft, mit Kerze sichtbar gemacht) (Kap 4)
+- Karte zeigt Gangsystem unter ganz Eichenhain (Kap 4)
+- X unter Brunnen markiert mit "ANFANG" (Kap 4)
+- 4-Linien+Stern-Symbol auf Karte = zweite Metalltuer (Kap 4)
+- Manche Eingaenge mit Kreuz durchgestrichen (versiegelt) (Kap 4)
+- Wasserfleck verdeckt wichtige Kreuzung auf der Karte (Kap 4)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
