@@ -295,3 +295,70 @@ Jedes Kapitel muss enthalten:
 - Herr Krueger: alter Mann, sitzt auf Bank am Brunnen, fuettert Tauben, redet in Raetseln
 - Jonas und Mila tauschen Handynummern (Ende Kap 2)
 - Milas Antwort auf Jonas' Nachricht ueber das Licht: "Morgen."
+
+---
+
+# BAND 2: Das Geheimnis des Brunnens
+
+## Ausgangslage Band 2
+
+- 2-3 Wochen nach Band 1
+- Herrenhaus wird renoviert (Gerueste, Bauarbeiter, LKW)
+- Jonas, Mila, Ben = eingespieltes Team
+- Meier hilft jeden Samstag bei der Renovierung
+- Brunnen-Brief noch versiegelt (in Jonas' Rucksack)
+- Zweite Metalltuer unerforscht
+- Leeres Blatt Papier unbeachtet in Jonas' Rucksack
+
+## Neue Figur Band 2
+
+### Frau Bergmann (~80 Jahre)
+- **Rolle:** Zeitzeugin von 1953. War eines der zwei Kinder, die sich im Gangsystem verliefen.
+- **Alter:** ~80 Jahre (war 10 in 1953)
+- **Wohnort:** Kleines Haus am Kirchplatz, Blumenkaesten, Katzen
+- **Eigenschaften:** Klein, weisses Haar, wache Augen. Schweigt seit 70 Jahren. Wird von den Kindern zum Reden gebracht. Erst ablehnend, dann emotional offen.
+- **Sprechweise:** Stockend, leise. Bricht ab. Lange Pausen. Wenn sie erzaehlt, wird sie lebhafter.
+- **Funktion:** Emotionaler Wendepunkt. Verbindung 1953 ↔ heute. Sie war 10 -- genau wie Jonas/Mila/Ben.
+- **Der andere Junge:** Karl Hoffmann (11 in 1953). Nicht mehr am Leben (oder verzogen -- nicht relevant fuer Band 2).
+
+## Charakter-Entwicklung Band 2
+
+| Charakter | Band 1 Ende | Band 2 Entwicklung |
+|-----------|------------|-------------------|
+| Jonas | Akzeptierter Detektiv | Anfuehrer -- muss Entscheidungen treffen |
+| Mila | Erste Unsicherheit (Kap 15) | Mehr Verletzlichkeit zeigen (Haende zittern) |
+| Ben | Held in Kap 13 | Strategischer Denker. Rettet erneut die Lage (Kap 13) |
+| Meier | Samstags-Renovierung | Wird Verbuendeter. Gibt Taschenlampe. Stolz auf Familienerbe |
+| Krueger | Mentor/Briefkontakt | Erschuettert: Winter hatte Geheimnisse VOR ihm |
+
+## Band 2 Kontinuitaets-Tracker
+
+### Zeitlinie Band 2
+(Wird kapitelweise ergaenzt)
+
+### Gefundene Hinweise/Gegenstaende Band 2
+(Wird kapitelweise ergaenzt)
+
+### Was die Kinder in Band 2 NEU erfahren
+(Wird kapitelweise ergaenzt)
+
+### Offene Fragen -- In Band 2 GELOEST
+- Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
+- Was steht auf dem leeren Blatt Papier? → Geheimtinte-Karte (Kap 4)
+- Was ist hinter der zweiten Metalltuer? → Zugang zum alten Gangsystem (Kap 6-7)
+- Warum hatte Eichenhain 1952 keinen Brunnen? → Brunnen wurde 1953 gebaut um Gangsystem-Eingang zu versiegeln (Kap 2/5)
+- Was meint Winter mit "Ihr habt noch nicht alles gefunden"? → Die Zeitkapsel unter der Quelle (Kap 12)
+
+### Offene Fragen -- FUER BAND 3
+- Was ist die "zweite Quelle" im Wald hinter Eichenhain?
+- Warum ist Winter WIRKLICH verschwunden? (suchte er die zweite Quelle?)
+- Was zeigt die Karte noch, das die Kinder bisher nicht gesehen haben?
+- Kommt Winter nach Hause?
+
+### Die vier Gruenderfamilien von Eichenhain
+| Familie | Gegenstand (Tuer-Code) | Heutige Verbindung |
+|---------|----------------------|-------------------|
+| Winter | Goldener Knopf (aus Band 1) | Herr Winter (abwesend), Herrenhaus |
+| Bergmann | Altes Kreuz | Frau Bergmann (Zeitzeugin) |
+| Hoffmann | Messingring | Karl Hoffmann (1953-Junge, verstorben/verzogen) |
+| Meier | Familien-Wappen-Siegel | Herr Meier (Ladenbesitzer) |
