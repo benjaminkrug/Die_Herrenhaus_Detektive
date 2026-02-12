@@ -336,13 +336,20 @@ Jedes Kapitel muss enthalten:
 
 ### Zeitlinie Band 2
 - **Samstag, ~3 Wochen nach Band 1:** Jonas geht am Brunnen vorbei. Denkt an Winters Worte. Geht zum Herrenhaus (Renovierung). Beobachtet Meier bei der Arbeit. Trifft Mila und Ben auf der Mauer hinter dem Haus. Diskussion ueber den versiegelten Brief. Jonas bricht das Siegel. Liest den Brief. (Kapitel 1)
+- **Gleicher Tag, kurz danach:** Kinder rennen zu Krueger am Kirchplatz. Zeigen ihm den Brief. Krueger ist erschuettert -- Winter hat ihm nie von den Gaengen erzaehlt. Brief vorlesen: Gangsystem unter Brunnen, 1953 versiegelt. Krueger erzaehlt von 1953: Zwei Kinder (Lisbeth Bergmann, Karl Hoffmann) verschwanden 14 Stunden in den Gaengen. Dorf versiegelte alles, baute Brunnen ueber Haupteingang. Krueger verraet: Lisbeth lebt noch in Eichenhain. Blick zum Haus am Kirchplatz mit Katzen. (Kapitel 2)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
-- **Winters Brief (geoeffnet, Kap 1):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Inhalt (teilweise): "Unter dem Brunnen liegt ein Eingang." + "Findet den anderen Zugang." Vollstaendiger Inhalt wird in Kap 2 bei Krueger besprochen.
+- **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
 
 ### Was die Kinder in Band 2 NEU erfahren
 - Unter dem Brunnen liegt ein Eingang (Kap 1, Brief)
 - Es gibt einen "anderen Zugang" (Kap 1, Brief)
+- Gangsystem unter dem Dorf, 1953 versiegelt (Kap 2, Krueger)
+- 1953: Zwei Kinder (Lisbeth Bergmann + Karl Hoffmann) verschwanden 14 Stunden in den Gaengen (Kap 2)
+- Dorf baute Brunnen ueber den Haupteingang (Kap 2)
+- Lisbeth Bergmann lebt noch in Eichenhain, am Kirchplatz (Kap 2)
+- Karl Hoffmann weggezogen (Kap 2)
+- Winter kannte die Gaenge, hat es selbst Krueger verschwiegen (Kap 2)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)

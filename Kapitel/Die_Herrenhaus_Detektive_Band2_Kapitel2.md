@@ -42,6 +42,19 @@ Mila hatte recht.
 Krueger kannte Winter besser als alle anderen.
 Wenn jemand wusste, was der Brief bedeutete, dann er.
 
+Ben holte sie ein.
+Keuchend.
+"Koennen wir... kurz... anhalten?"
+
+"Nein", sagte Mila.
+
+"Ich sterbe gleich."
+
+"Stirbst du nicht."
+
+Ben stoehnte.
+Aber er rannte weiter.
+
 ---
 
 Herr Krueger sass auf seiner Bank.
@@ -190,6 +203,20 @@ Es klang traurig.
 "Heinrich hatte immer noch ein Geheimnis hinter dem Geheimnis.
 Selbst vor mir."
 
+Jonas sah die Skizze auf dem Brief.
+Einfache Linien.
+Ein Kreis fuer den Brunnen.
+Striche fuer die Gaenge darunter.
+Und ein Pfeil, der vom Herrenhaus zum Brunnen zeigte.
+
+"Die Skizze zeigt Verbindungen", sagte Jonas.
+"Vom Herrenhaus zum Brunnen.
+Winter kannte die Gaenge."
+
+Krueger nickte schwer.
+"Er kannte sie.
+Und er hat es mir verschwiegen."
+
 Der Wind wehte ueber den Platz.
 Die Tauben flogen auf.
 Das Wasser im Brunnen plaetscherte.
@@ -225,10 +252,13 @@ Das ganze Dorf hat sie gesucht."
 
 "Unter der Erde."
 Krueger sprach leise.
+Fast fluesterte er.
 "Sie hatten einen Eingang gefunden.
-Irgendwo.
+Irgendwo hinter der Kirche.
+Ein Loch im Boden, versteckt unter Efeu.
 Und sind reingeklettert.
 14 Stunden lang hat das Dorf gesucht.
+Mit Fackeln und Seilen.
 14 Stunden."
 
 Ben wurde blass.
@@ -242,8 +272,17 @@ Im Dreck.
 Unter dem Dorfplatz."
 
 Jonas' Magen zog sich zusammen.
+Er stellte sich vor, wie es war.
+Allein unter der Erde.
+Im Dunkeln.
+14 Stunden lang.
 
-"Und dann?" fragte er.
+Ben schluckte.
+"Ich waere gestorben.
+Einfach so.
+Vor Angst gestorben."
+
+"Und dann?" fragte Jonas.
 
 "Dann hat das Dorf beschlossen, nie wieder davon zu sprechen.
 Sie haben alle Eingaenge versiegelt.
@@ -264,7 +303,9 @@ Harmlos.
 
 Ben starrte auf den Brunnen.
 Sein Mund stand offen.
-"Wir werfen Muenzen in einen Deckel.
+Seine Augen wurden gross.
+"Wir werfen Muenzen da rein.
+Jeden Tag.
 Der Brunnen ist ein DECKEL."
 
 Mila stand auf.
@@ -286,8 +327,12 @@ Krueger seufzte.
 Tief.
 
 "Lisbeth", sagte er dann.
+Leise.
+Als ob der Name weh tat.
 "Das Maedchen hiess Lisbeth.
-Und der Junge hiess Karl."
+Lisbeth Bergmann.
+Und der Junge hiess Karl.
+Karl Hoffmann."
 
 "Und?" fragte Jonas.
 "Wo sind sie jetzt?"
@@ -297,6 +342,8 @@ Seine Augen waren ernst.
 Ernster als je zuvor.
 
 "Karl ist vor vielen Jahren weggezogen.
+Weit weg.
+Wollte nie wieder zurueck.
 Aber Lisbeth..."
 
 Er hielt inne.
@@ -324,7 +371,26 @@ Einen nach dem anderen.
 
 Jonas schluckte.
 Mila griff seinen Arm.
+Ihre Finger waren kalt.
 Ben trat einen Schritt zurueck.
+
+"Wer?" fragte Mila leise.
+"Wer ist es?"
+
+Krueger sah zum Kirchplatz.
+Zu den kleinen Haeusern mit den Blumenkaesten.
+Zu dem Haus mit den Katzen im Fenster.
+
+Er sagte nichts.
+Aber Jonas folgte seinem Blick.
+
+Ein kleines Haus.
+Weisse Gardinen.
+Blumenkaesten am Fenster.
+Und drei Katzen auf der Fensterbank.
+
+Bergmann.
+Lisbeth Bergmann.
 
 Irgendwo in Eichenhain lebte eine alte Frau.
 Sie kannte die Gaenge unter dem Dorf.
