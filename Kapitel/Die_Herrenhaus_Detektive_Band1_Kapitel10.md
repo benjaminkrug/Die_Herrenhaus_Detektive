@@ -450,7 +450,7 @@ Du meinst den Keller, über den ich gesagt habe --"
 „Ja", sagte Mila.
 „Den Keller."
 
-Ben schluckte.
+Ben zog seine Kappe tiefer.
 
 „Heute Nachmittag", sagte Jonas.
 „Bei Tageslicht.

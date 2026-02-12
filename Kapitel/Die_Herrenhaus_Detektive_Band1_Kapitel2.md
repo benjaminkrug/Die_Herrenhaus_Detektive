@@ -93,7 +93,7 @@ Jonas zeigte nach oben.
 Mila nickte langsam.
 Als hätte sie genau das erwartet.
 
-„Du willst mehr wissen", sagte sie.
+„Gut." Mila verschränkte die Arme. „Ich auch."
 
 „Ja", sagte Jonas.
 „Ich will alles wissen."
@@ -209,7 +209,7 @@ Stille.
 
 Nur der Wind rauschte durch die Blätter der großen Eiche.
 
-Jonas schluckte.
+Jonas presste die Lippen zusammen.
 „Und dann hat man das Haus zugesperrt?"
 
 Mila nickte.

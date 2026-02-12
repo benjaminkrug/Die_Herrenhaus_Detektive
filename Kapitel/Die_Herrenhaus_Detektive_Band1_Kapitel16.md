@@ -136,8 +136,13 @@ Ben sah Krüger an.
 
 „Weil ich dabei war", sagte Krüger.
 „In den letzten Wochen vor seinem Verschwinden.
-Er hat mir alles erzählt.
-Jeden Abend saßen wir zusammen.
+Er hat mir alles erzählt."
+
+Milas Augen wurden groß.
+„Sie wussten die ganze Zeit Bescheid?"
+
+Krüger nickte langsam.
+„Jeden Abend saßen wir zusammen.
 Er hat geplant.
 Und ich habe zugehört."
 
@@ -225,8 +230,14 @@ Tief.
 
 „Meier war Heinrichs anderer Freund.
 Sie kannten sich seit Jahren.
-Heinrich hat ihn gebeten, auf das Haus aufzupassen.
-Sicherzustellen, dass niemand die Geheimnisse findet.
+Heinrich hat ihn gebeten, auf das Haus aufzupassen."
+
+Jonas' Atem stockte.
+Herr Meier.
+Der Mann mit dem Laden am Marktplatz.
+
+Krüger sah ihn an.
+„Sicherzustellen, dass niemand die Geheimnisse findet.
 Zumindest nicht die Falschen."
 
 „Und Meier hat den Spuk gebaut", sagte Ben.
@@ -241,8 +252,13 @@ Er sah die Kinder ernst an.
 „Meier meinte es gut.
 Aber er ist zu weit gegangen.
 Die Schnur im Keller.
-Die gruseligen Geschichten.
-Die Kellertür verriegeln."
+Die gruseligen Geschichten."
+
+Ben wurde blass.
+„Das war alles Meier?"
+
+Krüger nickte.
+„Die Kellertür verriegeln."
 
 „Er hat uns eingesperrt", sagte Mila.
 Ihre Stimme war hart.

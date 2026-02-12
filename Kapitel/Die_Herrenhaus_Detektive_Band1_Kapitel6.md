@@ -404,7 +404,7 @@ Kerzenwachs.
 Mila nickte.
 „Kerzen."
 
-Ben schluckte so laut, dass Jonas es hören konnte.
+Ben atmete scharf ein.
 
 Jonas berührte die Wand.
 Sie war feucht.
@@ -498,6 +498,18 @@ Und hinter der Tür hörte Jonas etwas.
 
 Ein leises Ticken.
 
+Gleichmäßig.
+Ruhig.
 Wie eine Uhr.
 
 Die niemand aufgezogen hatte.
+
+Jonas legte das Ohr an das Holz.
+Das Ticken wurde lauter.
+
+Und dann hörte er noch etwas.
+Leise.
+Kaum wahrnehmbar.
+
+Ein Kratzen.
+Als würde sich auf der anderen Seite etwas bewegen.

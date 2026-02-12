@@ -306,12 +306,16 @@ Drei.
 Sieben.
 Eins.
 
-Was, wenn die Zahlen die Position angaben?
+Moment.
+Die Zahlen.
+Was, wenn sie etwas zeigten?
 
 Der dritte Buchstabe von TURM?
 Das R.
 
-Der siebte Buchstabe von ... nein, STEIN hatte nur fünf Buchstaben.
+Der siebte Buchstabe von STEIN?
+Nein.
+STEIN hatte nur fünf Buchstaben.
 
 Jonas biss sich auf die Lippe.
 So ging es auch nicht.
@@ -348,8 +352,10 @@ Auch nicht.
 
 Aber warte.
 
-Was, wenn man nur die Anfangsbuchstaben ALLER Wörter nahm?
-Auch die der Zahlwörter?
+„Wartet", sagte Jonas.
+„Die Zahlwörter.
+Drei, Sieben, Eins.
+Die haben auch Anfangsbuchstaben."
 
 T -- D -- M.
 S -- S -- N.
@@ -363,7 +369,8 @@ Zeilenweise gelesen.
 
 T. D. M. S. S. N. T. E. L.
 
-Und wenn man die Buchstaben in Dreiergruppen las und die richtige Reihenfolge fand?
+Dreiergruppen.
+Was, wenn er die Reihenfolge änderte?
 
 Jonas schrieb schnell.
 Er probierte verschiedene Reihenfolgen.

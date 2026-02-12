@@ -295,7 +295,8 @@ An der Hauswand entlang.
 
 „Die Person ist nicht durchs Tor gegangen", sagte Jonas.
 
-„Sondern?" fragte Mila.
+Mila stand schon.
+„Zeig uns wohin."
 
 Jonas stand auf.
 Sein Blut pochte in den Schläfen.

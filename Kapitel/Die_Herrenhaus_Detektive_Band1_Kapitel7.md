@@ -29,8 +29,8 @@ Seine Knöchel waren weiß.
 
 „Vielleicht sollten wir --" begann er.
 
-„Nein", sagte Mila.
-„Wir sind nicht bis hierher gekommen, um jetzt umzudrehen."
+„Nein." Mila schob sich an ihm vorbei.
+„Tür auf. Weiter."
 
 Jonas strich mit der Hand über das Holz.
 Es war kalt.
@@ -560,3 +560,13 @@ Ben und Mila beugten sich vor.
 Dort stand, in krakeliger Schrift:
 
 *Gemälde.*
+
+Jonas sah hoch.
+Sein Blick ging zur Tür.
+Zum Treppenhaus.
+
+Das Gemälde unten im Salon.
+Der alte Mann mit dem weißen Bart.
+
+„Wir müssen runter", sagte er.
+„Sofort."
