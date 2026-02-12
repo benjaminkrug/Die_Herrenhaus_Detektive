@@ -335,13 +335,14 @@ Jedes Kapitel muss enthalten:
 ## Band 2 Kontinuitaets-Tracker
 
 ### Zeitlinie Band 2
-(Wird kapitelweise ergaenzt)
+- **Samstag, ~3 Wochen nach Band 1:** Jonas geht am Brunnen vorbei. Denkt an Winters Worte. Geht zum Herrenhaus (Renovierung). Beobachtet Meier bei der Arbeit. Trifft Mila und Ben auf der Mauer hinter dem Haus. Diskussion ueber den versiegelten Brief. Jonas bricht das Siegel. Liest den Brief. (Kapitel 1)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
-(Wird kapitelweise ergaenzt)
+- **Winters Brief (geoeffnet, Kap 1):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Inhalt (teilweise): "Unter dem Brunnen liegt ein Eingang." + "Findet den anderen Zugang." Vollstaendiger Inhalt wird in Kap 2 bei Krueger besprochen.
 
 ### Was die Kinder in Band 2 NEU erfahren
-(Wird kapitelweise ergaenzt)
+- Unter dem Brunnen liegt ein Eingang (Kap 1, Brief)
+- Es gibt einen "anderen Zugang" (Kap 1, Brief)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
