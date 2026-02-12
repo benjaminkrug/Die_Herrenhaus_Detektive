@@ -340,6 +340,7 @@ Jedes Kapitel muss enthalten:
 - **Montag (2 Tage spaeter):** Kinder gehen ins Archiv im Rathaus. Milas Oma hat Dienst. Suche in Karton ZEITUNGSAUSSCHNITTE 1950-1960. Ben findet Artikel: "Eichenhainer Wochenblatt, Oktober 1953". Foto: zwei dreckige, verweinte Kinder. Text bestaetigt: Lisbeth Bergmann (10) + Karl Hoffmann (11), Gemeinderat beschloss Versiegelung + Brunnenbau. Milas Oma reagiert ablehnend: "Frau Bergmann spricht nicht darueber." Warnt die Kinder. Mila: "Frau Bergmann war zehn. Genau wie wir." (Kapitel 3)
 - **Dienstag:** Jonas' Zimmer. Alle Funde ausgebreitet. Ben entdeckt Spuren auf dem leeren Blatt Papier im Licht. Idee: Geheimtinte (Zitronensaft, von Bens Oma gelernt). Papier ueber Kerze: braune Linien erscheinen. Geheimtinte-Karte zeigt Gangsystem unter Eichenhain. X unter Brunnen = "ANFANG". Symbol 4 Linien + Stern = zweite Metalltuer. Aber: Wasserfleck verdeckt wichtige Kreuzung. Ben schlaegt vor: Erst mit Frau Bergmann reden. (Kapitel 4)
 - **Mittwoch:** Kinder besuchen Frau Bergmann am Kirchplatz. Sie will sie erst wegschicken. Winters Name veraendert alles -- sie laesst sie rein. Tee in der Kueche. Frau Bergmann erzaehlt: Karl und sie fanden Loch hinter Kirche unter Efeu, kletterten rein, verliefen sich, Taschenlampe ging aus, 14 Stunden Dunkelheit. Meiers Vater trug sie raus. Cliffhanger: "Das Schlimmste war nicht die Dunkelheit. Ich habe etwas GESEHEN." Will morgen den Rest erzaehlen. (Kapitel 5)
+- **Donnerstag, Nachmittag:** Kinder gehen zum Herrenhaus (Bauarbeiter weg). Keller, Tunnel, zweite Metalltuer gefunden: 1m hoch, Eisen, Symbol 4 Linien + Stern, 4 runde Vertiefungen als Mechanismus. Kalter Luftzug von hinter der Tuer. Auf Karte winzige Schrift: "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg." Kinder muessen die vier Gruenderfamilien und ihre Gegenstaende finden. (Kapitel 6)
 
 ### Gefundene Hinweise/Gegenstaende Band 2
 - **Winters Brief (geoeffnet, Kap 1/2):** Versiegeltes rotes Wachs gebrochen. Einzelnes Blatt, vergilbt, dichte krakellige Schrift. Vollstaendiger Inhalt: "Unter dem Brunnen von Eichenhain liegt der Eingang zu einem alten Gangsystem. Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden. Findet den anderen Zugang. -- H. W." Dazu eine einfache Skizze (Kreis=Brunnen, Striche=Gaenge, Pfeil vom Herrenhaus zum Brunnen).
@@ -367,6 +368,10 @@ Jedes Kapitel muss enthalten:
 - Karl und Lisbeth verliefen sich, Taschenlampe ging aus (Kap 5)
 - Meiers Vater war bei der Rettung 1953 dabei (Kap 5)
 - Frau Bergmann hat etwas GESEHEN dort unten -- noch nicht erzaehlt (Kap 5)
+- Zweite Metalltuer gefunden: ca. 1m hoch, Eisen, Symbol 4 Linien + Stern (Kap 6)
+- Tuer hat 4 runde Vertiefungen = Mechanismus fuer 4 Gegenstaende (Kap 6)
+- Kalter Luftzug von hinter der Tuer -- dahinter ist etwas Tiefes (Kap 6)
+- Winzige Schrift auf Karte: "Vier Familien gruendeten Eichenhain. Ihr Zeichen oeffnet den Weg." (Kap 6)
 
 ### Offene Fragen -- In Band 2 GELOEST
 - Was ist "Die Wahrheit ueber den Brunnen"? → (aufloesen in Kap 2/15)
