@@ -39,29 +39,30 @@ Wie eine leere Flasche.
 
 Jonas ging weiter.
 Schritt fuer Schritt.
-Der Gang war schmal.
-Aber nicht so eng wie vorher.
-Er konnte aufrecht gehen.
-Die Decke war nah.
-Aber nicht zu nah.
+
+"Hier kann man stehen", sagte Mila.
+"Endlich."
+
+"Bis zur naechsten Stelle, wo man NICHT stehen kann", murmelte Ben.
 
 Die Pfeile waren noch da.
 In den Stein geritzt.
 Alle paar Meter.
-Jonas achtete auf jeden einzelnen.
 
-*Immer dem Pfeil nach.*
-*Immer dem Pfeil nach.*
+"Da", sagte Jonas.
+"Der naechste Pfeil."
 
-Solange die Pfeile da waren, gab es einen Weg.
-Jemand hatte diesen Gang gekannt.
-Jemand war hier gegangen.
-Vor langer Zeit.
-Und hatte den Weg markiert.
+"Gut", sagte Mila.
+"Solange die Pfeile da sind, gibt es einen Weg."
 
-Jonas klammerte sich an diesen Gedanken.
+"Und wenn sie aufhoeren?" fragte Ben.
+
+"Dann suchen wir einen neuen Pfeil."
+
+"Toller Plan."
+
+Jonas klammerte sich an die Pfeile.
 Wie Ben sich an seine Kappe klammerte.
-Wie Mila sich an ihr Schweigen klammerte.
 
 ---
 
@@ -153,124 +154,112 @@ Er sagte nichts.
 
 Sie gingen zehn Minuten.
 Vielleicht laenger.
-Jonas zahlte nicht mehr.
 
-Der Gang veraenderte sich.
+"Die Wand ist nass", sagte Mila.
+"Fasst mal an."
 
-Zuerst die Waende.
-Feucht vorher.
-Jetzt nass.
-Wasser lief in duennen Rinnsalen den Stein hinunter.
-Glaenzend im Licht der Taschenlampe.
+Jonas legte die Hand an den Stein.
+Nass.
+Wasser lief in duennen Rinnsalen herunter.
 
 "Der Regen", sagte Ben.
-Seine Stimme war jetzt ruhiger.
-Leiser.
-Aber gefasster.
-"Meier hat gesagt, nach dem Regen drueckt das Wasser durch den Stein."
+"Meier hat gesagt, nach dem Regen drueckt das Wasser durch."
 
-Jonas sah es.
-An der Decke: nasse Flecken.
-An den Waenden: Rinnsale.
-Auf dem Boden: kleine Pfuetzen.
+"Er drueckt ganz schoen viel", sagte Mila.
 
+Jonas sah die Pfuetzen auf dem Boden.
 Das Wasser kam von oben.
 Durch den Stein.
-Durch die Erde.
-Der Regen von vorgestern.
-Er war noch nicht fertig.
 
-"Meier hat gesagt, nach starkem Regen koennen die Gaenge einstuerzen", sagte Ben.
+"Meier hat auch gesagt, die Gaenge koennen einstuerzen", sagte Ben.
 "Das haben wir ja gesehen.
 Was passiert, wenn noch mehr einstuerzt?
 VOR uns?"
 
-Jonas wollte nicht daran denken.
+"Dann muessen wir schneller sein", sagte Jonas.
 
-"Dann muessen wir schneller sein", sagte er.
+"Das ist dein Ernst?" fragte Ben.
 
-Er ging schneller.
-Mila auch.
+"Hast du eine bessere Idee?"
+
+Ben schwieg.
+Das war ein Nein.
+
+Sie gingen schneller.
 Ben stolperte.
 Fing sich.
-Ging weiter.
 
-Die Pfeile fuehrten geradeaus.
-Jonas folgte ihnen.
-Blind fast.
-Weil es nichts anderes gab.
+"Alles gut?" fragte Jonas.
 
-Alle paar Schritte wischte er sich das Wasser von der Stirn.
-Tropfen von der Decke.
-Kalt.
-Wie kalte Finger auf der Haut.
+"Nein", sagte Ben.
+"Aber ich gehe weiter."
 
-"Wie spaet ist es?" fragte Jonas.
+Tropfen fielen von der Decke.
+Kalt auf Jonas' Stirn.
 
-Ben sah auf seine Uhr.
-Das Ziffernblatt war staubig.
-Er wischte es mit dem Daumen ab.
+"Wie spaet ist es?" fragte er.
+
+Ben wischte seine Uhr ab.
 "Halb fuenf."
 
-Halb fuenf.
-Sie waren seit einer Stunde hier unten.
-Jonas rechnete.
-Um sechs wuerde seine Mutter anfangen, sich Sorgen zu machen.
-Um sieben wuerde sie die Polizei rufen.
-Und niemand wuerde wissen, wo er war.
+"Eine Stunde", sagte Mila.
+"Seit einer Stunde hier unten."
 
-Der Gedanke sass wie ein Stein in seinem Magen.
-Schwer.
-Kalt.
+"Um sechs macht meine Mutter sich Sorgen", sagte Jonas.
 
-Er ging schneller.
+"Meine schon jetzt", sagte Ben.
 
-Nach fuenf weiteren Minuten veraenderte sich der Gang.
+"Dann muessen wir uns beeilen", sagte Mila.
+"Weniger reden.
+Mehr gehen."
 
-Er wurde breiter.
-Hoeher.
-Die Waende traten zurueck.
-Die Decke stieg.
-Jonas konnte die Arme ausstrecken.
-Zum ersten Mal seit dem Einsturz.
+"DU redest", sagte Ben.
 
-"Es wird groesser", fluesterte Mila.
+Mila ging schneller.
+Ohne Antwort.
 
-Jonas nickte.
-Er spuerte es auch.
-Die Luft war anders hier.
-Waermer.
-Feuchter.
-Er konnte tiefer atmen.
-Zum ersten Mal seit dem Einsturz.
+Nach fuenf Minuten veraenderte sich der Gang.
+
+"Hier ist es breiter", sagte Jonas.
+Er streckte die Arme aus.
+"Ich kann mich bewegen."
+
+"Endlich", sagte Ben.
+"Mein Ruecken bringt mich um."
 
 Die Pfeile an den Waenden waren groesser hier.
 Tiefer eingeritzt.
 Daneben: Symbole.
 Kreise.
 Wellenlinien.
-Wie in der Naehe der Kreuzung.
-Aber mehr davon.
-Dichter.
 
-Jemand hatte sich hier viel Muehe gegeben.
-Das war ein gutes Zeichen.
-Vielleicht.
+"Guckt mal", sagte Mila.
+"Die Zeichen.
+Wie an der Kreuzung.
+Aber viel mehr."
 
-Und der Geruch.
+"Jemand hat sich Muehe gegeben", sagte Jonas.
+"Das ist ein gutes Zeichen."
+
+"Oder eine Warnung", sagte Ben.
+
+"Du siehst ueberall Warnungen."
+
+"Weil ueberall welche sind!"
+
+Jonas schnueffelte.
+Die Luft war anders hier.
 Nicht mehr nur Stein und Erde.
-Etwas anderes.
 Etwas Lebendiges.
-Wie nasses Holz.
-Wie Moos nach dem Regen.
 
 "Riecht ihr das?" fragte er.
 
 "Ja", sagte Mila.
+"Wie Moos.
+Oder nasses Holz."
 
-Ben schnueffelte.
-"Wasser.
-Das riecht nach Wasser."
+"Wasser", sagte Ben.
+"Das riecht nach Wasser."
 
 ---
 
@@ -288,34 +277,34 @@ Hier wollte jemand hin."
 Jonas sah Ben an.
 Ueberrascht.
 Ben hatte recht.
-Die Waende sahen nicht mehr aus wie ein Tunnel.
-Sondern wie der Anfang von etwas Groesserem.
+
+"Stimmt", sagte Jonas.
+"Das hier ist kein Durchgang mehr."
 
 Dann hoerten sie es.
 
-Leise zuerst.
-So leise, dass Jonas dachte, er bildete es sich ein.
-Ein Rauschen.
+"Stopp", sagte Jonas.
+Er hob die Hand.
+
+"Was?" fluesterte Mila.
+
+"Hoert ihr das?"
+
+Stille.
+Dann: ein Rauschen.
 Weit weg.
-Wie Wind in Baeumen.
 
-Aber es gab hier keinen Wind.
-Und keine Baeume.
+"Wind?" fragte Ben.
 
-Er blieb stehen.
-Hob die Hand.
-Mila und Ben blieben auch stehen.
+"Hier unten gibt es keinen Wind", sagte Mila.
 
 Das Rauschen wurde lauter.
 Nicht Wind.
 Wasser.
 Fliessendes Wasser.
 
-Nicht Tropfen.
-Nicht Rinnsale.
-Sondern ein Bach.
-Oder ein Strom.
-Etwas Groesseres.
+"Das ist ein Bach", sagte Mila.
+"Oder ein Strom."
 
 "Was ist das?" fluesterte Ben.
 
@@ -338,24 +327,17 @@ Sie sah nach unten.
 "Auf dem Boden."
 
 Jonas leuchtete zurueck.
-Hinter ihnen: trocken.
+Trocken.
 Vor ihnen: Wasser.
-Duenn.
-Aber da.
 
-Es kam von vorne.
-Aus dem Rauschen.
-Aus der Dunkelheit.
+"Es kommt von vorne", sagte Jonas.
 
-Und es stand nicht still.
-
-Jonas sah es im Licht.
 Eine kleine Welle.
 Kaum sichtbar.
 Aber sie bewegte sich.
-Auf sie zu.
 
 "Es fliesst", sagte er.
+"Auf uns zu."
 
 Ben trat einen Schritt zurueck.
 In den trockenen Teil.
@@ -381,21 +363,26 @@ Ihr Gesicht veraenderte sich.
 "Das ist zu kalt.
 Das kommt von tief unten."
 
-Jonas spuerte es an seinen Fuessen.
-Durch die Schuhe.
-Eiskalt.
+Jonas spuerte die Kaelte durch seine Schuhe.
+
+"Die Quelle", fluesterte Mila.
+"Vielleicht ist es die Quelle."
+
+"Oder eine Ueberschwemmung", sagte Ben.
 
 Stille.
 
-Dann Bens Stimme.
+"Steigt es?" fragte Ben.
 Ganz leise.
-"Steigt es?"
 
 Jonas sah nach vorne.
 In die Dunkelheit.
 In das Rauschen.
-In das Wasser, das langsam stieg.
 
-Er wusste die Antwort nicht.
+"Ja", sagte Mila.
+"Ich glaube schon."
 
-Aber sein Magen kannte sie.
+Jonas sah auf seine Schuhe.
+Das Wasser reichte jetzt bis zum Knoechel.
+
+Sein Magen zog sich zusammen.

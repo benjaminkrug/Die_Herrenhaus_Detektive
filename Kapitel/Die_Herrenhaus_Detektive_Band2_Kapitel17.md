@@ -10,47 +10,21 @@ Drei Tage spaeter.
 
 Jonas sass auf der Mauer hinter dem Herrenhaus.
 Die Sonne war warm.
-Der Himmel blau.
-Und das Herrenhaus sah anders aus.
-
-Gerueste an der Fassade.
-Frische Bretter an der Veranda.
-Neue Dachziegel.
-Haemmer.
-Saegen.
-Stimmen.
 
 Und mittendrin: Meier.
+Mit Werkzeugguertel und Helm.
 
-Er trug einen Werkzeugguertel.
-Haerte auf dem Kopf.
-Schwitzte.
-Und rief Anweisungen.
-
-"Das Brett ist schief!"
+"Das Brett ist schief!" rief er.
 "Nein, andersherum!"
 "Wer hat den Nagel da reingehauen?"
 
 Jonas laechelte.
+Meier war nicht wiederzuerkennen.
 
-Meier war nicht mehr der Mann mit der gruenen Markise.
-Nicht mehr der Mann, der nervoes wurde.
-Der Schluesselbund fallen liess.
-Der sich die Stirn abwischte.
-
-Er war der Mann, der das Herrenhaus rettete.
-
-Meier sah Jonas auf der Mauer.
-Hob die Hand.
+"Vorsicht, das Brett!" rief Meier.
+Dann sah er Jonas.
 Winkte kurz.
-Dann rief er: "Vorsicht, das Brett!"
 Und war wieder in seiner Welt.
-
-Aber Jonas hatte sein Gesicht gesehen.
-Fuer eine Sekunde.
-Meier laechelte.
-Richtig.
-Von innen.
 
 Mila kam von links.
 Sprang auf die Mauer.
@@ -135,38 +109,32 @@ Der Buergermeister hatte eine kleine Buehne aufgebaut.
 Eigentlich nur ein paar Bretter auf Holzboecken.
 Aber es sah wichtig aus.
 
-Krueger stand daneben.
-Meier auch.
-Frau Bergmann sass auf einem Stuhl in der ersten Reihe.
+Frau Bergmann sass in der ersten Reihe.
 Ihre Katze auf dem Schoss.
 
 "Die hat sie mitgebracht?" fluesterte Ben.
 
 "Schsch", sagte Mila.
 
-Der Buergermeister raeusperte sich.
-Seine Brille rutschte.
-Er schob sie hoch.
+"Die Katze guckt mich an", fluesterte Ben.
 
-"Wir sind heute hier, um zwei Dinge zu tun", sagte er.
-"Erstens: eine Tafel zu enthuellen.
+"Die Katze guckt alle an", sagte Mila.
+"Sei still."
+
+Der Buergermeister raeusperte sich.
+"Wir sind heute hier, um zwei Dinge zu tun.
+Erstens: eine Tafel zu enthuellen.
 Zweitens: drei junge Menschen zu ehren."
 
+"Ehren?" fluesterte Ben.
+"Uns?"
+
 Jonas spuerte, wie sein Gesicht warm wurde.
-Im Nacken.
-An den Ohren.
-Er sah auf den Boden.
-Auf seine Schuhe.
-Die gleichen Schuhe, mit denen er durch den Tunnel gelaufen war.
-Jetzt sauber.
-Aber er spuerte immer noch den Stein unter den Sohlen.
 
 Mila stiess ihn mit dem Ellbogen an.
-"Guck nach vorne", fluesterte sie.
+"Guck nach vorne."
 
-"Die Gedenktafel", sagte der Buergermeister.
-
-Er zog ein Tuch von einer Metallplatte am Brunnenrand.
+Der Buergermeister zog ein Tuch von einer Metallplatte.
 
 Jonas las:
 
@@ -190,30 +158,25 @@ Ich sag ja nur."
 ---
 
 Dann holte der Buergermeister drei Urkunden.
-Gross.
-Mit goldenem Rand.
-Und einem Stempel.
+
+"Urkunden?" fluesterte Ben.
+"Echte Urkunden?"
 
 "Jonas Hartmann."
 
 Jonas ging nach vorne.
-Seine Beine fuehlten sich seltsam an.
-Wie aus Wackelpudding.
+Seine Beine fuehlten sich an wie Wackelpudding.
 
-Der Buergermeister gab ihm die Urkunde.
-"Ehrenbuerger von Eichenhain."
+"Ehrenbuerger von Eichenhain", sagte der Buergermeister.
 
 Applaus.
 
 Jonas sah auf die Urkunde.
 Sein Name.
 In grosser Schrift.
-Mit einem Stempel vom Rathaus.
 
-Er war seit ein paar Wochen hier.
-Der Neue.
-Der Junge aus Hamburg.
-Und jetzt: Ehrenbuerger.
+"Ehrenbuerger", fluesterte er.
+Vor ein paar Wochen war er der Neue gewesen.
 
 "Mila Fischer."
 
@@ -261,38 +224,38 @@ Sein Stock tippte auf den Boden.
 Sogar Frau Bergmann laechelte.
 Ihre Katze schnurrte.
 
-Danach kam Meier zu den Kindern.
-Er hatte immer noch den Werkzeugguertel an.
+Danach kam Meier.
 Farbe auf der Wange.
 
-"Ich muss euch etwas sagen", sagte er.
+"Ich muss euch etwas sagen."
 
-Jonas sah ihn an.
+"Was denn?" fragte Jonas.
 
 "Am Donnerstag.
 Als ihr im Tunnel wart.
 Ich habe gemerkt, dass ihr zu lange weg seid."
 
-Er rieb sich den Nacken.
+"Und?" fragte Mila.
 
-"Ich bin zum Herrenhaus gegangen.
-Die Tuer zum Keller war offen.
-Ich habe gesehen, dass die Metalltuer offen war.
-Und dann habe ich Krueger angerufen."
+"Ich bin zum Herrenhaus.
+Die Kellertuer war offen.
+Da habe ich Krueger angerufen."
 
-"Sie haben Krueger geholt?" fragte Mila.
+"SIE haben Krueger geholt?" fragte Ben.
+"Deswegen war er am Brunnen?"
 
 Meier nickte.
-"Krueger stand am Brunnen.
-Er hat gewartet.
-Zwei Stunden.
+"Er hat zwei Stunden gewartet.
 Er wusste, dass ihr dort rauskommen wuerdet."
+
+"Woher?" fragte Jonas.
+
+"Weil er euch kennt", sagte Meier.
 
 Jonas schluckte.
 Krueger hatte am Brunnenrand gestanden.
 Nicht zufaellig.
-Nicht, weil er Tauben fuetterte.
-Sondern weil er auf sie gewartet hatte.
+Fuer sie.
 
 "Danke", sagte Jonas.
 
@@ -300,78 +263,44 @@ Meier zuckte die Schultern.
 "Ihr habt das Richtige getan.
 Ich konnte wenigstens das tun."
 
-Er drehte sich um.
-Ging zurueck zur Baustelle.
-"Das Brett ist IMMER NOCH schief!" rief er.
+"Das Brett ist IMMER NOCH schief!" rief er zur Baustelle.
 
 Ben grinste.
 "Der ist ganz anders jetzt."
 
 "Nein", sagte Jonas.
-"Der war schon immer so.
-Er durfte es nur nicht zeigen."
+"Der war schon immer so."
 
 ---
 
 Nachmittag.
-
-Jonas sass an seinem Schreibtisch.
-In seinem Zimmer.
-Die Urkunde lag neben der Lampe.
-Ehrenbuerger von Eichenhain.
+Jonas in seinem Zimmer.
+Die Urkunde neben der Lampe.
 
 Er sah aus dem Fenster.
-
 Das Herrenhaus auf dem Huegel.
-Gerueste.
 Licht in den Fenstern.
 Echtes Licht.
-Keine Kerzen mehr.
-Gluehbirnen.
-
-Es war kein verbotenes Haus mehr.
-Es war ein lebendiges Haus.
-
-Jonas dachte an den Tag, als er nach Eichenhain gekommen war.
-Das schmale Haus mit den gruenen Fensterlaeden.
-Der Umzugswagen.
-Die Kartons.
-Und das Herrenhaus auf dem Huegel.
-Dunkel.
-Verlassen.
-Mit schwarzen Fenstern.
-
-Jetzt glaenzten die Fenster.
-
-Jonas hoerte Haemmer.
-Stimmen.
-Lachen.
-Meier, der jemanden anrief.
-
-Er laechelte.
 
 Seine Mutter rief von unten.
 "Jonas!
 Abendessen in einer Stunde!"
 
-"Okay!" rief er zurueck.
+"Okay!"
+
+"Und wasch dir die Haende!
+Die sind immer noch rot!"
+
+"Mach ich!"
 
 Er sah auf die Urkunde.
 Auf die Geheimtinte-Karte an der Wand.
-Auf den Rucksack in der Ecke.
-
-Alles war gut.
-Alles war richtig.
 Zum ersten Mal seit Wochen war nichts mehr offen.
 Kein Raetsel.
-Kein Geheimnis.
 Keine verschlossene Tuer.
 
 Er lehnte sich zurueck.
-Schloss die Augen.
 Die Sonne war warm auf seinem Gesicht.
-Draussen zwitscherte ein Vogel.
-Und zum ersten Mal seit Wochen dachte er an gar nichts.
 
 Dann klingelte sein Telefon.
 

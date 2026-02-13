@@ -26,52 +26,56 @@ Klopfte Staub von seiner Hose.
 Grauer Staub.
 Hunderte Jahre alter Staub.
 
-Die Dorfbewohner standen immer noch da.
+Die Dorfbewohner starrten.
 Offene Muender.
 Weite Augen.
-Niemand sagte ein Wort.
 
-Eine Frau mit Einkaufstasche fluesterte:
+Eine Frau fluesterte:
 "Sind die aus dem Brunnen gekommen?"
 
 "Ja", sagte Ben.
 "War gar nicht so schlimm."
-Er klopfte sich Staub von der Schulter.
-Grauer Staub rieselte auf den nassen Pflasterstein.
 
 Mila verdrehte die Augen.
-"Nicht so schlimm?
-Du hast dreimal geschrien."
+"Du hast dreimal geschrien."
 
 "Zweimal", sagte Ben.
 "Hoechstens."
 
-Ein Mann mit Zeitung schuettelte den Kopf.
+"Und einmal geweint", sagte Mila.
+
+"Das war Staub in den Augen!"
+
 Ein Kind auf dem Fahrrad rief:
 "Mama, die kommen aus dem Brunnen!"
 
-Jonas sah sich um.
+"Stimmt", sagte Ben.
+"Aus dem Brunnen.
+Wie Helden."
+
+"Wie dreckige Helden", sagte Mila.
+
+Jonas lachte.
 Er stand auf dem Dorfplatz.
 In der Sonne.
 Nass und dreckig.
-Und er hatte noch nie etwas Schoeneres gesehen.
+Aber frei.
 
 ---
 
 Krueger fuehrte sie zu seinem Haus.
-Es war klein.
+Klein.
 Direkt am Kirchplatz.
-Alte Moebel.
-Buecherregale bis zur Decke.
-Ein Tisch mit einer Spitzendecke.
 
 "Setzt euch", sagte Krueger.
 
+"Ich kann nicht mehr stehen", sagte Ben.
+"Meine Beine sind aus Pudding."
+
+"Meine auch", sagte Mila.
+
 Jonas stellte den Rucksack auf den Tisch.
-Vorsichtig.
 Seine Arme schmerzten vom Klettern.
-Seine Haende waren rot vom Rost.
-Aber in seinem Bauch war ein warmes Gefuehl.
 
 Es klopfte an der Tuer.
 
@@ -119,36 +123,29 @@ Seine Augen waren auf den Rucksack gerichtet.
 Jonas oeffnete den Rucksack.
 Er holte die Truhe heraus.
 
-Sie war kleiner als er sich erinnerte.
-So gross wie eine Schuhschachtel.
-Dunkles Holz.
-Nass vom Quellwasser.
+"Die ist ja winzig", sagte Ben.
+"Wie eine Schuhschachtel."
+
+"Schuhschachteln halten keine 300 Jahre", sagte Krueger.
+
 Auf dem Deckel: das Wappen.
 Vier Symbole in einem Kreis.
-Baum, Kreuz, Ring, Stern.
-Die vier Gruenderfamilien.
 
 "Das gleiche Wappen wie am Herrenhaus", fluesterte Mila.
 
-Meier beugte sich vor.
-"Das ist das Dorfwappen", sagte er.
+"Das Dorfwappen", sagte Meier.
 "Mein Vater hatte es auf seinem Briefpapier."
 
-Jonas nickte.
+"Mach auf", sagte Mila.
 
-Er legte die Finger auf den Deckel.
+Jonas legte die Finger auf den Deckel.
 Das Holz war kalt.
 Glatt.
-Wie Stein.
 
 Er drueckte den Deckel hoch.
-
 Das Scharnier knarrte.
-Laut in der Stille.
 
 Alle beugten sich vor.
-
-Jonas sah hinein.
 
 ---
 
@@ -172,24 +169,22 @@ Ben beugte sich vor.
 Jedenfalls nicht so ein Schatz.
 Etwas Besseres.
 
-Ganz oben lag ein gefaltetes Stueck Papier.
-Nein.
-Kein Papier.
-Pergament.
-Dick.
+Ganz oben lag ein gefaltetes Stueck dickes Papier.
 Gelblich.
 Die Raender wellig.
 
+"Was ist das?" fragte Ben.
+
+"Pergament", sagte Krueger.
+"Altes, dickes Papier.
+So hat man frueher geschrieben."
+
 Jonas nahm es heraus.
 Vorsichtig.
-Wie etwas, das jeden Moment zerbrechen konnte.
-
 Er faltete es auf.
 
-Handgeschriebene Buchstaben.
-Verschnoerkelt.
-Alt.
-Aber lesbar.
+"Da steht was", sagte Mila.
+"Handgeschrieben."
 
 "Gruendungsurkunde", las Jonas.
 "Von Eichenhain."
@@ -338,20 +333,19 @@ Dann wurde sie wieder fest.
 
 "Aber er hat dafuer gesorgt, dass IHR es findet."
 
-Jonas nickte.
-Er dachte an Winter.
-An den alten Mann, den er nie getroffen hatte.
-Der alles geplant hatte.
+"Wie eine Schnitzeljagd", sagte Ben.
+"Winter hat alles geplant.
 Den Brief.
 Die Karte.
-Die Geheimtinte.
-Die Hinweise.
-Wie ein Weg aus Brotkrumen.
+Die Geheimtinte."
 
-Und sie waren ihm gefolgt.
-Bis hierher.
-Bis in diese kleine Kueche.
-Mit Tee und einem Brief, der 300 Jahre alt war.
+"Und wir sind ihm gefolgt", sagte Jonas.
+
+"Bis hierher", sagte Mila.
+"In diese Kueche.
+Mit Tee und einer 300 Jahre alten Urkunde."
+
+"Und einer Tasse mit Sprung", sagte Ben.
 
 Ben nahm noch eine Muenze.
 Drehte sie.

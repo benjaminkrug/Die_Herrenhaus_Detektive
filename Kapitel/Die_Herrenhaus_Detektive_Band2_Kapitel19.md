@@ -9,84 +9,48 @@
 Der Brunnen glaenzte in der Morgensonne.
 
 Jonas sass auf dem Rand.
-Die Steinplatte unter ihm war warm.
-Fest.
-Seit Jahrhunderten hier.
+Die Steinplatte war warm unter ihm.
 
-Er legte seine Hand auf den Stein.
-Unter seinen Fingern: die neue Gedenktafel.
-Die Buchstaben kuehl und glatt.
+Er fuhr mit dem Finger ueber die Gedenktafel.
 
 EICHENHAIN
 Gegruendet an der Heilquelle
 Seit 1712
 
-Hinter ihm: das Dorf.
-Die Baeckerei mit dem offenen Fenster.
-Der Laden mit der gruenen Markise.
-Die alte Eiche auf dem Platz.
-Alles wie immer.
-
-Und doch war alles anders.
-
-Weil Jonas jetzt wusste, was unter seinen Fuessen lag.
-Ein Schacht.
-Eine Leiter.
-Gaenge.
-Eine Quelle.
-300 Jahre Geschichte.
-
-Alles unter einem Brunnen.
-Auf einem Dorfplatz.
-In einem kleinen Ort namens Eichenhain.
-
-Das Wasser im Brunnen plaetscherte.
-Leise.
-Gleichmaessig.
-Wie ein Herzschlag.
-
-Jonas schloss die Augen.
-Lauschte.
-
-Er dachte an Frau Bergmann.
-An ihre Traenen in der Versammlung.
-An ihre Worte: "70 Jahre lang."
-
-Er dachte an Meier.
-An seine Haende auf den Knien.
-An seinen Stolz, als er sagte: "Meine Familie."
-
-Er dachte an Krueger.
-Der am Brunnenrand gestanden hatte.
-Mit seinem Stock.
-Und diesem Laecheln.
-"Ihr habt es gefunden."
-
-Ja.
-Das hatten sie.
-
-Jonas legte die Hand auf den Stein.
-Kuehl.
-Rau unter seinen Fingern.
-Er spuerte die feinen Rillen.
-Die Namen der Gruender, eingeritzt vor Jahrhunderten.
-Unter dem gleichen Himmel.
-
-Die Baeckerei oeffnete ihre Tuer.
 Der Geruch von frischem Brot wehte ueber den Platz.
 Eine Katze schlich um die Eiche.
 Frau Bergmanns getigerte.
-Jonas erkannte sie.
 
-Die Katze sprang auf den Brunnenrand.
+Sie sprang auf den Brunnenrand.
 Setzte sich neben Jonas.
 Schnurrte.
 
-Jonas streichelte sie.
-Ihr Fell war warm von der Sonne.
+"Na, du", sagte Jonas.
+Er streichelte sie.
+"Weisst du, was unter uns ist?"
 
-Gute Frage, dachte er.
-Was jetzt?
+Die Katze schnurrte lauter.
+
+"Ein Schacht", sagte Jonas.
+"Eine Leiter.
+Gaenge.
+Eine Quelle.
+300 Jahre Geschichte."
+
+Die Katze blinzelte.
+
+"Und niemand wusste es", sagte Jonas.
+"Ausser Frau Bergmann.
+Die hat 70 Jahre gewartet.
+Und jetzt wissen es alle."
+
+Er sah zum Herrenhaus.
+Meier haemmerte.
+Krueger sass bestimmt irgendwo mit einem Buch.
+
+"Was jetzt?" fragte er die Katze.
+
+Die Katze gaehnte.
 
 ---
 
@@ -106,14 +70,6 @@ Ben trug die rote Kappe.
 Und darunter: ein Grinsen.
 
 "Na?" fragte Mila.
-
-Jonas antwortete nicht sofort.
-Er sah zum Herrenhaus.
-Auf dem Huegel.
-Gerueste.
-Neue Fenster.
-Jemand haemmerte.
-Meier wahrscheinlich.
 
 "Ich habe heute Nacht nicht geschlafen", sagte Jonas.
 
@@ -138,11 +94,20 @@ Wenn ich muede bin, schlafe ich."
 
 "Danke", sagte Ben.
 
-Sie sassen zu dritt auf dem Brunnen.
-In der Sonne.
-Wie am Anfang.
+Die Katze sprang auf Bens Schoss.
 
-Aber sie waren nicht mehr die gleichen drei Kinder.
+"Hey!" sagte Ben.
+"Warum ich?"
+
+"Katzen moegen aengstliche Menschen", sagte Mila.
+
+"Ich bin nicht aengstlich.
+Ich bin vorsichtig."
+
+"Klar, Ben."
+
+Sie sassen zu dritt auf dem Brunnen.
+Wie am Anfang.
 
 "Wisst ihr, was komisch ist?" sagte Jonas.
 
@@ -190,30 +155,23 @@ Er war zu Hause.
 
 Jonas holte die Karte aus dem Rucksack.
 
-Die Geheimtinte-Karte.
-Braune Linien auf gelbem Papier.
-Er hatte sie gestern Abend von der Wand genommen.
-Zusammengefaltet.
-In den Rucksack gelegt.
+"Du hast sie mitgebracht", sagte Mila.
+
+"Ja."
+
+"Weil du wusstest, dass wir kommen."
+
+Jonas laechelte.
+"Klar."
 
 Er faltete sie auf.
-Auf dem Brunnenrand.
 Zwischen ihnen dreien.
 
-Mila beugte sich sofort darueber.
-Ihre Augen suchten den rechten Rand.
-
 "Da", sagte Jonas.
-Sein Finger zeigte.
+Sein Finger zeigte nach rechts.
+Eine Linie fuehrte ueber Felder in den Wald.
 
-Die Linie.
-Duenn.
-Braun.
-Sie fuehrte vom Dorfrand nach rechts.
-Ueber Felder.
-In den Wald.
-
-Und am Ende: das zweite X.
+"Das zweite X", sagte Mila.
 
 Ben sah es an.
 Kratzte sich unter der Kappe.
@@ -270,10 +228,6 @@ Nach eurem Telefonat.
 Er war gluecklich.
 Zum ersten Mal seit Jahren."
 
-Er sah zum Herrenhaus.
-Dann zum Wald.
-Dann zurueck zu den Kindern.
-
 "Passt auf euch auf", sagte er.
 "Der Wald ist gross.
 Und alt.
@@ -285,40 +239,24 @@ Aelter als die Gaenge."
 Krueger laechelte.
 "Ich weiss."
 
-Er stand auf.
-Langsam.
-Tippte mit dem Stock auf den Boden.
-Ging zurueck ueber den Platz.
+Er ging zurueck ueber den Platz.
 
-Jonas sah ihm nach.
-Dem alten Mann.
-Der so viel wusste.
-Und trotzdem den Kindern vertraute.
+"Er macht sich Sorgen", sagte Ben.
 
----
+"Nein", sagte Jonas.
+"Er vertraut uns."
+
+"Das ist fast schlimmer", sagte Ben.
+
+Mila lachte.
+Kurz.
 
 Jonas sah zum Wald.
-Die Baeume standen dicht hinter den Feldern.
-Hoch.
+Die Baeume standen dicht.
 Dunkel.
-Schatten zwischen den Staemmen.
 
-Er dachte an Winter.
-An die alte Stimme am Telefon.
-"Vielleicht komme ich bald nach Hause."
-
-Ein alter Mann.
-Der sein ganzes Leben lang nach etwas gesucht hatte.
-Und es nie gefunden hatte.
-
-Aber sie hatten die Quelle unter dem Brunnen gefunden.
-Die Zeitkapsel.
-Die Wahrheit.
-In ein paar Wochen.
-
-Was konnten sie im Wald finden?
-
-"Winter kommt nach Hause", sagte Jonas.
+"Winter hat gesagt: Vielleicht komme ich bald nach Hause", sagte Jonas.
+"Wenn wir die zweite Quelle finden."
 "Wenn wir die zweite Quelle finden."
 
 "Dann finden wir sie", sagte Mila.
@@ -376,35 +314,29 @@ Schmal.
 Aber echt.
 
 Jonas faltete die Karte zusammen.
-Langsam.
-Sorgfaeltig.
-Er steckte sie zurueck in den Rucksack.
-Machte den Reissverschluss zu.
+Steckte sie in den Rucksack.
 
-Dann stand er auf.
+"Wann fangen wir an?" fragte Mila.
 
-Er sah zum Wald hinter Eichenhain.
-Die Baeume standen still.
-Kein Wind.
-Kein Geraesch.
-Nur Schatten.
-Und irgendwo dahinter:
-das naechste Geheimnis.
+"Morgen?" sagte Jonas.
+
+"Morgen ist gut", sagte Mila.
+
+"Morgen ist NICHT gut", sagte Ben.
+"Morgen ist viel zu frueh.
+Uebermorgen.
+Naechste Woche.
+Naechstes Jahr."
+
+"Morgen", sagte Mila.
+
+Ben seufzte.
 
 Jonas schulterte den Rucksack.
-Den Rucksack, den er durch Tunnel geschleppt hatte.
-Der eine Truhe getragen hatte.
-Und eine Karte.
-Und die Wahrheit ueber einen Brunnen.
-
-Er drehte sich um.
-Sah den Brunnen an.
-Die Gedenktafel.
-Den Platz.
-Das Dorf.
-
-Dann sah er nach vorne.
-Zum Wald.
+Er sah zum Wald.
+Still.
+Dunkel.
+Und voller Geheimnisse.
 
 "Bald", sagte er.
 

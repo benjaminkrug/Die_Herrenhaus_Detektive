@@ -15,27 +15,30 @@ Sogar draussen vor der Tuer.
 
 Jonas sass in der ersten Reihe.
 Zwischen Mila und Ben.
-Er trug saubere Kleidung.
-Zum ersten Mal seit Stunden.
-Aber seine Haende waren immer noch rot vom Rost.
+Seine Haende waren immer noch rot vom Rost.
 
-Vor ihnen stand ein langer Tisch.
-Darauf: die Truhe.
+Vor ihnen: die Truhe.
 Das Pergament.
 Die Muenzen.
-Die beiden Briefe.
 
-Der Buergermeister sass hinter dem Tisch.
-Ein grosser Mann mit Brille und grauem Anzug.
-Neben ihm: Krueger.
-Und Meier.
+"Alle starren uns an", fluesterte Ben.
 
-"Ruhe bitte", sagte der Buergermeister.
+"Klar", sagte Mila.
+"Wir sind gestern aus einem Brunnen geklettert."
 
-Das Gemurmel wurde leiser.
-Aber nicht still.
-Alle fluesterten.
-Alle wollten wissen, was passiert war.
+"Stimmt.
+Trotzdem komisch."
+
+Der Buergermeister raeusperte sich.
+"Ruhe bitte."
+
+"Mir ist schlecht", fluesterte Ben.
+
+"Mir auch", fluesterte Jonas.
+
+"Quatsch", sagte Mila.
+"Ihr habt einen Tunnel ueberlebt.
+Das hier ist nur ein Rathaus."
 
 ---
 
@@ -51,27 +54,27 @@ Und ueber drei Kinder, die mutiger waren als wir alle."
 Jonas spuerte, wie ihm warm wurde.
 Im Gesicht.
 Am Hals.
-Er sah auf seine Schuhe.
 
-Krueger erzaehlte.
+"Hat er gerade MUTIG gesagt?" fluesterte Ben.
+
+"Ja", fluesterte Jonas.
+
+"Ich?
+Mutig?"
+
+"Du warst mutig", sagte Mila.
+Leise aber bestimmt.
+
+Ben wurde still.
+
+Krueger erzaehlte weiter.
 Von der Quelle.
 Von den vier Familien.
-Von der Gruendung vor 300 Jahren.
 Von den Gaengen unter dem Dorf.
-Von der Versiegelung 1953.
-
-Er erzaehlte von Heinrich Winter.
-Von den Hinweisen, die er hinterlassen hatte.
-Vom Brief.
-Von der Geheimtinte.
-Von der Karte.
 
 Die Leute hoerten zu.
 Manche nickten.
-Manche schuettelten den Kopf.
-Ein alter Mann in der dritten Reihe schloss die Augen.
-Als ob er sich erinnerte.
-Eine Frau hielt die Hand vor den Mund.
+Ein alter Mann schloss die Augen.
 
 "1953 haben zwei Kinder die Gaenge gefunden", sagte Krueger.
 "Und sich verirrt.
@@ -95,41 +98,35 @@ Ben beugte sich zu Jonas.
 Ihre Stimme war hart.
 "Weil sie alle geschwiegen haben."
 
-Jonas sagte nichts.
-Er beobachtete die Gesichter.
-Manche sahen weg.
-Manche sahen nach unten.
-Manche sahen direkt zu Krueger.
-Mit Augen, die sagten: Er hat recht.
+"Guck mal", fluesterte Ben.
+"Die Frau mit dem Hut weint."
+
+Jonas sah hin.
+Ben hatte recht.
+Mehrere Leute sahen nach unten.
+
+"Gut so", fluesterte Mila.
 
 ---
 
 Dann stand jemand auf.
 In der letzten Reihe.
 
+"Das ist Frau Bergmann", fluesterte Jonas.
+
+Sie ging nach vorne.
 Langsam.
-Vorsichtig.
 Gestuetzt auf einen Stock.
-
-Frau Bergmann.
-
-Weisses Haar.
-Wache Augen.
-Ihr Mund zitterte.
+Ihr Mund bebte.
 Aber sie stand.
 
 Der ganze Saal wurde still.
 
-So still, dass Jonas die Uhr an der Wand hoeren konnte.
-Tick.
-Tick.
-Tick.
+"Oh nein", fluesterte Ben.
+"Ich glaube, sie will reden."
 
-Frau Bergmann ging nach vorne.
-Schritt fuer Schritt.
+Frau Bergmann ging zum Tisch.
 Ihr Stock tippte auf den Holzboden.
-Jeder Schritt ein Gerausch.
-Alle Augen auf sie gerichtet.
 
 Sie blieb am Tisch stehen.
 Sah die Truhe an.
@@ -192,33 +189,24 @@ Stille.
 
 Dann begann jemand zu klatschen.
 Langsam.
-Eine einzelne Person.
-Dann noch eine.
 Dann der ganze Saal.
 
 Frau Bergmann stand da.
-Klein.
-Alt.
 Mit Traenen auf den Wangen.
 Und einem Laecheln.
-Das erste seit 70 Jahren.
 
-Eine Frau aus der dritten Reihe stand auf.
-Ging zu ihr.
-Umarmte sie.
+"Sie laechelt", fluesterte Ben.
+Seine Stimme war rau.
+"Ich habe sie noch nie laecheln gesehen."
+
+"Ich auch nicht", sagte Jonas.
+
+Eine Frau umarmte Frau Bergmann.
 Dann noch jemand.
-Und noch jemand.
 
-Jonas spuerte ein Kribbeln in der Nase.
-Und hinter den Augen.
-Er blinzelte.
-Schnell.
+Jonas spuerte ein Kribbeln hinter den Augen.
 
-Neben ihm: Mila.
-Sie griff in ihre Jackentasche.
-Holte etwas heraus.
-Klein.
-Glänzend.
+Mila griff in ihre Jackentasche.
 Der Messingring.
 Karls Ring.
 
@@ -241,27 +229,21 @@ Warme.
 
 Mila nickte.
 Ihre Augen glaenzten.
-Aber sie weinte nicht.
-Mila weinte nie.
+Dann ging sie zurueck.
 
-Jonas sah, wie sie schluckte.
-Einmal.
-Hart.
-Dann ging sie zurueck zu ihrem Platz.
-Setzte sich.
-Verschraenkte die Arme.
-Wie immer.
+"Alles gut?" fluesterte Jonas.
 
-Aber ihre Haende zitterten.
-Ein bisschen.
+Mila verschraenkte die Arme.
+"Klar."
+
+Aber ihre Haende bebten.
 
 Ben legte seine Hand auf ihren Arm.
 Kurz.
-Ohne ein Wort.
 Mila sah ihn an.
-Nickte.
 
-Das war genug.
+"Danke", sagte sie.
+Leise.
 
 Der alte Mann aus der dritten Reihe stand auf.
 "Wir wollten euch schuetzen", sagte er.
@@ -281,20 +263,19 @@ Aber es war genug.
 ---
 
 Der Buergermeister stand auf.
-Raeusperte sich.
 Seine Brille war beschlagen.
-Er nahm sie ab.
-Putzte sie.
-Setzte sie wieder auf.
 
-"Das war -- also --", er raeusperte sich nochmal.
+"Das war -- also --", er raeusperte sich.
 "Danke, Frau Bergmann."
 
-Er sah in den Saal.
+"Jetzt kommt es", fluesterte Ben.
+"Die wollen bestimmt alles wieder zumachen."
 
+"Sollen sie mal versuchen", sagte Mila.
+
+Der Buergermeister fragte:
 "Und was machen wir jetzt mit den Gaengen?"
 
-Gemurmel.
 Stimmen.
 Durcheinander.
 
@@ -309,11 +290,11 @@ Es hat nichts genutzt."
 Wie der Brunnen.
 Wie die Quelle."
 
-Jonas sah zu Meier.
-Der grosse Mann sass da.
-Ruhig.
-Seine Haende auf den Knien.
-Dann hob er die Hand.
+"Das waere richtig", fluesterte Mila.
+"Gesichert.
+Nicht versiegelt."
+
+Dann hob Meier die Hand.
 
 "Ich sichere sie", sagte Meier.
 "Die Gaenge.
@@ -322,10 +303,11 @@ Ich kenne den Tunnel vom Herrenhaus.
 Ich mache das."
 
 Er stand auf.
-Alle sahen ihn an.
-Den grossen Mann mit den breiten Schultern.
 
-"Meine Familie hat dieses Dorf gegruendet", sagte er.
+"Wow", fluesterte Ben.
+"Der traut sich was."
+
+"Meine Familie hat dieses Dorf gegruendet", sagte Meier.
 "Vor 300 Jahren.
 Es wird Zeit, dass ich etwas dafuer tue."
 
@@ -345,11 +327,12 @@ Fuesse stampften.
 Der ganze Saal.
 
 Meier wurde rot.
-Bis zu den Ohren.
 Aber er laechelte.
-Zum ersten Mal sah er aus wie jemand, der dazugehoerte.
-Nicht wie der Mann mit der gruenen Markise.
-Sondern wie ein Gruender.
+
+"Der ist ganz anders jetzt", fluesterte Ben.
+
+"Er war schon immer so", sagte Jonas.
+"Er durfte es nur nicht zeigen."
 
 Ben beugte sich zu Jonas.
 "Eine Gedenktafel", fluesterte er.
@@ -368,32 +351,30 @@ Das muss doch zaehlen."
 "Schade", sagte Ben.
 Aber er grinste dabei.
 
-Draussen schien die Sonne.
-Durch die hohen Fenster des Rathauses.
+Die Sonne schien durch die hohen Fenster.
 Auf die Truhe.
-Auf die Muenzen.
-Auf das Pergament.
-
 Auf die Wahrheit.
-Die 70 Jahre unter dem Brunnen gelegen hatte.
-Und jetzt endlich ans Licht kam.
 
-Aber Jonas dachte an das kleine Pergament.
-In seiner Hosentasche.
-Er spuerte es durch den Stoff.
+"Ist es jetzt vorbei?" fragte Ben.
+
+Jonas spuerte das kleine Pergament in seiner Tasche.
 Duenn.
 Leicht.
 Aber schwer genug, um alles zu veraendern.
 
-An den letzten Satz.
+*Es gibt eine zweite.*
 
-Es gibt eine zweite.
+"Jonas?" fragte Mila.
+"Alles gut?"
 
 Er sah zum Fenster.
-Ueber die Daecher.
 Zum Wald hinter Eichenhain.
-Die Baeume standen dicht.
 Dunkel.
 Still.
 
-Irgendwo da draussen wartete das naechste Geheimnis.
+"Ja", sagte er.
+"Alles gut."
+
+Aber seine Hand lag auf der Tasche.
+Auf dem Pergament.
+Auf dem naechsten Geheimnis.
