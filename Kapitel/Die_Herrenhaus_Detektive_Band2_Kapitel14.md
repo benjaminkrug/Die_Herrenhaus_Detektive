@@ -16,35 +16,40 @@ Absolut.
 
 Jonas konnte seine Hand nicht sehen.
 Obwohl sie direkt vor seinem Gesicht war.
-Er spuerte sie.
-Aber er sah nichts.
 
 "Ich sehe nichts", fluesterte Ben.
 
 "Ich auch nicht", sagte Mila.
 
-Jonas schuettelte die Taschenlampe.
+"Schlagt euch nicht gegenseitig", sagte Jonas.
+Er schuettelte die Taschenlampe.
 Einmal.
 Zweimal.
 Dreimal.
 Nichts.
-Die Batterie war leer.
-1953.
-Die Batterie hatte 73 Jahre gehalten.
-Bis jetzt.
 
-"Egal", sagte Jonas.
+"Die Batterie ist leer", sagte er.
+
+"Die ist von 1953", sagte Mila.
+"Kein Wunder."
+
+"Super", sagte Ben.
+"Wir sitzen unter der Erde.
+Ohne Licht.
+Hat jemand einen besseren Plan?"
+
+"Die Leiter", sagte Jonas.
 Seine Stimme war fester als er sich fuehlte.
-"Die Leiter ist da.
-Direkt ueber uns.
+"Direkt ueber uns.
 Wir brauchen kein Licht zum Klettern."
 
 "Wir brauchen kein LICHT?" sagte Ben.
-"Wir sind unter der Erde.
-In einem Schacht.
-Im DUNKELN."
+"Wir sind in einem Schacht.
+Im DUNKELN.
+Auf einer rostigen Leiter.
+Die seit siebzig Jahren niemand benutzt hat."
 
-"Und die Leiter fuehrt nach oben", sagte Jonas.
+"Die Leiter fuehrt nach oben", sagte Jonas.
 "Oben ist der Brunnen.
 Oben ist Tageslicht."
 
@@ -53,7 +58,6 @@ Stille.
 Jonas hoerte Bens Atem.
 Schnell.
 Aber nicht panisch.
-Nicht mehr.
 
 "Ich gehe zuerst", sagte Ben.
 
@@ -61,7 +65,7 @@ Nicht mehr.
 
 Jonas war sicher, dass er sich verhoert hatte.
 
-"Was?"
+"Was hast du gesagt?"
 
 "Ich gehe zuerst."
 Bens Stimme war leise.
@@ -69,32 +73,31 @@ Aber klar.
 Keine Frage.
 Eine Aussage.
 
-Jonas wartete auf den Nachtrag.
-Auf das "Oder vielleicht doch nicht."
-Auf das "Es sei denn, jemand anderes will."
+"Ben, du musst nicht--", begann Mila.
 
-Es kam nicht.
-
-"Ich stehe am naechsten an der Leiter", sagte Ben.
-"Und ich bin der Leichteste.
+"Doch", sagte Ben.
+"Ich stehe am naechsten an der Leiter.
+Und ich bin der Leichteste.
 Wenn eine Sprosse bricht, ist es besser, wenn der Leichteste oben ist."
 
-Jonas oeffnete den Mund.
-Schloss ihn wieder.
+"Seit wann bist du so schlau?" fragte Mila.
 
+"War ich schon immer", sagte Ben.
+"Ihr habt nur nicht zugehoert."
+
+Jonas grinste im Dunkeln.
 Ben.
 Der gleiche Ben, der vor einer Stunde "Nein nein nein" gesagt hatte.
-Der gleiche Ben, der immer als Letzter ging.
-Der gleiche Ben, der kuendigte.
-Bei jedem Abenteuer.
-
 Jetzt wollte er zuerst gehen.
-Im Dunkeln.
-Auf einer rostigen Leiter.
-Die seit siebzig Jahren niemand benutzt hatte.
 
-Mila sagte nichts.
-Aber Jonas spuerte ihre Hand an seinem Arm.
+"Du bist echt mutig", sagte Jonas.
+
+"Ich bin nicht mutig", sagte Ben.
+"Ich will nur am schnellsten hier raus."
+
+"Ist doch dasselbe", sagte Mila.
+
+Jonas spuerte ihre Hand an seinem Arm.
 Kurz.
 Ein Druecken.
 Sie dachte dasselbe.
@@ -104,15 +107,20 @@ Sie dachte dasselbe.
 Dann Mila.
 Ich als Letzter."
 
-Er trug den Rucksack.
-Die Truhe darin.
-Schwer.
-Er war der Staerkste.
-Er musste als Letzter gehen.
+"Warum du als Letzter?" fragte Ben.
 
-Jonas hoerte ein Kratzen.
+"Ich trage den Rucksack", sagte Jonas.
+"Die Truhe.
+Ich bin der Schwerste."
+
+"Logisch", sagte Mila.
+"Wenn du faellst, faellst du nur auf den Boden."
+
+"Danke, Mila", sagte Jonas.
+"Sehr ermutigend."
+
+Ein Kratzen.
 Metall auf Stein.
-Ben, der nach der Leiter tastete.
 
 "Ich hab sie", sagte Ben.
 "Rostig.
@@ -121,11 +129,14 @@ Aber sie haelt."
 
 Ein Knarren.
 Das Gewicht eines Zehnjahrigen auf einer Eisenleiter.
-Die seit siebzig Jahren niemand benutzt hatte.
+Die seit Jahrzehnten niemand beruehrt hatte.
 
 "Sie haelt", wiederholte Ben.
-Leiser jetzt.
 Er klang ueberrascht.
+
+"Natuerlich haelt sie", sagte Mila.
+"Klettern, Ben.
+Nicht reden."
 
 ---
 
@@ -133,21 +144,11 @@ Jonas hoerte Bens Schuhe auf den Sprossen.
 Klack.
 Klack.
 Klack.
-Langsam.
-Vorsichtig.
-
-Dann Stille.
-Dann weiter.
-Klack.
-Klack.
 
 "Geht es?" fragte Mila nach oben.
 
-"Ja."
-Bens Stimme kam von oben.
-Weiter weg schon.
-"Rostig.
-Aber stabil.
+"Ja.
+Rostig, aber stabil.
 Nicht nach unten gucken."
 
 "Du kannst sowieso nichts sehen", sagte Mila.
@@ -155,22 +156,27 @@ Nicht nach unten gucken."
 "Trotzdem."
 
 Mila griff nach der Leiter.
-Jonas hoerte sie.
-Das Klirren des Metalls.
-Dann ihre Schritte auf den Sprossen.
-Klack.
-Klack.
+Jonas hoerte das Klirren des Metalls.
 
-Jonas stand allein im Dunkeln.
+"Mila, warte", sagte Jonas.
 
-Allein.
-Unter der Erde.
-Ohne Licht.
+"Was?"
+
+"Sei vorsichtig."
+
+"Quatsch", sagte Mila.
+"Bin ich immer."
+
+Dann war Jonas allein im Dunkeln.
 
 Er schloss die Augen.
 Oeffnete sie.
 Kein Unterschied.
-Beides war gleich dunkel.
+
+"Jonas, kommst du?" rief Mila von oben.
+
+"Ja", rief er zurueck.
+"Bin gleich da."
 
 Er dachte an Frau Bergmann.
 14 Stunden in dieser Dunkelheit.
@@ -180,9 +186,11 @@ Ohne Hoffnung.
 Er spuerte den Rucksack auf seinem Ruecken.
 Die Truhe.
 Schwer.
-Das Gewicht der Gruender.
-Hunderte von Jahren Geschichte.
-Auf seinen Schultern.
+
+"Jonas!" rief Ben.
+"Nicht einschlafen da unten!"
+
+"Ich komme ja", sagte Jonas.
 
 Er griff nach der Leiter.
 
@@ -196,22 +204,24 @@ Dritte.
 
 Der Rucksack zog nach hinten.
 Jonas klammerte sich fest.
-Seine Arme zitterten.
-Nicht vor Angst.
-Vor Anstrengung.
+Seine Arme zitterten vor Anstrengung.
 
-Er kletterte.
+"Alles klar da unten?" rief Mila von oben.
+
+"Der Rucksack ist schwer", keuchte Jonas.
+
+"Halt dich fest!" rief Ben.
+"Wenn du faellst, falle ich auch.
+Und dann faellt Mila.
+Und dann sind wir alle Pfannkuchen."
+
+"Danke, Ben", keuchte Jonas.
+"Sehr hilfreich."
+
+Er kletterte weiter.
 Sprosse fuer Sprosse.
 Im Dunkeln.
-Ohne zu sehen, wohin.
-Nur nach oben.
-Immer nach oben.
-
 Jede Sprosse knarrte unter seinem Gewicht.
-Unter dem Gewicht der Truhe.
-Jonas klammerte die Finger um das Eisen.
-Fest.
-Fester.
 Der Rost biss in seine Haut.
 
 Zehn Sprossen.
@@ -220,51 +230,46 @@ Zwanzig.
 Die Luft veraenderte sich.
 Waermer.
 Trockener.
-Nicht mehr die feuchte Kellerluft.
-Sondern etwas anderes.
-Etwas von oben.
 
-Jonas blieb stehen.
-Horchte.
+"Ich hoere was!" rief Ben von oben.
+"Stimmen.
+Da sind Leute ueber uns!"
 
-Ueber ihm: Stimmen.
-Ganz leise.
-Ganz weit weg.
-Wie durch Watte.
-Aber da.
+"Der Marktplatz", sagte Mila.
 
-Menschen.
-Ueber ihnen waren Menschen.
+"Wir schaffen es", sagte Jonas.
+"Wir sind fast da."
 
-Der Marktplatz.
+"Das sagst du seit zehn Sprossen", sagte Ben.
 
-Jonas' Herz klopfte schneller.
-Er kletterte weiter.
-Schneller jetzt.
+Jonas spuerte seinen Puls am Hals.
+Er kletterte schneller.
 
 Dreissig Sprossen.
 
-Dann Bens Stimme.
-Von oben.
-Nah.
-
-"Da ist etwas.
-Eine Platte.
+"Da ist etwas", sagte Ben.
+"Eine Platte.
 Stein.
 Direkt ueber mir."
 
-Jonas hoerte ein Druecken.
+Ein Druecken.
 Ein Schieben.
 Ein Stoehnen.
 
 "Sie bewegt sich nicht", sagte Ben.
-"Zu schwer."
+"Zu schwer.
+Ich schaffe das nicht alleine."
 
 "Warte", sagte Mila.
-"Ich komme."
+"Ich komme hoch."
+
+"Vorsicht", sagte Ben.
+"Hier ist es eng."
+
+"Ich weiss", sagte Mila.
+"Rueck mal zur Seite."
 
 Jonas hoerte, wie Mila nach oben kletterte.
-Nahe an Ben.
 Dann drueckten zwei.
 
 Ein Knirschen.
@@ -274,9 +279,13 @@ Ein Knirschen.
 "Noch mal", sagte Mila.
 
 Jonas kletterte hoeher.
-Bis er Milas Schuhe ueber sich spuerte.
+Bis er Milas Schuhe spuerte.
 Er legte eine Hand an die Steinplatte.
-Drueckte von unten.
+
+"Zusammen", sagte Jonas.
+"Eins.
+Zwei.
+Drei!"
 
 Drei Kinder drueckten.
 Gegen siebzig Jahre Stein und Schweigen.
@@ -294,24 +303,20 @@ Licht.
 Ein Spalt.
 Duenn wie ein Messer.
 Aber Licht.
-Echtes Licht.
-Tageslicht.
+Echtes Tageslicht.
 
 Jonas' Augen brannten.
-Er hatte sich an die Dunkelheit gewoehnt.
 Das Licht war wie ein Schlag.
 Hell.
 Warm.
-Wunderschoen.
+
+"Ich sehe Licht!" rief Mila.
 
 "DRUECKEN!" rief Ben.
 
 Sie drueckten.
 Alle drei.
 Die Platte rutschte zur Seite.
-Zentimeter fuer Zentimeter.
-Knirschen.
-Kratzen.
 
 Und dann:
 
@@ -320,33 +325,20 @@ Himmel.
 Blau.
 Weit.
 Wolken.
-Und Luft.
 
 Frische Luft stroemte in den Schacht.
-Jonas atmete ein.
-Tief.
-So tief, dass seine Lunge schmerzte.
+Jonas atmete tief ein.
+Seine Lunge schmerzte.
 Aber es war ein guter Schmerz.
 
-Es roch nach Gras.
-Nach nassem Pflaster.
-Nach der alten Eiche auf dem Marktplatz.
-Nach Dorf.
-Nach zu Hause.
+"Luft!" rief Ben.
+"Echte Luft!
+Ich kuesse den Boden!"
 
-Ben lachte.
-Laut.
-Einfach so.
-Ein Lachen, das von ganz tief kam.
-Aus dem Bauch.
+"Erst raus hier", sagte Mila.
 
-Mila lachte mit.
-Zum ersten Mal seit Stunden.
-
-Ben zog sich als Erster hoch.
-Ueber den Rand.
-Er rollte auf Stein.
-Nassen Stein.
+Ben zog sich als Erster ueber den Rand.
+Er rollte auf nassen Stein.
 Und blieb liegen.
 Auf dem Ruecken.
 Die Augen zum Himmel.
@@ -356,13 +348,21 @@ Sie stand auf.
 Sah sich um.
 Und erstarrte.
 
+"Ben", sagte sie leise.
+"Steh auf."
+
+"Warum?" fragte Ben.
+"Hier ist es schoen."
+
+"Steh.
+Auf."
+
+Ben setzte sich hin.
+Sein Mund klappte auf.
+
 Jonas zog sich als Letzter hoch.
 Der Rucksack schwer auf dem Ruecken.
 Er rollte ueber den Rand.
-Lag auf dem Boden.
-Hart.
-Nass.
-Kalt.
 
 Und dann sah er, wo sie waren.
 
@@ -370,45 +370,48 @@ Der Brunnen.
 
 Sie standen mitten im Brunnen.
 Auf dem Dorfplatz von Eichenhain.
-Wo das Wasser plaetscherte.
-Wo Frau Schneider ihre Tasche abstellte.
-Wo Herr Weber Zeitung las.
 
-Jonas sah nach unten.
-Er stand auf der Steinplatte, die den Eingang bedeckt hatte.
-Zur Seite geschoben.
-Das dunkle Loch dahinter.
-Der Schacht.
-Die Leiter.
+"Aeh", sagte Ben.
+"Leute."
 
-Er sah auf.
+Jonas sah auf.
 
 Gesichter.
 
 Ueberall Gesichter.
 Dorfbewohner.
 Sie standen um den Brunnen.
-Starrten.
 Mit offenen Muendern.
 
 Drei Kinder.
 Nass.
 Dreckig.
 Grau vom Staub.
-Mit einem alten Rucksack.
 Mitten im Brunnen.
 
+"Guten Tag", sagte Mila.
+Sie strich sich den Staub vom Aermel.
+Als waere alles voellig normal.
+
+Niemand antwortete.
 Eine Frau mit Einkaufstasche stand da.
 Ein Mann mit Zeitung.
 Kinder auf Fahrraedern.
 Alle starrten.
 
-Ben lag immer noch auf dem Ruecken.
+Ben stand jetzt.
 Er hob die Hand.
 Winkte.
 "Hallo", sagte er.
+"Wir kommen aus dem Untergrund.
+Im wahrsten Sinne."
 
-Niemand antwortete.
+"Ben", zischte Mila.
+
+"Was denn?" sagte Ben.
+"Ist doch wahr."
+
+Stille.
 
 Dann: ein Stock.
 Der auf Pflaster tippte.
@@ -423,8 +426,7 @@ Gebeugter Ruecken.
 Sein Stock in der rechten Hand.
 
 Er trat an den Brunnenrand.
-Sah hinunter.
-Auf die drei Kinder.
+Sah auf die drei Kinder.
 Auf den Rucksack.
 Auf das dunkle Loch im Boden.
 
@@ -436,16 +438,21 @@ Mit Augen, die glaenzten.
 "Ihr habt es gefunden", sagte Krueger.
 
 Jonas sah zu ihm hoch.
-Von unten.
-Aus dem Brunnen.
 Nass und dreckig und muede.
 
-Aber er laechelte.
-Weil Krueger recht hatte.
+"Ja", sagte Jonas.
+"Wir haben es gefunden."
 
-Dann sah Krueger den Rucksack.
-Seinen Blick.
-Jonas kannte diesen Blick.
+"Den ganzen Weg", sagte Mila.
+"Durch den Tunnel."
+
+"Unter dem Dorf", sagte Ben.
+"Im Dunkeln.
+Ohne Licht.
+Falls das jemanden interessiert."
+
+Krueger nickte langsam.
+Sein Blick wanderte zum Rucksack.
 Scharf.
 Aufmerksam.
 
@@ -465,6 +472,10 @@ Die Dorfbewohner kamen naeher.
 Haende streckten sich aus.
 Fragen.
 Rufe.
+
+"Was ist da unten?"
+"Wer sind diese Kinder?"
+"Ist das gefaehrlich?"
 
 Und Jonas dachte nur:
 Was ist in der Truhe?

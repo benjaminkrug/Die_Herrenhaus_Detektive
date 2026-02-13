@@ -13,12 +13,6 @@ Kein Rauschen von oben.
 Nur die Stille der Gaenge.
 
 Zwei Tage hatten sie gewartet.
-Zwei Tage, in denen Jonas an nichts anderes gedacht hatte.
-Drei Gaenge.
-Links.
-Geradeaus.
-Rechts.
-
 Jetzt standen sie wieder an der Kreuzung.
 73 Stufen hinter ihnen.
 100 Schritte.
@@ -34,15 +28,16 @@ Rechts: Dunkelheit.
 
 "Also", sagte Mila.
 Sie verschraenkte die Arme.
-"Welcher?"
+"Welcher Gang?"
 
-Jonas hielt die Karte ins Licht.
+"Moment", sagte Jonas.
+Er hielt die Karte ins Licht.
 Der Wasserfleck.
 Braun und breit.
 Genau ueber der Kreuzung.
-Nicht lesbar.
 
-"Die Karte hilft nicht", sagte er.
+"Ich kann nichts lesen", sagte er.
+"Der Fleck ist zu gross."
 
 "Dann muessen WIR entscheiden", sagte Mila.
 
@@ -57,28 +52,37 @@ Die beste Richtung, wenn ihr mich fragt."
 
 "Solltet ihr aber."
 
+"Warum?" fragte Mila.
+
+"Weil ich der Einzige mit Verstand bin."
+
+Mila schnaubte.
+"Quatsch.
+Du bist der Einzige mit Angst."
+
+"Angst IST Verstand", sagte Ben.
+"Jeder Ueberlebensratgeber sagt das."
+
 ---
 
 Jonas leuchtete in jeden Gang.
 Langsam.
 Er horchte.
 
-Links: Stille.
-Rechts: Das leise Tropfen von vorher.
-Wasser auf Stein.
+"Links ist still", sagte er.
+"Rechts hoere ich Tropfen.
+Wasser auf Stein."
 
-Geradeaus...
+"Und geradeaus?" fragte Mila.
 
 Jonas hielt den Atem an.
-
 An der Wand neben dem mittleren Gang.
 Ein Pfeil.
 In den Stein geritzt.
 Grob.
 Tief.
-Wie die anderen Pfeile weiter oben.
 
-"Hier", sagte Jonas.
+"Kommt mal her", sagte Jonas.
 Er hielt die Taschenlampe naeher.
 "Ein Pfeil.
 Er zeigt geradeaus."
@@ -92,7 +96,7 @@ Ihre Augen wurden schmal.
 Das muss nichts bedeuten."
 
 "Doch", sagte Jonas.
-"Die Pfeile haben uns bisher gefuehrt.
+"Die Pfeile haben uns gefuehrt.
 Die ganze Treppe runter.
 Den Gang entlang.
 Warum sollten sie hier aufhoeren?"
@@ -107,29 +111,54 @@ Weil Meier gesagt hat, die Gaenge sind nicht stabil?"
 
 "Der Regen hat aufgehoert", sagte Mila.
 
-"Vor zwei Tagen.
-Das Wasser steckt noch im Stein.
+"Vor zwei Tagen", sagte Ben.
+"Das Wasser steckt noch im Stein.
 Riech mal."
 
 Jonas roch es.
 Nasser Stein.
 Feuchte Erde.
-Ben hatte recht.
-Die Luft war schwer.
 
-Aber der Pfeil zeigte geradeaus.
+"Ben hat recht", sagte Jonas.
+"Die Luft ist schwer.
+Aber der Pfeil zeigt geradeaus."
+
+"Und was machen wir mit den anderen zwei Gaengen?" fragte Ben.
+
+"Vergessen", sagte Mila.
+"Wir folgen dem Pfeil."
+
+"Einfach so?"
+
+"Einfach so."
 
 Jonas dachte an Frau Bergmann.
 An Karl.
-Zwei Kinder, die sich in diesen Gaengen verlaufen hatten.
+Zwei Kinder in diesen Gaengen.
 Ohne Karte.
 Ohne Pfeile.
-Ohne alles.
 
-Aber sie hatten Pfeile.
-Jemand hatte sie dort eingeritzt.
+"Frau Bergmann hatte keine Pfeile", sagte Jonas.
+"Wir schon.
+Jemand hat sie eingeritzt.
 Vor langer Zeit.
-Fuer genau diesen Moment.
+Fuer genau diesen Moment."
+
+"Das klingt nach einem Film", sagte Ben.
+"Und in Filmen stirbt immer einer."
+
+"Der Lustige ueberlebt immer", sagte Mila.
+
+"Bin ich der Lustige?"
+
+"Nein.
+Du bist der Aengstliche.
+Der stirbt als Zweites."
+
+"MILA!"
+
+"War ein Witz", sagte Mila.
+Sie grinste.
 
 "Mitte", sagte Jonas.
 "Wir gehen geradeaus.
@@ -155,15 +184,6 @@ Jonas folgte.
 Ben als Letzter.
 Wie immer.
 
-Beim Eingang des mittleren Gangs blieb Jonas kurz stehen.
-Er leuchtete noch einmal zurueck.
-Zur Kreuzung.
-Zu den zwei anderen Gaengen.
-Links und rechts.
-
-Dann drehte er sich um.
-Und ging hinein.
-
 ---
 
 Der mittlere Gang war enger als erwartet.
@@ -171,8 +191,6 @@ Der mittlere Gang war enger als erwartet.
 Nach zwanzig Schritten mussten sie hintereinander gehen.
 Die Waende rueckten zusammen.
 Jonas' Schultern streiften den Stein.
-Links und rechts.
-Bei jedem Schritt.
 
 Mila ging gebueckt.
 Jonas auch.
@@ -188,19 +206,22 @@ Ben fast auf den Knien.
 "Doch.
 Genau das ist die Antwort."
 
+"Ich meine: Warum wird ein Gang enger?
+Wer baut so etwas?"
+
+"Jemand, der duenne Leute mochte", sagte Mila.
+
+"Sehr witzig."
+
 Jonas zahlte die Schritte.
 40.
 60.
 80.
 
 Die Decke tropfte.
-Einzelne Tropfen fielen auf seinen Nacken.
+Tropfen fielen auf seinen Nacken.
 Kalt.
 Er zuckte zusammen.
-
-Der Boden war feucht.
-Nicht nass.
-Aber feucht genug, dass seine Schuhe leise schmatzten.
 
 "Wie weit noch?" fluesterte Ben.
 
@@ -225,21 +246,38 @@ Aber Jonas hoerte sie schnauben.
 Jonas achtete auf die Pfeile.
 Alle paar Meter einer.
 In den Stein geritzt.
-Geradeaus.
-Immer geradeaus.
+
+"Immer noch Pfeile", sagte er.
+"Geradeaus."
+
+"Das ist gut", sagte Mila.
+
+"Oder schlecht", sagte Ben.
+"Vielleicht fuehren die Pfeile in eine Falle."
+
+"Ben, wer baut eine Falle mit Wegweisern?"
+
+"Jemand, der gemein ist?"
 
 Die Waende veraenderten sich.
 Risse im Stein.
 Duenne Linien.
-Wie Spinnweben.
 Der Moertel zwischen den Bloecken broeckelte.
-An einer Stelle fehlte ein ganzer Brocken.
-Dahinter: Erde.
-Dunkel und feucht.
 
 Jonas schluckte.
-Das sah nicht gut aus.
-Aber er sagte nichts.
+
+"Sieht nicht gut aus", fluesterte er.
+
+"Was sieht nicht gut aus?" fragte Ben.
+"Ich kann nichts sehen.
+Mila steht im Weg."
+
+"Die Waende haben Risse", sagte Jonas.
+
+"Risse?" Bens Stimme wurde hoeher.
+"Wie grosse Risse?"
+
+"Kleine", log Jonas.
 
 Bei Schritt 120 blieb Mila stehen.
 "Hoert ihr das?"
@@ -253,11 +291,10 @@ Tief.
 Dumpf.
 Wie Donner unter der Erde.
 
-Sein Herz schlug schneller.
+Sein Puls raste.
 
 "Was war das?" fluesterte Ben.
 Seine Stimme war duenn.
-Hoch.
 
 "Stehen bleiben", sagte Jonas.
 
@@ -265,10 +302,8 @@ Stille.
 
 Das Rumpeln war weg.
 Nur das Tropfen von der Decke.
-Und Bens schneller Atem.
 
-Jonas atmete aus.
-"Vielleicht nur --"
+"Vielleicht nur --", begann Jonas.
 
 Dann kam es wieder.
 
@@ -287,10 +322,6 @@ Ein dritter Stoss.
 Die Decke knackte.
 Ein Riss zog sich durch den Stein.
 Von einer Wand zur anderen.
-Jonas sah ihn im Licht der Taschenlampe.
-Duenn.
-Schnell.
-Wie ein Blitz.
 
 "RAUS!" schrie Ben.
 "Zurueck!
@@ -312,32 +343,28 @@ Schmerz schoss durch seinen Arm.
 Er fiel auf die Knie.
 
 Die Taschenlampe flog aus seiner Hand.
-Rollte ueber den Boden.
 Das Licht tanzte wild.
-Waende.
-Decke.
-Staub.
 
 Dann Stille.
 
 Jonas hustete.
-Wieder und wieder.
-Seine Lunge brannte.
 Staub war ueberall.
 In seinen Augen.
 In seinem Mund.
-In seiner Nase.
 Er schmeckte Erde.
 
 "Mila?" rief er.
-Seine Stimme war rau.
 
 "Hier."
 Milas Stimme.
 Nah.
-"Mir geht es gut."
+"Mir geht es gut.
+Und dir?"
 
-"Ben?"
+"Schulter tut weh.
+Aber es geht."
+
+"Ben?" rief Jonas.
 
 Stille.
 
@@ -348,14 +375,19 @@ Leise.
 Zitternd.
 "Ich glaube.
 Ja.
-Ich lebe."
+Ich lebe.
+Aber ich bin mir nicht sicher."
+
+"Kannst du aufstehen?" fragte Mila.
+
+"Ich sitze nicht.
+Ich liege.
+Auf kaltem Stein.
+Das ist mein Leben jetzt."
 
 Jonas tastete nach der Taschenlampe.
 Seine Finger fanden kaltes Metall.
-Er hob sie auf.
 Das Licht flackerte.
-Einmal.
-Zweimal.
 Dann brannte es wieder.
 
 Er leuchtete nach hinten.
@@ -370,63 +402,48 @@ Eine Wand aus Schutt.
 
 "Nein", fluesterte Ben.
 
-Jonas leuchtete die Wand ab.
-Von links nach rechts.
-Von unten nach oben.
+"Was siehst du?" fragte Mila.
 
+"Der Gang ist eingestuerzt", sagte Jonas.
+"Komplett.
 Kein Spalt.
-Keine Luecke.
-Nichts.
+Keine Luecke."
 
-"Der Gang ist eingestuerzt", sagte Mila.
-Ihre Stimme war flach.
-Ruhig.
-Als wuerde sie das Wetter beschreiben.
+Mila kam neben ihn.
+Sie leuchteten zusammen die Wand ab.
+
+"Koennen wir graben?" fragte sie.
+
+"Die Brocken sind zu gross", sagte Jonas.
 
 Ben stand vor der Schuttwand.
 Er legte beide Haende auf einen Felsbrocken.
 Drueckte.
 Nichts bewegte sich.
 
-"Nein", sagte er wieder.
+"Nein", sagte er.
 "Nein nein nein."
 
-Seine Stimme hallte.
-Kurz.
-Dann schluckte die Dunkelheit das Echo.
+"Ben, hoer auf", sagte Mila.
+"Das bringt nichts."
 
-Mila stand neben Jonas.
-Sie sagte nichts.
-Ihre Hand lag an der Wand.
-Ihre Finger zitterten.
-Nur ein bisschen.
+"Was bringt denn was?" rief Ben.
+"Wir stecken fest!
+Unter der Erde!
+Und NIEMAND weiss, wo wir sind!"
 
-Jonas spuerte seinen Herzschlag.
-In der Brust.
-Im Hals.
-In den Fingerspitzen.
+"ICH weiss, wo wir sind", sagte Jonas.
+"Im mittleren Gang.
+Hinter der Kreuzung.
+Und der Gang geht weiter."
 
-Er dachte an die 73 Stufen.
-An den niedrigen Gang.
-An die Kreuzung.
-Alles lag hinter der Schuttwand.
-Unerreichbar.
-
-Niemand wusste, wo sie waren.
-Meier nicht.
-Krueger nicht.
-Niemand.
-
-Jonas drehte sich um.
 Er leuchtete nach vorne.
 Der Gang fuehrte weiter.
 Dunkel.
 Still.
 Aber offen.
 
-"Wir muessen weiter", sagte Jonas.
-Seine Stimme klang fremd.
-Als wuerde jemand anderes sprechen.
+"Vorwaerts ist der einzige Weg", sagte Jonas.
 
 Ben drehte sich um.
 Sein Gesicht war grau vom Staub.
@@ -436,6 +453,16 @@ Mila legte ihm die Hand auf die Schulter.
 Kurz.
 Fest.
 Dann liess sie los.
+
+"Hast du geheult?" fragte sie leise.
+
+"Nein", sagte Ben.
+"Ich schwitze.
+Aus den Augen."
+
+Mila laechelte.
+Kurz.
+Dann wurde sie wieder ernst.
 
 "Vorwaerts", sagte sie.
 

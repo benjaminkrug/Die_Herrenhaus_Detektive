@@ -9,30 +9,38 @@
 "Wir gehen ins Archiv."
 
 Mila sagte es so, als gaebe es keine andere Moeglichkeit.
-Und vielleicht gab es das auch nicht.
 
 Es war Montagmorgen.
-Zwei Tage nach dem Brief.
-Zwei Tage, in denen Jonas an nichts anderes gedacht hatte.
-Nachts lag er wach.
-Starrte an die Decke.
-Hoerte das Wasser im Brunnen durch das offene Fenster.
-Gaenge unter dem Dorf.
-Zwei Kinder in der Dunkelheit.
-Lisbeth Bergmann.
-Der Name ging ihm nicht aus dem Kopf.
+Jonas hatte nachts kaum geschlafen.
 
-"Meine Oma hat heute Dienst im Archiv", sagte Mila.
-"Sie kann uns helfen.
-Sie kennt jede Schublade da drin."
+"Ich habe die ganze Nacht wach gelegen", sagte Jonas.
+"Lisbeth Bergmann.
+Der Name geht mir nicht aus dem Kopf."
 
-"Hilft sie uns denn?" fragte Jonas.
+"Mir auch nicht", sagte Mila.
+"Deshalb muessen wir ins Archiv."
+
+"Ins Archiv?" fragte Ben.
+"Am Montagmorgen?
+Freiwillig?"
+
+"Meine Oma hat heute Dienst", sagte Mila.
+"Sie kennt jede Schublade da drin."
+
+"Wenn zwei Kinder verschwunden sind --", begann Jonas.
+
+"-- dann muss das in der Zeitung gestanden haben", sagte Mila.
+"Genau.
+Alte Zeitungen.
+Archiv.
+Los jetzt."
+
+"Hilft deine Oma uns denn?" fragte Jonas.
 "Wenn es um 1953 geht?"
 
 "Klar.
 Sie hilft mir immer."
 Mila klang sicher.
-Wie immer.
 
 Ben zog seine Kappe tief ins Gesicht.
 "Ich habe immer noch ein schlechtes Gefuehl."
@@ -41,8 +49,25 @@ Ben zog seine Kappe tief ins Gesicht.
 
 "Und meistens habe ich recht."
 
+"Nenn mir ein einziges Mal."
+
+"Das Herrenhaus.
+Der Keller.
+Die Falltuer."
+
+"Da hatten wir alles im Griff", sagte Mila.
+
+"Wir sind fast eingesperrt worden!"
+
 Mila verdrehte die Augen.
 Aber sie laechelte dabei.
+
+"Los jetzt", sagte Jonas.
+"Bevor das Archiv voll wird."
+
+Ben schnaubte.
+"Das Archiv wird nie voll, Jonas.
+Da geht kein Mensch hin."
 
 ---
 
@@ -50,10 +75,19 @@ Das Rathaus war klein.
 Gelbe Waende.
 Eine Seitentuer.
 Jonas kannte es.
-Hier hatten sie Winters Tagebuch gefunden.
-Den Grundriss mit dem Raum ohne Eingang.
-Das fuehlt sich an wie Jahre her.
-Dabei waren es nur Wochen.
+
+"Hier haben wir Winters Tagebuch gefunden", sagte Jonas.
+
+"Fuehlt sich an wie Jahre her", sagte Ben.
+"Dabei waren es nur Wochen."
+
+"Und den Grundriss", sagte Mila.
+"Den Raum ohne Eingang."
+
+"Den Raum, in dem wir fast stecken geblieben sind", sagte Ben.
+Er schuettelte sich.
+"Gute Erinnerung.
+Wirklich toll."
 
 Der Flur war schmal.
 Pinnwand an der Wand.
@@ -74,21 +108,13 @@ Mila setzte sich auf einen Stuhl.
 Wir brauchen alles ueber 1953."
 
 Ihre Oma hielt inne.
-Die Haende am Ordner.
 "1953?"
 
 "Ja.
 Oktober 1953."
 
-Milas Oma schob die Lesebrille hoeher.
-Sie sah Mila an.
-Dann Jonas.
-Dann Ben.
-
 "Warum ausgerechnet 1953?" fragte sie.
-
-Ihre Stimme klang anders als vorher.
-Vorsichtiger.
+Ihre Stimme klang vorsichtiger als vorher.
 
 "Zwei Kinder sind verschwunden", sagte Jonas.
 "Unter dem Dorf.
@@ -96,21 +122,19 @@ Das hat uns Herr Krueger erzaehlt."
 
 Milas Oma stellte den Ordner ab.
 Langsam.
-Sehr langsam.
 "Das hat er also."
 
 Sie sah zum Fenster.
 Dann zurueck zu den Kindern.
-Ihre Lippen wurden schmal.
 Ihr Laecheln war weg.
 
-Dann ging sie zum hintersten Regal.
+"Gibt es denn etwas darueber?" fragte Jonas.
+
+Milas Oma ging zum hintersten Regal.
 Ganz unten.
 Hinter den anderen Kartons.
-Wo der Staub am dicksten lag.
-Sie kniete sich hin und zog einen Karton heraus.
-Braun.
-Zerknittert.
+Der Staub lag dick.
+Sie zog einen braunen Karton heraus.
 Die Aufschrift: ZEITUNGSAUSSCHNITTE 1950-1960.
 
 "Hier", sagte sie.
@@ -123,9 +147,6 @@ Vergilbte Seiten.
 Zusammengefaltet.
 Manche zerrissen.
 Manche zusammengeklebt.
-Der Geruch von altem Papier stieg auf.
-Wie der Keller im Herrenhaus.
-Wie Winters Tagebuch.
 
 Ben nieste.
 Zweimal.
@@ -137,23 +158,17 @@ Zweimal.
 
 "Konzentrier dich", sagte Mila.
 Sie kniete sich auf den Boden.
-Zog den Karton naeher.
+"Jonas, du nimmst links.
+Ben, du rechts.
+Ich die Mitte."
 
-Sie teilten den Stapel auf.
-Jonas nahm den linken Teil.
-Mila die Mitte.
-Ben den rechten.
-
-Jonas blaetterte.
+Jonas blaetterte vorsichtig.
 Wochenmarkt 1951.
 Neue Strasse 1952.
 Feuerwehrfest 1953.
 Scheunenbrand bei Familie Weber.
 Neue Glocke fuer die Kirche.
-
-Langweilig.
-Nichts ueber Kinder.
-Nichts ueber Tunnel.
+Nichts ueber verschwundene Kinder.
 
 "Warum findet man nie was, wenn man es sucht?" murmelte Ben.
 
@@ -162,7 +177,9 @@ Nichts ueber Tunnel.
 "Ich blaettere nicht zu schnell.
 Ich blaettere effizient."
 
-"Das ist das --"
+"Das ist das Gleiche, Ben."
+
+"Ist es nicht!"
 
 "Hier!" rief Ben ploetzlich.
 
@@ -170,31 +187,26 @@ Jonas und Mila drehten sich um.
 Ben hielt ein Stueck Zeitungspapier hoch.
 Duenn.
 Gelblich.
-Eingerissen am Rand.
 
 "Eichenhainer Wochenblatt", las Ben vor.
 "Oktober 1953."
 
 Er raeusperte sich.
-Seine Stimme wurde leiser.
 
 "Zwei Kinder vermisst.
 Nach 14 Stunden unter dem Dorfplatz gefunden."
 
 Jonas spuerte Gaensehaut auf den Armen.
 
-Mila nahm Ben den Ausschnitt aus der Hand.
-Vorsichtig.
+"Zeig her", sagte Mila.
+Sie nahm den Ausschnitt vorsichtig.
 Das Papier war so duenn, dass es fast zerriss.
 
 Unter der Ueberschrift: ein Foto.
 Schwarzweiss.
 Unscharf.
-Die Raender waren braun.
-Aber man konnte es erkennen.
 
 Jonas beugte sich naeher.
-
 Zwei Kinder.
 Dreckig.
 Verweint.
@@ -205,40 +217,41 @@ Der Junge stand daneben.
 Sein Gesicht war leer.
 
 "Sie sehen so klein aus", fluesterte Ben.
+"Guck mal, wie das Maedchen weint."
 
 Jonas schluckte.
-Er las den Text unter dem Foto.
-Laut.
-Langsam.
+Er las den Text laut vor.
 
 "Lisbeth Bergmann, 10 Jahre.
 Karl Hoffmann, 11 Jahre.
-Die beiden Kinder wurden am Sonntagabend gegen 21 Uhr unter dem Dorfplatz gefunden.
+Die beiden Kinder wurden am Sonntagabend gefunden.
 Sie hatten sich in einem Gangsystem verlaufen.
-Der Gemeinderat beschloss in einer Sondersitzung, alle Zugaenge dauerhaft zu versiegeln.
+Der Gemeinderat beschloss, alle Zugaenge zu versiegeln.
 Ueber den Hauptzugang soll ein Brunnen gebaut werden."
 
-Jonas las den letzten Satz noch einmal.
-Ueber den Hauptzugang soll ein Brunnen gebaut werden.
-Da stand es.
-Schwarzweiss.
-Genau wie Winter geschrieben hatte.
+"Warte", sagte Ben.
+"Der Brunnen?
+Unser Brunnen auf dem Marktplatz?"
 
-"Lisbeth Bergmann", sagte Mila.
-"Bergmann."
+"Genau der", sagte Jonas.
+"Genau wie Winter geschrieben hat."
+
+"Bergmann", sagte Mila langsam.
+"Lisbeth Bergmann."
 
 Jonas sah sie an.
 Sein Herz klopfte schneller.
 
-Milas Oma stand direkt hinter ihnen.
-Jonas hatte nicht gehoert, wie sie naeher gekommen war.
-Wie lange stand sie schon da?
+"Das ist doch nicht --", begann Ben.
 
-Sie war still geworden.
-Ganz still.
-Ihre Haende lagen auf der Stuhllehne.
-Die Finger waren weiss.
-Sie drueckte das Holz so fest, dass ihre Knoechel hervorstanden.
+"Doch", sagte Mila.
+"Bergmann.
+Am Kirchplatz."
+
+Milas Oma stand direkt hinter ihnen.
+Jonas hatte nicht gehoert, wie sie naeher kam.
+Ihre Finger umklammerten die Stuhllehne.
+Die Knoechel waren weiss.
 
 "Frau Bergmann", sagte Milas Oma leise.
 "Am Kirchplatz."
@@ -247,68 +260,74 @@ Ben riss die Augen auf.
 "Die alte Frau mit den Katzen?
 DAS ist Lisbeth?"
 
-Milas Oma nickte.
-Langsam.
+Milas Oma nickte langsam.
+
+"Moment mal", sagte Ben.
+"Die nette Frau, die mir letzten Sommer Kekse gegeben hat?
+Die war in den Tunneln?
+14 Stunden lang?"
+
+"Ja, Ben", sagte Mila leise.
 
 Jonas starrte auf das Foto.
-Das Maedchen auf dem Bild war zehn.
-Verweint.
-Dreckig.
-Aber die Augen -- die Augen waren wach.
+Das Maedchen war zehn.
+Aber die Augen waren wach.
 Trotz allem.
-
 Das gleiche Maedchen lebte jetzt am Kirchplatz.
 80 Jahre alt.
 Mit Katzen und Blumenkaesten.
 Jonas hatte sie schon gesehen.
 Beim Einkaufen.
-Auf dem Marktplatz.
 Eine kleine alte Frau mit weissem Haar.
 Und wachen Augen.
-70 Jahre Schweigen.
+
+"70 Jahre", sagte Jonas leise.
+"70 Jahre hat sie geschwiegen."
+
+"Und Karl Hoffmann?" fragte Ben.
+"Was ist mit dem Jungen?"
+
+Milas Oma schuettelte den Kopf.
+"Weggezogen.
+Die Familie Hoffmann ging kurz danach."
+
+"Also ist nur Frau Bergmann noch hier", sagte Mila.
+"Sie ist die Einzige, die alles weiss."
 
 ---
 
 "Wir muessen mit ihr reden", sagte Mila.
 
-Milas Oma drehte sich um.
-Schnell.
+Milas Oma drehte sich schnell um.
 "Nein."
 
 Das Wort war hart.
-Haerter als alles, was Jonas von ihr gehoert hatte.
 
 "Oma --"
 
-"Nein, Mila."
-Ihre Oma sah sie an.
-Ernst.
-"Frau Bergmann spricht nicht darueber.
+"Nein, Mila.
+Frau Bergmann spricht nicht darueber.
 Niemand im Dorf spricht darueber.
 Das war die Abmachung.
-Seit 70 Jahren.
-Manche Dinge laesst man ruhen."
+Seit 70 Jahren."
 
 "Aber wir haben den Brief von Herr Winter", sagte Jonas.
 "Er will, dass jemand die Wahrheit findet."
 
 "Heinrich Winter ist nicht hier", sagte Milas Oma.
-Ihre Stimme war fest.
 "Er ist weggegangen.
-Er muss nicht mit den Folgen leben.
-Frau Bergmann schon."
+Frau Bergmann muss mit den Folgen leben."
 
 Ben nickte heftig.
 "Ich bin bei der Oma.
 Manche Dinge will man nicht wissen."
 
 Mila warf ihm einen Blick zu.
-Ben hob die Haende.
-"Ich sage ja nur."
 
-Milas Oma schuettelte den Kopf.
-"Frau Bergmann hat genug gelitten.
-Lasst sie in Ruhe."
+"Ich sage ja nur", murmelte Ben.
+
+"Frau Bergmann hat genug gelitten", sagte Milas Oma.
+"Lasst sie in Ruhe."
 
 Stille im Archiv.
 Nur das Ticken der Wanduhr.
@@ -316,10 +335,6 @@ Und Bens nervoeser Atem.
 
 Mila stand auf.
 Sie sah auf das Foto.
-Auf das kleine Maedchen.
-Zehn Jahre alt.
-Allein in der Dunkelheit.
-14 Stunden.
 
 "Frau Bergmann war zehn", sagte Mila leise.
 "Genau wie wir."
@@ -327,9 +342,6 @@ Allein in der Dunkelheit.
 Milas Oma oeffnete den Mund.
 Schloss ihn wieder.
 
-Mila sah ihr in die Augen.
-Ruhig.
-Fest.
 "Genau wie wir, Oma."
 
 Jonas spuerte es in seinem Bauch.
@@ -337,21 +349,9 @@ Ein Kribbeln.
 Warm und kalt gleichzeitig.
 Mila hatte recht.
 
-Er sah auf das Foto in seiner Hand.
-Ein Maedchen.
-Zehn Jahre alt.
-Allein in der Dunkelheit.
-14 Stunden.
-Und dann 70 Jahre Schweigen.
-
-Lisbeth Bergmann war zehn gewesen.
-Genau wie sie jetzt.
-Sie hatte die Gaenge gesehen.
-Sie wusste, was dort unten war.
-
 Milas Oma seufzte.
 Lang und tief.
-Sie nahm den Zeitungsausschnitt vorsichtig aus Jonas' Hand.
+Sie nahm den Zeitungsausschnitt vorsichtig.
 Legte ihn zurueck in den Karton.
 
 "Seid vorsichtig", sagte sie leise.
@@ -360,18 +360,31 @@ Versprecht mir das."
 
 "Versprochen", sagte Jonas.
 
-Milas Oma sah ihn lange an.
-Als ob sie ihm nicht ganz glaubte.
+"Versprochen", sagte Ben.
+"Aber nur, weil ich sowieso vorsichtig bin."
+
+Milas Oma sah sie lange an.
+Als ob sie ihnen nicht ganz glaubte.
+
+"Was machen wir jetzt?" fragte Ben draussen.
+
+"Wir ueberlegen", sagte Jonas.
+"Wir koennen sie nicht einfach ueberfallen."
+
+"Quatsch", sagte Mila.
+"Wir klopfen einfach an."
+
+Ben stoeinte.
+"Natuerlich.
+Klopfen wir bei der alten Frau an.
+Die seit 70 Jahren nicht darueber redet."
 
 Draussen war es kalt geworden.
 Die Sonne war weg.
 Der Brunnen plaetscherte auf dem Marktplatz.
-Leise.
-Wie immer.
 
 Jonas sah zum Haus am Kirchplatz.
 Zu den weissen Gardinen.
-Zu den Katzen im Fenster.
 
 Und dann sah er es.
 
@@ -382,7 +395,7 @@ Frau Bergmann stand am Fenster.
 Sie sah heraus.
 Direkt zu ihnen.
 
-Jonas' Herz schlug schneller.
+Jonas spuerte ein Kribbeln im Nacken.
 
 Hatte sie sie beobachtet?
 Die ganze Zeit?

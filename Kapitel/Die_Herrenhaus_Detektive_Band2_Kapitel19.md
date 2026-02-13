@@ -4,7 +4,7 @@
 
 ---
 
-# Kapitel 19 -- Bald (Epilog)
+# Kapitel 19 -- Bald
 
 Der Brunnen glaenzte in der Morgensonne.
 
@@ -392,8 +392,8 @@ Und irgendwo dahinter:
 das naechste Geheimnis.
 
 Jonas schulterte den Rucksack.
-Den Rucksack, der schon durch Tunnel getragen worden war.
-Der eine Truhe gehalten hatte.
+Den Rucksack, den er durch Tunnel geschleppt hatte.
+Der eine Truhe getragen hatte.
 Und eine Karte.
 Und die Wahrheit ueber einen Brunnen.
 

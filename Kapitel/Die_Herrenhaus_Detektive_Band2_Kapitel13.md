@@ -10,10 +10,19 @@ Jonas nahm die Truhe vom Steinsockel.
 
 Schwer.
 Schwerer als erwartet.
-Das Holz war kalt und feucht.
-Er haengte sich den Rucksack von der Schulter.
+
+"Die ist ja schwer", sagte er.
+
+"Lass mich mal fuehlen", sagte Mila.
+Sie hob kurz an.
+"Wie ein Stein."
+
+Jonas haengte sich den Rucksack von der Schulter.
 Legte die Truhe hinein.
-Sie passte gerade so.
+
+"Passt die rein?" fragte Ben.
+
+"Gerade so", sagte Jonas.
 Der Reissverschluss ging kaum zu.
 
 "Und jetzt?" fragte Ben.
@@ -23,13 +32,11 @@ Die Kammer.
 Die Quelle.
 Die Zeichnungen an den Waenden.
 
-Wunderschoen.
-Aber eine Falle.
+"Wir muessen zurueck", sagte Mila.
 
-Hinter ihnen: der Gang, aus dem sie gekommen waren.
-Versperrt.
-Irgendwo dahinter lag der Einsturz.
-Meterhohe Steine und Erde.
+"Klar", sagte Ben.
+"Nur wie?
+Hinter uns liegt der Einsturz."
 
 Jonas holte die Karte heraus.
 Hielt sie ins Licht.
@@ -38,20 +45,17 @@ Der Wasserfleck.
 Braun.
 Breit.
 Er verdeckte genau diesen Bereich.
-Die Kammer.
-Die Gaenge drumherum.
-Alles verschwommen.
 
 "Die Karte hilft nicht", sagte er.
+"Der Fleck ist zu gross."
 
 Mila nahm sie ihm aus der Hand.
 Drehte sie.
 Hielt sie naeher ans Licht.
-Neigte sie.
-Dann gab sie sie zurueck.
 
-"Nichts", sagte sie.
-"Man kann nichts erkennen."
+"Ich sehe nichts", sagte sie.
+"Man kann nichts erkennen.
+Alles verwischt."
 
 "Toll", sagte Ben.
 "Wir stehen in einer Hoehle unter dem Dorf.
@@ -73,35 +77,44 @@ Es ist ein Zeitrahmen."
 
 "Noch schlimmer."
 
-Mila sah Jonas an.
-Jonas sah die Kammer an.
-
-Einen Ausgang.
-Sie brauchten einen Ausgang.
+"Hoert auf zu streiten", sagte Jonas.
+"Wir muessen einen Ausgang finden."
 
 ---
 
 Jonas leuchtete die Waende ab.
-Systematisch.
+Stueck fuer Stueck.
 Von links nach rechts.
 Jeden Zentimeter.
 
-Zeichnungen.
-Symbole.
+"Siehst du was?" fragte Mila.
+
+"Zeichnungen", sagte Jonas.
+"Symbole.
 Fels.
+Aber keine Tuer."
 
-Keine Tuer.
-Kein Gang.
-Kein Ausgang.
+"Kein Gang?" fragte Ben.
 
-Er ging einmal um die ganze Kammer.
-Fuenf Meter im Durchmesser.
+"Nichts."
+
+Jonas ging einmal um die ganze Kammer.
 Die Quelle in der Mitte.
 Das Rinnsal auf dem Boden.
-Die Zeichnungen an den Waenden.
 
-Nichts.
-Kein Weg raus.
+"Kein Weg raus", sagte er.
+
+"Gar nichts?" fragte Ben.
+Seine Stimme zitterte leicht.
+
+"Gar nichts", sagte Jonas.
+
+"Dann sitzen wir fest", sagte Ben.
+"In einer Hoehle.
+Unter der Erde.
+Ohne Ausgang."
+
+"Danke fuer die Zusammenfassung", sagte Mila.
 
 Die Taschenlampe flackerte.
 
@@ -109,99 +122,46 @@ Jonas erstarrte.
 Das Licht wurde schwaecher.
 Gelb.
 Dann fast orange.
-Dann wieder gelb.
 
 "Die Batterie", sagte Ben.
 Seine Stimme war leise.
-Ruhig.
 Seltsam ruhig.
 
 Jonas schuettelte die Taschenlampe.
 Das Licht wurde wieder staerker.
-Aber fuer wie lange?
 
-Meiers Taschenlampe.
-Von 1953.
-Alte Batterien.
-
-"Wie lange noch?" fragte Mila.
+"Wie lange haelt die noch?" fragte Mila.
 
 "Keine Ahnung", sagte Jonas.
 "Minuten.
 Vielleicht eine halbe Stunde."
 
-Stille.
+"Super", sagte Ben.
+"Alte Taschenlampe.
+Alte Batterien.
+Das wird immer besser."
 
-Jonas stellte sich an den Rand der Kammer.
-Er schloss die Augen.
-Dachte nach.
+"Wir brauchen einen Plan", sagte Mila.
+"Schnell."
 
-Die Karte zeigte den Brunnen ueber ihnen.
-Irgendwo da oben.
+"Der Brunnen ist ueber uns", sagte Jonas.
+"Irgendwo da oben.
 Der Marktplatz.
-Das Dorf.
-Menschen.
-Licht.
+Das Dorf."
 
-Aber zwischen ihnen und dem Brunnen: Stein.
-Meterhoher Stein.
+"Und zwischen uns und dem Brunnen?" fragte Ben.
 
-Er oeffnete die Augen.
-Sah die Quelle an.
-Das Wasser sprudelte.
-Leise.
-Stetig.
-Es sammelte sich in der Steinmulde.
-Und floss als Rinnsal davon.
+"Stein", sagte Jonas.
+"Viel Stein."
 
-Wohin floss es?
-
-In den Gang, aus dem sie gekommen waren.
-Aber dahinter lag der Einsturz.
-Also musste das Wasser irgendwo hin.
-Es konnte nicht einfach verschwinden.
-
-Jonas sah dem Rinnsal nach.
-Es floss ueber den Boden.
-Zur Wand.
-Und dann...
-
-Durch ein Loch.
-In der Wand.
-Unten.
-Nicht gross.
-Vielleicht dreissig Zentimeter.
-Dunkel.
-
-"Hier fliesst es raus", sagte er.
-"Es gibt ein Loch."
-
-Mila kniete sich neben ihn.
-Sie leuchtete hinein.
-Dunkel.
-Eng.
-
-"Zu klein", sagte sie.
-"Da passt keiner durch."
-
-Jonas drueckte die Schulter gegen die Wand neben dem Loch.
-Kalt.
-Fest.
-Nichts bewegte sich.
-
-Er stand auf.
-Seine Knie waren weich.
-Sein Magen war kalt.
+"Klasse."
 
 ---
 
 Ben stand still.
 
 Jonas bemerkte es nicht sofort.
-Er war zu beschaeftigt mit dem Loch in der Wand.
-Zu beschaeftigt mit der Frage, wie sie rauskommen sollten.
-
-Dann hoerte er Ben.
+Dann hoerte er ihn.
 
 "Wartet."
 
@@ -210,7 +170,6 @@ Ben stand in der Mitte der Kammer.
 Neben der Quelle.
 Seine Augen waren weit.
 Nicht vor Angst.
-Vor etwas anderem.
 
 "Frau Bergmann", sagte Ben.
 
@@ -222,13 +181,13 @@ Sie haben sich in den Gaengen verlaufen.
 14 Stunden."
 
 "Das wissen wir", sagte Mila.
+"Was willst du sagen?"
 
 "Aber WO sind sie gefunden worden?"
 
 Stille.
 
-Jonas spuerte es.
-Ein Kribbeln.
+Jonas spuerte ein Kribbeln.
 Im Bauch.
 In den Fingerspitzen.
 
@@ -239,9 +198,13 @@ Ben tippte sich an die Stirn.
 "Unter dem BRUNNEN.
 Nicht im Tunnel.
 Nicht in den Gaengen.
-Unter dem Brunnen.
-Die Maenner mit den Fackeln haben sie dort rausgezogen.
-Von UNTEN."
+Unter dem Brunnen."
+
+"Und?" fragte Mila.
+
+"Die Maenner mit den Fackeln haben sie dort rausgezogen", sagte Ben.
+"Von UNTEN.
+Kapiert ihr?"
 
 Er ging einen Schritt auf sie zu.
 Seine Augen leuchteten.
@@ -251,76 +214,98 @@ Keine Angst.
 Ben war sicher.
 Ganz sicher.
 
-"Es gibt einen Aufgang von hier nach oben.
+"Es gibt einen Aufgang", sagte Ben.
+"Von hier nach oben.
 Zum Brunnen.
 Einen Schacht.
 Oder eine Leiter.
 Oder Stufen.
 Irgendwas."
 
-Mila stand auf.
-"Du meinst --"
+"Du meinst --", sagte Mila.
 
-"Lisbeth und Karl sind 1953 RAUSGEKOMMEN.
-Hier unten.
+"Lisbeth und Karl sind 1953 RAUSGEKOMMEN", sagte Ben.
+"Hier unten.
 Aus dieser Kammer.
 Oder aus der Naehe.
 Sonst haette man sie nie unter dem Brunnen gefunden."
 
 Jonas starrte Ben an.
-
 Sein Mund stand offen.
 Sein Herz klopfte.
-Nicht vor Angst.
-Vor etwas anderem.
 
-Ben hatte recht.
-Natuerlich hatte er recht.
-Es war so einfach.
-So klar.
-Warum hatte Jonas nicht daran gedacht?
+"Du hast recht", sagte Jonas.
+"Natuerlich hast du recht!
+Es ist so einfach."
 
-Der Brunnen stand ueber dem alten Haupteingang.
-Das Dorf hatte ihn 1953 gebaut.
-Ueber den Eingang.
-Aber der Eingang war immer noch da.
-Unter dem Brunnen.
-Und Lisbeth und Karl hatten ihn gefunden.
+"Warum habe ich nicht daran gedacht?" sagte Mila.
+
+"Weil ICH diesmal schneller war", sagte Ben.
+Er grinste.
+
+"Angeber", sagte Mila.
+Aber sie laechelte.
+
+"Gebt mir eine Sekunde", sagte Ben.
+"Ich will mich dran erinnern.
+Dass ich mal recht hatte."
+
+"Fertig?" fragte Mila.
+
+"Fertig."
+
+"Gut.
+Dann weiter."
+
+"Der Brunnen steht ueber dem alten Eingang", sagte Jonas.
+"Das Dorf hat ihn 1953 gebaut.
+Ueber den Eingang."
+
+"Aber der Eingang ist noch da", sagte Ben.
+"Unter dem Brunnen.
+Lisbeth und Karl haben ihn gefunden.
 Von unten.
-Von hier.
+Von hier."
 
-"Der Rinnsal", sagte Jonas.
+"Das Rinnsal", sagte Jonas.
 Er kniete sich wieder neben das Loch.
-"Er fliesst durch das Loch in der Wand.
-Mila hat gesagt, es ist zu klein."
+"Es fliesst durch das Loch in der Wand.
+Aber Mila hat gesagt, es ist zu klein."
 
 "Fuer uns", sagte Ben.
 "Aber schau mal genauer hin."
 
 Jonas leuchtete hinein.
 Diesmal genauer.
-Und er sah es.
-Das Loch war unten eng.
-Aber dahinter wurde es groesser.
-Weiter.
-Der Stein trat zurueck.
 
-"Es wird breiter dahinter", sagte Jonas.
+"Es wird breiter dahinter", sagte er.
+"Viel breiter."
 
-"Genau", sagte Ben.
+"Siehst du?" sagte Ben.
 "Wir muessen nur durch das Loch.
 Dahinter fuehrt ein Gang nach oben."
+
+"Woher weisst du das?" fragte Mila.
+
+"Weil das Wasser irgendwo hin muss", sagte Ben.
+"Und weil Lisbeth und Karl rauskamen.
+Die Logik stimmt."
+
+"Seit wann kannst du Logik?" fragte Mila.
+
+"Seit heute.
+Ueberraschung."
 
 Die Taschenlampe flackerte.
 Wieder.
 Das Licht wurde schwaecher.
-Jonas klopfte gegen das Metallgehaeuse.
-Das Licht stabilisierte sich.
+Jonas klopfte gegen das Gehaeuse.
+Das Licht hielt.
 Kaum.
 
 "Schnell", sagte Mila.
 
-Jonas kniete sich vor das Loch in der Wand.
+Jonas kniete sich vor das Loch.
 Er leuchtete hinein.
 Das Loch war klein.
 Aber dahinter:
@@ -330,10 +315,14 @@ Schmal.
 Niedrig.
 Feucht.
 
-Und am Boden: das Rinnsal.
-Es floss hinein.
-In den Gang.
-Weg von der Kammer.
+"Ich gehe zuerst", sagte Jonas.
+
+"Warum immer du?" fragte Ben.
+
+"Weil ich die Taschenlampe habe."
+
+"Gutes Argument", sagte Ben.
+"Sei vorsichtig."
 
 Jonas drueckte sich durch das Loch.
 Seine Schultern streiften den Stein.
@@ -342,25 +331,41 @@ Eng.
 Sehr eng.
 Der Rucksack mit der Truhe schabte an der Decke.
 
-Aber es ging.
+"Passt du durch?" rief Mila.
+
+"Gerade so", rief Jonas zurueck.
 
 Mila folgte.
 Dann Ben.
 Er stoehnte.
-Aber er kam.
 
-Der Gang war kaum einen Meter hoch.
-Sie krochen.
-Auf Haenden und Knien.
-Das Wasser floss unter ihnen.
-Kalt an den Fingern.
-Jonas spuerte jeden Stein unter seinen Knieen.
+"Alles klar, Ben?" fragte Jonas.
 
 "Ich bin zu alt fuer sowas", murmelte Ben.
 
 "Du bist zehn", sagte Mila.
 
-"Fuehlt sich an wie hundert."
+"Fuehlt sich an wie hundert.
+Mein Ruecken.
+Meine Knie.
+Alles kaputt."
+
+"Drama", sagte Mila.
+
+"Das ist kein Drama", sagte Ben.
+"Das sind Tatsachen."
+
+"Krabbel weiter", sagte Mila.
+
+Sie krochen weiter.
+Auf Haenden und Knien.
+Das Wasser floss unter ihnen.
+Kalt an den Fingern.
+
+"Wie weit noch?" fragte Ben.
+
+"Keine Ahnung", sagte Jonas.
+"Weiter."
 
 Zehn Meter.
 Zwanzig.
@@ -371,6 +376,11 @@ Jonas schuettelte sie.
 Das Licht blieb schwach.
 Orange statt gelb.
 
+"Sie geht bald aus", sagte Mila.
+
+"Nicht jetzt", fluesterte Jonas.
+"Bitte nicht jetzt."
+
 Dann: der Gang endete.
 Nicht in einer Wand.
 Sondern in einer Oeffnung.
@@ -378,32 +388,41 @@ Sondern in einer Oeffnung.
 Jonas kroch hindurch.
 Und ploetzlich konnte er stehen.
 
-Ein Schacht.
-Rund.
-Gemauert.
-Der Stein war anders hier.
-Glatter.
-Neuer.
-Nicht Hunderte von Jahren alt.
-Sondern vielleicht siebzig.
+"Ich kann stehen!" rief er.
 
-*1953*, dachte Jonas.
-*Sie haben den Schacht gebaut.
-Als sie den Brunnen darueber gesetzt haben.*
+"Was siehst du?" rief Mila.
 
-Er leuchtete nach oben.
+"Einen Schacht", sagte Jonas.
+"Rund.
+Gemauert."
+
+Mila kroch neben ihn.
+Dann Ben.
+
+"Der Stein ist anders hier", sagte Mila.
+"Glatter.
+Neuer."
+
+"1953", sagte Jonas.
+"Sie haben den Schacht gebaut.
+Als sie den Brunnen drueber gesetzt haben."
+
+"Dann fuehrt er nach oben?" fragte Ben.
+
+"Muss er", sagte Mila.
+"Sonst gibt es den Schacht nicht."
+
+Jonas leuchtete nach oben.
 
 Sein Herz sprang.
 
-Eine Leiter.
-Aus Eisen.
-Rostig.
-Alt.
-Sie fuehrte nach oben.
-Senkrecht.
-In die Dunkelheit.
+"Eine Leiter!" rief er.
 
-"Da", fluesterte Jonas.
+"Echt jetzt?" sagte Ben.
+
+"Eine Leiter.
+Aus Eisen.
+Sie fuehrt nach oben."
 
 Ben kroch neben ihn.
 Er sah nach oben.

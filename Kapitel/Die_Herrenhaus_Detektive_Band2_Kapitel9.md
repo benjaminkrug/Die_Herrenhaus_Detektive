@@ -150,7 +150,7 @@ Pfeile.
 In den Stein geritzt.
 Grob.
 Tief.
-Jemand hatte sie mit einem Meissel geschlagen.
+Jemand hatte sie mit einem Werkzeug geschlagen.
 
 Und daneben: Symbole.
 Kreise.

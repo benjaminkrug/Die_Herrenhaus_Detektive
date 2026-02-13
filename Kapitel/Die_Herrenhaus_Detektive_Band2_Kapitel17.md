@@ -127,7 +127,7 @@ Ben zeigte mit dem Daumen zum Herrenhaus.
 
 ---
 
-Um elf Uhr war Zeremonie.
+Um elf Uhr war die Feier.
 
 Auf dem Dorfplatz.
 Am Brunnen.
@@ -379,7 +379,7 @@ Jonas sah auf das Display.
 Unbekannte Nummer.
 Keine Vorwahl, die er kannte.
 
-Sein Herz klopfte schneller.
+Sein Magen zog sich zusammen.
 Ohne dass er wusste warum.
 
 Er drueckte auf den gruenen Knopf.

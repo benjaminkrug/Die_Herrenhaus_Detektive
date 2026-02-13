@@ -113,7 +113,7 @@ Im Dunkeln.
 
 Durch den vierten Raum.
 Vorbei an den leeren Regalen.
-An der Wand mit dem Spuk-Mechanismus.
+An der Wand mit der Spuk-Vorrichtung.
 Meiers Schnur hing noch da.
 Weiss.
 Sauber.
@@ -265,7 +265,7 @@ Unter dem Symbol.
 Vier Linien.
 Vier Loecher.
 
-"Das ist ein Mechanismus", sagte Jonas.
+"Das ist ein Schloss", sagte Jonas.
 "Wie ein Schloss.
 Aber ohne Schluessel.
 Man muss etwas hineinstecken.

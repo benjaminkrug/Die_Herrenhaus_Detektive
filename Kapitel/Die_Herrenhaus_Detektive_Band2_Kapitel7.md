@@ -315,12 +315,12 @@ Vier Schluessel zu einer Tuer, die seit 70 Jahren verschlossen war.
 Ein Symbol.
 Etwas, das in die Vertiefungen passt."
 
-Mila zahlte auf:
+Mila zaehlte auf:
 "Von Winter haben wir den goldenen Knopf."
 
 "Stimmt", sagte Jonas.
 Der Knopf lag in seinem Rucksack.
-Seit Band 1.
+Seit dem Herrenhaus.
 Schwer.
 Golden.
 Mit dem Blumenmuster.

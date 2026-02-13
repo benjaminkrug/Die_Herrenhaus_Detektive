@@ -85,7 +85,7 @@ Schweigen ist ein Deckel.
 Wie der Brunnen."
 
 Gemurmel.
-Stoehlen.
+Stoehnen.
 Jemand raeusperte sich laut.
 
 Ben beugte sich zu Jonas.

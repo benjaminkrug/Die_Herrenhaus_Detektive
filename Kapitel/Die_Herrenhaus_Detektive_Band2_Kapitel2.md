@@ -352,7 +352,7 @@ Eine landete auf der Banklehne.
 
 "Lisbeth hat dieses Dorf nie verlassen."
 
-Jonas' Herz schlug schneller.
+Jonas' Atem stockte.
 "Sie lebt noch?"
 
 Krueger nickte.

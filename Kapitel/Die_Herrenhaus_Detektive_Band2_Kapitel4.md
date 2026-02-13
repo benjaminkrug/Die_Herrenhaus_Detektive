@@ -19,7 +19,7 @@ Aber auf dem Boden lagen die Geheimnisse.
 
 Winters Brief.
 Die Skizze mit dem Brunnen.
-Das Tagebuch aus Band 1.
+Das Tagebuch aus dem Herrenhaus.
 Die alte Schatzkarte in der Lederhuelle.
 Und der goldene Knopf.
 
@@ -166,7 +166,7 @@ Dann das Papier.
 Dann Ben.
 
 "Ben", sagte sie.
-"Das ist brilliant."
+"Das ist genial."
 
 Ben wurde rot.
 "Ich weiss.

@@ -338,7 +338,7 @@ Trotz der Traenen.
 
 "Aber das Schlimmste war nicht die Dunkelheit."
 
-Jonas' Herz schlug schneller.
+Jonas' Haende wurden feucht.
 
 Frau Bergmann beugte sich vor.
 Ihre Stimme war jetzt nur noch ein Fluestern.

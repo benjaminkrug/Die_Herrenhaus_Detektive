@@ -227,7 +227,7 @@ Dickes Papier.
 Ein rotes Wachssiegel.
 Darauf die vier Symbole.
 
-Jonas Herz klopfte schneller.
+Jonas' Mund wurde trocken.
 Noch ein versiegelter Brief.
 Der letzte Brief hatte alles veraendert.
 Was wuerde dieser hier veraendern?
@@ -396,7 +396,7 @@ Wort fuer Wort.
 
 Er stockte.
 
-Sein Herz schlug schneller.
+Sein Atem ging schneller.
 Seine Finger wurden kalt.
 
 "Was?" fragte Ben.
