@@ -10,6 +10,10 @@
 
 Am nächsten Morgen waren die drei ungewöhnlich still.
 
+Jonas hatte schlecht geschlafen.\
+In seinem Kopf drehte sich alles.\
+Der Schatten. Die breiten Schultern. Die dunkle Jacke.
+
 „Das war kein Zufall", sagte Jonas.\
 „Jemand sucht auch nach dem Schatz."
 
@@ -18,6 +22,10 @@ Ben nickte nervös.\
 
 Mila dachte nach.\
 „Wir müssen herausfinden, wer das war."
+
+Jonas spürte Wut in seinem Bauch.\
+Jemand war ihnen zuvorgekommen.\
+Jemand aus dem Dorf.
 
 ------------------------------------------------------------------------
 
@@ -28,14 +36,20 @@ Er reparierte sein Fahrrad vor dem Laden.
 
 Er war groß.\
 Und hatte dicke Hände.\
+Breite Schultern.\
 Seine Stirn glänzte vor Schweiß.
+
+Jonas blieb stehen.\
+Sein Herz machte einen Sprung.\
+Breite Schultern. Wie der Schatten.
 
 „Guten Morgen", sagte Mila.
 
 Herr Meier zuckte leicht zusammen.\
 „Oh. Ihr seid es."
 
-Jonas beobachtete ihn genau.
+Jonas beobachtete ihn genau.\
+Jede Bewegung. Jedes Zucken.
 
 „Waren Sie gestern Abend unterwegs?" fragte er.
 
@@ -44,7 +58,8 @@ Herr Meier blinzelte.\
 
 „Beim Herrenhaus", sagte Ben schnell.
 
-Herr Meier ließ den Schraubenschlüssel fallen.
+Herr Meier ließ den Schraubenschlüssel fallen.\
+Er klapperte laut auf dem Boden.
 
 „Was wollt ihr da?" fragte er scharf.
 
@@ -56,7 +71,9 @@ Herr Meier wischte sich über die Stirn.\
 
 „Aber wir haben Licht gesehen", sagte Jonas ruhig.
 
-Für einen Moment sagte Herr Meier nichts.
+Für einen Moment sagte Herr Meier nichts.\
+Sein Kiefer bewegte sich.\
+Als würde er auf den Zähnen knirschen.
 
 Dann lachte er.\
 „Unsinn. Das Haus ist leer."
@@ -64,12 +81,20 @@ Dann lachte er.\
 „Und warum waren dann frische Fußspuren am Tor?" fragte Mila.
 
 Herr Meier sah sie an.\
-Zu lange.
+Zu lange.\
+Seine Augen wurden schmal.
 
 „Vielleicht wart ihr das selbst", sagte er.
 
 Ben schüttelte den Kopf.\
-„Die Spuren waren größer."
+„Die Spuren waren größer. Viel größer."
+
+Jonas sah auf Herrn Meiers Schuhe.\
+Groß.\
+Staubig.\
+Mit einem Profil, das er wiedererkannte.
+
+Sein Magen zog sich zusammen.
 
 Herr Meier griff wieder nach seinem Werkzeug.\
 Seine Hände zitterten leicht.
@@ -91,18 +116,39 @@ Doch Herr Meier stand plötzlich auf.
 „Geht nach Hause", sagte er streng.\
 „Und vergesst das Haus."
 
-Er schob sein Fahrrad in den Laden.
-
+Er schob sein Fahrrad in den Laden.\
 Die Tür fiel zu.
+
+Mini-Rätsel:\
+Herr Meier hat dreimal gelogen.\
+Einmal, als er sagte, das Haus sei leer.\
+Einmal, als er sagte, niemand gehe hin.\
+Und einmal bei den Fußspuren.\
+Aber hast du seinen größten Fehler bemerkt?\
+Er wusste von dem Licht -- ohne dass jemand ihm davon erzählt hat.
 
 Die drei sahen sich an.
 
 „Er hat gelogen", sagte Ben.
 
 Mila nickte langsam.\
-„Er wusste mehr."
+„Er wusste mehr, als er sagen wollte."
 
-Jonas ballte die Faust.
+Jonas ballte die Faust.\
+Er spürte, wie seine Wangen heiß wurden.
 
 „Und ich glaube", sagte er leise,\
 „er war gestern Nacht im Herrenhaus."
+
+„Seine Schuhe", sagte Mila plötzlich.
+
+Jonas nickte.\
+„Groß. Staubig. Und das gleiche Profil wie die Spuren."
+
+Ben wurde blass.\
+„Dann weiß er, dass wir ihm auf der Spur sind."
+
+Stille.
+
+„Gut", sagte Jonas.\
+„Dann müssen wir schneller sein als er."

@@ -19,10 +19,16 @@ Sie rührte sich nicht.
 
 Stille.
 
-Nur ihr Atem war zu hören.
+Nur ihr Atem war zu hören.\
+Schnell und flach.
 
 Jonas leuchtete in den Raum.\
-Die Schatten an den Wänden wirkten plötzlich größer.
+Die Schatten an den Wänden wirkten plötzlich größer.\
+Bedrohlicher.
+
+Jonas spürte, wie Panik in ihm hochkroch.\
+Wie eine kalte Hand, die sich um seinen Bauch legte.\
+Er schluckte hart dagegen an.
 
 „Wir bleiben ruhig", sagte Mila.\
 „Panik hilft uns nicht."
@@ -30,8 +36,17 @@ Die Schatten an den Wänden wirkten plötzlich größer.
 Ben schluckte.\
 „Ich will hier raus."
 
-Jonas kniete sich neben die Treppe.\
-„Es muss einen anderen Weg geben."
+Jonas versuchte es noch einmal.\
+Er rüttelte an der Klinke.\
+Er trat gegen das Holz.
+
+Nichts.
+
+Er kniete sich neben die Treppe.\
+Sein Atem ging zu schnell.\
+Er zwang sich, langsamer zu atmen.
+
+„Es muss einen anderen Weg geben", sagte er.
 
 „Vielleicht durch den Gang", sagte Mila.
 
@@ -42,12 +57,26 @@ Wieder dieses Schaben in der Dunkelheit.
 
 Ben presste die Lippen zusammen.
 
-„Moment", sagte er plötzlich.
+Mini-Rätsel:\
+Im Code aus dem Tagebuch stand:\
+Tür -- eins -- Licht.\
+Was könnte „eins" bedeuten?\
+Die erste Tür?\
+Die erste Stufe?\
+Oder etwas ganz anderes?\
+Denk nach -- die Antwort könnte euch retten!
+
+„Moment", sagte Ben plötzlich.
 
 Jonas sah ihn an.\
 „Was?"
 
 Ben dachte nach.\
+Sein Gesicht veränderte sich.\
+Die Angst war noch da.\
+Aber dahinter war etwas anderes.\
+Entschlossenheit.
+
 „Im Tagebuch stand doch etwas mit ‚Tür -- eins -- Licht'."
 
 Mila runzelte die Stirn.\
@@ -62,23 +91,33 @@ Er ging zur Treppe.
 Seine Beine zitterten.\
 Aber er ging trotzdem.
 
+Jonas spürte, wie ihm warm wurde.\
+Ben, der immer Angst hatte.\
+Ben, der immer zuerst weglaufen wollte.\
+Jetzt war er derjenige, der sich traute.
+
 „Ben?" fragte Mila vorsichtig.
 
 Ben kniete sich an die erste Stufe.
 
-Er tastete darunter.
+Er tastete darunter.\
+Seine Finger zitterten im Staub.
 
 Staub rieselte herunter.
 
-„Hier ist etwas!" rief er leise.
+„Hier ist etwas!" rief er leise.\
+Seine Stimme brach fast.
 
 Jonas kniete sich neben ihn.
 
-Unter der Stufe war ein kleiner Metallhebel.
+Unter der Stufe war ein kleiner Metallhebel.\
+Kalt und glatt.
 
 „Du hast es gefunden", sagte Mila erstaunt.
 
-Ben atmete tief durch.
+Ben atmete tief durch.\
+Sein ganzer Körper zitterte.\
+Aber er lächelte.
 
 „Ich habe nur nachgedacht", sagte er.
 
@@ -94,20 +133,27 @@ Jonas drückte den Hebel ganz nach unten.
 
 Mit einem dumpfen Geräusch sprang die Tür auf.
 
-Frische Luft strömte in den Keller.
+Frische Luft strömte in den Keller.\
+Jonas atmete tief ein.\
+Die Luft schmeckte nach Freiheit.
 
-Ben ließ sich auf die Stufe fallen.
+Ben ließ sich auf die Stufe fallen.\
+Er lachte leise.\
+Ein erleichtertes, wackeliges Lachen.
 
 „Ich wusste es", murmelte er.
 
-Jonas grinste.\
+Jonas grinste breit.\
+Seine Augen brannten.\
 „Du hast uns gerettet."
 
 Mila klopfte Ben auf die Schulter.\
 „Der Mutigste von uns dreien."
 
-Ben wurde rot.
+Ben wurde rot.\
+Bis zu den Ohren.
 
-Doch dann sah er wieder in den dunklen Gang.
+Doch dann sah er wieder in den dunklen Gang.\
+Sein Lächeln verschwand.
 
 „Wir sind noch nicht fertig", sagte er leise.
