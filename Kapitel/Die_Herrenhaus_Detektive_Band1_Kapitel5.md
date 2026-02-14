@@ -14,7 +14,10 @@ Sie standen noch immer am Zaun.\
 Das offene Fenster bewegte sich im Wind.
 
 Jonas dachte nach.\
-„Dann finden wir eben erst mehr heraus."
+Sein Kopf war voller Fragen.\
+Das Zeichen. Der Schlüssel. Die Fußspuren.
+
+„Dann finden wir eben erst mehr heraus", sagte er.
 
 „Wie?" fragte Ben.
 
@@ -32,6 +35,12 @@ Im Erdgeschoss gab es einen Raum mit alten Akten.
 Ben sah sich um.\
 „Es riecht nach Staub."
 
+„Und nach alten Geheimnissen", sagte Jonas.
+
+Der Raum war klein.\
+Regale standen an allen Wänden.\
+Voll mit Mappen, Ordnern und Heften.
+
 Jonas strich mit dem Finger über ein Regal.\
 Eine dünne Staubspur blieb zurück.
 
@@ -40,13 +49,30 @@ Eine dünne Staubspur blieb zurück.
 Sie zogen Schubladen auf.\
 Blätter raschelten.
 
-„Hier!" rief Ben plötzlich.
+Plötzlich hörten sie Schritte im Flur.
+
+Alle drei erstarrten.
+
+„Mein Onkel?" flüsterte Mila.
+
+Die Schritte kamen näher.\
+Dann gingen sie vorbei.
+
+Jonas atmete aus.\
+Sein Herz klopfte schnell.
+
+„Weiter", flüsterte er.
+
+„Hier!" rief Ben plötzlich.\
+Dann schlug er sich die Hand vor den Mund.\
+„Hier", wiederholte er leiser.
 
 Er hielt ein altes, braunes Heft hoch.
 
 „Was ist das?" fragte Mila.
 
 Jonas nahm es vorsichtig.\
+Seine Hände zitterten vor Aufregung.\
 Auf dem Einband stand in verblasster Schrift:
 
 *Eigentum -- H. Winter*
@@ -54,9 +80,11 @@ Auf dem Einband stand in verblasster Schrift:
 „Ein Tagebuch", flüsterte Mila.
 
 Jonas schlug es auf.\
-Die Seiten waren vergilbt.
+Die Seiten waren vergilbt.\
+Sie rochen nach Keller und nasser Erde.
 
-Die Schrift war krakelig.
+Die Schrift war krakelig.\
+Schwer zu lesen.
 
 „Hier steht etwas Seltsames", sagte Ben.
 
@@ -70,6 +98,7 @@ Mila runzelte die Stirn.\
 „Das klingt nicht wie normale Sätze."
 
 Jonas schüttelte den Kopf.\
+Sein Puls raste.\
 „Das ist ein Code."
 
 Ben sah nervös zur Tür.\
@@ -89,6 +118,9 @@ Jonas deutete auf die Zahlen.\
 „Was bedeuten die?" fragte Mila.
 
 Jonas blätterte weiter.\
+Viele Seiten waren leer.\
+Oder so verschmiert, dass man nichts lesen konnte.
+
 Ein paar Seiten später stand nur ein einzelner Satz:
 
 „Wer die Anfangsbuchstaben versteht, findet den Weg."
@@ -135,7 +167,8 @@ Tür -- eins -- Licht
 
 Jonas starrte auf die Liste.
 
-Plötzlich wurde sein Gesicht ernst.
+Plötzlich spürte er ein Kribbeln im ganzen Körper.\
+Er hatte es.
 
 „Ich glaube", sagte er leise,\
 „ich weiß, was das bedeutet."
@@ -143,6 +176,16 @@ Plötzlich wurde sein Gesicht ernst.
 Ben riss die Augen auf.\
 „Was denn?"
 
-Jonas klappte das Tagebuch zu.
+Jonas klappte das Tagebuch zu.\
+Er drückte es fest an sich.
 
 „Wir müssen zurück zum Herrenhaus."
+
+Mila griff nach seinem Arm.\
+„Jonas, du zitterst ja."
+
+Er sah sie an.\
+Seine Augen leuchteten.
+
+„Weil das hier echt ist", sagte er.\
+„Der Schatz ist kein Gerücht."

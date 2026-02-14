@@ -19,7 +19,9 @@ Das Fenster im Erdgeschoss war noch immer einen Spalt offen.
 Mila schob den Vorhang leicht zur Seite.\
 „Jetzt oder nie."
 
-Jonas kletterte als Erster hinein.
+Jonas kletterte als Erster hinein.\
+Seine Knie waren weich.\
+Aber er ließ es sich nicht anmerken.
 
 Der Boden knarrte unter seinen Schuhen.
 
@@ -42,7 +44,23 @@ Der Flur war dunkel.
 Staub lag auf dem Boden.\
 Spinnweben hingen von der Decke.
 
-„Hier war lange niemand mehr", sagte Mila leise.
+Jonas sah nach unten.\
+Im Staub waren Fußabdrücke.\
+Große Fußabdrücke.
+
+„Die gleichen wie draußen", flüsterte Mila.
+
+Jonas nickte.\
+Sein Magen zog sich zusammen.\
+Wer auch immer hier war, kannte den Weg.
+
+„Hier war lange niemand mehr", sagte Ben leise.
+
+„Doch", sagte Jonas.\
+Er zeigte auf die Spuren.\
+„Und zwar regelmäßig."
+
+Ben wurde blass.
 
 Plötzlich knarrte etwas.
 
@@ -57,6 +75,17 @@ Am Ende des Flurs führte eine Treppe nach oben.
 „Turm", flüsterte Mila.
 
 „Vielleicht meint der Code den Dachboden", sagte Jonas.
+
+Die Fußspuren im Staub führten ebenfalls zur Treppe.\
+Hinauf.
+
+Jonas spürte ein Prickeln im Nacken.\
+Wer auch immer hier war, ging den gleichen Weg.
+
+Mini-Rätsel:\
+Die Fußspuren führen die Treppe hinauf.\
+Der Code sagt: Turm -- drei -- Mond.\
+Ist die Person im Haus hinter dem gleichen Geheimnis her?
 
 Langsam setzten sie einen Fuß auf die erste Stufe.
 
@@ -90,7 +119,8 @@ Dieses Mal kam es von oben.
 Wie ein leises Schaben.
 
 Jonas sah nach oben.\
-Der Treppenabsatz lag im Schatten.
+Der Treppenabsatz lag im Schatten.\
+Jonas' Hände ballten sich zu Fäusten.
 
 „Da ist niemand", sagte er.\
 Aber er war sich nicht sicher.
@@ -102,6 +132,11 @@ Ben atmete tief ein.\
 „Nur kurz schauen", sagte er.
 
 Oben angekommen, standen sie vor einem langen Flur.
+
+Die Fußspuren im Staub hörten hier auf.\
+Als hätte jemand sie absichtlich verwischt.
+
+„Seltsam", flüsterte Jonas.
 
 Ein alter Vorhang hing schief an der Wand.
 

@@ -31,7 +31,8 @@ Mit einem langen, kratzenden Geräusch öffnete sie sich einen Spalt.
 
 Staub wirbelte in der Luft.
 
-Jonas hielt den Atem an.
+Jonas hielt den Atem an.\
+Sein Herz pochte laut in seinen Ohren.
 
 „Bereit?" fragte Mila.
 
@@ -53,15 +54,23 @@ An der Wand standen alte Kisten.\
 Holz.\
 Verstaubt.
 
-Jonas öffnete eine.
+Jonas öffnete die erste.
 
 Nur zerfallene Tücher.
 
 Mila öffnete die nächste.
 
-Leer.
+Ein altes Foto lag darin.\
+Ein Mann mit Bart vor dem Herrenhaus.\
+Auf der Rückseite stand: *H.W. 1962*
 
-Ben klopfte gegen eine dritte.
+„Herr Winter", flüsterte Mila.
+
+Jonas betrachtete das Foto.\
+Der Mann lächelte.\
+Er sah nicht aus wie jemand, der weglaufen würde.
+
+Ben klopfte gegen eine dritte Kiste.
 
 Hoher, hohler Klang.
 
@@ -82,6 +91,10 @@ Jonas sah sich noch einmal um.\
 Ben setzte sich auf eine Kiste.\
 „Ich habe gesagt, das ist keine gute Idee."
 
+Jonas spürte, wie die Hoffnung aus ihm wich.\
+Wie Luft aus einem Ballon.\
+Er ließ die Schultern sinken.
+
 Stille.
 
 Staub tanzte im Licht, das durch einen kleinen Spalt fiel.
@@ -96,7 +109,8 @@ Sie kniete sich vor die Wand.
 
 „Hier stimmt etwas nicht."
 
-Jonas trat neben sie.
+Jonas trat neben sie.\
+Sein Puls beschleunigte sich wieder.
 
 Im Holz der Wand war etwas eingeritzt.
 
@@ -105,11 +119,17 @@ Ein Zeichen.
 Drei Linien.\
 Und ein Kreis darüber.
 
+Jonas' Augen wurden groß.\
+„Das kenne ich."
+
 „Das ist kein Kratzer", sagte Mila.
 
-Jonas spürte, wie sein Herz schneller schlug.
+Jonas spürte, wie sein Herz schneller schlug.\
+Viel schneller.
 
-„Das ist ein Symbol."
+„Das ist das Symbol. Vom Zaun. Vom Schlüssel."
+
+„Das ist ein Symbol", sagte Mila.
 
 Ben sprang auf.
 
@@ -121,6 +141,15 @@ Mila strich vorsichtig mit dem Finger darüber.
 
 „Wo?" fragte Jonas.
 
+Mini-Rätsel:\
+Drei Linien und ein Kreis.\
+Du hast das Zeichen jetzt schon dreimal gesehen.\
+Am Zaun. Auf dem Schlüssel. Und jetzt an der Wand.\
+Was verbindet diese drei Orte?\
+Und wo wird es als Nächstes auftauchen?
+
 Mila sah zur Tür.
+
+Dann sagte sie nur zwei Worte.
 
 „Im Tagebuch."
