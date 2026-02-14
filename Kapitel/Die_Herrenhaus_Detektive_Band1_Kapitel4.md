@@ -21,6 +21,8 @@ Plötzlich sprang etwas aus dem Gebüsch.
 
 Eine Katze.
 
+Orange.\
+Zerzaust.\
 Sie miaute einmal und rannte davon.
 
 Ben ließ die Schultern sinken.\
@@ -29,7 +31,23 @@ Ben ließ die Schultern sinken.\
 Mila grinste.\
 „Von einer Katze?"
 
-„Von dem Schreck", murmelte Ben.
+„Von dem Schreck", murmelte Ben.\
+Er hob seine Kappe auf, die ihm vor Schreck vom Kopf gefallen war.\
+„Mein Herz schlägt so laut, die können mich in China hören."
+
+Jonas lachte.\
+Es fühlte sich gut an, nach der ganzen Anspannung.\
+Die Luft roch nach warmem Staub und Holunder.
+
+„Okay", sagte Ben.\
+„Wir haben eine Katze gefunden.\
+Fall gelöst.\
+Können wir jetzt nach Hause?"
+
+„Nein", sagte Jonas und Mila gleichzeitig.
+
+Ben stöhnte.\
+„Wusste ich's doch."
 
 Jonas atmete tief durch.\
 Sein Puls beruhigte sich langsam.\
@@ -41,13 +59,16 @@ Doch sein Blick wanderte wieder zum Tor.
 „Nur gucken", sagte Mila.
 
 „Nur gucken", wiederholte Ben.\
-Aber er klang nicht überzeugt.
+Aber er klang nicht überzeugt.\
+„Ich sage es ja nur: Das ist eine ganz schlechte Idee."
 
 Langsam traten sie an das alte Eisentor.
 
 Es war groß.\
 Schwer.\
-Und mit einer dicken Kette verschlossen.
+Und mit einer dicken Kette verschlossen.\
+Die Kette war rostig.\
+Sie roch nach nassem Metall.
 
 Jonas zog den rostigen Schlüssel aus der Tasche.
 
@@ -98,12 +119,16 @@ Jonas spürte ein Prickeln im Nacken.\
 
 „Weil der Wind sie noch nicht weggeblasen hat", sagte Mila.
 
+„Logisch", fügte sie hinzu.
+
 Jonas nickte.\
 „Hier war jemand. Vor Kurzem."
 
 Er sah genauer hin.\
 Die Abdrücke waren groß.\
-Viel größer als seine eigenen Schuhe.
+Viel größer als seine eigenen Schuhe.\
+Er hielt seinen Fuß daneben.\
+Der Abdruck war fast doppelt so lang.
 
 „Das war kein Kind", sagte er.
 
@@ -138,7 +163,14 @@ Zu einem Fenster.
 Langsam gingen sie ein paar Schritte am Zaun entlang.
 
 Das Gras war platt gedrückt.\
-Als wäre hier oft jemand langgelaufen.
+Als wäre hier oft jemand langgelaufen.\
+Ben trat in eine Pfütze.\
+Braunes Wasser spritzte über seinen Schuh.
+
+„Super", murmelte er.\
+„Nasse Socke. Mein Lieblingsding."
+
+Mila grinste, sagte aber nichts.
 
 Jonas blieb stehen.\
 Sein Magen zog sich zusammen.
@@ -158,7 +190,8 @@ Ben wurde blass.\
 „Das Gras ist platt. Nicht nur einmal."
 
 Jonas presste die Lippen zusammen.\
-Er spürte, wie sein Herz schneller schlug.
+Er spürte, wie sein Herz schneller schlug.\
+Die Fingerspitzen kribbelten.
 
 „Wir müssen herausfinden, wer das ist", sagte er.
 
@@ -172,7 +205,17 @@ Dann wieder zu den anderen.
 Jonas und Mila sagten nichts.
 
 Ben stöhnte.\
-„Ich wusste es."
+„Ich wusste es."\
+Er zog seine nasse Socke hoch.\
+„Das ist eine ganz schlechte Idee.\
+Aber falls wir sterben --\
+ich will, dass auf meinem Grabstein steht:\
+Er hat es gesagt."
+
+Mila lachte leise.\
+Jonas auch.
+
+Aber dann wurde es wieder ernst.
 
 Der Wind frischte auf.\
 Der Vorhang wehte zur Seite.

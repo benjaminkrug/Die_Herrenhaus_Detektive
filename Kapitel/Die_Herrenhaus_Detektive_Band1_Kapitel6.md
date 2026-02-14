@@ -12,9 +12,22 @@
 
 Eine Stunde später standen sie wieder vor dem Haus.
 
+Ben hatte sich noch schnell ein Brötchen geholt.\
+Er kaute, während sie am Zaun standen.\
+Krümel fielen auf sein T-Shirt.
+
+„Kannst du nicht vorher essen?" fragte Mila.
+
+„Das IST vorher", sagte Ben.\
+„Wer weiß, wie lange wir da drin sind.\
+Ich will nicht in einem Geisterhaus verhungern."
+
+Mila seufzte.
+
 Das Fenster im Erdgeschoss war noch immer einen Spalt offen.
 
-„Letzte Chance zum Umkehren", murmelte Ben.
+„Letzte Chance zum Umkehren", murmelte Ben.\
+Er stopfte den Rest vom Brötchen in den Mund.
 
 Mila schob den Vorhang leicht zur Seite.\
 „Jetzt oder nie."
@@ -23,11 +36,13 @@ Jonas kletterte als Erster hinein.\
 Seine Knie waren weich.\
 Aber er ließ es sich nicht anmerken.
 
-Der Boden knarrte unter seinen Schuhen.
+Der Boden knarrte unter seinen Schuhen.\
+Seine Turnschuhe quietschten leise auf dem staubigen Holz.
 
 Drinnen war es kühler.\
-Die Luft roch nach Staub.\
-Und nach etwas Altem.
+Viel kühler als draußen.\
+Die Luft roch nach Staub, altem Holz und etwas Feuchtem.\
+Wie nasse Handtücher, die zu lange herumgelegen haben.
 
 Mila folgte ihm.\
 Ben zögerte.
@@ -35,14 +50,29 @@ Ben zögerte.
 „Kommt schon", flüsterte Jonas.
 
 Ben schluckte.\
-Dann kletterte auch er hinein.
+Dann kletterte auch er hinein.\
+Seine Kappe blieb am Fensterrahmen hängen und fiel auf den Boden.
+
+„Meine Kappe!" Er hob sie auf und klopfte den Staub ab.\
+„Dieses Haus mag mich nicht."
+
+„Das Haus mag niemanden", sagte Mila.
 
 ------------------------------------------------------------------------
 
 Der Flur war dunkel.
 
 Staub lag auf dem Boden.\
-Spinnweben hingen von der Decke.
+Spinnweben hingen von der Decke.\
+Eine streifte über Bens Gesicht.
+
+„Bäh!" Er wischte sich hektisch übers Gesicht.\
+„Spinnweben! Igitt igitt igitt!"
+
+„Psst!" machte Mila.
+
+„Das klebt!" flüsterte Ben.\
+„Es klebt an meiner Nase!"
 
 Jonas sah nach unten.\
 Im Staub waren Fußabdrücke.\
@@ -54,7 +84,8 @@ Jonas nickte.\
 Sein Magen zog sich zusammen.\
 Wer auch immer hier war, kannte den Weg.
 
-„Hier war lange niemand mehr", sagte Ben leise.
+„Hier war lange niemand mehr", sagte Ben leise.\
+Er kratzte sich immer noch am Gesicht.
 
 „Doch", sagte Jonas.\
 Er zeigte auf die Spuren.\
@@ -98,7 +129,8 @@ Ben hielt sich am Geländer fest.\
 
 „Du hast immer ein schlechtes Gefühl", sagte Mila.
 
-„Und meistens habe ich recht", murmelte Ben.
+„Und meistens habe ich recht", murmelte Ben.\
+„Ich sage es ja nur."
 
 Sie stiegen weiter hinauf.
 
@@ -120,7 +152,8 @@ Wie ein leises Schaben.
 
 Jonas sah nach oben.\
 Der Treppenabsatz lag im Schatten.\
-Jonas' Hände ballten sich zu Fäusten.
+Jonas' Hände ballten sich zu Fäusten.\
+Seine Fingernägel drückten in die Handflächen.
 
 „Da ist niemand", sagte er.\
 Aber er war sich nicht sicher.
@@ -129,7 +162,8 @@ Mila ging weiter.\
 „Wenn wir jetzt umdrehen, erfahren wir nie etwas."
 
 Ben atmete tief ein.\
-„Nur kurz schauen", sagte er.
+„Nur gucken", sagte er.\
+„Wir gucken nur."
 
 Oben angekommen, standen sie vor einem langen Flur.
 
@@ -142,7 +176,9 @@ Ein alter Vorhang hing schief an der Wand.
 
 Er bewegte sich leicht.
 
-„Da zieht es", sagte Jonas.
+„Da zieht es", sagte Jonas.\
+Ein kalter Luftzug strich über seine Arme.\
+Gänsehaut.
 
 Doch hinter dem Vorhang war keine Wand.
 
@@ -152,7 +188,8 @@ Mila griff danach.
 
 Zu spät.
 
-Mila zog den Stoff zur Seite.
+Mila zog den Stoff zur Seite.\
+Staubkörner tanzten im Lichtstrahl.
 
 Dahinter war eine schmale Tür.
 

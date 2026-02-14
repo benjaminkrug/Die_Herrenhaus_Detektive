@@ -26,9 +26,26 @@ Dreißig.
 
 „Wir müssen schon unter dem Garten sein", sagte Mila.
 
+Ben trat in eine Pfütze.\
+Kaltes Wasser schwappte über seinen Schuh.\
+„Nicht schon wieder! Nasse Socke Nummer zwei."
+
+„Du und nasse Socken", sagte Mila.\
+„Das ist wie ein Fluch."
+
+„Ein sehr nasser Fluch", sagte Ben.
+
 Jonas spürte, wie sein Herz immer schneller schlug.\
 Bei jedem Schritt kam er dem Schatz näher.\
 Oder dem, was davon übrig war.
+
+Der Tunnel roch nach feuchter Erde.\
+Wie frisch umgegrabener Garten.\
+Wurzeln hingen von der Decke.\
+Eine streifte über Bens Kappe.
+
+„Igitt", sagte er.\
+Aber leiser als sonst.
 
 Nach ein paar Metern endete der Gang an einer Steinwand.
 
@@ -37,7 +54,7 @@ Nach ein paar Metern endete der Gang an einer Steinwand.
 Jonas leuchtete höher.\
 Sein Atem ging schnell.
 
-In der Wand war eine runde Vertiefung.
+In der Wand war eine runde Mulde.
 
 Darunter drei schmale Rillen.
 
@@ -78,6 +95,7 @@ Und der Mond braucht Licht.\
 Kannst du es lösen?
 
 Jonas hob einen der Steine auf.\
+Er war glatt und kühl.\
 Er passte genau in eine der Rillen.
 
 „Probieren wir es", sagte Mila.
@@ -89,12 +107,17 @@ Doch nichts geschah.
 Jonas' Magen verkrampfte sich.\
 Das konnte nicht alles sein.
 
-Ben sah zur runden Vertiefung.\
-Er legte den Kopf schief.
-
-„Vielleicht braucht der Mond Licht", sagte er.
+Ben sah zur runden Mulde.\
+Er legte den Kopf schief.\
+Dann nahm er seine Kappe ab.
 
 Jonas sah ihn an.\
+Ben nahm nie seine Kappe ab.\
+Das war ernst.
+
+„Vielleicht braucht der Mond Licht", sagte Ben.
+
+Jonas starrte ihn an.\
 Natürlich.\
 Turm -- drei -- MOND.
 
@@ -102,6 +125,8 @@ Er richtete die Taschenlampe direkt in den Kreis.
 
 Für einen Moment war es still.\
 So still, dass Jonas sein eigenes Herz hören konnte.
+
+Bumm. Bumm. Bumm.
 
 Dann hörten sie ein leises Klicken.
 
@@ -127,8 +152,12 @@ Ihre Hand griff nach Jonas' Arm.
 „Wir haben es geschafft", flüsterte sie.\
 Ihre Stimme zitterte.
 
-Ben grinste.\
-Breit und ungläubig.
+Ben setzte seine Kappe wieder auf.\
+„Okay", sagte er.\
+„DAS war keine schlechte Idee.\
+DAS war die beste Idee, die wir je hatten."
+
+Er grinste breit.
 
 „Jetzt kommt der Schatz."
 

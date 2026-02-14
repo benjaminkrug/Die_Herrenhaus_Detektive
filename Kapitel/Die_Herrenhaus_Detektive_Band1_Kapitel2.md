@@ -13,6 +13,10 @@ Am nächsten Morgen wartete Jonas schon vor dem Haus.
 Er hatte kaum geschlafen.\
 Die ganze Nacht hatte er an das Licht gedacht.
 
+Die Morgensonne wärmte seine Arme.\
+Es roch nach frisch gemähtem Gras.\
+Irgendwo bellte ein Hund.
+
 Er blickte wieder zum Hügel.\
 Das Herrenhaus stand still da.\
 Ganz ruhig.\
@@ -21,16 +25,27 @@ Als wäre nie etwas gewesen.
 „Du denkst noch immer daran, oder?"
 
 Mila kam die Straße entlang.\
-Ben trottete hinter ihr her.
+Ben trottete hinter ihr her.\
+Er hatte einen Schokoriegel in der Hand und kaute.
 
 Jonas nickte.\
 „Ich habe gestern Nacht Licht gesehen. Im Fenster."
 
 Bens Augen wurden groß.\
+Er hörte auf zu kauen.\
 „Echt?"
 
 „Ganz kurz", sagte Jonas.\
 „Aber es war da."
+
+Ben schluckte den Bissen runter.\
+„Das ist eine ganz schlechte Idee."
+
+Mila runzelte die Stirn.\
+„Was ist eine schlechte Idee?"
+
+„Was auch immer du jetzt vorhast", sagte Ben zu Jonas.\
+„Ich sehe es an deinem Gesicht."
 
 Mila sah kurz zum Hügel.\
 „Dann hat Herr Krüger recht."
@@ -43,7 +58,7 @@ Dann begann sie zu erzählen.
 „Früher hat dort ein Mann gewohnt. Herr Winter."
 
 „Winter?" Ben verzog das Gesicht.\
-„Passt zum Haus."
+„Passt zum Haus. Kalt und ungemütlich."
 
 Mila ignorierte ihn.\
 „Er war reich. Sehr reich. Und er hat niemanden ins Haus gelassen."
@@ -60,10 +75,18 @@ Jonas spürte, wie sein Herz schneller schlug.\
 „Einen Schatz?"
 
 „Gold", flüsterte Ben.\
-„Oder Diamanten."
+„Oder Diamanten."\
+Er biss wieder in seinen Schokoriegel.\
+„Ober Schokolade. Stellt euch vor. Ein ganzer Keller voller Schokolade."
+
+Mila sah ihn an.\
+„Dein Ernst?"
+
+Ben zuckte die Schultern.\
+„Wäre mein Lieblings-Schatz."
 
 Mila schüttelte den Kopf.\
-„Niemand weiß es genau. Aber kurz bevor Herr Winter verschwand, hat er angeblich etwas versteckt."
+„Niemand weiß es genau. Aber kurz bevor Herr Winter verschwand, hat er etwas versteckt."
 
 „Und dann?" fragte Jonas.
 
@@ -86,7 +109,13 @@ Er fütterte Tauben.
 Mila blieb stehen.\
 „Herr Krüger weiß mehr als alle anderen."
 
-„Guten Morgen", sagte sie.
+Ben wischte sich die Schokoladenfinger an seiner Hose ab.\
+Mila sah es und verzog das Gesicht.\
+„Igitt, Ben."
+
+„Was?" sagte Ben. „Das ist meine Detektiv-Hose."
+
+„Guten Morgen", sagte Mila zu dem alten Mann.
 
 Der alte Mann blickte auf.\
 „Ah, Mila. Und du hast Besuch."
@@ -102,7 +131,9 @@ Jonas zeigte zum Hügel.\
 
 Der alte Mann wurde still.\
 Sehr still.\
-Seine Hand mit den Brotkrumen sank herunter.
+Seine Hand mit den Brotkrumen sank herunter.\
+Eine Taube pickte an seinem Schuh.\
+Er merkte es nicht.
 
 „Warum fragst du das?"
 
@@ -128,6 +159,7 @@ Herr Krüger hob einen Finger.\
 „Und was ist mit dem Schatz?" fragte Jonas.
 
 Der alte Mann beugte sich etwas vor.\
+Seine Jacke roch nach Pfefferminz und alten Büchern.\
 „Die Leute sagen, er hat ihn irgendwo im Haus versteckt."
 
 „Im Keller?" flüsterte Ben.
@@ -155,7 +187,7 @@ Jonas beugte sich vor.\
 Drei Striche und ein Kreis. Wissen Sie, was das bedeutet?"
 
 Herr Krüger wurde blass.\
-Er stand abrupt auf.
+Er stand plötzlich auf.
 
 „Vergesst das Haus", sagte er.\
 Dann ging er davon.
@@ -167,6 +199,10 @@ Mila sah ihm nach.\
 
 „Aber vor was?" fragte Ben.
 
+„Logisch", sagte Mila leise.\
+„Er weiß, was das Zeichen bedeutet.\
+Und er will es nicht sagen."
+
 Mini-Rätsel:\
 Herr Krüger kennt das Zeichen am Zaun.\
 Und es macht ihm Angst.\
@@ -175,10 +211,54 @@ Warum will er nicht darüber reden?
 
 ------------------------------------------------------------------------
 
+Auf dem Heimweg war Ben still.
+
+Das war seltsam.\
+Ben war nie still.
+
+„Alles okay?" fragte Jonas.
+
+Ben schob seine Kappe nach hinten.\
+„Ich denke nach."
+
+„Tut das weh?" fragte Mila.
+
+„Ha ha", sagte Ben.\
+Aber dann grinste er.
+
+„Weißt du, was mich nervt?" sagte Ben.\
+„Alle sagen: Geh nicht zum Haus. Aber keiner sagt warum.\
+Also ehrlich: Was soll ich da tun?\
+Natürlich will ich jetzt hingehen!"
+
+Mila lachte.\
+Jonas auch.
+
+„Detektive geben nicht auf", sagte Jonas.
+
+Mila sah ihn an.\
+„Sind wir jetzt Detektive?"
+
+Jonas zuckte die Schultern.\
+„Wir haben ein Geheimnis, ein Zeichen und einen Verdacht.\
+Das klingt nach Detektiven."
+
+Ben seufzte tief.\
+„Das ist eine ganz schlechte Idee."\
+Er stopfte den Rest vom Schokoriegel in den Mund.\
+„Aber ich bin dabei."
+
+------------------------------------------------------------------------
+
 Am Abend saß Jonas an seinem Fenster.\
 Die Sonne war fast untergegangen.
 
 Der Himmel färbte sich orange.
+
+Von unten rief seine Mutter:\
+„Jonas, Zähne putzen!"
+
+„Gleich!", rief er zurück.
 
 Langsam wurde es dunkler.
 

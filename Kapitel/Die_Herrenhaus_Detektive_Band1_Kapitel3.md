@@ -10,6 +10,13 @@
 
 Am Nachmittag trafen sich die drei am Feldweg.
 
+Jonas hatte gerade Mittag gegessen.\
+Kartoffelsuppe.\
+Seine Mutter hatte gefragt: „Wo gehst du hin?"\
+„Spielen", hatte Jonas gesagt.\
+Das war nicht gelogen.\
+Nur nicht die ganze Wahrheit.
+
 Von hier aus konnte man das Herrenhaus gut sehen.\
 Es stand still auf dem Hügel.\
 Kein Licht.\
@@ -34,8 +41,18 @@ Ben verschränkte die Arme.\
 
 „Und er hatte Angst vor dem Zeichen", sagte Jonas.
 
+Ben zog seine Kappe fester.\
+„Wenn ein alter Mann davor Angst hat, sollten WIR vielleicht auch Angst haben."
+
+„Detektive geben nicht auf", sagte Jonas.
+
+Ben stöhnte.\
+„Kannst du bitte aufhören, das zu sagen?\
+Das macht es nicht weniger gruselig."
+
 Wind strich durch das hohe Gras.\
-Es raschelte leise.
+Es raschelte leise.\
+Es roch nach warmer Erde und wilden Blumen.
 
 „Wir sollten näher ran", sagte Jonas.\
 Sein Herz klopfte dabei schneller.
@@ -45,9 +62,16 @@ Sein Herz klopfte dabei schneller.
 Ben nickte.\
 „Nur gucken."
 
+Mila sah ihn an.\
+„Du sagst immer ‚nur gucken'."
+
+„Und es endet nie beim Gucken", sagte Ben.\
+„Ich weiß."
+
 Langsam gingen sie den schmalen Weg hinauf.\
 Das Gras wuchs hoch zu beiden Seiten.\
-Disteln kratzten an ihren Beinen.
+Disteln kratzten an ihren Beinen.\
+Ben fluchte leise, als eine in seiner Socke hängen blieb.
 
 Das Tor zum Grundstück war alt.\
 Rostig.\
@@ -63,7 +87,8 @@ Zwischen den Halmen lag ein alter Schlüssel.
 
 Jonas' Finger zitterten, als er ihn aufhob.\
 Der Schlüssel war schwer.\
-Und voller Rost.
+Und voller Rost.\
+Er roch nach Metall und feuchter Erde.
 
 „Wo kommt der denn her?" fragte Mila.
 
@@ -83,10 +108,15 @@ Sein Magen machte einen Sprung.\
 „Wie am Zaun."
 
 Mila beugte sich näher.\
-„Du hast recht. Drei Striche und ein Kreis."
+„Logisch. Drei Striche und ein Kreis.\
+Der Schlüssel gehört zum Haus."
 
 Ben wurde blass.\
-„Das heißt, der Schlüssel gehört zum Haus."
+„Toll. Wir haben einen Grusel-Schlüssel gefunden.\
+Den stecke ich bestimmt nicht in meine Tasche."
+
+„Muss ja nicht in deine Tasche", sagte Jonas.\
+Er steckte den Schlüssel in seine eigene.
 
 „Vielleicht gehört er zum Tor", sagte Mila.
 
@@ -101,7 +131,8 @@ Jonas sah wieder auf das Muster.\
 „Dafür ist er zu besonders."
 
 Er hielt ihn hoch.\
-Das Sonnenlicht fiel darauf.
+Das Sonnenlicht fiel darauf.\
+Der Rost leuchtete orange.
 
 „Wenn er nicht zum Tor gehört ..."
 
@@ -115,7 +146,14 @@ Sein Herz schlug jetzt wild.
 „Wo würdet ihr einen Schatz verstecken?" fragte er.
 
 Ben grinste.\
-„Im Keller."
+„Im Keller. Hinter einer Geheimtür.\
+Mit einer Falle davor.\
+Und einem Drachen, der alles bewacht."
+
+Mila verdrehte die Augen.\
+„Wir sind nicht in einem Film, Ben."
+
+„Schade eigentlich", sagte Ben.
 
 „Oder im Dachboden", sagte Mila.
 
@@ -124,17 +162,6 @@ Viele Fenster.\
 Viele Türen.
 
 „Es muss irgendwo passen", sagte er.
-
-In dem Moment knarrte etwas im Haus.\
-Wie eine Tür, die sich bewegte.
-
-Alle drei hielten den Atem an.
-
-Dann war es wieder still.
-
-„Der Wind", flüsterte Mila.
-
-Aber Jonas war sich nicht sicher.
 
 Mini-Rätsel:\
 Der Schlüssel hat dasselbe Zeichen wie der Zaun.\
@@ -145,6 +172,18 @@ Zur Haustür?\
 Zum Keller?\
 Oder zu etwas ganz anderem?
 
+In dem Moment knarrte etwas im Haus.\
+Wie eine Tür, die sich bewegte.
+
+Alle drei hielten den Atem an.
+
+Dann war es wieder still.
+
+„Der Wind", flüsterte Mila.
+
+Aber Jonas war sich nicht sicher.\
+Die Haare an seinen Armen standen hoch.
+
 Plötzlich knackte es hinter ihnen.
 
 Alle drei erstarrten.
@@ -154,7 +193,8 @@ Das Geräusch kam aus dem Gebüsch neben dem Zaun.
 Noch ein Knacken.
 
 Ben trat einen Schritt zurück.\
-„Habt ihr das gehört?"
+„Habt ihr das gehört?"\
+Seine Kappe rutschte schief.
 
 Jonas umklammerte den Schlüssel.\
 Seine Knöchel wurden weiß.

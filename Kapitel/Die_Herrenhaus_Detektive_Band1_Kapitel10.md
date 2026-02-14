@@ -10,14 +10,24 @@
 
 Am nächsten Morgen waren die drei ungewöhnlich still.
 
+Sie saßen auf der Bank am Dorfplatz.\
+Jonas hatte ein Käsebrot in der Hand, aber er aß nicht.\
+Ben hatte zwei Brötchen -- und er aß beide.
+
 Jonas hatte schlecht geschlafen.\
 In seinem Kopf drehte sich alles.\
 Der Schatten. Die breiten Schultern. Die dunkle Jacke.
+
+Seine Mutter hatte beim Frühstück gefragt:\
+„Hast du wieder schlecht geträumt?"\
+„Nein", hatte Jonas gesagt.\
+Und dabei war er nicht einmal rot geworden.
 
 „Das war kein Zufall", sagte Jonas.\
 „Jemand sucht auch nach dem Schatz."
 
 Ben nickte nervös.\
+Krümel klebten an seiner Kappe.\
 „Und der weiß, wie man ins Haus kommt."
 
 Mila dachte nach.\
@@ -41,7 +51,8 @@ Seine Stirn glänzte vor Schweiß.
 
 Jonas blieb stehen.\
 Sein Herz machte einen Sprung.\
-Breite Schultern. Wie der Schatten.
+Breite Schultern. Wie der Schatten.\
+Und die Schuhe -- groß, staubig, mit tiefem Profil.
 
 „Guten Morgen", sagte Mila.
 
@@ -49,14 +60,20 @@ Herr Meier zuckte leicht zusammen.\
 „Oh. Ihr seid es."
 
 Jonas beobachtete ihn genau.\
-Jede Bewegung. Jedes Zucken.
+Jede Bewegung. Jedes Zucken.\
+Wie ein echter Detektiv.
 
 „Waren Sie gestern Abend unterwegs?" fragte er.
 
 Herr Meier blinzelte.\
 „Wie meinst du das?"
 
-„Beim Herrenhaus", sagte Ben schnell.
+„Beim Herrenhaus", sagte Ben schnell.\
+Dann schlug er sich die Hand vor den Mund.\
+„Äh, ich meine ... allgemein. In der Gegend."
+
+Mila verdrehte die Augen.\
+Ben war der schlechteste Lügner der Welt.
 
 Herr Meier ließ den Schraubenschlüssel fallen.\
 Er klapperte laut auf dem Boden.
@@ -87,13 +104,17 @@ Seine Augen wurden schmal.
 „Vielleicht wart ihr das selbst", sagte er.
 
 Ben schüttelte den Kopf.\
-„Die Spuren waren größer. Viel größer."
+„Die Spuren waren größer. Viel größer.\
+So ungefähr ..." Er sah auf Herrn Meiers Schuhe.\
+„So ungefähr diese Größe."
 
-Jonas sah auf Herrn Meiers Schuhe.\
+Herr Meier folgte seinem Blick.\
+Sein Gesicht wurde rot.
+
+Jonas sah genau hin.\
 Groß.\
 Staubig.\
-Mit einem Profil, das er wiedererkannte.
-
+Mit einem Profil, das er wiedererkannte.\
 Sein Magen zog sich zusammen.
 
 Herr Meier griff wieder nach seinem Werkzeug.\
@@ -129,7 +150,9 @@ Er wusste von dem Licht -- ohne dass jemand ihm davon erzählt hat.
 
 Die drei sahen sich an.
 
-„Er hat gelogen", sagte Ben.
+„Er hat gelogen", sagte Ben.\
+„Und zwar so schlecht wie ich.\
+Und ICH bin schlecht im Lügen."
 
 Mila nickte langsam.\
 „Er wusste mehr, als er sagen wollte."
@@ -140,15 +163,18 @@ Er spürte, wie seine Wangen heiß wurden.
 „Und ich glaube", sagte er leise,\
 „er war gestern Nacht im Herrenhaus."
 
-„Seine Schuhe", sagte Mila plötzlich.
-
-Jonas nickte.\
-„Groß. Staubig. Und das gleiche Profil wie die Spuren."
+„Seine Schuhe", sagte Mila.\
+„Logisch. Groß. Staubig. Und das gleiche Profil wie die Spuren."
 
 Ben wurde blass.\
 „Dann weiß er, dass wir ihm auf der Spur sind."
 
 Stille.
 
+Jonas dachte an den Schatten im Flur.\
+An die breiten Schultern.\
+An die Hände, die am Gemälde tasteten.
+
 „Gut", sagte Jonas.\
-„Dann müssen wir schneller sein als er."
+„Detektive geben nicht auf.\
+Dann müssen wir schneller sein als er."

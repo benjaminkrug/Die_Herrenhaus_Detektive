@@ -14,7 +14,13 @@ Mila nickte schnell.\
 „Ich bin mir sicher. Da war so ein Zeichen."
 
 Ben sah nervös zur Tür.\
-„Können wir das nicht draußen klären?"
+„Können wir das nicht draußen klären?\
+Hier drin ist es kalt und es stinkt nach alten Socken."
+
+„Das sind keine Socken", sagte Mila.\
+„Das ist Moder."
+
+„Noch schlimmer", sagte Ben.
 
 „Zu spät", sagte Jonas.\
 „Jetzt sind wir schon hier."
@@ -42,8 +48,10 @@ Mila riss die Augen auf.\
 Jonas nickte langsam.\
 „Und die drei Linien stehen für drei."
 
-Ben kratzte sich am Kopf.\
-„Also Turm, drei, Mond?"
+Ben kratzte sich unter seiner Kappe.\
+„Also Turm, drei, Mond?\
+Klingt wie ein Passwort in einem Computerspiel.\
+Level drei: Mondturm."
 
 „Oder dritter Turm im Mondlicht?" sagte Mila.
 
@@ -84,13 +92,15 @@ Darauf war das Herrenhaus gemalt.\
 So wie es früher ausgesehen hatte.\
 Mit Garten. Mit Zaun. Mit Menschen davor.
 
-„Das hing hier eben noch nicht so schief", murmelte Ben.
+„Das hing hier eben noch nicht so schief", murmelte Ben.\
+„Oder ich bilde mir Sachen ein.\
+Was bei diesem Haus auch möglich ist."
 
 Mila trat näher.\
 „Schaut euch das Bild an."
 
 Jonas beugte sich vor.\
-Sein Puls beschleunigte sich.
+Sein Herz schlug schneller.
 
 Das Haus auf dem Gemälde hatte einen kleinen Turm.\
 Mit einem runden Fenster oben.
@@ -122,15 +132,21 @@ Seine Stimme war heiser vor Aufregung.
 Mila schluckte.\
 „Es zeigt einen Hinweis."
 
+„Logisch", sagte sie dann.\
+„Drei dunkle Ziegel. Ein helles Fenster.\
+Das sind die Zahlen aus dem Code!"
+
 Plötzlich hörten sie ein Geräusch von oben.\
 Wie Schritte auf Holz.
 
 Alle drei erstarrten.
 
-„Da ist jemand", hauchte Ben.
+„Da ist jemand", hauchte Ben.\
+Seine Kappe war verrutscht.\
+Er merkte es nicht.
 
 Jonas sah zur Treppe.\
-Sein Herz hämmerte.
+Sein Herz hämmerte so laut, dass er es in den Ohren hörte.
 
 Die Schritte hörten auf.
 
@@ -143,15 +159,24 @@ Mila nickte.\
 „Wir kommen wieder. Nachts."
 
 Ben stöhnte leise.\
-„Warum immer nachts?"
+„Warum immer nachts?\
+Kann man Geheimnisse nicht auch vormittags lösen?\
+Um zehn? Nach dem Frühstück?"
 
 „Weil der Code vom Mond spricht", sagte Jonas.
+
+Ben seufzte.\
+„Das ist eine ganz schlechte Idee."
 
 Er sah ein letztes Mal auf das Gemälde.
 
 Dann rannten sie die Treppe hinunter.\
 Und kletterten aus dem Fenster.\
-Zurück ins Tageslicht.
+Zurück ins Tageslicht.\
+Die warme Luft traf Jonas wie eine Decke.
+
+Er atmete tief ein.\
+Gras. Sommer. Freiheit.
 
 Aber Jonas wusste:\
 Die Antwort lag dort oben.\

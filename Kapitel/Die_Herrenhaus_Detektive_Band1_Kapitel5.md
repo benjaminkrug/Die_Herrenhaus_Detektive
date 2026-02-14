@@ -19,10 +19,26 @@ Das Zeichen. Der Schlüssel. Die Fußspuren.
 
 „Dann finden wir eben erst mehr heraus", sagte er.
 
-„Wie?" fragte Ben.
+„Wie?" fragte Ben.\
+Er hatte Grasflecken auf den Knien und seine nasse Socke machte bei jedem Schritt ein schmatzendes Geräusch.
 
 Jonas lächelte leicht.\
 „Im Archiv."
+
+Ben stöhnte.\
+„Oh nein. Bitte keine Bibliothek.\
+Ich bin allergisch gegen Staub."
+
+„Du bist nicht allergisch gegen Staub", sagte Mila.
+
+„Bin ich wohl", sagte Ben.\
+„Ich muss immer niesen."
+
+„Das ist keine Allergie", sagte Mila.\
+„Das ist Staub."
+
+„Logisch", sagte sie dann leiser zu Jonas.\
+„Im Archiv finden wir bestimmt etwas über Herrn Winter."
 
 ------------------------------------------------------------------------
 
@@ -33,13 +49,15 @@ Im Erdgeschoss gab es einen Raum mit alten Akten.
 „Mein Onkel arbeitet hier."
 
 Ben sah sich um.\
-„Es riecht nach Staub."
+„Es riecht wie im Keller bei meiner Oma.\
+So nach ... altem Teppich und vergessenen Keksen."
 
 „Und nach alten Geheimnissen", sagte Jonas.
 
 Der Raum war klein.\
 Regale standen an allen Wänden.\
-Voll mit Mappen, Ordnern und Heften.
+Voll mit Mappen, Ordnern und Heften.\
+Die Luft war stickig und warm.
 
 Jonas strich mit dem Finger über ein Regal.\
 Eine dünne Staubspur blieb zurück.
@@ -47,7 +65,15 @@ Eine dünne Staubspur blieb zurück.
 „Sucht nach Herrn Winter", sagte er.
 
 Sie zogen Schubladen auf.\
-Blätter raschelten.
+Blätter raschelten.\
+Staub wirbelte hoch.
+
+Ben nieste.\
+Laut.
+
+„Allergie", sagte er und sah Mila an.
+
+Mila verdrehte die Augen.
 
 Plötzlich hörten sie Schritte im Flur.
 
@@ -65,7 +91,9 @@ Sein Herz klopfte schnell.
 
 „Hier!" rief Ben plötzlich.\
 Dann schlug er sich die Hand vor den Mund.\
-„Hier", wiederholte er leiser.
+„Hier", wiederholte er leiser.\
+Er grinste stolz.\
+„Wer braucht schon Bibliotheken? Ben findet alles."
 
 Er hielt ein altes, braunes Heft hoch.
 
@@ -81,7 +109,8 @@ Auf dem Einband stand in verblasster Schrift:
 
 Jonas schlug es auf.\
 Die Seiten waren vergilbt.\
-Sie rochen nach Keller und nasser Erde.
+Sie rochen nach Keller und nasser Erde.\
+Das Papier fühlte sich dünn an, fast durchsichtig.
 
 Die Schrift war krakelig.\
 Schwer zu lesen.
@@ -98,11 +127,13 @@ Mila runzelte die Stirn.\
 „Das klingt nicht wie normale Sätze."
 
 Jonas schüttelte den Kopf.\
-Sein Puls raste.\
+Sein Herz raste.\
 „Das ist ein Code."
 
 Ben sah nervös zur Tür.\
-„Ein Geheimcode?"
+„Ein Geheimcode?\
+Wie in den Filmen?\
+Weil in Filmen geht das immer schlecht aus."
 
 Jonas nickte langsam.\
 „Vielleicht beschreibt er Orte im Haus."
@@ -127,7 +158,8 @@ Ein paar Seiten später stand nur ein einzelner Satz:
 
 Die drei sahen sich an.
 
-„Anfangsbuchstaben?" flüsterte Ben.
+„Anfangsbuchstaben?" flüsterte Ben.\
+„Okay, das ist ziemlich cool für einen alten Mann."
 
 Jonas schrieb die Wörter auf ein Blatt:
 
@@ -189,3 +221,7 @@ Seine Augen leuchteten.
 
 „Weil das hier echt ist", sagte er.\
 „Der Schatz ist kein Gerücht."
+
+Ben schluckte.\
+„Das ist eine ganz schlechte Idee."\
+Aber er lächelte dabei.

@@ -32,7 +32,8 @@ Die Fenster wirkten schwarz.\
 Wie Augen, die zurückstarren.
 
 Ein kalter Schauer lief ihm über den Rücken.\
-Dabei war es gar nicht kalt.
+Dabei war es gar nicht kalt.\
+Die Sommerluft roch nach warmem Gras und Staub.
 
 Da hörte er Schritte hinter sich.
 
@@ -53,12 +54,16 @@ Ben zeigte auf den Hügel.\
 „Sieht gruselig aus", sagte Jonas.
 
 Ben nickte schnell.\
-„Ist es auch."
+„Ist es auch.\
+Am besten gar nicht hingucken.\
+Mein Onkel sagt, das bringt Pech."
 
 Mila verdrehte die Augen.\
 „Quatsch. Es ist nur alt."
 
-„Alt und verboten", sagte Ben leise.
+„Alt und verboten", sagte Ben leise.\
+Er schob seine Kappe tiefer ins Gesicht.\
+Als würde das helfen.
 
 Jonas spürte ein Ziehen im Bauch.\
 „Verboten?"
@@ -109,6 +114,12 @@ Mila schnaubte.\
 „Mein Onkel hat es gesehen", sagte Ben.\
 „Letzten Winter. Er ist gerannt."
 
+Mila zog eine Augenbraue hoch.\
+„Dein Onkel rennt auch vor Spinnen weg."
+
+„Das war EINE Spinne", sagte Ben.\
+„Und sie war riesig."
+
 Jonas sah wieder zum Haus.\
 Am Zaun hing ein altes Schild.\
 Die Farbe war fast verschwunden.\
@@ -135,8 +146,74 @@ Was könnte das bedeuten?\
 Ein Verbotsschild?\
 Oder etwas ganz anderes?
 
+------------------------------------------------------------------------
+
+„Jonas! Abendessen!"
+
+Seine Mutter rief von der Haustür.\
+Sie hatten den ganzen Tag Kisten geschleppt.\
+Jonas' Arme taten weh.\
+Sein T-Shirt roch nach Schweiß und Pappe.
+
+Mila winkte.\
+„Bis morgen?"
+
+Jonas nickte.\
+„Bis morgen."
+
+Ben schob seine Kappe hoch.\
+„Und bitte nicht zum Haus gehen.\
+Nicht alleine.\
+Nicht nachts.\
+Am besten gar nicht."
+
+Mila boxte ihn gegen den Arm.\
+„Tschüss, Ben."
+
+Jonas grinste.\
+Er mochte die beiden jetzt schon.
+
+Beim Abendessen konnte er kaum stillsitzen.\
+Seine Mutter hatte Nudeln mit Tomatensoße gemacht.\
+Aber Jonas merkte kaum, wie es schmeckte.
+
+„Du bist so aufgedreht", sagte seine Mutter.\
+„Schon Freunde gefunden?"
+
+„Ja", sagte Jonas.\
+„Mila und Ben."
+
+„Das ging schnell." Sie lächelte.\
+„Gefällt dir das Dorf?"
+
+Jonas kaute langsam.\
+Er dachte an das Haus auf dem Hügel.\
+An das Zeichen.\
+An Bens Angst.
+
+„Ja", sagte er.\
+„Ich glaube schon."
+
+------------------------------------------------------------------------
+
 Am Abend lag Jonas in seinem neuen Zimmer.\
 Er konnte nicht schlafen.
+
+Das Zimmer roch noch fremd.\
+Nach frischer Farbe und Karton.\
+Er vermisste sein altes Zimmer.\
+Und er vermisste Tom, seinen besten Freund.
+
+Er griff nach seinem Handy.\
+Tippte eine Nachricht:
+
+*Du glaubst nicht, was es hier gibt. Ein Geisterhaus. Echt gruselig.*
+
+Tom antwortete sofort:\
+*Foto!!*
+
+Jonas stand auf.\
+Leise, damit Mama nichts hörte.
 
 Durch das Fenster sah er den Hügel.\
 Das Herrenhaus war nur ein dunkler Umriss.
@@ -162,7 +239,11 @@ Aber Jonas war sich sicher.\
 Da war etwas gewesen.
 
 Er presste die Nase ans Glas.\
-Seine Hände zitterten leicht.
+Seine Hände zitterten leicht.\
+Der Atem malte einen Kreis auf die Scheibe.
+
+Er griff nach seinem Notizbuch.\
+Seine Finger kribbelten.
 
 In dem Haus, in dem niemand wohnte,\
 hatte gerade ein Licht gebrannt.

@@ -34,7 +34,10 @@ Er schluckte hart dagegen an.
 „Panik hilft uns nicht."
 
 Ben schluckte.\
-„Ich will hier raus."
+„Ich will hier raus."\
+Seine Stimme war hoch und dünn.\
+„Meine Mama weiß nicht, wo ich bin.\
+Niemand weiß, wo wir sind."
 
 Jonas versuchte es noch einmal.\
 Er rüttelte an der Klinke.\
@@ -55,7 +58,9 @@ Ben schüttelte den Kopf.\
 
 Wieder dieses Schaben in der Dunkelheit.
 
-Ben presste die Lippen zusammen.
+Ben presste die Lippen zusammen.\
+„Ich sage es ja nur: Das ist die schlechteste Idee, die wir je hatten.\
+Und wir hatten viele schlechte Ideen."
 
 Mini-Rätsel:\
 Im Code aus dem Tagebuch stand:\
@@ -75,7 +80,7 @@ Ben dachte nach.\
 Sein Gesicht veränderte sich.\
 Die Angst war noch da.\
 Aber dahinter war etwas anderes.\
-Entschlossenheit.
+Wie ein Licht, das angeht.
 
 „Im Tagebuch stand doch etwas mit ‚Tür -- eins -- Licht'."
 
@@ -101,7 +106,8 @@ Jetzt war er derjenige, der sich traute.
 Ben kniete sich an die erste Stufe.
 
 Er tastete darunter.\
-Seine Finger zitterten im Staub.
+Seine Finger zitterten im Staub.\
+Staub und Dreck und alte Krümel.
 
 Staub rieselte herunter.
 
@@ -117,9 +123,11 @@ Kalt und glatt.
 
 Ben atmete tief durch.\
 Sein ganzer Körper zitterte.\
-Aber er lächelte.
+Aber er lächelte.\
+So breit, dass man alle Zähne sah.
 
-„Ich habe nur nachgedacht", sagte er.
+„Ich habe nur nachgedacht", sagte er.\
+„Das kann ich nämlich auch."
 
 Jonas zog vorsichtig am Hebel.
 
@@ -135,13 +143,18 @@ Mit einem dumpfen Geräusch sprang die Tür auf.
 
 Frische Luft strömte in den Keller.\
 Jonas atmete tief ein.\
-Die Luft schmeckte nach Freiheit.
+Die Luft schmeckte nach Freiheit.\
+Nach Gras und Sommer und Zuhause.
 
 Ben ließ sich auf die Stufe fallen.\
-Er lachte leise.\
-Ein erleichtertes, wackeliges Lachen.
+Er lachte.\
+Laut und erleichtert.\
+Dann bekam er Schluckauf.\
+„Hicks! Oh nein. Hicks! Immer wenn ich -- hicks -- mich freue."
 
-„Ich wusste es", murmelte er.
+Mila lachte auch.\
+Jonas auch.\
+Es war das beste Lachen, das er je gehört hatte.
 
 Jonas grinste breit.\
 Seine Augen brannten.\
@@ -151,7 +164,9 @@ Mila klopfte Ben auf die Schulter.\
 „Der Mutigste von uns dreien."
 
 Ben wurde rot.\
-Bis zu den Ohren.
+Bis zu den Ohren.\
+Bis unter die Kappe.\
+„Hicks", sagte er.
 
 Doch dann sah er wieder in den dunklen Gang.\
 Sein Lächeln verschwand.
