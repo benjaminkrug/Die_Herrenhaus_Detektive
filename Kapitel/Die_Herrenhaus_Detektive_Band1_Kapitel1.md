@@ -19,6 +19,7 @@ Ein Brunnen auf dem Platz.\
 Und ganz oben auf dem Hügel stand ein großes, dunkles Haus.
 
 Jonas blieb stehen.\
+Sein Mund ging leicht auf.\
 „Was ist das denn?"
 
 Seine Mutter stellte eine Kiste ab.\
@@ -28,7 +29,10 @@ Leer.
 
 Jonas kniff die Augen zusammen.\
 Die Fenster wirkten schwarz.\
-Wie Augen.
+Wie Augen, die zurückstarren.
+
+Ein kalter Schauer lief ihm über den Rücken.\
+Dabei war es gar nicht kalt.
 
 Da hörte er Schritte hinter sich.
 
@@ -56,27 +60,26 @@ Mila verdrehte die Augen.\
 
 „Alt und verboten", sagte Ben leise.
 
-Jonas blinzelte.\
+Jonas spürte ein Ziehen im Bauch.\
 „Verboten?"
 
 Ben trat einen Schritt näher.\
-„Niemand darf da hoch.“
+„Niemand darf da hoch."
 
-Jonas blinzelte.\
-„Warum nicht?“
+„Warum nicht?" fragte Jonas.
 
 Ben sah sich um.\
 Als würde jemand mithören.
 
-„Weil es verboten ist“, sagte er leise.
+„Weil es verboten ist", sagte er leise.
 
-„Von wem?“ fragte Jonas.
+„Von wem?" fragte Jonas.
 
 Mila verschränkte die Arme.\
-„Von allen.“
+„Von allen."
 
-„Das Haus gehört niemandem mehr“, sagte Ben.\
-„Aber trotzdem geht keiner rein.“
+„Das Haus gehört niemandem mehr", sagte Ben.\
+„Aber trotzdem geht keiner rein."
 
 Wind wehte durch die Straße.\
 Eine lose Dachrinne klapperte.
@@ -85,17 +88,81 @@ Jonas schaute wieder zum Hügel.\
 Das Haus stand still da.\
 Still und dunkel.
 
-„Und was passiert, wenn man trotzdem hingeht?“ fragte er.
+„Und was passiert, wenn man trotzdem hingeht?" fragte er.
 
 Ben schluckte.
 
-„Dann“, sagte er,\
-„passieren seltsame Dinge.“
+„Dann", sagte er,\
+„passieren seltsame Dinge."
 
-Jonas spürte ein Kribbeln im Bauch.
+Jonas bekam eine Gänsehaut.\
+Sein Herz klopfte schneller.
 
-Er sah noch einmal zum Herrenhaus.
+„Was für seltsame Dinge?" fragte er.
 
-Niemand durfte dort hin.
+Ben senkte die Stimme.\
+„Geräusche. Nachts. Und manchmal flackert Licht."
 
-Und plötzlich wollte er es umso mehr.
+Mila schnaubte.\
+„Das sagt jeder. Aber niemand hat es wirklich gesehen."
+
+„Mein Onkel hat es gesehen", sagte Ben.\
+„Letzten Winter. Er ist gerannt."
+
+Jonas sah wieder zum Haus.\
+Am Zaun hing ein altes Schild.\
+Die Farbe war fast verschwunden.\
+Aber ein Zeichen war noch zu erkennen.
+
+Drei Striche.\
+Und darüber ein Kreis.
+
+„Was bedeutet das Zeichen am Zaun?" fragte Jonas.
+
+Ben zuckte die Schultern.\
+„Keine Ahnung. War schon immer da."
+
+Mila sah kurz hin.\
+„Vielleicht nur ein altes Verbotsschild."
+
+Jonas prägte sich das Zeichen ein.\
+Drei Striche und ein Kreis.
+
+Mini-Rätsel:\
+Am Zaun des Herrenhauses ist ein seltsames Zeichen.\
+Drei Striche und ein Kreis.\
+Was könnte das bedeuten?\
+Ein Verbotsschild?\
+Oder etwas ganz anderes?
+
+Am Abend lag Jonas in seinem neuen Zimmer.\
+Er konnte nicht schlafen.
+
+Durch das Fenster sah er den Hügel.\
+Das Herrenhaus war nur ein dunkler Umriss.
+
+Still.
+
+Leer.
+
+Dann --
+
+flackerte im oberen Fenster ein Licht auf.
+
+Ganz kurz.
+
+Jonas setzte sich ruckartig auf.\
+Sein Herz hämmerte.
+
+Er starrte in die Dunkelheit.
+
+Das Licht war weg.
+
+Aber Jonas war sich sicher.\
+Da war etwas gewesen.
+
+Er presste die Nase ans Glas.\
+Seine Hände zitterten leicht.
+
+In dem Haus, in dem niemand wohnte,\
+hatte gerade ein Licht gebrannt.

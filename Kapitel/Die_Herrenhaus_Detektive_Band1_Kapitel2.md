@@ -10,6 +10,9 @@
 
 Am nächsten Morgen wartete Jonas schon vor dem Haus.
 
+Er hatte kaum geschlafen.\
+Die ganze Nacht hatte er an das Licht gedacht.
+
 Er blickte wieder zum Hügel.\
 Das Herrenhaus stand still da.\
 Ganz ruhig.\
@@ -21,9 +24,20 @@ Mila kam die Straße entlang.\
 Ben trottete hinter ihr her.
 
 Jonas nickte.\
-„Warum ist es wirklich verboten?"
+„Ich habe gestern Nacht Licht gesehen. Im Fenster."
+
+Bens Augen wurden groß.\
+„Echt?"
+
+„Ganz kurz", sagte Jonas.\
+„Aber es war da."
 
 Mila sah kurz zum Hügel.\
+„Dann hat Herr Krüger recht."
+
+„Wer ist Herr Krüger?" fragte Jonas.
+
+„Das wirst du gleich sehen", sagte Mila.\
 Dann begann sie zu erzählen.
 
 „Früher hat dort ein Mann gewohnt. Herr Winter."
@@ -42,15 +56,14 @@ Mila ignorierte ihn.\
 Ben nickte ernst.\
 „Weil er einen Schatz hatte."
 
-Jonas hob die Augenbrauen.\
+Jonas spürte, wie sein Herz schneller schlug.\
 „Einen Schatz?"
 
 „Gold", flüsterte Ben.\
 „Oder Diamanten."
 
 Mila schüttelte den Kopf.\
-„Niemand weiß es genau. Aber kurz bevor Herr Winter verschwand, hat er
-angeblich etwas versteckt."
+„Niemand weiß es genau. Aber kurz bevor Herr Winter verschwand, hat er angeblich etwas versteckt."
 
 „Und dann?" fragte Jonas.
 
@@ -62,14 +75,16 @@ angeblich etwas versteckt."
 Ben schnaubte.\
 „Mitten in der Nacht? Ohne Möbel?"
 
-Jonas schwieg.
+Jonas schwieg.\
+Das klang wirklich seltsam.
 
-Sie gingen zum Dorfplatz.\
-Dort saß ein alter Mann auf einer Bank.\
+------------------------------------------------------------------------
+
+Auf dem Dorfplatz saß ein alter Mann auf einer Bank.\
 Er fütterte Tauben.
 
 Mila blieb stehen.\
-„Herr Krüger weiß viel."
+„Herr Krüger weiß mehr als alle anderen."
 
 „Guten Morgen", sagte sie.
 
@@ -86,7 +101,8 @@ Jonas zeigte zum Hügel.\
 „Wissen Sie etwas über das Herrenhaus?"
 
 Der alte Mann wurde still.\
-Sehr still.
+Sehr still.\
+Seine Hand mit den Brotkrumen sank herunter.
 
 „Warum fragst du das?"
 
@@ -96,7 +112,7 @@ Ben verschränkte die Arme.\
 Herr Krüger seufzte.\
 „Das Haus bringt kein Glück."
 
-Jonas spürte wieder dieses Kribbeln.
+Jonas spürte wieder dieses Kribbeln im Bauch.
 
 „Ist Herr Winter wirklich verschwunden?" fragte er.
 
@@ -134,6 +150,31 @@ Alle drei erstarrten.
 Herr Krüger nickte langsam.\
 „Das sollte es sein."
 
+Jonas beugte sich vor.\
+„Herr Winter hat ein Zeichen am Zaun hinterlassen.\
+Drei Striche und ein Kreis. Wissen Sie, was das bedeutet?"
+
+Herr Krüger wurde blass.\
+Er stand abrupt auf.
+
+„Vergesst das Haus", sagte er.\
+Dann ging er davon.
+
+Die Tauben flatterten erschrocken auf.
+
+Mila sah ihm nach.\
+„Er hat Angst."
+
+„Aber vor was?" fragte Ben.
+
+Mini-Rätsel:\
+Herr Krüger kennt das Zeichen am Zaun.\
+Und es macht ihm Angst.\
+Was könnte es bedeuten?\
+Warum will er nicht darüber reden?
+
+------------------------------------------------------------------------
+
 Am Abend saß Jonas an seinem Fenster.\
 Die Sonne war fast untergegangen.
 
@@ -143,6 +184,9 @@ Langsam wurde es dunkler.
 
 Jonas konnte nicht anders.\
 Er schaute wieder zum Hügel.
+
+Sein Magen zog sich zusammen.\
+Er wusste, was er gleich sehen würde.
 
 Das Herrenhaus lag im Schatten.
 
@@ -156,6 +200,20 @@ flackerte im oberen Fenster ein Licht auf.
 
 Ganz kurz.
 
-Und diesmal war Jonas sich sicher.
+Jonas' Herz hämmerte.\
+Seine Hände wurden feucht.
+
+Er griff nach seinem Notizbuch.\
+Und schrieb auf, was er sah.
+
+Uhrzeit.\
+Fenster oben links.\
+Licht für drei Sekunden.
+
+Dann war es wieder dunkel.
+
+Und diesmal war Jonas sich ganz sicher.
 
 Es war kein Zufall.
+
+Jemand war in dem Haus.
