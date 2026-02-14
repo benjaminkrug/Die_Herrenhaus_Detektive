@@ -39,7 +39,7 @@ Am Nachmittag standen sie wieder im oberen Flur des Herrenhauses.
 Das Gemälde hing noch immer schief an der Wand.
 
 „Gestern hat der Schatten hier gestanden", flüsterte Jonas.\
-Sein Herz klopfte bei der Erinnerung.
+Ein kaltes Gefühl kroch ihm den Rücken hoch.
 
 Mila trat näher.\
 „Vielleicht hat er hier etwas gemacht."

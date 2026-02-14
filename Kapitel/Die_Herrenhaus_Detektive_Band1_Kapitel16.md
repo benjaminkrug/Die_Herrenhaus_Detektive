@@ -84,15 +84,12 @@ Sie sahen anders aus als die übrigen.
 
 Mini-Rätsel:
 
-Wenn der Kreis für den Mond steht,\
-wo muss das Licht hinfallen?
+Die drei Steine passen in die drei Rillen.\
+Aber was ist mit dem runden Loch -- dem Mond?
 
-Und welche drei Steine gehören zu den drei Linien?
-
-Der Code sagte: Turm -- drei -- Mond.\
-Die Rillen brauchen die Steine.\
-Und der Mond braucht Licht.\
-Kannst du es lösen?
+Denk nach: Was macht den Mond hell?\
+Richtig -- Licht!\
+Was passiert, wenn man mit der Taschenlampe hineinleuchtet?
 
 Jonas hob einen der Steine auf.\
 Er war glatt und kühl.\

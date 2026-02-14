@@ -114,8 +114,14 @@ Sein Gesicht wurde rot.
 Jonas sah genau hin.\
 Groß.\
 Staubig.\
-Mit einem Profil, das er wiedererkannte.\
-Sein Magen zog sich zusammen.
+Mit einem Profil, das er wiedererkannte.
+
+Und dann sah er es.\
+An Herrn Meiers Hosenbein klebte feuchte, rote Erde.\
+Die gleiche Erde wie im Keller des Herrenhauses.\
+Jonas hatte sie selbst an seinen Schuhen gehabt.
+
+Sein Atem wurde flach.
 
 Herr Meier griff wieder nach seinem Werkzeug.\
 Seine Hände zitterten leicht.
@@ -160,11 +166,20 @@ Mila nickte langsam.\
 Jonas ballte die Faust.\
 Er spürte, wie seine Wangen heiß wurden.
 
-„Und ich glaube", sagte er leise,\
-„er war gestern Nacht im Herrenhaus."
+„Und ich weiß es", sagte er leise.\
+„Er war gestern Nacht im Herrenhaus.\
+Nicht nur wegen der Schuhe."
 
-„Seine Schuhe", sagte Mila.\
-„Logisch. Groß. Staubig. Und das gleiche Profil wie die Spuren."
+„Sondern?" fragte Mila.
+
+Jonas sah die beiden an.\
+„Die rote Erde an seiner Hose.\
+Die gibt es nur im Keller des Herrenhauses.\
+Er war nicht nur oben beim Gemälde.\
+Er war auch unten."
+
+Mila riss die Augen auf.\
+„Logisch! Er kennt den Keller!"
 
 Ben wurde blass.\
 „Dann weiß er, dass wir ihm auf der Spur sind."

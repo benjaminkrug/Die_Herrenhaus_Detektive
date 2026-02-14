@@ -190,7 +190,7 @@ Mila leuchtete näher heran.
 
 Auf dem Papier stand:
 
-*Letzter Wille von Heinrich Winter*
+*Mein letzter Brief -- von Heinrich Winter*
 
 Ben runzelte die Stirn.\
 „Der Besitzer. Herr Winter."\
@@ -200,22 +200,48 @@ Jonas überflog die Zeilen.\
 Die Buchstaben waren alt und verschnörkelt.\
 Wie die Schrift auf alten Urkunden im Museum.
 
-„Er war nicht verschwunden", sagte er plötzlich.
+Jonas las leise vor:\
+„Wer diesen Brief findet, hat meine Rätsel gelöst.\
+Das Geld und die Münzen gehören dem Dorf Eichenhain.\
+Sie sollen für die Schule benutzt werden."
 
-„Was?" fragte Mila.
+Er las weiter.\
+Langsam.\
+Jedes Wort.
 
-Jonas las weiter.\
-Sein Herz schlug jetzt ruhig.\
-Aber schwer.
+„Ich musste das Dorf verlassen.\
+Ich hatte Schulden.\
+Ich konnte sie nicht bezahlen.\
+Aber ich wollte nicht, dass das Haus verkauft wird.\
+Also habe ich den Schatz versteckt."
 
-„Er hat das Dorf verlassen, weil er Schulden hatte."
+Mila schluckte.\
+„Er ist nicht einfach abgehauen."
 
-Ben blinzelte.\
-„Also kein Verbrechen?"
+Jonas schüttelte den Kopf.\
+„Er hat alles geplant.\
+Die Rätsel. Die Zeichen. Den Schlüssel.\
+Damit jemand Kluges den Schatz findet.\
+Jemand, der dem Dorf hilft."
 
-Jonas schüttelte den Kopf.
+Plötzlich verstand Jonas etwas.\
+Er sah auf den Brief.\
+Dann sah er zu Mila und Ben.
 
-„Er wollte nicht, dass das Haus verkauft wird."
+„Er hat den Schlüssel vor das Tor gelegt", sagte er leise.\
+„Die Zeichen überall versteckt.\
+Das Gemälde als Karte gemalt.\
+Das alles war kein Zufall.\
+Er wollte, dass Kinder den Schatz finden.\
+Nicht Erwachsene."
+
+Ben riss die Augen auf.\
+„Warum Kinder?"
+
+Jonas zeigte auf den letzten Satz im Brief.\
+Dort stand:\
+*Nur wer neugierig genug ist, wird den Weg finden.\
+Und Kinder sind die neugierigsten Menschen der Welt.*
 
 Mila zeigte auf einen Absatz.
 

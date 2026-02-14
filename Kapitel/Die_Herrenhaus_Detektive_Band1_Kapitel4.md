@@ -14,7 +14,7 @@ Ben hielt die Luft an.\
 „Da ist jemand!"
 
 Jonas machte einen Schritt nach vorne.\
-Sein Herz hämmerte.\
+Sein Mund wurde trocken.\
 „Wer ist da?"
 
 Plötzlich sprang etwas aus dem Gebüsch.
@@ -50,7 +50,24 @@ Ben stöhnte.\
 „Wusste ich's doch."
 
 Jonas atmete tief durch.\
-Sein Puls beruhigte sich langsam.\
+Sein Puls beruhigte sich langsam.
+
+Am Zaun lehnte ein Fahrrad.\
+Herr Meier, der Ladenbesitzer, kam den Weg herauf.\
+Er schob ein zweites Fahrrad neben sich.\
+„Na, ihr drei?" rief er freundlich.\
+„Soll ich euch Eis mitbringen? Habe neue Sorten!"
+
+Ben riss die Augen auf.\
+„Erdbeer?"
+
+Herr Meier lachte.\
+„Erdbeer und Schoko. Kommt nachher vorbei."
+
+Er winkte und fuhr weiter.\
+Jonas fand ihn nett.\
+Ein bisschen wie ein Onkel, den man gerne besucht.
+
 Doch sein Blick wanderte wieder zum Tor.
 
 „Jetzt sind wir schon hier", sagte er leise.\
@@ -190,7 +207,7 @@ Ben wurde blass.\
 „Das Gras ist platt. Nicht nur einmal."
 
 Jonas presste die Lippen zusammen.\
-Er spürte, wie sein Herz schneller schlug.\
+Sein Nacken wurde heiß.\
 Die Fingerspitzen kribbelten.
 
 „Wir müssen herausfinden, wer das ist", sagte er.

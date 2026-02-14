@@ -18,7 +18,7 @@ Aus dem Wohnzimmer hörte er den Fernseher.\
 Seine Mutter schaute ihre Lieblingsserie.\
 Noch mindestens eine halbe Stunde.
 
-Jonas' Herz klopfte schon jetzt.\
+Jonas' Bauch fühlte sich an wie vor einer Mathearbeit.\
 Und er war noch nicht mal aufgestanden.
 
 Er hatte Tom eine Nachricht geschickt:\
@@ -141,7 +141,7 @@ Wie Schritte.
 
 Nicht von ihnen.
 
-Jonas' Herz schlug schneller.\
+Jonas wurde starr wie eine Statue.\
 Seine Hände wurden eiskalt.
 
 Die Schritte kamen näher.

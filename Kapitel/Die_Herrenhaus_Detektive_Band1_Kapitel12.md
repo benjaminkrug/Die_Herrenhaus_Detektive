@@ -118,7 +118,7 @@ Ganz leise.
 
 Von der anderen Seite des Raums.
 
-Jonas' Herz schlug schneller.\
+Jonas' Atem blieb stecken.\
 Er leuchtete in die Dunkelheit.
 
 Nichts.

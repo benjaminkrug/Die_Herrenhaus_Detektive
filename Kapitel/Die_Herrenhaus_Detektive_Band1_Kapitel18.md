@@ -89,6 +89,27 @@ Das ist ein gutes Zeichen."
 Mila verdrehte die Augen.\
 Aber sie lächelte dabei.
 
+Dann räusperte sich Mila.\
+Sie stellte sich gerade hin.\
+„Ich möchte auch etwas sagen", sagte sie laut.
+
+Jonas und Ben sahen sie überrascht an.
+
+Mila sah in die Menge.\
+„Das war eine ganz schlechte Idee."\
+Sie grinste.\
+„Aber die beste schlechte Idee, die wir je hatten."
+
+Ben riss den Mund auf.\
+„Das ist MEIN Spruch!"
+
+„Logisch", sagte Mila.\
+„Ich habe ihn nur verbessert."
+
+Die Leute lachten.\
+Ben auch.\
+Jonas am meisten.
+
 ------------------------------------------------------------------------
 
 Dann wurde es still.
@@ -319,8 +340,8 @@ Ihre Augen funkelten im Licht der Taschenlampe.
 „Detektive geben nicht auf."
 
 Jonas lächelte.\
-Sein Herz schlug schnell.\
-Aber ruhig.\
+In seinem Bauch kribbelte es.\
+Warm und stark.\
 Wie vor einem neuen Abenteuer.
 
 Faust auf Faust.\

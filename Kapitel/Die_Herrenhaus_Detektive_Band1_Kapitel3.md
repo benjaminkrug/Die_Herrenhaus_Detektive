@@ -55,7 +55,7 @@ Es raschelte leise.\
 Es roch nach warmer Erde und wilden Blumen.
 
 „Wir sollten näher ran", sagte Jonas.\
-Sein Herz klopfte dabei schneller.
+Seine Stimme klang mutiger, als er sich fühlte.
 
 „Nur bis zum Zaun", sagte Mila schnell.
 
@@ -141,7 +141,7 @@ Der Rost leuchtete orange.
 „Oder zu einem Geheimfach", sagte Mila.
 
 Jonas dachte nach.\
-Sein Herz schlug jetzt wild.
+Sein ganzer Körper war angespannt wie eine Feder.
 
 „Wo würdet ihr einen Schatz verstecken?" fragte er.
 

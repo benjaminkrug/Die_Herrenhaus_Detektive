@@ -101,7 +101,7 @@ Ben schluckte.
 „passieren seltsame Dinge."
 
 Jonas bekam eine Gänsehaut.\
-Sein Herz klopfte schneller.
+Seine Finger wurden kalt, obwohl die Luft warm war.
 
 „Was für seltsame Dinge?" fragte er.
 
@@ -202,7 +202,9 @@ Er konnte nicht schlafen.
 Das Zimmer roch noch fremd.\
 Nach frischer Farbe und Karton.\
 Er vermisste sein altes Zimmer.\
-Und er vermisste Tom, seinen besten Freund.
+Und er vermisste Tom, seinen besten Freund.\
+Seit Papa ausgezogen war, war alles anders.\
+Neues Dorf. Neues Haus. Neues Leben.
 
 Er griff nach seinem Handy.\
 Tippte eine Nachricht:

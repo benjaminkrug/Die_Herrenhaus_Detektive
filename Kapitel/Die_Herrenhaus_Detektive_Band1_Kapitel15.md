@@ -59,7 +59,7 @@ Ben grinste.\
 „Und Detektive werfen nichts weg.\
 Ich verstehe."
 
-Jonas' Herz hämmerte.
+Jonas' Hände zitterten so stark, dass er kaum zielen konnte.
 
 Er steckte den Schlüssel ins Schlüsselloch.
 
@@ -126,7 +126,10 @@ Dann machte er einen Schritt in den Tunnel.\
 „Aber ich gehe trotzdem."
 
 Jonas machte einen Schritt nach vorne.\
-Sein Herz schlug wild.
+Er dachte kurz an Mama.\
+Was sie wohl sagen würde, wenn sie ihn jetzt sehen könnte.\
+Wahrscheinlich würde sie ihn umarmen und schimpfen.\
+Beides gleichzeitig.
 
 Der Boden war feucht.\
 Seine Schuhe machten bei jedem Schritt ein schmatzendes Geräusch.\

@@ -32,7 +32,7 @@ Drei Linien.\
 Und darüber ein Kreis.
 
 Jonas strich mit dem Finger über die Linien.\
-Sein Herz klopfte schnell.\
+Seine Haut prickelte.\
 Das gleiche Zeichen. Immer wieder.
 
 „Das sieht aus wie ein Turm", sagte Ben.
@@ -100,7 +100,7 @@ Mila trat näher.\
 „Schaut euch das Bild an."
 
 Jonas beugte sich vor.\
-Sein Herz schlug schneller.
+Sein Atem ging schneller.
 
 Das Haus auf dem Gemälde hatte einen kleinen Turm.\
 Mit einem runden Fenster oben.
@@ -111,30 +111,44 @@ Ben zeigte auf das Dach.\
 „Und da sind drei Ziegel dunkler als die anderen."
 
 Jonas starrte auf das Bild.\
-Seine Hände wurden feucht.
+Dann sah er es.
+
+In der Ecke des Gemäldes war ein kleiner roter Pfeil gemalt.\
+Kaum sichtbar unter dem Staub.\
+Jonas wischte mit dem Ärmel darüber.\
+Der Pfeil zeigte nach unten.\
+Zum Keller.
+
+„Hier!" rief er leise.\
+„Da ist ein Pfeil. Seht ihr?"
+
+Ben und Mila traten näher.
+
+„Der zeigt nach unten", sagte Mila.\
+Ihre Augen wurden groß.
 
 Das war kein normales Gemälde.\
-Das war eine Karte.
+Das war eine Karte.\
+Und Jonas hatte den wichtigsten Hinweis gefunden.
 
 Mini-Rätsel:
 
 Was stimmt an dem Gemälde nicht?\
-Warum sind genau drei Dachziegel dunkler?\
-Und warum ist das runde Fenster heller gemalt?\
-Herr Winter hat einen Hinweis im Bild versteckt.\
-Kannst du ihn sehen?
+Drei Dachziegel sind dunkler.\
+Das runde Fenster ist heller.\
+Und ein kleiner roter Pfeil zeigt nach unten.\
+Herr Winter hat eine Wegbeschreibung gemalt.\
+Wohin führt der Pfeil?
 
-Jonas trat noch näher heran.
-
-„Das Bild zeigt mehr als nur das Haus", sagte er.\
+„Das Bild zeigt mehr als nur das Haus", sagte Jonas.\
 Seine Stimme war heiser vor Aufregung.
 
 Mila schluckte.\
-„Es zeigt einen Hinweis."
+„Es zeigt den Weg zum Schatz."
 
 „Logisch", sagte sie dann.\
-„Drei dunkle Ziegel. Ein helles Fenster.\
-Das sind die Zahlen aus dem Code!"
+„Drei dunkle Ziegel. Das runde Fenster.\
+Und der Pfeil nach unten."
 
 Plötzlich hörten sie ein Geräusch von oben.\
 Wie Schritte auf Holz.
@@ -146,7 +160,7 @@ Seine Kappe war verrutscht.\
 Er merkte es nicht.
 
 Jonas sah zur Treppe.\
-Sein Herz hämmerte so laut, dass er es in den Ohren hörte.
+Sein ganzer Körper wurde steif.
 
 Die Schritte hörten auf.
 

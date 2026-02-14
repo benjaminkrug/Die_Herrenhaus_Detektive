@@ -85,7 +85,7 @@ Die Schritte kamen näher.\
 Dann gingen sie vorbei.
 
 Jonas atmete aus.\
-Sein Herz klopfte schnell.
+Seine Hände waren feucht vor Aufregung.
 
 „Weiter", flüsterte er.
 
@@ -127,7 +127,7 @@ Mila runzelte die Stirn.\
 „Das klingt nicht wie normale Sätze."
 
 Jonas schüttelte den Kopf.\
-Sein Herz raste.\
+Es fühlte sich an, als würde etwas in seinem Kopf aufleuchten.\
 „Das ist ein Code."
 
 Ben sah nervös zur Tür.\
@@ -161,52 +161,43 @@ Die drei sahen sich an.
 „Anfangsbuchstaben?" flüsterte Ben.\
 „Okay, das ist ziemlich cool für einen alten Mann."
 
-Jonas schrieb die Wörter auf ein Blatt:
+Jonas schrieb alles auf ein Blatt:
 
-Turm\
-Stein\
-Tür
+Turm -- drei -- Mond\
+Stein -- sieben -- Nord\
+Tür -- eins -- Licht
 
-„Die ersten Buchstaben", sagte er.
-
-Mila beugte sich näher.\
-„T. S. T."
+„Was, wenn wir von jeder Zeile das erste Wort nehmen?" fragte Mila.\
+„Turm. Stein. Tür."
 
 Ben kratzte sich am Kopf.\
-„Das ergibt nichts."
+„Klingt wie Orte."
 
-Jonas sah noch einmal genau hin.\
-„Vielleicht nicht nur die ersten Wörter."
-
-Er schrieb alles auf:
-
-Turm -- drei -- Mond\
-Stein -- sieben -- Nord\
-Tür -- eins -- Licht
-
-„Was, wenn wir von jeder Zeile das erste Wort nehmen?" fragte Mila.
-
-„Oder von jedem Wort den ersten Buchstaben?" sagte Ben.
-
-Mini-Rätsel für Leser:
-
-Wenn du die Anfangsbuchstaben aller Wörter nimmst, welches Wort
-entsteht?
-
-Turm -- drei -- Mond\
-Stein -- sieben -- Nord\
-Tür -- eins -- Licht
-
-Jonas starrte auf die Liste.
+Jonas starrte auf die Liste.\
+Turm. Stein. Tür.\
+Drei Orte. Drei Zahlen. Drei Hinweise.
 
 Plötzlich spürte er ein Kribbeln im ganzen Körper.\
 Er hatte es.
 
-„Ich glaube", sagte er leise,\
-„ich weiß, was das bedeutet."
+„Das sind keine Wörter", sagte er leise.\
+„Das sind SCHRITTE.\
+Erst zum Turm. Dann zum Stein. Dann zur Tür.\
+Und die Zahlen sagen, welcher Turm. Welcher Stein. Welche Tür."
+
+Mila riss die Augen auf.\
+„Drei Schritte zum Schatz!"
+
+Mini-Rätsel für Leser:
+
+Der Code beschreibt drei Schritte.\
+Turm -- drei -- Mond = Geh zum dritten Turm, wenn der Mond scheint.\
+Stein -- sieben -- Nord = Finde den siebten Stein im Norden.\
+Tür -- eins -- Licht = Die erste Tür, wo Licht hinfällt.\
+Kannst du dir vorstellen, wo das im Haus sein könnte?
 
 Ben riss die Augen auf.\
-„Was denn?"
+„Wie eine Schatzsuche mit Anleitung!"
 
 Jonas klappte das Tagebuch zu.\
 Er drückte es fest an sich.

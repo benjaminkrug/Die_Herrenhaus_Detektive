@@ -99,7 +99,7 @@ Alle drei erstarrten.
 
 „Das war nur das Holz", sagte Jonas.
 
-Doch sein Herz klopfte schneller.
+Doch seine Knie fühlten sich weich an.
 
 Am Ende des Flurs führte eine Treppe nach oben.
 
