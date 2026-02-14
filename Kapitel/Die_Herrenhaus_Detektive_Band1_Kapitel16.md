@@ -14,13 +14,28 @@ Jonas ging voran.\
 Mila direkt hinter ihm.\
 Ben bildete das Schlusslicht.
 
-Ihre Schritte hallten leise.
+Ihre Schritte hallten leise.\
+Die Wände glänzten feucht im Licht der Taschenlampe.
+
+Jonas zählte seine Schritte.\
+Zehn.\
+Zwanzig.\
+Dreißig.
+
+„Wie lang ist dieser Tunnel?" fragte Ben.
+
+„Wir müssen schon unter dem Garten sein", sagte Mila.
+
+Jonas spürte, wie sein Herz immer schneller schlug.\
+Bei jedem Schritt kam er dem Schatz näher.\
+Oder dem, was davon übrig war.
 
 Nach ein paar Metern endete der Gang an einer Steinwand.
 
 „Sackgasse?" fragte Ben.
 
-Jonas leuchtete höher.
+Jonas leuchtete höher.\
+Sein Atem ging schnell.
 
 In der Wand war eine runde Vertiefung.
 
@@ -29,7 +44,8 @@ Darunter drei schmale Rillen.
 Mila atmete schneller.\
 „Das Symbol!"
 
-Jonas zog die Karte hervor.
+Jonas zog die Karte hervor.\
+Seine Hände zitterten.
 
 „Turm -- drei -- Mond", murmelte er.
 
@@ -38,14 +54,15 @@ Ben dachte laut.\
 
 „Und die drei Linien sind die drei Rillen", sagte Mila.
 
-Jonas nickte.
+Jonas nickte.\
+Sein Mund war trocken.
 
 „Vielleicht müssen wir drei Dinge gleichzeitig drücken."
 
 Ben leuchtete auf den Boden.
 
-Dort lagen drei lose Steine.
-
+Dort lagen drei lose Steine.\
+Flach und glatt.\
 Sie sahen anders aus als die übrigen.
 
 Mini-Rätsel:
@@ -54,6 +71,11 @@ Wenn der Kreis für den Mond steht,\
 wo muss das Licht hinfallen?
 
 Und welche drei Steine gehören zu den drei Linien?
+
+Der Code sagte: Turm -- drei -- Mond.\
+Die Rillen brauchen die Steine.\
+Und der Mond braucht Licht.\
+Kannst du es lösen?
 
 Jonas hob einen der Steine auf.\
 Er passte genau in eine der Rillen.
@@ -64,28 +86,60 @@ Sie setzten die drei Steine in die Rillen ein.
 
 Doch nichts geschah.
 
-Ben sah zur runden Vertiefung.
+Jonas' Magen verkrampfte sich.\
+Das konnte nicht alles sein.
+
+Ben sah zur runden Vertiefung.\
+Er legte den Kopf schief.
 
 „Vielleicht braucht der Mond Licht", sagte er.
 
-Jonas richtete die Taschenlampe direkt in den Kreis.
+Jonas sah ihn an.\
+Natürlich.\
+Turm -- drei -- MOND.
 
-Für einen Moment war es still.
+Er richtete die Taschenlampe direkt in den Kreis.
+
+Für einen Moment war es still.\
+So still, dass Jonas sein eigenes Herz hören konnte.
 
 Dann hörten sie ein leises Klicken.
 
 Die Wand vibrierte.
 
+Jonas' ganzer Körper kribbelte.
+
 Langsam schob sich ein Steinblock zur Seite.
 
-Dahinter war ein kleines Fach.
+Dahinter war ein kleines Fach.\
+In die Wand gebaut.\
+Verborgen seit Jahren.
 
 Und darin lag eine alte Metalltruhe.
 
-Mila hielt den Atem an.
+Jonas starrte darauf.\
+Seine Augen brannten.\
+Seine Knie waren weich.
 
-„Wir haben es geschafft", flüsterte sie.
+Mila hielt den Atem an.\
+Ihre Hand griff nach Jonas' Arm.
 
-Ben grinste.
+„Wir haben es geschafft", flüsterte sie.\
+Ihre Stimme zitterte.
+
+Ben grinste.\
+Breit und ungläubig.
 
 „Jetzt kommt der Schatz."
+
+Plötzlich hörten sie ein Geräusch.\
+Hinter sich.\
+Im Tunnel.
+
+Schritte.
+
+Schwere Schritte.
+
+Die drei sahen sich an.
+
+„Schnell", hauchte Jonas.

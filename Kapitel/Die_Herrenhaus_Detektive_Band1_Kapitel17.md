@@ -8,9 +8,73 @@
 
 ## Der Schatz
 
-Die alte Metalltruhe lag schwer im Fach.
+Die Schritte im Tunnel kamen näher.
+
+Jonas griff nach der Truhe.\
+Sie war schwer.\
+Viel schwerer als erwartet.
+
+„Hilf mir", flüsterte er.
+
+Ben packte die andere Seite.\
+Gemeinsam hoben sie die Truhe aus dem Fach.
+
+Die Schritte wurden lauter.
+
+„Wir können nicht zurück", sagte Mila.\
+Sie sah sich um.
+
+Hinter dem Fach war ein zweiter Gang.\
+Noch schmaler.\
+Noch dunkler.
+
+„Da lang", sagte Jonas.
+
+Sie quetschten sich hinein.\
+Die Truhe zwischen sich.
+
+Der Gang führte nach oben.\
+Stufen.\
+Steinerne Stufen.
+
+Jonas' Arme brannten vom Gewicht.\
+Aber er ließ nicht los.
+
+Oben stießen sie gegen eine Holzklappe.
+
+Jonas drückte mit der Schulter dagegen.
+
+Sie sprang auf.
+
+Tageslicht strömte herein.
+
+Sie waren im Garten.\
+Hinter dem Herrenhaus.\
+Zwischen hohem Gras und Büschen.
+
+Ben ließ sich ins Gras fallen.\
+„Wir sind draußen!"
+
+Mila sah zum Eingang des Tunnels.\
+„Schnell weg hier."
+
+Sie rannten den Hügel hinunter.\
+Die Truhe zwischen ihnen.\
+Schwer und klappernd.
+
+------------------------------------------------------------------------
+
+Am Feldweg blieben sie stehen.\
+Alle drei keuchten.
+
+Die Truhe stand im Gras.\
+Alt.\
+Verbeult.\
+Mit einem großen, roten Wachszeichen auf dem Deckel.
 
 Jonas kniete sich davor.\
+Sein ganzer Körper zitterte.
+
 „Bereit?" fragte er leise.
 
 Mila nickte.\
@@ -32,21 +96,47 @@ Und darin glitzerte etwas.
 
 „Ist das Gold?" flüsterte Ben.
 
-Jonas griff vorsichtig hinein.
+Jonas griff vorsichtig hinein.\
+Seine Finger zitterten.
 
 In der Truhe lagen alte Münzen.\
 Ein paar silberne Ringe.\
 Und eine schwere Taschenuhr.
 
-„Das ist wirklich ein Schatz", sagte Mila ehrfürchtig.
+Ben sprang auf.\
+„GOLD!" rief er.\
+„Echtes Gold!"
+
+Er tanzte im Kreis.\
+Dann stolperte er und fiel ins Gras.\
+Aber er lachte weiter.
+
+Mila lachte auch.\
+Laut und frei.\
+Sie konnte nicht aufhören.
+
+Jonas spürte Tränen in seinen Augen.\
+Nicht vor Traurigkeit.\
+Vor Glück.\
+Sie hatten es wirklich geschafft.
+
+„Das ist wirklich ein Schatz", sagte Mila.\
+Ihre Stimme war heiser.
+
+Ben hielt eine Münze ins Licht.\
+Sie funkelte golden.
+
+„Wir sind Schatzsucher", sagte er.\
+„Echte Schatzsucher!"
 
 Doch unter den Münzen lag noch etwas.
 
 Ein Bündel Briefe.
 
-Und ein dickes Dokument mit Siegel.
+Und ein dickes Dokument mit einem großen, roten Wachszeichen.
 
-Jonas zog es heraus.
+Jonas zog es heraus.\
+Sein Lachen erstarb.
 
 „Das sieht wichtig aus", sagte er.
 
@@ -57,15 +147,18 @@ Auf dem Papier stand:
 *Letzter Wille von Heinrich Winter*
 
 Ben runzelte die Stirn.\
-„Das ist der Besitzer."
+„Der Besitzer. Herr Winter."
 
-Jonas überflog die Zeilen.
+Jonas überflog die Zeilen.\
+Die Buchstaben waren alt und verschnörkelt.
 
 „Er war nicht verschwunden", sagte er plötzlich.
 
 „Was?" fragte Mila.
 
-Jonas las weiter.
+Jonas las weiter.\
+Sein Herz schlug jetzt ruhig.\
+Aber schwer.
 
 „Er hat das Dorf verlassen, weil er Schulden hatte."
 
@@ -85,17 +178,22 @@ Ben riss die Augen auf.\
 
 Jonas nickte.
 
-„Er wollte, dass das Geld für die Renovierung der Schule benutzt wird."
+„Er wollte, dass das Geld für die Schule benutzt wird."
 
-Mila lächelte langsam.
+Stille.
+
+Mila lächelte langsam.\
+Ein warmes, weites Lächeln.
 
 „Dann war er kein Bösewicht."
 
-Ben sah auf die Münzen.
+Ben sah auf die Münzen.\
+Dann auf das Dorf unten im Tal.
 
-„Er wollte helfen."
+„Er wollte helfen", sagte er leise.
 
-Jonas schloss das Dokument vorsichtig.
+Jonas schloss das Dokument vorsichtig.\
+Er legte es zurück in die Truhe.
 
 „Und jemand hat versucht, den Schatz heimlich zu holen."
 
@@ -107,6 +205,15 @@ Ben schluckte.
 
 „Herr Meier."
 
-Jonas sah zur dunklen Tunnelöffnung.
+Jonas sah zur dunklen Tunnelöffnung am Hügel.\
+Dann runter zum Dorf.
 
-„Dann sollten wir besser schnell nach oben gehen."
+„Wir bringen die Truhe zum Bürgermeister", sagte er.\
+„Jetzt. Sofort."
+
+Er stand auf.\
+Sein Rücken tat weh.\
+Aber das war egal.
+
+Sie hatten den Schatz.\
+Und die Wahrheit.

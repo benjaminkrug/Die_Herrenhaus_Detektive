@@ -22,29 +22,48 @@ Er strich mit der Hand darüber.
 
 Staub rieselte zu Boden.
 
-„Wartet mal", sagte er plötzlich.
+Auf der Tischplatte war etwas eingeritzt.\
+Kaum sichtbar unter dem Staub.
 
-Unter der Tischplatte war etwas Metallisches.
+Jonas wischte mit dem Ärmel darüber.\
+Sein Herz machte einen Sprung.
 
-„Da ist ein Hebel", flüsterte Mila.
+Drei Linien.\
+Und ein Kreis.
 
-Jonas kniete sich hin.\
-Er tastete vorsichtig danach.
+„Das Symbol", flüsterte er.\
+„Auch hier."
 
-Der Hebel war klein.\
-Fast unsichtbar im Schatten.
+Mila beugte sich vor.\
+„Und daneben ist ein kleines Schlüsselloch."
 
-„Vielleicht gehört er zur Karte", sagte Ben.
+Jonas erstarrte.\
+Dann griff er in seine Tasche.
 
-Jonas zögerte.\
-„Bereit?"
+Der rostige Schlüssel.
 
-Mila nickte.\
-Ben schluckte.
+Der Schlüssel, der nicht ins Tor gepasst hatte.\
+Und nicht in die Kette.
 
-Jonas zog am Hebel.
+Sein Herz hämmerte.
 
-Zuerst passierte nichts.
+„Glaubst du ..." flüsterte Ben.
+
+Jonas steckte den Schlüssel ins Schlüsselloch.
+
+Er passte.
+
+Jonas drehte.
+
+Klick.
+
+Mini-Rätsel:\
+Der Schlüssel vom Anfang passt endlich!\
+Er gehörte nicht zum Tor.\
+Nicht zur Kette.\
+Sondern zu etwas, das tief unter dem Haus versteckt war.\
+Herr Winter hat ihn vor das Tor gelegt.\
+Als Hinweis für den Richtigen.
 
 Dann hörten sie ein tiefes Grollen.
 
@@ -62,9 +81,14 @@ Dahinter war Dunkelheit.
 
 Tiefe Dunkelheit.
 
+Jonas' Atem stockte.\
+Ein echter geheimer Tunnel.\
+Direkt unter dem Haus.
+
 „Das ist kein normaler Keller", flüsterte Ben.
 
-Jonas leuchtete in den Spalt.
+Jonas leuchtete in den Spalt.\
+Seine Hand zitterte vor Aufregung.
 
 Ein schmaler Gang führte weiter unter das Haus.
 
@@ -79,11 +103,14 @@ Und roch nach Erde.
 Ben sah in die Dunkelheit.\
 „Vielleicht war das der echte Plan von Herrn Winter."
 
-Jonas machte einen Schritt nach vorne.
+Jonas machte einen Schritt nach vorne.\
+Sein Herz schlug wild.
 
-Der Boden war feucht.
+Der Boden war feucht.\
+Wasser tropfte irgendwo in der Dunkelheit.
 
-Die Wände waren enger als im Keller.
+Die Wände waren enger als im Keller.\
+Jonas musste die Schultern einziehen.
 
 „Das muss der Raum unter der Treppe gewesen sein", sagte Mila.
 
