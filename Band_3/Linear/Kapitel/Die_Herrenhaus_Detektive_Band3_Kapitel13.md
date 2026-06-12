@@ -226,7 +226,7 @@ Holzer untersuchte das Tor.
 Sein hoffnungsvolles Gesicht wurde wieder ernst.
 
 „Hunderte von Jahren", sagte er.
-„Seit hunderten von Jahren hat niemand diesen Griff bewegt.
+„So lange hat niemand diesen Griff bewegt.
 Er ist eingerostet, verkeilt, festgebacken.
 Wir kriegen ihn nicht auf."
 

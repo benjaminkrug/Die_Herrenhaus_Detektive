@@ -224,7 +224,7 @@ Ein Raunen ging durch die Leute.
 
 „Als würde der halbe Platz auf Luft stehen", sagte der Arbeiter.
 
-Jonas' Magen zog sich zusammen.
+Ein Schauer lief Jonas über den Rücken.
 Er dachte an das Loch im Wald.
 An das dunkle Wasser darunter.
 Hier war es genau dasselbe.

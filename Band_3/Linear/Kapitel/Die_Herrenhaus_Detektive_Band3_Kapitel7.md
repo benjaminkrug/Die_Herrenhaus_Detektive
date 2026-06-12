@@ -77,7 +77,7 @@ Holzers Hand schoss vor und hielt ihn am Rucksack fest.
 Jonas blieb stehen, wo er war.
 Aber er sah hinunter.
 
-Sein Magen zog sich zusammen.
+Ihm wurde schwindelig.
 
 Es ging tief.
 So tief, dass er den Grund kaum erkennen konnte.

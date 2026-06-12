@@ -151,7 +151,7 @@ Er drehte sich weg.
 
 ---
 
-Jonas' Mut sank.
+In Jonas' Brust wurde alles eng.
 
 Das war's.
 Holzer würde nicht helfen.
