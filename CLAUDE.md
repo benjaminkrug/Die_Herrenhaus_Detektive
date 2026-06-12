@@ -4,21 +4,44 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a **German children's detective novel** -- "Die Herrenhaus-Detektive, Band 1: Das verbotene Herrenhaus". Target audience: children aged 8-10. Published via Amazon KDP. Part of a planned 3-book series.
+This is a **German children's detective novel series** -- "Die Herrenhaus-Detektive". Target audience: children aged 8-10. Published via Amazon KDP. 5-book series planned, each with a **Linear** (classic) and **Interaktiv** (branching/choose-your-own-adventure) version.
 
 The language of all content is **German**. All chapter text, planning documents, and metadata are written in German.
 
 ## Repository Structure
 
 ```
-Kapitel/                          # Chapter files (Markdown)
-  Die_Herrenhaus_Detektive_Band1_KapitelX.md
-Author_Info.md                    # MASTER REFERENCE -- read before every chapter
-Die_Herrenhaus_Detektive_Buchkonzept.md           # Book concept & Amazon strategy
-Die_Herrenhaus_Detektive_Band1_Story_Outline.md   # 18-chapter story outline (4 acts)
-Die_Herrenhaus_Detektive_Band1_Detaillierte_Szenenplanung.md  # Scene-by-scene plan
-Die_Herrenhaus_Detektive_Kapitel_Schreibvorlage.md            # Chapter template/checklist
-Schreibstil_Regeln_8_Jahre_Die_Herrenhaus_Detektive.md        # Writing style rules
+Author_Info.md                           # MASTER REFERENCE -- read before every chapter
+
+_Gemeinsam/                              # Shared across all books
+  Buchkonzept.md                         # Book concept & Amazon strategy
+  Schreibstil_Regeln.md                  # Writing style rules (age 8+)
+  Kapitel_Schreibvorlage.md              # Chapter template/checklist
+  Illustrationen_Prompts.md              # Illustration generation prompts
+  Referenzbilder/                        # Reference images
+
+Band_1/                                  # Band 1: Das verbotene Herrenhaus
+  Linear/                                # Classic linear story
+    Kapitel/                             # 19 chapter markdown files
+    Story_Outline.md                     # 18-chapter story outline (4 acts)
+    Detaillierte_Szenenplanung.md        # Scene-by-scene plan
+    Manuskript.docx                      # Compiled manuscript
+    create_manuscript.py                 # Script to compile chapters
+  Interaktiv/                            # Branching/choose-your-own-adventure
+    Abschnitte/                          # ~96 section files
+    Illustrationen/                      # 15 illustrations
+    Abschnitt_Map.md                     # Section connection map
+    create_manuscript_interaktiv.py      # Script to compile sections
+  Cover/                                 # Linear/, Interaktiv/, _Archiv/
+  Publishing/                            # KPF/, Kindle_Creator/
+
+Band_2/                                  # Band 2: Das Geheimnis des Brunnens
+  Linear/                                # Same structure as Band 1
+  Interaktiv/                            # (future)
+  Cover/
+  Publishing/
+
+Band_3/ ... Band_5/                      # Prepared for future books
 ```
 
 ## Critical Workflow
@@ -62,9 +85,18 @@ Every chapter must contain:
 
 ## Project Status
 
-- **Chapters 1-13**: Complete (~1,600 words each)
-- **Chapters 14-18**: Outlined/sketched (~250-300 words each, need expansion to ~1,600 words)
+### Band 1 (Linear)
+- **Chapters 1-18**: Complete (~1,600 words each)
 - **4-Act Structure**: Act 1 (Ch 1-4) Setup, Act 2 (Ch 5-9) Investigation, Act 3 (Ch 10-14) Danger, Act 4 (Ch 15-18) Resolution
+
+### Band 1 (Interaktiv)
+- Complete (~96 Abschnitte with branching paths)
+
+### Band 2 (Linear)
+- **Chapters 1-19**: Complete (~1,200-1,400 words each)
+
+### Band 3-5
+- Planned, not yet started
 
 ## Common Mistakes to Avoid
 

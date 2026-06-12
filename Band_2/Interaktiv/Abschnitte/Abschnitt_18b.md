@@ -1,0 +1,31 @@
+# Abschnitt 18b
+
+Jonas kniete sich hin. Er legte die Hand auf den Boden. Kalt. Feucht. Da — eine schmale Rinne im Stein. Wasser floss darin. Kaum sichtbar. Aber er spuerte es unter seiner Handflaeche. Die Luft roch hier anders. Frischer. Wie nasse Erde nach einem Gewitter.
+
+„Das Wasser fliesst nach links", sagte er.
+
+Mila sah ihn an. „Woher weisst du das?"
+
+„Wasser fliesst immer bergab. Zur Quelle." Jonas stand auf. Sein Herz klopfte ruhig. Sicher. „Der linke Gang fuehrt zur Quelle. Garantiert."
+
+Ben leuchtete in die Rinne. „Er hat recht. Die Kanten sind gerade. Wie ein Kanal."
+
+„Dann muessen wir nicht raten", sagte Mila.
+
+Sie nahmen den linken Gang. Ohne zu zoegern. Jonas behielt die Hand an der Wand. Der Stein war glatt hier. Abgeschliffen vom Wasser. Seit Jahrzehnten. Vielleicht seit Jahrhunderten. Die Rinne lief neben ihnen her. Stetig. Wie ein Kompass aus Wasser.
+
+Ben schob seine Kappe zurecht. „Ich mag es, wenn wir wissen, wo wir hingehen. Das ist mal was Neues."
+
+„Du magst es auch, wenn du nicht rennen musst", sagte Mila.
+
+„Stimmt. Rennen ist ueberbewertet."
+
+Der Gang wurde breiter. Das Rauschen lauter. Jonas spuerte ein Vibrieren unter seinen Fuessen.
+
+Dann blieb er stehen. Vor ihnen: blaues Licht. Schwach. Flackernd. Aus der Tiefe.
+
+Ben griff nach Jonas' Arm. „Was ist das?"
+
+---
+
+*→ Weiter bei Abschnitt 19*
