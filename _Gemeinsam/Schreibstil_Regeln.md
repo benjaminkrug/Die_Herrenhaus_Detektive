@@ -72,6 +72,11 @@ Beispiel: \> „Hast du das gesehen?" flüsterte Mila.\
 \> „Im Fenster war jemand!"\
 \> „Quatsch", sagte Ben. „Das war nur der Wind."
 
+**Humor-Varianz (wichtig):** Bens Witz darf NICHT immer dasselbe Muster sein.
+Rotieren zwischen: naiv-wörtlicher Logik, falscher Tapferkeit (die kippt),
+Sachargument am falschen Ort, trockenem Einzeiler, Selbst-Kommentar. Auch Mila
+und Jonas dürfen Witz tragen -- nicht nur Ben. Wiederholtes Muster ermüdet.
+
 ------------------------------------------------------------------------
 
 # 👁 6️⃣ Perspektive

@@ -446,3 +446,126 @@ Jedes Kapitel muss enthalten:
 | Bergmann | Altes Kreuz | Frau Bergmann (Zeitzeugin) |
 | Hoffmann | Messingring | Karl Hoffmann (1953-Junge, verstorben/verzogen) |
 | Meier | Familien-Wappen-Siegel | Herr Meier (Ladenbesitzer) |
+
+------------------------------------------------------------------------
+
+# BAND 3: Die zweite Quelle (Arbeitstitel)
+
+> Status: FERTIG -- alle 19 Kapitel (Linear) geschrieben + ueberarbeitet + auf
+> Konsistenz geprueft (Paket A/B/C). Continuity-Tracker unten ist gefuellt.
+> ~20.700 Woerter / ~82 Normseiten. Naechste Schritte: Manuskript-Kompilierung
+> (.docx), dann Cover/Publishing/Interaktiv (separat).
+
+## Ausgangslage Band 3
+
+- **Ca. 4 Wochen nach Band 2**, Spaetsommer (Kap 1: "letzte warme Tage", erste gelbe Blaetter -> Bogen zum Herbst im Epilog).
+- Die Gaenge unter dem Dorf sind inzwischen gesichert (Meier hat die Arbeiten geleitet, Band 2 Kap 16/17).
+- Der Brunnen hat eine Gedenktafel: "Eichenhain -- Gegruendet an der Heilquelle -- Seit 1712".
+- Jonas, Mila, Ben sind Ehrenbuerger -- im Dorf bekannt und anerkannt.
+- Meier ist fester Verbuendeter, stolzer Gruenderfamilien-Erbe.
+- Krueger bleibt Mentor/Anker, steht weiter in Briefkontakt mit Winter.
+- **Geheimtinte-Karte** (in Jonas' Rucksack): zeigt am rechten Rand eine Linie in den Wald + ein zweites X (Band 2 Kap 18).
+- **Winters Versprechen** (Band 2 Kap 18): "Vielleicht komme ich nach Hause. Wenn ihr mir helft." -- offene Bedingung, die Band 3 einloesen muss.
+- **Winters Warnung** (Band 2 Kap 18/19): "Der Wald hat seine eigenen Geheimnisse." / "Der Wald ist gross. Und alt."
+- Karls Messingring ist NICHT mehr bei den Kindern (Mila gab ihn Band 2 Kap 16 an Frau Bergmann zurueck).
+- Meiers alte Taschenlampe (von 1953) koennen die Kinder noch haben.
+
+## Neue Figur Band 3
+
+### Foerster Holzer (der Waldhueter) -- FINAL (nach Band 3)
+- **Rolle:** Menschliche Stimme des Schauplatzes Wald. Aktiv, nicht passiv (kein Frau-Bergmann-Klon).
+- **Typ:** "Beschuetzer-Hindernis". Tritt zuerst als HINDERNIS auf (jagt die Kinder weg, Kap 2), wird dann Verbuendeter, am Ende Freund/Held.
+- **Aussehen/Wesen:** Aelter, breit, grauer Bart, rau, muerrisch -- aber gutherzig. Lebt allein in einer Huette tief im Wald. Wird vom Dorf gemieden ("der seltsame Mann aus dem Wald").
+- **Sein wahrer Grund (Hindernis):** Er WEISS, dass der Boden hohl/einsturzgefaehrdet ist. Er schuetzt die Kinder, nicht ein Geheimnis.
+- **Wende zum Verbuendeten (Kap 6):** Winters Karte erschuettert ihn, reicht aber NICHT -- erst MILAS Beharren ("es geht ums Dorf") bricht sein Hindernis.
+- **Verbindung zu Winter (AUFGELOEST):** Enge alte Freunde. Suchten einst zu DRITT (Winter, Holzer, Anton) die Quelle. Anton verunglueckte -> beide gaben sich die Schuld -> Trennung. Versoehnung in Kap 17 (Kompass-Uebergabe).
+- **Kompass:** Andenken an Anton, traegt ihn jahrelang, gibt ihn in Kap 17 an Winter.
+- **Wandlung:** Einzelgaenger -> Teil eines Teams -> Held des Dorfes. Wird mit Meier Freund. Am Ende: "der Wald ist nicht mehr verboten fuer euch."
+- **FUER BAND 4:** Holzer lebt im Dorf/Wald, ist jetzt Verbuendeter der Kinder. Kennt den Wald wie kein anderer.
+
+### Frau Wenzel (Nebenfigur Band 3)
+- Aeltere Dorfbewohnerin, kleines Haus mit Blumenkaesten am Marktplatz -- direkt am wachsenden Riss.
+- **Funktion:** Gibt der GEGENWARTS-Gefahr ein menschliches Gesicht (Herzmoment). Ihre Angst ums Zuhause = der konkrete Einsatz. Bewusst KEIN zweiter Frau-Bergmann (akute Angst JETZT, nicht Vergangenheit/Trauma).
+- Am Ende gerettet, dankbar (Apfelkuchen "fuer meine drei Helden", Kap 19). Kann in Band 4 wiederkehren.
+
+### Anton (verstorben -- Hintergrundfigur)
+- Der DRITTE Freund von Winter + Holzer (alle drei jung, unzertrennlich, suchten die Quelle).
+- **Charakter:** tollkuehn, furchtlos, rannte immer voraus ("Das Beste ist immer ganz vorne!"), pfiff schief. Nannte die Quelle "das Herz des Waldes".
+- **Schicksal:** verunglueckte im Wald (in ein Erdloch eingebrochen, sie konnten ihn nicht retten -- tonal: kein grafisches Drama, "der Wald hat ihn genommen"). Sein Tod trieb Winter + Holzer auseinander.
+- Der Kompass war seiner. Nur Hintergrund -- tritt nie auf, aber emotionaler Kern der Versoehnung.
+
+## Charakter-Entwicklung Band 3
+
+| Charakter | Band 2 Ende | Band 3 Entwicklung (FINAL -- Ausgangslage Band 4) |
+|-----------|------------|------------------------------|
+| Jonas | Anfuehrer unter Druck, Ehrenbuerger | Fuehrt ruhig, verbindet Erwachsene + Kinder, kombiniert die Hinweise (Wehr->Dorf, Gang-Ziel). Reift: erkennt, dass es ALLE zusammen waren (Bescheidenheit). Traegt jetzt die Muenze (Band-4-Anker). |
+| Mila | Zeigt Verletzlichkeit, gibt Ring zurueck | Ihr Moment: ueberzeugt Holzer (Kap 6) + fuehrt die Holzer-Rettung (Kap 9). Mut = Handeln trotz Furcht (Stimme zittert, weicht aber nicht). Erkennt das Hoffmann-Zeichen wieder. |
+| Ben | Strategischer Denker, klettert zuerst | SIGNATURE-MOVE Kap 13: die rettende Umleitungs-Idee (Wasser in die Gaenge). Dreistufig vorbereitet (Keim "umgehen" Kap 11). Humor + Herz ("renne sonst vor allem weg, aber nicht vor Freunden"). |
+| Meier | Verbuendeter, Gruenderfamilien-Erbe | Erkennt sein Baum-Familienzeichen, mobilisiert das ganze Dorf (Kap 10), fuehrt trotz eigener Angst. Wird mit Holzer ein Team (Kap 17). |
+| Krueger | Anker, Briefkontakt zu Winter | Bruecke zu Winters Rueckkehr. Emotionales Wiedersehen mit altem Freund Winter (Kap 15, "Albert"). Fuettert wieder Tauben mit Winter am Brunnen (Kap 19). |
+| Holzer (Foerster) | (neu) | Von Hindernis -> Verbuendeter -> Held. Versoehnung mit Winter (Anton/Kompass). Vom Gemiedenen zum Teil der Gemeinschaft. Freund der Kinder. |
+| Heinrich Winter | abwesende Stimme/Briefe (Band 1-2) | KEHRT LEIBHAFTIG ZURUECK (Kap 14, Serien-Hoehepunkt). Rettet mit dem Gruender-Wissen (Hebel). Versoehnt sich mit Holzer. BLEIBT -- Herrenhaus wieder bewohnt (Kap 17). |
+| Winter | Stimme am Telefon | Kehrt im Finale leibhaftig zurueck (verdient durch Kinder-Leistung) |
+
+## Band 3 Kontinuitaets-Tracker
+
+> GEFUELLT nach Fertigstellung aller 19 Kapitel (Paket C). Master-Referenz fuer Band 4.
+
+### Zeitlinie Band 3
+- **Tag 1, Spaetsommermorgen (~4 Wochen nach Band 2):** Jonas am Brunnen, bemerkt einen duennen, FEUCHTEN Riss im Pflaster (obwohl es seit Tagen nicht geregnet hat -- Vorbote). Frau Schneider winkt ab ("Steine arbeiten"). Mila + Ben kommen. Sie breiten die Geheimtinte-Karte aus: zweites X im Wald, Linie beginnt am Brunnen. Rueckblick auf Band 2 (erste Quelle, Zeitkapsel, Winters Anruf). Entscheidung: zum Waldrand. Cliffhanger: altes Schild "Betreten verboten". (Kapitel 1)
+- **Tag 1, kurz danach:** Sie gehen trotzdem in den Wald. Boden wird weich/nass (kein Bach), ein schraeger Baum mit Wasser. Ben bricht in ein Erdloch ein -- ein alter Mann (spaeter: Foerster Holzer) zieht ihn raus. Holzer erklaert: der Boden ist hohl, der Wald bricht ein. Jagt sie weg. Cliffhanger: "Der Wald ist gefaehrlich. Verschwindet." (Kapitel 2)
+- **Tag 1, Nachmittag:** Flucht aus dem Wald. Bei Krueger: er liefert den Namen "Holzer" (Foerster, Eigenbroetler, kam vor langer Zeit, kein schlechter Mensch). Zurueck am Brunnen: der Riss ist ueber den Tag GEWACHSEN, klingt hohl ("Hohlraum drunter"). Frau Wenzel (neue Figur, Haus am Riss) hat Angst um ihr Zuhause. Erkenntnis: die zweite Quelle erwacht -> "die Zeit laeuft uns davon". (Kapitel 3)
+- **Tag 1, Abend:** Krueger hat einen neuen Brief von Winter. Winter warnt (vorsorglich): wenn der Boden sich bewegt, ist die zweite Quelle erwacht; er ist UNTERWEGS. Kinder erkennen: es passiert schon JETZT. Ben kommt selbst auf die Geheimtinte-Idee (Kerze). Neue Schrift erscheint auf der Karte: das Wort "Wehr". Cliffhanger. (Kapitel 4)
+- **Tag 1, Abend (fortgesetzt):** Ben erklaert, was ein Wehr ist (Omas Bach). Sie verstehen: ein Bauwerk staut die Quelle; wenn es bricht, laeuft Wasser zum Dorf. Holzer steht im Weg. Mila erkennt: Holzer ist die LOESUNG (kennt den Wald). Cliffhanger: naechtlicher Erdstoss -- ein Loch bricht mitten auf dem Marktplatz ein, nahe Frau Wenzels Tuer. "Morgen ist zu spaet." (Kapitel 5)
+- **Tag 2, erstes Licht (nach schlafloser Nacht):** Zu Holzers Huette. Karte allein reicht NICHT (Holzer verhaertet sich), aber Milas Beharren ("es geht ums Dorf") bricht ihn. Holzer erstarrt bei Winters Handschrift ("die wuerde ich ueberall erkennen") -- kannte Winter eng. Beruehrt unbewusst einen KOMPASS (Saat: verlorener Freund). Erklaert den hohlen Boden. Cliffhanger: "Letzte Woche ist ein ganzer Hang weggesackt." (Kapitel 6)
+- **Tag 2, Vormittag:** Holzer fuehrt sie, prueft Boden mit Stock (Tock/Bock). Weggesackter Hang (tiefes Loch, Wasser). Grenzstein mit Gruender-Zeichen passt zur Karte ("den Steinen folgen"). Holzer kann ab hier nicht weiter (zu schwer, Boden zu weich); deutet sein Trauma an ("schon einmal jemanden vorausgehen lassen"). Cliffhanger: Wasser sickert durch, wo sie eben standen -- es ist schneller als sie, kein Weg zurueck. (Kapitel 7)
+- **Tag 2, Mittag:** Flucht VORWAERTS (allein, Holzer getrennt). Sie folgen dem Bach bergauf, finden das WEHR (riesige uralte Mauer, Wappen der vier Familien: Blume/Kreuz/Ring/Baum). Mila erkennt das Hoffmann-Ring-Zeichen (Karls Ring, den sie in Band 2 zurueckgab). Ben entdeckt 2. Becken + steinernen SCHIEBER + Seitenkanal (Saat fuer Kap 13). Cliffhanger: ein Stein bricht aus dem Wehr, Wasser schiesst hervor. (Kapitel 8)
+- **Tag 2, Nachmittag:** Flucht zurueck durch den kranken Wald. WENDUNG: Sie finden HOLZER in Not (im Boden eingesackt) und retten IHN -- Umkehr der Beschuetzer-Rolle. Holzer geruehrt ("ihr haettet weglaufen koennen"); seine Wandlung (Einzelgaenger -> Teil eines Teams). Cliffhanger: am Waldrand ziehen dunkle Wolken auf, ferner Donner -- "wenn es regnet, ist das Wehr verloren". (Kapitel 9)
+- **Tag 2, spaeter Nachmittag:** Zurueck im Dorf (Brunnen abgesperrt, Frau Wenzel mit Koffer). Bei Meier: erst zoegert er, dann erkennt er sein Familienzeichen (Baum) auf der Karte. Ein weiterer Stein kippt ins Brunnenloch (Beweis, kein Aufschlag = Hohlraum). Holzer tritt oeffentlich fuer die Kinder ein. Meier handelt, mobilisiert das ganze Dorf (Sandsaecke). Meier hat selbst Angst, fuehrt aber trotzdem. Cliffhanger: die ersten Regentropfen fallen. (Kapitel 10)
+- **Tag 2, Abend (Regen beginnt):** Mit Traktor + Dorf zum Wehr. Erster Sicherungsversuch (Sandsaecke, Menschenkette) -- scheitert: das Wasser bricht immer woanders durch. Erkenntnis: das Gruender-Wissen ist verloren, nur Winter wuesste, wie ("klug, nicht nur fleissig"). Ben murmelt unbewusst die Keim-Idee ("umgehen"). Cliffhanger: ein Riss zieht quer ueber das ganze Wehr. (Kapitel 11)
+- **Tag 2, Abend (Regen wird Guss):** Jonas ruft Krueger an: Winter nicht erreichbar, aber unterwegs. Handy faellt aus (Wasser) -> Kinder ganz allein. Der Regen bricht voll los. Dorfbewohner fliehen; die Kinder + Holzer bleiben (wegen Frau Wenzel). Ben fast am Durchbruch ("ich glaube, ich weiss, wie --") -- da bricht ein ganzer Stein, das Wehr beginnt zu brechen. (Kapitel 12)
+- **Tag 2, Abend (Tiefpunkt):** Verzweifeltes Stopfen -- sinnlos. BENS SIGNATURE-MOMENT: er hat die Idee, das Wasser UMZULEITEN durch den Schieber in die alten (gesicherten, leeren) Gaenge unter dem Dorf. Jonas leitet her, wohin der Gang fuehrt. Holzer: "braucht einen Jungen, der anders denkt". Aber der Schieber-Griff sitzt fest (verrostet). Cliffhanger: eine grosse alte Hand auf Jonas' Schulter: "Lasst mich mal." (Kapitel 13)
+- **Tag 2, Abend (Rettung):** HEINRICH WINTER ist da (leibhaftig, Serien-Hoehepunkt). Er kennt das Wehr als Ziel seiner Lebenssuche. Kinder erkennen ihn. Winter findet den versteckten HEBEL der Gruender (sein einzigartiges Wissen). ALLE ZUSAMMEN ziehen -> Schieber oeffnet sich, Wasser stroemt in die Gaenge ab, weg vom Dorf. Das Wehr haelt. Cliffhanger: Glocken vom Dorf, "der Boden bewegt sich nicht mehr -- wir haben es geschafft". (Kapitel 14)
+- **Tag 2, Abend (bei Krueger):** Trockene Kleidung, Tee. Krueger + Winter, Wiedersehen zweier alter Freunde (Vorwurf + Vergebung). Winter erzaehlt, warum er ging (die zweite Quelle baendigen, bevor sie ausbricht -- allein, zu spaet). Andeutung: "wir waren zu dritt, etwas hat uns auseinandergerissen" (Kompass-Faden). Pergament mit abgerissenem Rand ("Die vier Familien kamen aus dem...") = Band-4-Hook. Cliffhanger: Holzer in der Tuer: "alle zum Wehr, es ist noch nicht vorbei". (Kapitel 15)
+- **Tag 2 Nacht -> Tag 3 Morgengrauen:** NACHBEBEN am Wehr: das umgeleitete Wasser hat (seit Stunden) den Seitenkanal ausgewaschen, ein Gewoelbe droht einzubrechen. Das TEAM sichert es gemeinsam (Reifepruefung, kein Wunder von aussen). Beinahe-Scheitern (Mila fast verschuettet, alle halten zusammen). Erster Versoehnungs-Funke Holzer+Winter ("ich denke jeden Tag an ihn"). Sonne geht auf. Cliffhanger: Holzers erstes echtes Laecheln, "gut gemacht, alle zusammen". (Kapitel 16)
+- **Tag 5-6 (drei Tage spaeter):** Dorf heilt (Brunnen repariert, Gedenktafel). Meier + Holzer werden ein Team. VOLLE KOMPASS-AUFLOESUNG: Holzer + Winter versoehnen sich -- der dritte Freund ANTON verunglueckte einst im Wald, beide gaben sich die Schuld -> Trennung; Kompass-Uebergabe + Umarmung. Dorfversammlung: Winter beschliesst zu BLEIBEN (Herrenhaus wird wieder bewohnt = Band-1-Auszahlung). Am Wehr: das umgeleitete Wasser hat den Beckenboden freigespuelt -> Ben findet etwas Glaenzendes. (Kapitel 17)
+- **Tag 6-7 (naechster Morgen + Abend):** Bens Fund = MUENZE (Eiche / fremdes Symbol: 3 Wellen + 8-Spitzen-Stern). Winter haelt sie ans Pergament -- das Symbol PASST in die abgerissene Luecke (Band-4-Hook konkretisiert: Herkunftsort der Gruender). Holzers Wald-Einladung ("nicht mehr verboten", die friedliche Quelle = "Herz des Waldes", Anton-Bezug). Winter zu Hause (Herrenhaus erleuchtet). Cliffhanger/Hook: "Winter war nicht der Erste... ihr werdet nicht die Letzten sein". (Kapitel 18)
+- **~2 Wochen spaeter, Herbst (Epilog):** Goldener Herbsttag. Alle Faeden geheilt (Wenzel/Meier+Holzer/Winter+Krueger). Rueckblick + "Zusammen"-Schwur. Die Muenze als Band-4-Anker ("weit hinter den Huegeln wartet eine Geschichte"). KEIN Cliffhanger -- nachhallender Schluss. (Kapitel 19, Epilog)
+
+### Gefundene Hinweise/Gegenstaende Band 3
+- **Geheimtinte-Karte** (aus Band 2, in Jonas' Rucksack): zeigt jetzt durch Kerzenwaerme ZUSAETZLICHE Schrift -- das Wort "Wehr" + zweite Linie tiefer in den Wald (Kap 4). Bleibt bei Jonas.
+- **Das Wort "Wehr"** auf der Karte (Kap 4) -> fuehrt zum alten Wehr der Gruender.
+- **Das alte Wehr** im Wald (Kap 8): riesige Steinmauer, staut die zweite Quelle, Wappen der vier Familien (Blume/Kreuz/Ring/Baum). Halb verfallen. Nach Band 3 fachgerecht gesichert (Meier + Holzer + Ingenieur).
+- **Der Schieber / Seitenkanal** am Wehr (Kap 8): leitet Wasser in die alten Band-2-Gaenge um. Versteckter Hebel der Gruender (nur Winter kannte ihn, Kap 14). Nach Band 3 offen -> Wasser fliesst kontrolliert ab.
+- **Holzers KOMPASS** (Kap 6): altes Messing, war von Anton (verstorbener dritter Freund). In Kap 17 an Winter uebergeben (Versoehnung).
+- **Pergament der Gruender** (Winter, Kap 15): in einer Nische am Wehr gefunden. Bestaetigt die Geschichte der zweiten Quelle. UNTERER RAND ABGERISSEN -- fehlendes Stueck ("Die vier Familien kamen aus dem..."). Band-4-Hook. Bei Winter.
+- **Die MUENZE** (Bens Fund, Kap 17/18): Eiche auf einer Seite, FREMDES Symbol auf der anderen (3 Wellen + 8-Spitzen-Stern). Passt in die Pergamentluecke. = der erste Hinweis auf den Herkunftsort der Gruender. **In Jonas' Tasche -- zentraler Band-4-Anker.**
+
+### Was die Kinder in Band 3 NEU erfahren
+- Es gibt ein altes WEHR im Wald, das die zweite Quelle staut (Kap 4-8).
+- Der Waldboden ist hohl/einsturzgefaehrdet, weil die Quelle erwacht und ihn untergraebt (Kap 2-7).
+- Wenn das Wehr bricht, laeuft das Wasser direkt zum Dorf/Brunnen (Kap 5/9).
+- Foerster HOLZER kannte Winter; sie suchten einst gemeinsam mit einem dritten Freund (ANTON) die Quelle. Anton verunglueckte; Holzer + Winter trennten sich im Streit/Schmerz (Kap 6/15/17).
+- Die Gruender bauten das Wehr + einen versteckten Umleitungs-Schieber, um das Dorf zu schuetzen (Kap 8/14).
+- Warum Winter wirklich ging: um die zweite Quelle zu finden + baendigen, bevor sie ausbricht (Kap 15).
+- Die vier Gruenderfamilien kamen urspruenglich von einem ANDEREN, vergessenen Ort -- markiert durch ein fremdes Symbol (3 Wellen + Stern). Wo dieser Ort liegt, ist offen (Kap 15/18 -- Band-4-Hook).
+- Winter ist zurueck und BLEIBT; das Herrenhaus ist wieder bewohnt (Kap 17).
+
+### Offene Fragen -- aus Band 2, in Band 3 ALLE EINGELOEST
+- [x] Was ist die "zweite Quelle"? -> Quelle im Wald, von den Gruendern mit einem Wehr gestaut (Kap 8/15).
+- [x] Warum ist Winter WIRKLICH verschwunden? -> Um die zweite Quelle zu finden + baendigen, bevor sie ausbricht (Kap 15).
+- [x] Was zeigt die Karte noch? -> Das Wort "Wehr" + zweite Linie (neue Geheimtinte-Schrift, Kap 4).
+- [x] Kommt Winter nach Hause? -> JA. Ankunft Kap 14, bleibt Kap 17 (Herrenhaus wieder bewohnt).
+
+### Offene Fragen -- FUER BAND 4 (in Band 3 GESAET, nicht aufgeloest)
+- **Woher kamen die vier Gruenderfamilien?** Das Pergament bricht ab bei "Die vier Familien kamen aus dem..." (Kap 15). Der Herkunftsort ist VERGESSEN.
+- **Das fremde Symbol** (3 Wellen + 8-Spitzen-Stern) auf Bens Muenze (Kap 18) markiert diesen Ort. Es passt in die Pergamentluecke. Mila deutet: "Wasser -- ein Meer oder grosser Fluss"; Jonas: "der Stern zeigt einen Weg". Irgendwo "weit hinter den Huegeln" (Kap 19).
+- Richtung Band 4: "Groesser werden" -- die Geschichte reicht ueber Eichenhain hinaus, zu dem Ort, aus dem die Gruender kamen.
+- **Offen gelassene Faeden (kein Kanon-Schuld, bewusst):** Wo genau liegt der Herkunftsort? Was ist dort? Wer sonst hat danach gesucht (Winter: "ich war nicht der Erste")?
+
+### Zentrale Festlegungen Band 3 (Konzept, geprueft)
+- **Die zweite Quelle** liegt im Wald hinter Eichenhain und untergraebt langsam den Boden -> Einsturzgefahr fuer das Dorf (Brunnen/Gebaeude). **Kindgerecht: Sachschaden, KEIN Mensch kommt zu Schaden.** Erstmals tickt die Uhr in der GEGENWART.
+- **Winter** kehrt im Finale (Akt 4) zurueck -- kausal noetig (nur er hat das Suchwissen) und Folge der Kinder-Leistung.
+- **Foerster** = Beschuetzer-Hindernis (s. o.).
+- **Band-4-Hook** = "Groesser werden" ueber das Wappen/die vier Familien.
+- Vollstaendige Begruendungen: `Band_3/Linear/PLAN_Band3.md`. Welt-/Geo-Details: `Band_3/Linear/Welt_und_Figuren.md`. Hinweis-Buchhaltung: `Band_3/Linear/Setup_Payoff_Tracker.md`.

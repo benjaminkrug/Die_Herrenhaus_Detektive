@@ -217,7 +217,7 @@ def add_impressum_page(doc):
         "Coverdesign: Benjamin Krug",
         "Satz und Layout: Benjamin Krug",
         "",
-        "ISBN: (wird vergeben)",
+        "ISBN: 9798181439672",
         "",
         "Dieses Buch ist ein Werk der Fiktion. Namen, Personen,",
         "Orte und Ereignisse sind frei erfunden. Jede Ähnlichkeit",
