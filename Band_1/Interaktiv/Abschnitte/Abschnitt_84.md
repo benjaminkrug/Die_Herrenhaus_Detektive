@@ -4,8 +4,10 @@ Drei Monate später.
 
 Samstag im September.
 Goldenes Licht auf den Dächern.
+Es roch nach nassem Laub und Kaffee.
 
 Am Dorfrand stand eine Menschenmenge.
+Stimmengewirr lag in der Luft.
 Vor einem neuen Straßenschild.
 Verhüllt mit einem weißen Tuch.
 
@@ -63,6 +65,7 @@ Wie immer.
 Mila auf der Mauer.
 Ben im Gras.
 Jonas an den Stein gelehnt.
+Der Stein war noch warm von der Sonne.
 
 „Wisst ihr was?" sagte Ben.
 „Das nächste Mal mache ICH den Plan."

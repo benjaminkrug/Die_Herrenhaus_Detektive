@@ -40,7 +40,7 @@ Und führte unter dem Haus hindurch.
 Unter dem Hügel.
 Bis zu einem kleinen Gebäude.
 
-„Die Mühle", flüsterte Jonas.
+„Die Mühle", sagte Jonas.
 
 Daneben: *Schatzkammer.*
 

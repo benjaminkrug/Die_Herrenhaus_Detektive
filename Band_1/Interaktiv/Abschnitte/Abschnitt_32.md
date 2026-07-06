@@ -66,7 +66,7 @@ Kurz.
 Dann weg.
 
 Jonas drückte die Nase ans Glas.
-Sein Herz schlug schneller.
+Seine Hände wurden feucht.
 
 Da war jemand.
 

@@ -84,4 +84,4 @@ Die Antwort kam sofort.
 
 *Am nächsten Morgen gibt es kein Zurück mehr. Diesmal ganz bis zum Ende.*
 
-→ **Weiter bei Abschnitt 24**
+*→ Weiter bei Abschnitt 24*

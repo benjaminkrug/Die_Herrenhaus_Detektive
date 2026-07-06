@@ -12,7 +12,7 @@ Die Mauer begann sich zu bewegen.
 Ein Teil schob sich zur Seite.
 Staub rieselte von der Decke.
 
-„Die Wand bewegt sich!" flüsterte Ben.
+„Die Wand bewegt sich!" stieß Ben hervor.
 
 Ein dunkler Spalt.
 Breit genug für eine Person.

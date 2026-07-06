@@ -81,4 +81,4 @@ Aber Jonas fröstelte.
 
 *Die Person weiß von euch. Aber ihr wisst von der Mühle. Am nächsten Morgen braucht ihr Antworten.*
 
-→ **Weiter bei Abschnitt 22**
+*→ Weiter bei Abschnitt 22*

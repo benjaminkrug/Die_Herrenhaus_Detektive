@@ -67,8 +67,7 @@ Sein Herz klopfte.
 Mit Schaufeln und bloßen Händen.
 Zwei Jahre lang."
 
-Mila verschränkte die Arme.
-„Sie haben den Tunnel GEBAUT?"
+„Sie haben den Tunnel GEBAUT?" fragte Mila.
 
 „Meter für Meter", sagte Krüger.
 „Heinrich hatte den Plan.

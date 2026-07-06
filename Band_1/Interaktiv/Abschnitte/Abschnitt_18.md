@@ -71,7 +71,7 @@ Zwei dünne Seile liefen an der Wand entlang.
 Eines führte nach unten — zur Decke im Erdgeschoss.
 Das andere verschwand hinter der Tür.
 
-„Das ist ein Mechanismus", flüsterte Mila.
+„Das ist ein Mechanismus", sagte Mila.
 Ihre Augen leuchteten.
 
 Jonas berührte eines der Seile.

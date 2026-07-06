@@ -59,8 +59,6 @@ Lange Schatten lagen über dem Feld.
 Sie saßen hinter einer Hecke.
 Ben hielt das Fernglas.
 
-Und dann sah er es.
-
 „Da!" zischte Ben.
 
 Jonas nahm das Fernglas.

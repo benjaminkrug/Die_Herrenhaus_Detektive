@@ -22,7 +22,7 @@ Er lag im Bett. Die Decke bis zum Kinn. Der Mond schien durch sein Fenster.
 
 Er drehte sich auf die Seite. Zum Fenster hin.
 
-Und dann sah er es.
+Draußen sah er es.
 
 Ein Licht. In der Mühle.
 

@@ -16,7 +16,7 @@ Ben kratzte sich unter der Kappe.
 „Er hat recht.
 Wir sind zehn."
 
-Mila verschränkte die Arme.
+Mila runzelte die Stirn.
 „Also tun wir nichts?"
 
 „Wir heben die Beweise auf", sagte Jonas.

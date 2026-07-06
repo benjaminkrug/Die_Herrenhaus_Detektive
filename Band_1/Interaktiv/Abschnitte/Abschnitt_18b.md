@@ -109,4 +109,4 @@ Seine Finger waren rot.
 
 *Jemand hat den Keller zugemauert. Warum? Diese Frage führt euch weiter — die Treppe hinauf.*
 
-→ **Weiter bei Abschnitt 18**
+*→ Weiter bei Abschnitt 18*

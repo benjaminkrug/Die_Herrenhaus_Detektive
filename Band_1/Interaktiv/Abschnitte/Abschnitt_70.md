@@ -59,7 +59,7 @@ Warum?"
 „Nur der Gemeinderat darf die öffnen.
 So ist die Vorschrift."
 
-Mila verschränkte die Arme.
+Mila ließ nicht locker.
 „Seit wann ist die gesperrt?"
 
 Frau Weber sah auf ihren Bildschirm.

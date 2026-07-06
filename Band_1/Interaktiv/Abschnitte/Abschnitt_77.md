@@ -60,9 +60,8 @@ Winters freundliche Augen.
 „Er hat gesagt: Pass auf das Haus auf.
 Und auf die Wahrheit."
 
-Mila verschränkte die Arme.
-„Und die Wahrheit?
-Ist Winter ein Dieb?"
+„Und die Wahrheit?" fragte Mila.
+„Ist Winter ein Dieb?"
 
 Meier schüttelte den Kopf.
 Langsam.
