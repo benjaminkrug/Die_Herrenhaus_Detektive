@@ -12,15 +12,15 @@ Jonas trat neben ihn. Er sah Linien. Kreise. Pfeile. Maße in altmodischen Zahle
 
 „Rohre?", fragte Mila.
 
-Ben legte das Blatt auf den Steinsockel. Sein Finger folgte den Linien. „Seht ihr? Hier ist die Quelle." Er tippte auf einen Kreis. „Und hier —" Sein Finger glitt nach oben. „— geht ein Rohr nach oben. Zum Brunnen."
+Ben legte das Blatt auf den Steinsockel. Sein Finger folgte den Linien. „Seht ihr? Hier ist die Quelle." Er tippte auf einen Kreis. „Und hier —“ Sein Finger glitt nach oben. „— geht ein Rohr nach oben. Zum Brunnen."
 
 Jonas kniff die Augen zusammen. „Ein Rohr von der Quelle zum Brunnen?"
 
 „Genau!" Ben grinste. Plötzlich. Breit. „Die alten Familien haben Rohre gelegt. Von der Quelle hier unten bis zum Brunnen oben auf dem Dorfplatz. So hat der Brunnen funktioniert!"
 
-Mila verschränkte die Arme. „Der Brunnen hat seit Jahren kein Wasser mehr."
+Mila schüttelte den Kopf. „Der Brunnen hat seit Jahren kein Wasser mehr."
 
-„Weil die Rohre kaputt sind!" Ben tippte auf eine Stelle der Zeichnung. „Hier. Seht ihr das Kreuz? Da ist ein Bruch. Wenn man HIER gräbt und das Rohr repariert —"
+„Weil die Rohre kaputt sind!" Ben tippte auf eine Stelle der Zeichnung. „Hier. Seht ihr das Kreuz? Da ist ein Bruch. Wenn man HIER gräbt und das Rohr repariert —“
 
 Er sah auf. Seine Augen leuchteten.
 

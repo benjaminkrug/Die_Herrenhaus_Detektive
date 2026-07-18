@@ -419,7 +419,11 @@ Alles fühlte sich normal an.
 Aber nichts war normal.
 Nicht mehr.
 
-Jonas drehte sich zum Feldweg.
+Aus dem Augenwinkel bemerkte Jonas eine Bewegung.
+Unten am Feldrand.
+Etwas Dunkles zwischen den Büschen.
+
+Er drehte sich um.
 
 Dann blieb er stehen.
 

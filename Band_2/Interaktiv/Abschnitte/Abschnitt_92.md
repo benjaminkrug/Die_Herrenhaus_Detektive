@@ -48,7 +48,7 @@ Piep.
 
 Jonas schaute Mila an. Dann Ben. Dann Krüger.
 
-Mila verschränkte die Arme. „Versuch es nochmal."
+Mila ballte die Fäuste. „Versuch es nochmal."
 
 Ben schob seine Kappe nach hinten. „Oder wir sprechen auf die Mailbox. Mein Opa checkt seine auch nur einmal die Woche."
 

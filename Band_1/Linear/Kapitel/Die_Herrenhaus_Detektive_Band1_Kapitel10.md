@@ -251,7 +251,7 @@ Eine Sekunde Stille.
 Ben mischte sich ein.
 „Beim Herrenhaus haben wir Licht gesehen."
 
-Herr Meier ließ den Schraubenschlüssel zum zweiten Mal fallen.
+Herr Meier hielt mitten in der Bewegung inne.
 
 „Was wollt ihr da?" fragte er scharf.
 Seine Stimme hatte sich verändert.
@@ -260,9 +260,6 @@ Lauter.
 
 Mila hob die Schultern.
 „Nur gefragt."
-
-Herr Meier wischte sich wieder über die Stirn.
-Obwohl es gar nicht warm war.
 
 „Da geht niemand hin", sagte er.
 „Das Haus ist leer.
@@ -366,11 +363,12 @@ Wie auf dem Feldweg zum Hügel."
 „Genau", sagte Jonas.
 
 Mila verschränkte die Arme.
-„Er hat den Schraubenschlüssel zweimal fallen lassen.
+„Und habt ihr ihn gesehen?
+Der Schraubenschlüssel ist ihm aus der Hand gefallen.
 Seine Hände haben gezittert.
-Und er hat sich dreimal über die Stirn gewischt."
+Er war nervös, bevor wir überhaupt vom Haus geredet haben."
 
-„Du hast das gezählt?" fragte Ben.
+„Du achtest auf so was?" fragte Ben.
 
 „Natürlich", sagte Mila.
 
@@ -400,6 +398,16 @@ Jonas sah sie an.
 Mila dachte immer einen Schritt weiter.
 
 „Ich glaube", sagte Jonas langsam, „er war gestern Nacht im Herrenhaus."
+
+„Nur weil er groß ist?" fragte Ben.
+„Es gibt viele große Männer im Dorf."
+
+„Stimmt", sagte Jonas.
+„Aber nicht viele mit Erde vom Feldweg an den Schuhen.
+Und nicht viele, die lügen, wenn man nach dem Haus fragt."
+
+Ben schwieg.
+Darauf hatte er keine Antwort.
 
 Mila nickte.
 „Er passt.

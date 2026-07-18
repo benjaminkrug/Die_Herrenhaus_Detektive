@@ -388,7 +388,13 @@ Er faltete die Hände.
 „Was Heinrich Winter getan hat, war etwas Besonderes", sagte er.
 „Die Münzen und der Schmuck gehören dem Dorf.
 Sein Testament ist klar.
-Das Geld geht an die Schule."
+Das Geld soll an die Schule gehen."
+
+Er hob die Hand.
+„Der Gemeinderat muss noch abstimmen.
+So läuft das bei uns.
+Aber ich werde dafür sorgen, dass es geschieht.
+So, wie Heinrich es wollte."
 
 Er sah Meier an.
 Streng.

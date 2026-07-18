@@ -276,9 +276,9 @@ Ben sah ihn an.
 „Du meinst, der Spuk war nicht von Herr Winter?"
 
 Jonas überlegte.
-„Winter hat den Tunnel gebaut.
-Und das Archiv.
-Und die Rätsel.
+„Winter hat das Archiv versteckt.
+Die Schatzkammer.
+Die Rätsel.
 Warum sollte er Leute abschrecken?"
 
 „Weil er wollte, dass nur die Richtigen es finden", sagte Mila.
@@ -359,6 +359,15 @@ Sie zeigte auf den Mechanismus.
 Neuer Eimer.
 Neues Preisschild.
 Das hat kein Geist gebaut."
+
+Jonas nickte.
+Aber etwas ließ ihn stutzen.
+Ein Dieb würde den Schatz doch einfach holen.
+Warum baute jemand einen Spuk?
+Nur um alle fernzuhalten?
+
+Er schob den Gedanken beiseite.
+Dafür war jetzt keine Zeit.
 
 Jonas' Magen zog sich zusammen.
 Herr Meier hatte sie gewarnt.

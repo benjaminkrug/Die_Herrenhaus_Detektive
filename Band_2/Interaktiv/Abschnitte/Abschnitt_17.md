@@ -1,10 +1,10 @@
 # Abschnitt 17
 
-Sie waren durch. Die Metalltuer lag hinter ihnen. Offen. Dunkelheit und kalte Luft stroemten ihnen entgegen. Wie ein Atemzug aus der Tiefe.
+Sie waren durch. Die Metalltür lag hinter ihnen. Offen. Dunkelheit und kalte Luft strömten ihnen entgegen. Wie ein Atemzug aus der Tiefe.
 
 Jonas leuchtete mit der Taschenlampe hinein. Eine Treppe. Steinerne Stufen, die nach unten führten. Steil. Schmal. An den Wänden glänzte Feuchtigkeit.
 
-„Da runter?", flüsterte Ben.
+„Da runter?", fragte Ben leise.
 
 „Da runter", sagte Mila.
 
@@ -22,7 +22,7 @@ Ein Gang. Niedrig. Jonas konnte die Decke fast berühren. Die Wände waren aus b
 
 „Das hat jemand mit der Hand gehauen", sagte Mila. „Jeder einzelne Stein."
 
-„Es ist echt", fluesterte Ben. Seine Stimme war duenn. Aber seine Augen leuchteten.
+„Es ist echt", flüsterte Ben. Seine Stimme war dünn. Aber seine Augen leuchteten.
 
 Mila legte ihre Hand an die Steinwand. „Kalt", sagte sie. „Und feucht."
 

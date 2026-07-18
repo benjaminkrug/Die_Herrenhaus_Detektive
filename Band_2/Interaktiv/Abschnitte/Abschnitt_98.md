@@ -40,25 +40,25 @@ Krüger senkte den Blick. Seine Hände umklammerten den Stock.
 
 Am anderen Ende der Leitung sagte niemand ein Wort.
 
-Mila beugte sich zu Jonas. "Er hat zwanzig Jahre gesucht", fluesserte sie. "Und jetzt sollen WIR es finden?"
+Mila beugte sich zu Jonas. „Er hat zwanzig Jahre gesucht", raunte sie. „Und jetzt sollen WIR es finden?"
 
-"Er sagt uns, wo wir suchen sollen", sagte Jonas.
+„Er sagt uns, wo wir suchen sollen", sagte Jonas.
 
-"Genau." Mila verschraenkte die Arme. "Ein Mann, den wir nie gesehen haben. Der zwanzig Jahre weg war. Der sagt: Macht, was ich sage."
+„Genau." Mila verschränkte die Arme. „Ein Mann, den wir nie gesehen haben. Der zwanzig Jahre weg war. Der sagt: Macht, was ich sage."
 
-Ben kaute auf seiner Lippe. "Aber Krueger kennt ihn."
+Ben kaute auf seiner Lippe. „Aber Krüger kennt ihn."
 
-Krueger nickte langsam. "Heinrich luegt nicht."
+Krüger nickte langsam. „Heinrich lügt nicht."
 
-"Vielleicht nicht", sagte Mila. "Aber ehrlich und richtig sind nicht dasselbe."
+„Vielleicht nicht", sagte Mila. „Aber ehrlich und richtig sind nicht dasselbe."
 
-Jonas spuerte sein Herz klopfen. Mila hatte einen Punkt. Winter war ehrlich. Aber ehrlich reichte nicht immer.
+Jonas spürte sein Herz klopfen. Mila hatte einen Punkt. Winter war ehrlich. Aber ehrlich reichte nicht immer.
 
-"Herr Winter", sagte Jonas ins Telefon. "Wir muessen kurz reden. Unter uns."
+„Herr Winter", sagte Jonas ins Telefon. „Wir müssen kurz reden. Unter uns."
 
-"Natuerlich", sagte Winter. Seine Stimme war ruhig. Geduldig. Das machte es schwerer.
+„Natürlich", sagte Winter. Seine Stimme war ruhig. Geduldig. Das machte es schwerer.
 
-Jonas legte die Hand ueber das Mikrofon. Drei Gesichter sahen ihn an.
+Jonas legte die Hand über das Mikrofon. Drei Gesichter sahen ihn an.
 
 ---
 
@@ -66,6 +66,6 @@ Jonas legte die Hand ueber das Mikrofon. Drei Gesichter sahen ihn an.
 
 **Winter vertrauen und die Zeitkapsel holen — er kennt den Weg. → Abschnitt 99**
 
-**Mehr ueber die zweite Quelle erfahren — vielleicht ist DAS der Schluessel. → Abschnitt 99b**
+**Mehr über die zweite Quelle erfahren — vielleicht ist DAS der Schlüssel. → Abschnitt 99b**
 
-**Selbst entscheiden — wir gehen ohne seine Anweisungen in die Gaenge. → Abschnitt 99c**
+**Selbst entscheiden — wir gehen ohne seine Anweisungen in die Gänge. → Abschnitt 99c**

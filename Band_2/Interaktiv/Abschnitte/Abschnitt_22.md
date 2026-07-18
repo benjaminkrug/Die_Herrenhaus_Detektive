@@ -8,7 +8,7 @@ Jonas ließ den Taschenlampenstrahl wandern. Und dann sah er die Zeichnungen.
 
 Überall. An jeder Wand. Bäume mit dicken Stämmen. Häuser mit spitzen Dächern. Menschen. Kleine Figuren, in den Stein geritzt und mit Farbe nachgemalt. Verblasst, aber erkennbar.
 
-„Das ist Eichenhain", flüsterte Mila.
+„Das ist Eichenhain", sagte Mila leise.
 
 Sie hatte recht. Jonas erkannte den Kirchturm. Den Dorfplatz. Und da — vier Figuren, die sich die Hände reichten. Ein Kreis. Unter ihren Füßen: Wellenlinien.
 
@@ -18,7 +18,7 @@ Ben schob seine rote Kappe nach hinten. Sein Mund stand offen. „Das ist wie in
 
 In der Mitte der Kammer stand ein Steinsockel. Hüfthoch. Massiv. Und darauf: eine Truhe.
 
-Jonas ging naeher. Sein Knie pochte noch vom Sturz. Aber das war ihm jetzt egal. Die Truhe war aus dunklem Holz. Metallbeschläge an den Ecken. Auf dem Deckel, eingeschnitzt: das Wappen des Herrenhauses. Löwe und Eiche.
+Jonas ging näher. Sein Knie pochte noch vom Sturz. Aber das war ihm jetzt egal. Die Truhe war aus dunklem Holz. Metallbeschläge an den Ecken. Auf dem Deckel, eingeschnitzt: das Wappen des Herrenhauses. Löwe und Eiche.
 
 Mila griff nach dem Deckel. Er war versiegelt. Wachs. Alt und brüchig.
 

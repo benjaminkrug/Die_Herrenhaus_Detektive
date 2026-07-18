@@ -1,6 +1,6 @@
 # Abschnitt 41
 
-Efeu kroch ueber die Steinmauern. Das Muehlrad hing schief in der Halterung. Die alte Muehle sah aus, als wuerde sie sich dagegen wehren, betreten zu werden.
+Efeu kroch über die Steinmauern. Das Mühlrad hing schief in der Halterung. Die alte Mühle sah aus, als würde sie sich dagegen wehren, betreten zu werden.
 
 „Ich dachte, ich muss hier nie wieder rein", murmelte Ben.
 
@@ -58,7 +58,7 @@ Zu dritt zogen sie an dem Stein. Er wackelte. Dann gab er nach. Dahinter klaffte
 
 Jonas leuchtete hinein. Der Strahl verlor sich in der Schwärze.
 
-„Das ist alt", flüsterte Mila. „Viel älter als Winters Tunnel."
+„Das ist alt", sagte Mila leise. „Viel älter als Winters Tunnel."
 
 ---
 

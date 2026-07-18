@@ -300,26 +300,24 @@ Er hob die Hände.
 „Aber was bedeutet es?" fragte Ben.
 „Was sollen wir mit einem Turm machen, den es gar nicht gibt?"
 
-Jonas dachte nach.
+„Der Turm ist nur der erste Hinweis", sagte Jonas.
+„Das Symbol führt uns weiter.
+Immer zum nächsten Zeichen."
+
 Er sah sich im Salon um.
-Die zerrissene Tapete.
-Der Sessel.
-Der Tisch mit drei Beinen.
+Er suchte das Symbol.
+Die drei Linien.
+Den Kreis.
 
-Drei Beine.
-Nicht vier.
+Sein Blick blieb am Tisch hängen.
+Der hatte nur drei Beine.
+Das vierte lag abgebrochen daneben.
 
-Jonas blieb stehen.
+Genau da, wo etwas kaputt war.
 
-„Der Tisch", sagte er.
+„Der Tisch", sagte Jonas.
 
-Ben und Mila sahen ihn an.
-
-„Der Tisch hat drei Beine", sagte Jonas.
-„Aber eigentlich hatte er vier.
-Das vierte liegt daneben auf dem Boden."
-
-Er ging zum Tisch.
+Er ging hin.
 Kniete sich hin.
 Er hob das abgebrochene Tischbein auf.
 

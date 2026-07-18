@@ -1,26 +1,26 @@
 # Abschnitt 18b
 
-Jonas kniete sich hin. Er legte die Hand auf den Boden. Kalt. Feucht. Da — eine schmale Rinne im Stein. Wasser floss darin. Kaum sichtbar. Aber er spuerte es unter seiner Handflaeche. Die Luft roch hier anders. Frischer. Wie nasse Erde nach einem Gewitter.
+Jonas kniete sich hin. Er legte die Hand auf den Boden. Kalt. Feucht. Da — eine schmale Rinne im Stein. Wasser floss darin. Kaum sichtbar. Aber er spürte es unter seiner Handfläche. Die Luft roch hier anders. Frischer. Wie nasse Erde nach einem Gewitter.
 
-„Das Wasser fliesst nach links", sagte er.
+„Das Wasser fließt nach links", sagte er.
 
-Mila sah ihn an. „Woher weisst du das?"
+Mila sah ihn an. „Woher weißt du das?"
 
-„Wasser fliesst immer bergab. Zur Quelle." Jonas stand auf. Sein Herz klopfte ruhig. Sicher. „Der linke Gang fuehrt zur Quelle. Garantiert."
+„Wasser fließt immer bergab. Zur Quelle." Jonas stand auf. Sein Herz klopfte ruhig. Sicher. „Der linke Gang führt zur Quelle. Garantiert."
 
 Ben leuchtete in die Rinne. „Er hat recht. Die Kanten sind gerade. Wie ein Kanal."
 
-„Dann muessen wir nicht raten", sagte Mila.
+„Dann müssen wir nicht raten", sagte Mila.
 
-Sie nahmen den linken Gang. Ohne zu zoegern. Jonas behielt die Hand an der Wand. Der Stein war glatt hier. Abgeschliffen vom Wasser. Seit Jahrzehnten. Vielleicht seit Jahrhunderten. Die Rinne lief neben ihnen her. Stetig. Wie ein Kompass aus Wasser.
+Sie nahmen den linken Gang. Ohne zu zögern. Jonas behielt die Hand an der Wand. Der Stein war glatt hier. Abgeschliffen vom Wasser. Seit Jahrzehnten. Vielleicht seit Jahrhunderten. Die Rinne lief neben ihnen her. Stetig. Wie ein Kompass aus Wasser.
 
 Ben schob seine Kappe zurecht. „Ich mag es, wenn wir wissen, wo wir hingehen. Das ist mal was Neues."
 
 „Du magst es auch, wenn du nicht rennen musst", sagte Mila.
 
-„Stimmt. Rennen ist ueberbewertet."
+„Stimmt. Rennen ist überbewertet."
 
-Der Gang wurde breiter. Das Rauschen lauter. Jonas spuerte ein Vibrieren unter seinen Fuessen.
+Der Gang wurde breiter. Das Rauschen lauter. Jonas spürte ein Vibrieren unter seinen Füßen.
 
 Dann blieb er stehen. Vor ihnen: blaues Licht. Schwach. Flackernd. Aus der Tiefe.
 

@@ -1,6 +1,6 @@
 # Abschnitt 55
 
-Drei Blaetter Papier knallten auf den Schreibtisch. Der Buergermeister schob seine Lesebrille hoch und breitete die Rohr-Zeichnungen aus.
+Drei Blätter Papier knallten auf den Schreibtisch. Der Bürgermeister schob seine Lesebrille hoch und breitete die Rohr-Zeichnungen aus.
 
 „Ich habe einen Ingenieur angerufen", sagte er. „Frau Hoffmann kommt morgen."
 
@@ -36,7 +36,7 @@ An einem Dienstag war es so weit. Das halbe Dorf stand am Brunnen.
 
 „Bereit?", fragte der Bürgermeister.
 
-Mila verschränkte die Arme. „Seit Wochen."
+Mila zuckte mit den Schultern. „Seit Wochen."
 
 „Ben soll es machen", sagte Jonas. „Er hat die Zeichnungen gefunden."
 
@@ -52,7 +52,7 @@ Wasser. Klares, kaltes Wasser schoss aus dem Brunnenrohr. Es plätscherte in das
 
 Stille. Einen Moment lang. Dann jubelten alle.
 
-Der Buergermeister nahm die Brille ab. Er rieb sich die Augen. „Siebzig Jahre hat niemand gefragt", sagte er leise. „Siebzig Jahre lag die Antwort unter unseren Fuessen."
+Der Bürgermeister nahm die Brille ab. Er rieb sich die Augen. „Siebzig Jahre hat niemand gefragt", sagte er leise. „Siebzig Jahre lag die Antwort unter unseren Füßen."
 
 Ben drehte sich zu Jonas und Mila um. Er grinste so breit, dass seine Kappe verrutschte. „Hat jemand einen Becher?"
 

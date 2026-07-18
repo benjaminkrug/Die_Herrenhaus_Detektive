@@ -48,7 +48,7 @@ Jonas schluckte. Ein Kloß saß in seinem Hals. Die Truhe war offen. Die Urkunde
 
 Er ging zurück zu seinen Freunden. Sie warteten am Brunnen.
 
-„Und?", fragte Mila. Sie verschränkte die Arme. „Freut sie sich?"
+„Und?", fragte Mila. „Freut sie sich?"
 
 Jonas schüttelte den Kopf. „Sie wollte dabei sein. Bei der Quelle."
 
@@ -60,24 +60,24 @@ Jonas stand auf. Seine Beine waren schwer.
 
 „Wartet hier", sagte er.
 
-Er ging zurueck. Zu Bergmanns Haus. Die Tuer war geschlossen. Er hob die Hand. Klopfte. Einmal. Zweimal.
+Er ging zurück. Zu Bergmanns Haus. Die Tür war geschlossen. Er hob die Hand. Klopfte. Einmal. Zweimal.
 
 Nichts.
 
 Er legte seine Hand auf das Holz. Kalt. Alt. Siebzig Jahre.
 
-„Wir haben sie gefunden", sagte er leise. „Die Quelle. Die Truhe. Alles. Karls Ring war der Schluessel."
+„Wir haben sie gefunden", sagte er leise. „Die Quelle. Die Truhe. Alles. Karls Ring war der Schlüssel."
 
-Stille hinter der Tuer. Aber Jonas spuerte es. Sie war da. Sie hoerte zu.
+Stille hinter der Tür. Aber Jonas spürte es. Sie war da. Sie hörte zu.
 
-Er drehte sich um. Ging. Er wuerde wiederkommen. Nicht wegen der Quelle. Wegen ihr.
+Er drehte sich um. Ging. Er würde wiederkommen. Nicht wegen der Quelle. Wegen ihr.
 
 ---
 
 **ENDE 213 — „Ohne Lisbeth"**
 ★★★
 
-*Die Truhe ist offen. Die Wahrheit gefunden. Aber hinter einer verschlossenen Tuer wartet eine Frau, die siebzig Jahre geschwiegen hat. Jonas hat geklopft. Vielleicht oeffnet sie — naechstes Mal.*
+*Die Truhe ist offen. Die Wahrheit gefunden. Aber hinter einer verschlossenen Tür wartet eine Frau, die siebzig Jahre geschwiegen hat. Jonas hat geklopft. Vielleicht öffnet sie — nächstes Mal.*
 
 *→ Von vorne: Abschnitt 1*
 *→ Direkt zur Entscheidung: Abschnitt 7*

@@ -1,16 +1,16 @@
 # Abschnitt 26b
 
-„Zurueck!", rief Jonas. „Den gleichen Weg!"
+„Zurück!", rief Jonas. „Den gleichen Weg!"
 
-Sie rannten. Durch den Gang. Zurueck zur grossen Kammer. Aber dort war das Wasser schon hoeher. Es stand ihnen bis zu den Schienbeinen.
+Sie rannten. Durch den Gang. Zurück zur großen Kammer. Aber dort war das Wasser schon höher. Es stand ihnen bis zu den Schienbeinen.
 
-Jonas leuchtete den Gang an, durch den sie gekommen waren. Eingestuerzt. Steine. Nass und schwer.
+Jonas leuchtete den Gang an, durch den sie gekommen waren. Eingestürzt. Steine. Nass und schwer.
 
 „Sinnlos", keuchte Mila. Ihre Haare klebten an der Stirn.
 
-Ben stand hinter ihnen. Das Wasser stieg. Seine Zaehne klapperten. Die Luft schmeckte nach Eisen und nassem Stein.
+Ben stand hinter ihnen. Das Wasser stieg. Seine Zähne klapperten. Die Luft schmeckte nach Eisen und nassem Stein.
 
-„Das war's", fluesterte er. „Wir sitzen fest."
+„Das war's", flüsterte er. „Wir sitzen fest."
 
 „Noch nicht", sagte Mila. „Wir sitzen erst fest, wenn ich es sage."
 
@@ -24,25 +24,25 @@ Jonas sah es. Ein schmaler Durchgang. Halb verborgen hinter einem Felsvorsprung.
 
 „Doch", sagte Mila. „Einatmen."
 
-Sie zwaengten sich hindurch. Ein kleiner Raum. Trocken. Jonas atmete aus. Die Luft roch nach Staub und altem Holz. Nicht nach Wasser. Gut.
+Sie zwängten sich hindurch. Ein kleiner Raum. Trocken. Jonas atmete aus. Die Luft roch nach Staub und altem Holz. Nicht nach Wasser. Gut.
 
 Eine Werkbank stand an der Wand. Alt. Verstaubt. Spinnennetze hingen von der Decke.
 
 Jonas leuchtete die Bank ab. Werkzeuge. Ein Zirkel. Ein Lineal. Und in die Werkbank eingeritzt: vier Namen. WINTER. MEIER. HOFFMANN. BERGMANN.
 
-Mila trat naeher. Ihre Augen wurden gross. „Die Gruender. Das war ihre Werkstatt."
+Mila trat näher. Ihre Augen wurden groß. „Die Gründer. Das war ihre Werkstatt."
 
-„Die haben hier unten gearbeitet", sagte Ben leise. Er strich ueber die Buchstaben. „Vor dreihundert Jahren. Hier. An dieser Bank."
+„Die haben hier unten gearbeitet", sagte Ben leise. Er strich über die Buchstaben. „Vor dreihundert Jahren. Hier. An dieser Bank."
 
 Neben dem Werkzeug stand ein kleines Modell. Aus Holz. Ein Brunnen. Mit winzigen Rohren. Und einer Kammer darunter.
 
 „Das ist der Brunnen", sagte Jonas. Sein Herz klopfte schneller. „So haben sie ihn geplant."
 
-„Ein Modell", fluesterte Mila. „Unglaublich."
+„Ein Modell", sagte Mila leise. „Unglaublich."
 
-Ben drehte sich um. „Leute? Das Wasser kommt naeher. Koennen wir spaeter staunen?"
+Ben drehte sich um. „Leute? Das Wasser kommt näher. Können wir später staunen?"
 
-Mila zeigte auf die Rueckwand. Eine zweite Oeffnung. Hoeher. Trockener. „Da koennen wir raus."
+Mila zeigte auf die Rueckwand. Eine zweite Öffnung. Höher. Trockener. „Da können wir raus."
 
 Sie kletterten hindurch. Ein steiler Gang. Der Boden stieg. Dann: Metall. Rostig. Eine Leiter.
 

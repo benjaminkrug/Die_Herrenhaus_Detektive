@@ -254,6 +254,10 @@ Das hat damit zu tun."
 Ben streckte die Hand aus.
 „Machen wir ihn auf."
 
+„Sofort", sagte Mila.
+„Wir haben alles andere auch gelöst.
+Warum nicht das hier?"
+
 Jonas drehte den Umschlag um.
 Das rote Wachs fühlte sich glatt an.
 Kühl.
@@ -261,23 +265,36 @@ Ungebrochen seit Jahren.
 
 Er wollte ihn öffnen.
 Jede Faser in ihm wollte es.
+Seine Daumen lagen schon am Rand.
 
-Er sah zu Krüger.
+Drei Kinder.
+Ein Brief.
+Und niemand atmete.
 
-Der alte Mann schüttelte den Kopf.
+Dann sah Jonas zu Krüger.
+
+Der alte Mann starrte auf den Umschlag.
+Zum ersten Mal an diesem Tag wirkte er überrascht.
+„Davon hat Heinrich mir nie erzählt", sagte er leise.
+
+Er streckte die Hand aus.
+Berührte den roten Wachsfleck.
+Dann schüttelte er den Kopf.
 Langsam.
 Bestimmt.
 
-„Heinrich hat geschrieben: Wenn die Zeit gekommen ist.
+„Aber seht, was er geschrieben hat.
+Nur zu öffnen, wenn die Zeit gekommen ist.
 Das bedeutet nicht heute."
 
 „Aber wann?" fragte Mila.
 
-Krüger lächelte.
+Krüger sah sie an.
 Traurig.
-Wissend.
+Nachdenklich.
 
-„Wenn ihr bereit seid.
+„Das hat Heinrich uns nicht gesagt.
+Aber wenn er wollte, dass es wartet, dann warten wir.
 Manche Wahrheiten brauchen ihre Zeit."
 
 Jonas wog den Umschlag in der Hand.

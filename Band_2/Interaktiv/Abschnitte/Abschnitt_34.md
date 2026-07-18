@@ -1,6 +1,6 @@
 # Abschnitt 34
 
-Sie hatten es versucht. Tagelang. Aber ohne alle vier Gegenstaende ging es nicht.
+Sie hatten es versucht. Tagelang. Aber ohne alle vier Gegenstände ging es nicht.
 
 Jonas stand vor der Metalltür. Drei Linien leuchteten. Gold. Bronze. Silber. Die vierte blieb dunkel.
 
@@ -30,7 +30,7 @@ Wissenschaftler. Lampen. Schutzhelme. Sie fanden die Kammer. Die Quelle.
 
 Ohne Jonas. Ohne Mila. Ohne Ben.
 
-Jonas legte die Zeitung auf den Tisch. Seine Haende fuehlten sich taub an.
+Jonas legte die Zeitung auf den Tisch. Seine Hände fühlten sich taub an.
 
 Ben rief am Nachmittag an. „Hast du den Artikel gelesen?"
 

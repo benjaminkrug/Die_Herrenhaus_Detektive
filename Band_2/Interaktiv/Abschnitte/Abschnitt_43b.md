@@ -10,7 +10,7 @@ Jonas kniete sich vor die Spalte. Die kalte Luft strich über sein Gesicht. Er r
 
 „Ben hat recht", sagte er langsam. „Wir brauchen Seile. Und bessere Lampen."
 
-Mila stampfte mit dem Fuß auf. „Jetzt oder nie! Wenn Meier erfährt, dass wir hier waren —"
+Mila stampfte mit dem Fuß auf. „Jetzt oder nie! Wenn Meier erfährt, dass wir hier waren —“
 
 „Dann finden wir morgen gar nichts mehr." Jonas nickte. „Stimmt."
 
@@ -22,7 +22,7 @@ Mila boxte ihn leicht gegen die Schulter. „Klar, Ben. Du bist das Gehirn."
 
 „Genau." Er grinste schief. „Und ihr seid die Verrückten."
 
-Sie gingen nach Hause. Jonas lag in seinem Bett. Draußen trommelte Regen gegen das Fenster. Schwerer, lauter Regen. Seine Haende kribbelten. Er dachte an die kalte Luft aus der Spalte. An das Metallische in der Luft.
+Sie gingen nach Hause. Jonas lag in seinem Bett. Draußen trommelte Regen gegen das Fenster. Schwerer, lauter Regen. Seine Hände kribbelten. Er dachte an die kalte Luft aus der Spalte. An das Metallische in der Luft.
 
 Er drehte sich auf die Seite. Schloss die Augen. Aber schlafen konnte er nicht.
 
@@ -38,7 +38,7 @@ Wasser lief aus der Mühle. Ein dünner Strom über den Weg. Das Regenwasser dr�
 
 Ben presste die Lippen zusammen. „Und dann war es das." Er sah Jonas an. „Was auch immer da unten ist — weg."
 
-Jonas ballte die Faeuste. Seine Knoechel wurden weiss. Mila hatte recht. Wenn der Regen anhielt, würde der Tunnel volllaufen.
+Jonas ballte die Fäuste. Seine Knöchel wurden weiß. Mila hatte recht. Wenn der Regen anhielt, würde der Tunnel volllaufen.
 
 „Also jetzt", sagte er.
 

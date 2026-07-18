@@ -2,17 +2,17 @@
 
 Jonas griff nach dem Messingklopfer.
 
-"Wartet." Mila stand einen Schritt zurueck. Ihre Arme hingen herunter. Nicht verschraenkt. Einfach nur herunter.
+„Wartet." Mila stand einen Schritt zurück. Ihre Arme hingen herunter. Nicht verschränkt. Einfach nur herunter.
 
-Jonas drehte sich um. "Was ist?"
+Jonas drehte sich um. „Was ist?"
 
-Mila biss sich auf die Lippe. "Was, wenn sie uns hasst? Wir graben in ihrem schlimmsten Erlebnis."
+Mila biss sich auf die Lippe. „Was, wenn sie uns hasst? Wir graben in ihrem schlimmsten Erlebnis."
 
 Ben sah sie an. Mund offen. Das war nicht die Mila, die er kannte.
 
-"Wir muessen", sagte Jonas leise.
+„Wir müssen", sagte Jonas leise.
 
-Mila nickte. Einmal. Kurz. Dann straffte sie die Schultern. Aber Jonas hatte es gesehen. Fuer eine Sekunde war Mila nicht sicher gewesen.
+Mila nickte. Einmal. Kurz. Dann straffte sie die Schultern. Aber Jonas hatte es gesehen. Für eine Sekunde war Mila nicht sicher gewesen.
 
 Er griff nach dem Messingklopfer. Das Metall war kalt. Er klopfte drei Mal.
 
@@ -36,7 +36,7 @@ Frau Bergmann stand dahinter. Klein. Weißes Haar, zu einem Knoten gebunden. Wac
 
 Frau Bergmanns Blick fiel auf das Papier. Ihre Augen wurden schmal. Ihre Hand am Türrahmen begann zu zittern.
 
-„Wo habt ihr die her?", flüsterte sie.
+„Wo habt ihr die her?", fragte sie leise.
 
 „Von Winter. Heinrich Winter."
 

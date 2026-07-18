@@ -6,7 +6,7 @@ Krüger saß auf seiner Bank am Kirchplatz. Eine Taube pickte Brotkrumen von sei
 
 „Besser." Jonas hielt ihm den Brief hin. „Von Winter."
 
-Krüger nahm das Blatt. Seine Haende wurden unruhig. Er las. Einmal. Zweimal. Die Farbe wich aus seinem Gesicht.
+Krüger nahm das Blatt. Seine Hände wurden unruhig. Er las. Einmal. Zweimal. Die Farbe wich aus seinem Gesicht.
 
 „Das kann nicht sein", murmelte er.
 
@@ -14,7 +14,7 @@ Krüger nahm das Blatt. Seine Haende wurden unruhig. Er las. Einmal. Zweimal. Di
 
 Krüger schüttelte den Kopf. „Heinrich hat mir nie davon erzählt. In fünfzig Jahren Freundschaft — kein Wort über Gänge unter dem Dorf."
 
-Er faltete den Brief zusammen. Seine Hand strich ueber das zerbrochene Siegel. Dann sah er Jonas an. Seine Augen waren ernst.
+Er faltete den Brief zusammen. Seine Hand strich über das zerbrochene Siegel. Dann sah er Jonas an. Seine Augen waren ernst.
 
 „1953", sagte Krüger leise. „Ich war damals zwanzig."
 

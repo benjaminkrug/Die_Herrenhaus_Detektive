@@ -343,15 +343,10 @@ Er drückte gegen jedes Brett.
 Klopfte.
 Horchte.
 
-Nichts.
 Alles fest.
 Alles normal.
 
-Mila machte das Gleiche auf der anderen Seite.
-Auch nichts.
-
-Jonas setzte sich zurück auf die Fersen.
-Sein Rücken tat weh.
+Er setzte sich zurück auf die Fersen.
 Seine Knie waren staubig.
 
 „Nichts", sagte er.

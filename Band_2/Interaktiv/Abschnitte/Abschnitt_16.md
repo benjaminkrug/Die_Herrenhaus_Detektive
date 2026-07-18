@@ -28,7 +28,7 @@ Nur die Uhr an der Wand tickte.
 
 Mila hielt den Atem an.
 
-„Er hat mir etwas gegeben. Bevor er wegging." Frau Bergmann griff an die duenne Kette um ihren Hals. Ihre Finger zitterten. Sie zog die Kette ueber den Kopf.
+„Er hat mir etwas gegeben. Bevor er wegging." Frau Bergmann griff an die dünne Kette um ihren Hals. Ihre Finger zitterten. Sie zog die Kette über den Kopf.
 
 Ein Ring hing daran. Messing. Schlicht. Keine Verzierung. Nur auf der Innenseite eingraviert: *K.H. — L.B. 1953*
 
@@ -42,21 +42,21 @@ Jonas wagte kaum zu atmen. Der Ring glänzte matt im Nachmittagslicht.
 
 Frau Bergmann schloss die Augen. Eine Träne lief über ihre Wange. Sie wischte sie nicht weg.
 
-Dann loeste sie den Ring von der Kette. Sie legte ihn in Jonas' Hand. Ihre Hand schloss sich kurz um seine.
+Dann löste sie den Ring von der Kette. Sie legte ihn in Jonas' Hand. Ihre Hand schloss sich kurz um seine.
 
-„Findet, was Karl und ich damals gesucht haben", flüsterte sie.
+„Findet, was Karl und ich damals gesucht haben", sagte sie leise.
 
 Jonas nickte. Er konnte nichts sagen. Sein Hals war zu eng.
 
 Ben schnäuzte sich leise in seinen Ärmel. Mila legte kurz ihre Hand auf Frau Bergmanns Schulter.
 
-An der Metalltuer. Jonas' Haende zitterten. Er drueckte den Ring in die vierte Vertiefung.
+An der Metalltür. Jonas' Hände zitterten. Er drückte den Ring in die vierte Vertiefung.
 
 Klick.
 
-Vier Linien leuchteten. Gold. Bronze. Silber. Messing. Die Metalltuer vibrierte. Ein tiefes Brummen. Dann schwang sie auf.
+Vier Linien leuchteten. Gold. Bronze. Silber. Messing. Die Metalltür vibrierte. Ein tiefes Brummen. Dann schwang sie auf.
 
-Kalte Luft stroemte heraus. Dunkelheit. Und ein Geruch nach Erde und nassem Stein.
+Kalte Luft strömte heraus. Dunkelheit. Und ein Geruch nach Erde und nassem Stein.
 
 ---
 

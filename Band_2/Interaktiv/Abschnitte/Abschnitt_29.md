@@ -4,11 +4,11 @@
 
 Jonas stellte die Truhe auf den Brunnenrand. Er öffnete den Deckel.
 
-„Darf ich?", fragte Krueger. Seine Haende zitterten leicht, als er den Deckel weiter oeffnete.
+„Darf ich?", fragte Krüger. Seine Hände zitterten leicht, als er den Deckel weiter öffnete.
 
 „Klar", sagte Jonas.
 
-Kruegers Finger strichen ueber das Pergament. „Die Gruendungsurkunde", fluesterte er. „Dreihundert Jahre alt."
+Krügers Finger strichen über das Pergament. „Die Gründungsurkunde", flüsterte er. „Dreihundert Jahre alt."
 
 „Und hier." Jonas legte die sechs Silbermünzen nebeneinander. Sie glänzten im Regenlicht.
 
@@ -20,7 +20,7 @@ Krüger nahm den Brief. Las ihn. Einmal. Zweimal. Beim dritten Mal las er laut v
 
 Stille auf dem Dorfplatz. Alle hörten zu.
 
-Krueger presste die Lippen zusammen. „Mein Vater wusste es noch. Er hat davon erzaehlt." Seine Stimme wurde rau. „Aber niemand hat zugehoert. Und jetzt waere alles fast verloren."
+Krüger presste die Lippen zusammen. „Mein Vater wusste es noch. Er hat davon erzählt." Seine Stimme wurde rau. „Aber niemand hat zugehört. Und jetzt wäre alles fast verloren."
 
 Krüger drehte den Brief um. „Da steht noch etwas. Aber die Tinte ist verwischt."
 
@@ -38,9 +38,9 @@ Ihre Hand griff nach dem Brunnenrand. Sie hielt sich fest. Ihre Knöchel wurden 
 
 „Karl und ich haben diese Truhe gesucht", sagte sie leise. „1953. Wir haben sie nicht gefunden."
 
-Mila trat einen Schritt naeher. „Wie war er?"
+Mila trat einen Schritt näher. „Wie war er?"
 
-„Mein bester Freund." Frau Bergmann lächelte. Ihre Augen glaenzten feucht. „Er wäre so stolz auf euch."
+„Mein bester Freund." Frau Bergmann lächelte. Ihre Augen glänzten feucht. „Er wäre so stolz auf euch."
 
 Krüger legte seine Hand auf ihre Schulter. „Diese drei Kinder haben geschafft, was wir nicht konnten. Siebzig Jahre später."
 

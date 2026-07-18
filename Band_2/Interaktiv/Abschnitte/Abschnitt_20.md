@@ -16,13 +16,13 @@ Ben berührte eine Wellenlinie. „Die sind riesig. Und so tief im Stein."
 
 „Aber warum?", fragte Ben. „Wer macht sich die Mühe?"
 
-Jonas strich ueber einen Stern. „Die Gründerfamilien. Das muss der Hauptgang sein. Sie wollten den Weg markieren."
+Jonas strich über einen Stern. „Die Gründerfamilien. Das muss der Hauptgang sein. Sie wollten den Weg markieren."
 
 Mila nickte. „Damit man ihn wiederfindet. Auch nach hundert Jahren."
 
-Ben blieb stehen. „Habt ihr das gehoert?"
+Ben blieb stehen. „Habt ihr das gehört?"
 
-Jonas hoerte sein eigenes Blut rauschen. Ein Knirschen. Weit weg. Leise. Dann nichts.
+Jonas hörte sein eigenes Blut rauschen. Ein Knirschen. Weit weg. Leise. Dann nichts.
 
 „Wind", sagte Jonas. Aber sicher war er nicht.
 
@@ -40,7 +40,7 @@ Dann blieb er stehen.
 
 Vor ihnen öffnete sich der Gang. Eine Kammer. Groß. Der Taschenlampenstrahl erreichte kaum die gegenüberliegende Wand.
 
-„Da sind wir", flüsterte Jonas. Ein Kribbeln breitete sich in seinem Bauch aus.
+„Da sind wir", flüsterte Jonas. Wärme breitete sich in seinem Bauch aus.
 
 ---
 

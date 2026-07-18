@@ -2,7 +2,7 @@
 
 Drei Wochen später stand Jonas am Brunnen.
 
-Die Sonne schien. Der ganze Dorfplatz war geschmückt. Girlanden. Lampions. Ein Tisch mit Kuchen und Limonade. Es roch nach Blumen und suessem Zitronensaft. Stimmen summten durcheinander. Loeffel klapperten gegen Tassen. Die Sonne brannte warm auf Jonas' Armen. Halb Eichenhain war da.
+Die Sonne schien. Der ganze Dorfplatz war geschmückt. Girlanden. Lampions. Ein Tisch mit Kuchen und Limonade. Es roch nach Blumen und süßem Zitronensaft. Stimmen summten durcheinander. Löffel klapperten gegen Tassen. Die Sonne brannte warm auf Jonas' Armen. Halb Eichenhain war da.
 
 Am Brunnen hing eine neue Tafel. Bronze. Der Bürgermeister trat vor.
 
@@ -20,7 +20,7 @@ Mila trat zu ihr. Sie hielt die Hand auf. In ihrer Handfläche lag der Messingri
 
 Frau Bergmann nahm den Ring. Sie schloss die Finger darum.
 
-Dann zog sie etwas aus ihrer Handtasche. Ein altes Foto. Karl am Brunnen. Auf der Rueckseite stand ein Wort in verblasster Tinte:
+Dann zog sie etwas aus ihrer Handtasche. Ein altes Foto. Karl am Brunnen. Auf der Rückseite stand ein Wort in verblasster Tinte:
 
 ***STERN.***
 
@@ -68,7 +68,7 @@ Jonas grinste. „Ich glaube, wir haben noch einen Fall."
 
 ---
 
-**ENDE 214 -- „Lisbeths Tränen"**
+**ENDE 214 — „Lisbeths Tränen"**
 ★★★★
 
 *Siebzig Jahre Schweigen. Ein Ring. Drei Kinder. Und eine alte Frau, die endlich ihre Geschichte erzählen durfte.*

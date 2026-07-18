@@ -262,7 +262,7 @@ Ihr Blick war auf die Decke gerichtet.
 
 „Es muss einen Weg geben", sagte sie.
 „Herr Winter hat diesen Raum gebaut.
-Er hat den Tunnel gegraben.
+Er kannte jeden Winkel hier unten.
 Er hätte sich nicht selbst einsperren."
 
 „Vielleicht hatte er einen anderen Schlüssel", sagte Jonas.
@@ -414,6 +414,18 @@ Wärmer als die Taschenlampen.
 Es beleuchtete die Bücher an den Wänden.
 Die Metalldosen.
 Die Papiere auf dem Tisch.
+
+Alle drei sahen zur Holztür.
+
+Nichts passierte.
+
+Ben biss sich auf die Lippe.
+„Und jetzt?"
+
+„Warte", flüsterte Jonas.
+
+Die Sekunden krochen dahin.
+Immer noch nichts.
 
 Und dann bemerkte Jonas etwas.
 

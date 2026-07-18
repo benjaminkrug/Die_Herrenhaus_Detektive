@@ -4,7 +4,7 @@ Frau Bergmann hielt den Messingring zwischen Daumen und Zeigefinger. Er schimmer
 
 „Aber vorher", sagte sie. Ihre Stimme wurde weicher. „Bevor die Taschenlampe ausging. Da haben wir die Quelle gefunden."
 
-Ihr Laecheln kam zurueck. Klein und zerbrechlich.
+Ihr Lächeln kam zurück. Klein und zerbrechlich.
 
 „Das Wasser kam aus dem Felsen. Einfach so. Ein dünner Strahl. Es hat geplätschert. Das Geräusch — ich höre es noch heute."
 
@@ -26,7 +26,7 @@ Frau Bergmanns Lächeln verschwand. „Dann haben wir die Truhe gesehen."
 
 „Auf einem Steinsockel. In der Kammer mit der Quelle. Alt. Massiv. Mit einem Wappen auf dem Deckel." Frau Bergmann zeichnete mit dem Finger auf den Tisch. „Ein Stern. Und vier Linien drum herum."
 
-Jonas' Herz schlug so laut, dass er sicher war, die anderen konnten es hören. Das Wappen. Die vier Gründerfamilien. Fuer einen Moment sah er Karls Gesicht vor sich. Jung. Entschlossen. So wie auf dem alten Foto.
+Jonas' Herz schlug so laut, dass er sicher war, die anderen konnten es hören. Das Wappen. Die vier Gründerfamilien. Für einen Moment sah er Karls Gesicht vor sich. Jung. Entschlossen. So wie auf dem alten Foto.
 
 „Wir haben versucht, sie zu öffnen", sagte Frau Bergmann. „Aber da war ein Schloss. Klein. Rund."
 

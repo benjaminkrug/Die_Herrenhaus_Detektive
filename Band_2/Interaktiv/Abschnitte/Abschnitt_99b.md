@@ -32,7 +32,7 @@ Jonas presste die Lippen zusammen. Er schaute zu Mila und Ben.
 
 „Hast du das gehört?", flüsterte Ben. „Noch eine Quelle. Im Wald. Versteckt."
 
-Mila verschränkte die Arme. „Erst die Zeitkapsel. Winter hat recht."
+Mila schüttelte den Kopf. „Erst die Zeitkapsel. Winter hat recht."
 
 „Seit wann bist du so vernünftig?", fragte Ben.
 
@@ -44,39 +44,39 @@ Jonas spürte ein Ziehen in der Brust. Eine Quelle, die niemand finden konnte. S
 
 Aber zuerst die Gegenstände.
 
-Krueger griff an seine Kette. Langsam. Er zog das Silberkreuz ueber den Kopf. Dann legte er es auf den Tisch. Seine Hand zitterte leicht.
+Krüger griff an seine Kette. Langsam. Er zog das Silberkreuz über den Kopf. Dann legte er es auf den Tisch. Seine Hand zitterte leicht.
 
-„Heinrich haette euch gemocht", sagte er leise. „Nehmt es mit. Fuer ihn."
+„Heinrich hätte euch gemocht", sagte er leise. „Nehmt es mit. Für ihn."
 
-Jonas nahm das Kreuz. Es war federleicht. Kaelter als erwartet.
+Jonas nahm das Kreuz. Es war federleicht. Kälter als erwartet.
 
 Mila steckte es in ihre Jackentasche. „Fehlen noch zwei."
 
-Krueger griff zum Telefon. „Ich rufe Meier an. Und Bergmann." Er tippte bereits. „Geht zum Herrenhaus. Meier weiss Bescheid, wenn ihr ankommt."
+Krüger griff zum Telefon. „Ich rufe Meier an. Und Bergmann." Er tippte bereits. „Geht zum Herrenhaus. Meier weiß Bescheid, wenn ihr ankommt."
 
-Zehn Minuten spaeter standen sie vor Meier. Er wartete bereits am Gartentor. Das Bronzesiegel lag in seiner offenen Hand.
+Zehn Minuten später standen sie vor Meier. Er wartete bereits am Gartentor. Das Bronzesiegel lag in seiner offenen Hand.
 
-„Krueger hat angerufen", sagte Meier. Er drueckte Jonas das Siegel in die Hand. „Wurde auch Zeit, dass jemand die Tuer oeffnet."
+„Krüger hat angerufen", sagte Meier. Er drückte Jonas das Siegel in die Hand. „Wurde auch Zeit, dass jemand die Tür öffnet."
 
-Kein Zoegern. Kein Widerstand. Er klopfte Jonas auf die Schulter und ging zurueck an seine Arbeit.
+Kein Zögern. Kein Widerstand. Er klopfte Jonas auf die Schulter und ging zurück an seine Arbeit.
 
 Frau Bergmann war anders.
 
-Sie stand in der offenen Tuer. Nicht im Spalt. In der offenen Tuer. Sie hatte auf sie gewartet.
+Sie stand in der offenen Tür. Nicht im Spalt. In der offenen Tür. Sie hatte auf sie gewartet.
 
-„Die zweite Quelle", sagte sie leise. „Krueger hat es mir erzaehlt."
+„Die zweite Quelle", sagte sie leise. „Krüger hat es mir erzählt."
 
 Jonas nickte. „Winter sagt, sie liegt im Wald."
 
 Frau Bergmanns Augen wurden feucht. „Karl hat davon gesprochen. Damals. Vor siebzig Jahren. Er sagte: Hinter dem Dorf liegt noch etwas."
 
-Sie griff in ihre Schuerze. Der Messingring lag auf ihrer Handflaeche. Sie streckte die Hand aus. Ohne Zoegern.
+Sie griff in ihre Schürze. Der Messingring lag auf ihrer Handfläche. Sie streckte die Hand aus. Ohne Zögern.
 
-„Findet sie", sagte Frau Bergmann. „Fuer Karl."
+„Findet sie", sagte Frau Bergmann. „Für Karl."
 
-Jonas nahm den Ring. Das Metall war warm von ihren Haenden.
+Jonas nahm den Ring. Das Metall war warm von ihren Händen.
 
-Vier Gegenstaende. Vier Familien. Alles komplett.
+Vier Gegenstände. Vier Familien. Alles komplett.
 
 „Wir gehen rein", sagte Jonas ins Telefon.
 

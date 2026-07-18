@@ -4,7 +4,7 @@
 
 „HILFE!"
 
-Jonas lehnte an der kalten Wand. Die Luft roch nach Erde und Angst. Falls Angst einen Geruch hatte. Sein Atem ging schnell. Die Taschenlampe flackerte. Die Batterien wurden schwaecher.
+Jonas lehnte an der kalten Wand. Die Luft roch nach Erde und Angst. Falls Angst einen Geruch hatte. Sein Atem ging schnell. Die Taschenlampe flackerte. Die Batterien wurden schwächer.
 
 „Wie lange sind wir schon hier?", fragte Ben. Seine Stimme zitterte.
 
@@ -32,7 +32,7 @@ Jonas sagte nichts. Aber er drückte ihre Hände fester.
 
 Dann — ein Geräusch. Weit weg. Schritte. Und ein Klappern. Wie ein Stock auf Steinboden.
 
-„Hört ihr das?", flüsterte Jonas.
+„Hört ihr das?", fragte Jonas leise.
 
 Ein Lichtstrahl. Schwach. Dann stärker. Um die Ecke kam — Frau Bergmann.
 
@@ -46,35 +46,35 @@ Klein. Weißes Haar. Stock in der Hand. Taschenlampe. Sie war außer Atem.
 
 Sie führte sie zurück. Durch die Gänge. Sicher. Ohne zu zögern. Links. Rechts. Geradeaus. Die Leiter hoch.
 
-Am Brunnen sanken die drei ins Gras. Ben lag auf dem Ruecken und starrte in den Himmel. Seine rote Kappe lag neben ihm.
+Am Brunnen sanken die drei ins Gras. Ben lag auf dem Rücken und starrte in den Himmel. Seine rote Kappe lag neben ihm.
 
 „Nie wieder", sagte er. „Nie, nie, nie wieder."
 
 „Das sagst du jedes Mal", murmelte Mila. Aber ihre Stimme zitterte.
 
-Jonas setzte sich auf. Seine Beine waren weich. Wie Pudding. Die Sonne waermte sein Gesicht. Er schloss die Augen.
+Jonas setzte sich auf. Seine Beine waren weich. Wie Pudding. Die Sonne wärmte sein Gesicht. Er schloss die Augen.
 
 Frau Bergmann setzte sich auf den Brunnenrand. Sie keuchte leise. Dann sah sie die Kinder an. Lange.
 
 „Die Truhe habt ihr nicht gefunden. Oder?"
 
-Jonas schuettelte den Kopf. „Nein. Wir haben uns verlaufen."
+Jonas schüttelte den Kopf. „Nein. Wir haben uns verlaufen."
 
-„Ich weiss." Frau Bergmann griff an den Ring um ihren Hals. „Genau wie Karl und ich damals."
+„Ich weiß." Frau Bergmann griff an den Ring um ihren Hals. „Genau wie Karl und ich damals."
 
-Nur der Wind in den Baeumen.
+Nur der Wind in den Bäumen.
 
 Mila setzte sich auf. „Wir kommen wieder. Mit Ihnen. Zusammen."
 
 Frau Bergmann sah sie an. Ihr Blick wurde weich.
 
-Ben hob den Kopf aus dem Gras. „Wenn jemand gesagt haette: Ben, du kletterst freiwillig nochmal da runter -- haette ich gelacht."
+Ben hob den Kopf aus dem Gras. „Wenn jemand gesagt hätte: Ben, du kletterst freiwillig nochmal da runter — hätte ich gelacht."
 
 „Und?", fragte Jonas.
 
 Ben setzte seine Kappe auf. Langsam. „Und jetzt lache ich nicht."
 
-Frau Bergmann laechelte. Muede, aber echt. „Vielleicht. Vielleicht mit mir."
+Frau Bergmann lächelte. Müde, aber echt. „Vielleicht. Vielleicht mit mir."
 
 Jonas sah sie an. Ihre Hand lag auf dem Ring. Ihr Blick ging zum Brunnen. Dort unten war die Truhe. Dort unten wartete Karls Geheimnis.
 
@@ -82,7 +82,7 @@ Vielleicht war kein Nein. Noch nicht.
 
 ---
 
-**ENDE 212 -- „Verlaufen"**
+**ENDE 212 — „Verlaufen"**
 ★★
 
 *Ihr habt die Truhe nicht gefunden. Aber ihr habt jemanden gefunden, der jeden Stein unter dem Dorf kennt. Vielleicht ist das mehr wert.*

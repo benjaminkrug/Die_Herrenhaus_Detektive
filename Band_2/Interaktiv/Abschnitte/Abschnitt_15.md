@@ -1,8 +1,8 @@
 # Abschnitt 15
 
-Drei Linien leuchteten. Gold, Bronze, Silber. Sie hatten Meier und Krueger besucht. Beide hatten geholfen. Aber die vierte Linie blieb dunkel. Darunter gluehte der Stern schwach. Als ob er wartete.
+Drei Linien leuchteten. Gold, Bronze, Silber. Sie hatten Meier und Krüger besucht. Beide hatten geholfen. Aber die vierte Linie blieb dunkel. Darunter glühte der Stern schwach. Als ob er wartete.
 
-Das Summen der drei Linien fuellte den Tunnel. Die Luft vibrierte. Schatten tanzten an den Steinwaenden — gold, bronze, silber.
+Das Summen der drei Linien füllte den Tunnel. Die Luft vibrierte. Schatten tanzten an den Steinwänden — gold, bronze, silber.
 
 „Hoffmann", sagte Jonas. „Die vierte Familie."
 
@@ -24,7 +24,7 @@ Ben schluckte. „Die alte Frau? Die, die Krüger meinte? Die seit siebzig Jahre
 
 „Genau die", sagte Jonas.
 
-Mila verschränkte die Arme. „Dann gehen wir zu ihr. Wir erklären es."
+Mila nickte entschlossen. „Dann gehen wir zu ihr. Wir erklären es."
 
 „Oder", sagte Ben langsam, „wir versuchen es ohne den vierten Gegenstand. Irgendwie."
 
@@ -34,7 +34,7 @@ Ben tippte gegen die vierte Linie. Kalt. Tot.
 
 „Das Metall summt bei den anderen drei", sagte er. „Aber hier ist nichts. Die wartet auf was Bestimmtes."
 
-„Wir koennten auch aufgeben", murmelte er leiser. „Ich meine, nur als Idee."
+„Wir könnten auch aufgeben", murmelte er leiser. „Ich meine, nur als Idee."
 
 Mila verdrehte die Augen.
 

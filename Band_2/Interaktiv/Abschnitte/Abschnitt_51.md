@@ -40,7 +40,7 @@ Jonas rechnete. Zu weit. Viel zu weit. Zurück durch den ganzen Tunnel.
 
 Das Wasser stieg bis zur Mitte seiner Waden.
 
-„Wir schaffen es nicht zurück", sagte er. Seine Stimme war ruhig. Aber seine Knoechel wurden weiss an den Griffen der Truhe.
+„Wir schaffen es nicht zurück", sagte er. Seine Stimme war ruhig. Aber seine Knöchel wurden weiß an den Griffen der Truhe.
 
 Ben blieb stehen. Er stellte die Truhe auf einen Felsvorsprung. Sein Gesicht war blass. Aber seine Augen waren wach.
 

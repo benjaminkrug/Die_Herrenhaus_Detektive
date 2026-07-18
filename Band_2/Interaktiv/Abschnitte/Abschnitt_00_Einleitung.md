@@ -19,9 +19,9 @@ Es gibt **vier verschiedene Wege** und **18 verschiedene Enden**.
 
 Jedes Ende hat Sterne:
 ★ = Das war zu schnell! Probier einen anderen Weg.
-★★ = Du hast frueh aufgehoert. Versuch es nochmal!
+★★ = Du hast früh aufgehört. Versuch es nochmal!
 ★★★ = Nicht schlecht. Aber da geht noch mehr.
-★★★★ = Richtig gut! Du hast ein Geheimnis gelueftet.
+★★★★ = Richtig gut! Du hast ein Geheimnis gelüftet.
 
 Die vier besten Enden (★★★★) enthalten ein besonderes Wort. Findest du alle vier?
 

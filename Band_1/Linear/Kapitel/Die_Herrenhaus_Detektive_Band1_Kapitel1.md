@@ -41,6 +41,8 @@ In seiner alten Stadt hatte es einen Spielplatz gegeben.
 Und einen Kiosk an der Ecke.
 Und seine Freunde.
 
+Ob sie jetzt wohl ohne ihn Fußball spielten?
+
 Hier gab es nur Häuser und Stille.
 
 „Hilfst du mir mit den Kisten?" fragte seine Mutter.
@@ -76,6 +78,7 @@ Zur Wiese.
 Und zum Hügel.
 
 Er blieb kurz stehen und sah hinaus.
+Hoffentlich fand er hier überhaupt jemanden.
 Dann schüttelte er den Kopf.
 Er wischte sich die Hände an der Hose ab.
 
@@ -324,7 +327,7 @@ Wind wehte durch die Straße.
 Eine Dachrinne an einem der Häuser klapperte.
 Die Blätter der großen Eiche raschelten.
 
-Jonas schaute wieder zum Hügel hinauf.
+Jonas' Blick wanderte den Hügel hinauf.
 Das Herrenhaus stand reglos da.
 Dunkel und still.
 
@@ -350,7 +353,7 @@ Mila und Ben sahen sich an.
 „Von einem Tag auf den anderen.
 Niemand weiß, was passiert ist."
 
-Ein Kribbeln breitete sich in Jonas' Fingern aus.
+Jonas beugte sich vor.
 Ein verschwundener Mann.
 Ein verlassenes Herrenhaus.
 Seltsame Geräusche in der Nacht.

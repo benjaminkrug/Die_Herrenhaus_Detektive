@@ -2,7 +2,7 @@
 
 Ben atmete schnell. Zu schnell. Seine Hände zitterten.
 
-„Wir sitzen fest", keuchte er. „Wir kommen nicht zurück. Wir sitzen fest unter der Erde und —"
+„Wir sitzen fest", keuchte er. „Wir kommen nicht zurück. Wir sitzen fest unter der Erde und —“
 
 „Ben." Jonas legte ihm die Hand auf die Schulter. „Atme. Langsam."
 

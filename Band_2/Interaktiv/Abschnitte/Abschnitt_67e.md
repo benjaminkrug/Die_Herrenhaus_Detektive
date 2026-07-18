@@ -6,11 +6,11 @@ Mila rief ihm nach. „Hey! Wo willst du hin?"
 
 „Weg", sagte Jonas. „Sie will nicht reden. Dann lassen wir sie in Ruhe."
 
-Mila blieb stehen. Ihre Haende ballten sich zu Faeusten. „Du hast einfach losgelassen? Am Klopfer? Einfach so?"
+Mila blieb stehen. Ihre Hände ballten sich zu Fäusten. „Du hast einfach losgelassen? Am Klopfer? Einfach so?"
 
-„Sie hat gesagt, wir sollen gehen", sagte Ben leise. „Im Archiv. Bei der Oma. Ueberall."
+„Sie hat gesagt, wir sollen gehen", sagte Ben leise. „Im Archiv. Bei der Oma. Überall."
 
-Mila trat gegen einen Stein. Er kullerte ueber den Kirchplatz. „Toll. Wir geben auf, weil eine alte Frau die Gardine zuzieht."
+Mila trat gegen einen Stein. Er kullerte über den Kirchplatz. „Toll. Wir geben auf, weil eine alte Frau die Gardine zuzieht."
 
 Niemand antwortete.
 
@@ -18,17 +18,17 @@ Sie setzten sich an den Brunnen. Der Stein war warm von der Sonne. Jonas legte d
 
 Ben zog seine Kappe tiefer. Mila starrte auf ihre Schuhe. Jonas starrte auf den Brunnen.
 
-Dann hoerten sie Schritte.
+Dann hörten sie Schritte.
 
-Krueger. Langsam. Stuetzte sich auf seinen Stock. Er setzte sich neben Jonas auf den Brunnenrand. Ohne zu fragen.
+Krüger. Langsam. Stützte sich auf seinen Stock. Er setzte sich neben Jonas auf den Brunnenrand. Ohne zu fragen.
 
 Eine Minute verging. Vielleicht zwei.
 
-„Lisbeth wartet seit siebzig Jahren", sagte Krueger. Leise. Fast beilaeufig. „Auf jemanden, der fragt."
+„Lisbeth wartet seit siebzig Jahren", sagte Krüger. Leise. Fast beiläufig. „Auf jemanden, der fragt."
 
 Jonas sah ihn an. „Sie hat gesagt, wir sollen gehen."
 
-Krueger nickte. „Das sagt sie immer." Er stand auf. Sein Stock klickte auf dem Pflaster. „Aber gefragt hat sie noch nie jemand. Nicht richtig."
+Krüger nickte. „Das sagt sie immer." Er stand auf. Sein Stock klickte auf dem Pflaster. „Aber gefragt hat sie noch nie jemand. Nicht richtig."
 
 Er ging weiter. Langsam. Ohne sich umzudrehen.
 
@@ -36,9 +36,9 @@ Jonas sah Mila an. Mila sah Ben an. Ben sah auf seine Schuhe.
 
 „Sie will reden", sagte Jonas. „Sie traut sich nur nicht."
 
-Mila verschraenkte die Arme. „Woher weisst du das?"
+Mila runzelte die Stirn. „Woher weißt du das?"
 
-„Krueger kennt sie seit siebzig Jahren."
+„Krüger kennt sie seit siebzig Jahren."
 
 Ben schob seine Kappe nach hinten. „Also? Gehen wir nochmal hin?"
 
@@ -48,6 +48,6 @@ Das Windspiel klimperte leise am Kirchplatz. Die Katze auf Bergmanns Fensterbank
 
 *Was tut ihr?*
 
-**Doch zurueckgehen. Nochmal klopfen. Diesmal richtig. → Abschnitt 67b**
+**Doch zurückgehen. Nochmal klopfen. Diesmal richtig. → Abschnitt 67b**
 
-**Nein. Endgueltig loslassen. → Abschnitt 87**
+**Nein. Endgültig loslassen. → Abschnitt 87**

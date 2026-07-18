@@ -1,6 +1,6 @@
 # Abschnitt 27
 
-Eine Leiter. Rostig. In die Wand eingelassen. Sie fuehrte nach oben. Senkrecht. Jonas leuchtete hoch. Der Strahl verschwand in einem engen Schacht. Moder und Regen. Der Schacht roch nach beiden.
+Eine Leiter. Rostig. In die Wand eingelassen. Sie führte nach oben. Senkrecht. Jonas leuchtete hoch. Der Strahl verschwand in einem engen Schacht. Moder und Regen. Der Schacht roch nach beiden.
 
 „Da hoch?", fragte Ben.
 
@@ -8,7 +8,7 @@ Eine Leiter. Rostig. In die Wand eingelassen. Sie fuehrte nach oben. Senkrecht. 
 
 Er klemmte die Taschenlampe zwischen die Zähne. Griff die erste Sprosse. Rost blätterte unter seinen Fingern. Aber die Sprosse hielt.
 
-Er kletterte. Sprosse fuer Sprosse. Der Schacht war eng. Seine Schultern streiften die Waende. Unter ihm hoerte er Mila und Ben.
+Er kletterte. Sprosse für Sprosse. Der Schacht war eng. Seine Schultern streiften die Wände. Unter ihm hörte er Mila und Ben.
 
 „Nicht nach unten schauen!", rief Ben von unten.
 

@@ -2,7 +2,7 @@
 
 Winters Stimme kam aus dem Lautsprecher. Ruhig. Klar. Wie ein Lehrer, der eine wichtige Geschichte erzählt.
 
-„Unter dem Brunnen liegt ein Gangsystem", sagte er. „Alt. Sehr alt. Die Gründerfamilien von Eichenhain haben es gebaut. Vor ueber dreihundert Jahren."
+„Unter dem Brunnen liegt ein Gangsystem", sagte er. „Alt. Sehr alt. Die Gründerfamilien von Eichenhain haben es gebaut. Vor über dreihundert Jahren."
 
 Jonas beugte sich vor. Sein Herz pochte.
 
@@ -18,7 +18,7 @@ Ben schluckte hörbar. „Eine Heilquelle? Echt jetzt?"
 
 Jonas schaute zu Krüger. Der alte Mann saß still. Sein Stock zwischen den Knien. Er nickte langsam. Als ob er das alles schon gewusst hatte. Oder geahnt.
 
-„Ich habe den Zugang gefunden", sagte Winter. „Die Metalltür im Tunnel. Vor siebenunddreissig Jahren. Ich bin einmal reingegangen. Allein. Nachts."
+„Ich habe den Zugang gefunden", sagte Winter. „Die Metalltür im Tunnel. Vor siebenunddreißig Jahren. Ich bin einmal reingegangen. Allein. Nachts."
 
 „Was haben Sie gesehen?", fragte Jonas.
 
@@ -26,17 +26,17 @@ Stille am Telefon. Dann ein leises Seufzen.
 
 Mila runzelte die Stirn. „Er hat etwas gesehen", flüsterte sie. „Etwas Großes."
 
-„Alles", sagte Winter leise. „Aber ich hatte nicht den Mut, es jemandem zu zeigen. Wem haette ich es erzaehlen sollen? Also habe ich den Knopf hinterlassen. Als Zeichen. Und den Brief geschrieben. Fuer den Tag, an dem jemand kommt."
+„Alles", sagte Winter leise. „Aber ich hatte nicht den Mut, es jemandem zu zeigen. Wem hätte ich es erzählen sollen? Also habe ich den Knopf hinterlassen. Als Zeichen. Und den Brief geschrieben. Für den Tag, an dem jemand kommt."
 
-„Warum sind Sie nie zurueckgekommen?", fragte Ben.
+„Warum sind Sie nie zurückgekommen?", fragte Ben.
 
-Jonas sah ihn ueberrascht an. Mila oeffnete den Mund, um etwas zu sagen. Aber sie hielt inne.
+Jonas sah ihn überrascht an. Mila öffnete den Mund, um etwas zu sagen. Aber sie hielt inne.
 
 Am Telefon war es still. Lange.
 
-„Weil ich Angst hatte", sagte Winter. Seine Stimme war duenn. „Nicht vor den Gaengen. Vor dem, was ich dort fuehle. Jedes Mal."
+„Weil ich Angst hatte", sagte Winter. Seine Stimme war dünn. „Nicht vor den Gängen. Vor dem, was ich dort fühle. Jedes Mal."
 
-Ben nickte langsam. Als ob er das verstanden haette.
+Ben nickte langsam. Als ob er das verstanden hätte.
 
 Mila grinste. „Aber wir sind jetzt da."
 

@@ -97,9 +97,30 @@ SONDERN: "Sein Herz klopfte schneller."
 
 ## Charakterprofile
 
+> **KANON-REGEL ZUM ALTER (geprueft und festgelegt 2026-07-18):**
+> Jonas, Mila und Ben sind **zehn Jahre alt -- in JEDEM Band der Reihe.**
+> Das Alter waechst nicht mit. Diese Frage ist entschieden und wird nicht neu
+> aufgemacht.
+>
+> **Begruendung:** (1) Kein Handlungspunkt haengt am Alter -- ein Geburtstag
+> wuerde nichts erzaehlen, nur Buchhaltung erzeugen (jeder neue Band + jede
+> Interaktiv-Version braeuchte dann eine eigene Altersentscheidung).
+> (2) Die Reihe wird ausdruecklich als "jeder Band in sich abgeschlossen"
+> beworben (A+ Content) -- ein Kind kann mit Band 4 anfangen. Ein mitwachsendes
+> Alter setzt Lesereihenfolge voraus. (3) Serienstandard: Fuenf Freunde, TKKG,
+> Die drei ??? frieren das Alter aus genau diesem Grund ein.
+> (4) Zielgruppe ist 8-10 -- zehnjaehrige Helden sitzen genau richtig.
+>
+> Textbefund zur Sicherheit: Die einzige woertliche Altersangabe fuer die drei in
+> Band 1-3 ist Band 2, Kapitel 13 (Mila zu Ben: "Du bist zehn"). Alle uebrigen
+> "zehn"-Stellen betreffen Zeitangaben, Entfernungen oder Lisbeth/Karl (1953).
+>
+> **Ausnahme Band 4: Nele Ahrens ist 11** -- das einzige leicht aeltere Kind,
+> was ihren Vorsprung unterstuetzt.
+
 ### Jonas (Hauptperspektive)
 - **Rolle:** Der Neue im Dorf Eichenhain. Zugezogen.
-- **Alter:** ca. 10 Jahre
+- **Alter:** 10 Jahre (in allen Baenden -- siehe Kanon-Regel oben)
 - **Eigenschaften:** Neugierig, aufmerksam, beobachtet genau, stellt viele Fragen. Mutig, aber nicht leichtsinnig. Denkt nach bevor er handelt.
 - **Sprechweise:** Direkt, fragt viel ("Warum?", "Was ist das?"). Kurze Saetze. Manchmal nachdenklich.
 - **Koerpersprache:** Kneift Augen zusammen, blinzelt, spuert Kribbeln im Bauch
@@ -107,7 +128,7 @@ SONDERN: "Sein Herz klopfte schneller."
 
 ### Mila
 - **Rolle:** Die Mutige. Kennt das Dorf.
-- **Alter:** ca. 10 Jahre
+- **Alter:** 10 Jahre (in allen Baenden -- siehe Kanon-Regel oben)
 - **Eigenschaften:** Draengt vorwaerts, zeigt keine Angst (oder verbirgt sie). Praktisch, loesungsorientiert. Klug. Manchmal ungeduldig.
 - **Sprechweise:** Bestimmt, kurz angebunden. Verdreht oft die Augen ueber Ben. Sagt Dinge wie "Quatsch", "Jetzt oder nie", "Wenn wir jetzt umdrehen, erfahren wir nie etwas."
 - **Koerpersprache:** Verschraenkt Arme, verdreht Augen, schiebt Vorhaenge beiseite, geht voran
@@ -115,7 +136,7 @@ SONDERN: "Sein Herz klopfte schneller."
 
 ### Ben
 - **Rolle:** Der Aengstliche/Skeptiker. Kennt das Dorf.
-- **Alter:** ca. 10 Jahre
+- **Alter:** 10 Jahre (in allen Baenden -- siehe Kanon-Regel oben)
 - **Aussehen:** Traegt immer eine rote Kappe
 - **Eigenschaften:** Hat oft Angst, gibt es offen zu. Vorsichtig. Aber in entscheidenden Momenten ueberraschend mutig und klug (besonders in Kapitel 13).
 - **Sprechweise:** Nervoes, warnt oft. "Ich habe ein ganz schlechtes Gefuehl." "Letzte Chance zum Umkehren." Fluestert viel. Aber auch witzig -- sorgt fuer humorvolle Momente.

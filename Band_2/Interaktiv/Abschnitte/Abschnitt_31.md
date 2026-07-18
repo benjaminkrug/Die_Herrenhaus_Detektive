@@ -1,18 +1,18 @@
 # Abschnitt 31
 
-Drei Wochen später stand Jonas am Brunnen. Der Himmel war blau. Die Sonne warm. Der Stein unter seinen Haenden war heiss.
+Drei Wochen später stand Jonas am Brunnen. Der Himmel war blau. Die Sonne warm. Der Stein unter seinen Händen war heiß.
 
-Es roch nach frisch gemaehtem Gras. Irgendwo zwitscherte eine Amsel. Der Brunnen plaetscherte leise vor sich hin. Vor drei Wochen war er still gewesen.
+Es roch nach frisch gemähtem Gras. Irgendwo zwitscherte eine Amsel. Der Brunnen plätscherte leise vor sich hin. Vor drei Wochen war er still gewesen.
 
 Der Brunnen sah anders aus. Eine Bronzetafel hing an der Mauer: *Historischer Brunnen von Eichenhain — Zugang zum Gründer-Gangsystem. Erbaut 1712. Versiegelt 1953. Wiederentdeckt von Jonas, Mila und Ben.*
 
-Jonas strich ueber die eingravierten Namen. Sein Name. Auf einer Bronzetafel. Am Dorfplatz.
+Jonas strich über die eingravierten Namen. Sein Name. Auf einer Bronzetafel. Am Dorfplatz.
 
-Unter der Tafel war ein einzelnes Wort in den Brunnenrand graviert. Alt. Verwittert. Jonas beruehrte die Buchstaben: ***EICHE.***
+Unter der Tafel war ein einzelnes Wort in den Brunnenrand graviert. Alt. Verwittert. Jonas berührte die Buchstaben: ***EICHE.***
 
 Eiche. Der Baum, der tiefer wurzelt als alle anderen. Wie dieses Geheimnis.
 
-Meier kam ueber den Platz. Er trug einen Helm unter dem Arm. Sein Gesicht war staubig.
+Meier kam über den Platz. Er trug einen Helm unter dem Arm. Sein Gesicht war staubig.
 
 „Die Gänge sind gesichert", sagte er. „Neue Stützen. Neue Beleuchtung. Nächste Woche kommen die Geologen."
 
@@ -44,7 +44,7 @@ Jonas lehnte sich an den Brunnen. Ben setzte sich neben ihn. Mila auf die andere
 
 Dann fiel Jonas etwas ein. Der Brief aus der Truhe. Die Rückseite. Die verwischte Stelle.
 
-Er griff in seine Jackentasche. Er spuerte das alte Papier.
+Er griff in seine Jackentasche. Er spürte das alte Papier.
 
 „Du denkst an den Brief", sagte Mila. Es war keine Frage.
 

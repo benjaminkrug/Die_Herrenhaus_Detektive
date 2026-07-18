@@ -6,11 +6,11 @@ Er wusste, wer sie gemacht hatte.
 
 „Karl Hoffmann", sagte er leise. „1953."
 
-Mila drehte sich um. „Woher weisst du das?"
+Mila drehte sich um. „Woher weißt du das?"
 
 Jonas zeigte auf den untersten Pfeil. Daneben, kaum sichtbar: zwei Buchstaben. K.H. Und darunter eine Jahreszahl. 1953.
 
-„Karl Hoffmann", sagte er. „Gleiche Handschrift wie auf der Gruenderkarte."
+„Karl Hoffmann", sagte er. „Gleiche Handschrift wie auf der Gründerkarte."
 
 Die Pfeile zeigten nach rechts. Weg vom Hauptgang. Jonas folgte ihnen. Drei Schritte. Fünf. Dann: eine kleine Nische in der Wand. Halb verborgen hinter einem Felsvorsprung.
 
@@ -20,7 +20,7 @@ Eine Blechdose. Verrostet. Der Deckel klemmte. Jonas drückte mit dem Daumen. Es
 
 Drinnen: ein gefaltetes Blatt Papier. Vergilbt. Brüchig. Karls Handschrift. Eine Zeichnung der Kammern. Grob, aber lesbar. Drei Räume. Verbunden durch Gänge. Und ein X bei der Truhe.
 
-Mila beugte sich naeher. „Stimmt das mit Winters Karte ueberein?"
+Mila beugte sich näher. „Stimmt das mit Winters Karte überein?"
 
 Jonas zog Winters Notizbuch aus der Tasche. Er hielt beide nebeneinander. „Fast", sagte er langsam. „Aber Karl hat einen Gang eingezeichnet, den Winter nicht kennt."
 

@@ -24,7 +24,7 @@ Ein Siegel. Bronze. So groß wie eine Walnuss. Auf der Vorderseite ein Baum mit 
 
 „Das Familienwappen", sagte Meier leise.
 
-Jonas nahm das Siegel vorsichtig in die Hand. Es war schwer fuer seine Groesse. Die Oberflaeche fuehlte sich glatt an. Kuehl. Aber als er es fest umschloss, spuerte er ein leichtes Pulsieren. Wie ein Herzschlag aus Bronze.
+Jonas nahm das Siegel vorsichtig in die Hand. Es war schwer für seine Größe. Die Oberfläche fühlte sich glatt an. Kühl. Aber als er es fest umschloss, spürte er ein leichtes Pulsieren. Wie ein Herzschlag aus Bronze.
 
 „Dein Vater war im Suchtrupp", sagte Jonas. „1953."
 
@@ -32,11 +32,11 @@ Meier nickte. „Er hat nie viel darüber geredet. Aber dieses Siegel hat er imm
 
 „Versprochen", sagte Mila.
 
-Meier sah auf den Kellereingang. Dann auf die Kinder. Sein Blick blieb am Keller haengen. Er rieb sich die Haende. Einmal. Zweimal.
+Meier sah auf den Kellereingang. Dann auf die Kinder. Sein Blick blieb am Keller hängen. Er rieb sich die Hände. Einmal. Zweimal.
 
-„Mein Vater ist dort unten gewesen", sagte er leise. „1953. Er hat nie erzaehlt, was er gesehen hat."
+„Mein Vater ist dort unten gewesen", sagte er leise. „1953. Er hat nie erzählt, was er gesehen hat."
 
-Er richtete sich auf. „Ich will die Gaenge sehen."
+Er richtete sich auf. „Ich will die Gänge sehen."
 
 ---
 

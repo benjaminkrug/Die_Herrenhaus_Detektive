@@ -2,7 +2,7 @@
 
 Jonas breitete die Karte auf seinem Schreibtisch aus. Die Geheimtinte-Karte. Die Gänge unter Eichenhain. Braune Linien auf vergilbtem Papier.
 
-Mila saß auf dem Bett. Ben hockte auf dem Boden. Meiers Taschenlampe lag zwischen ihnen. Bens Handy daneben — fuer extra Licht. Jonas' Handy fuer Notfaelle. Der goldene Knopf. Winters Knopf — der Gegenstand der Familie Winter.
+Mila saß auf dem Bett. Ben hockte auf dem Boden. Meiers Taschenlampe lag zwischen ihnen. Bens Handy daneben — für extra Licht. Jonas' Handy für Notfälle. Der goldene Knopf. Winters Knopf — der Gegenstand der Familie Winter.
 
 „Eins von vier", sagte Jonas. „Wir haben Winters Knopf."
 
@@ -28,9 +28,9 @@ Ben stand auf und presste die Nase ans Glas. „Regen kommt. Viel Regen."
 
 „Na und?", sagte Mila.
 
-„Meier hat gesagt, nach dem Regen brechen die Gänge ein", sagte Jonas. Seine Kehle war eng. Die Gaenge waren ueber dreihundert Jahre alt.
+„Meier hat gesagt, nach dem Regen brechen die Gänge ein", sagte Jonas. Seine Kehle war eng. Die Gänge waren über dreihundert Jahre alt.
 
-„Dann muessen wir uns beeilen", sagte Mila. Sie sprang vom Bett und griff ihren Rucksack. Taschenmesser, Kreide, Seil — alles drin.
+„Dann müssen wir uns beeilen", sagte Mila. Sie sprang vom Bett und griff ihren Rucksack. Taschenmesser, Kreide, Seil — alles drin.
 
 „Oder wir warten, bis der Regen vorbei ist", sagte Ben. „Wie vernünftige Menschen."
 
@@ -68,10 +68,10 @@ Draußen fielen die ersten Tropfen.
 
 *Der Regen kommt. Die Karte zeigt vier Wege. Welchen wählt ihr?*
 
-**Zurueck in den Tunnel — die zweite Metalltuer oeffnen. Auch wenn der Regen die Gaenge gefaehrlich macht. → Abschnitt 11**
+**Zurück in den Tunnel — die zweite Metalltür öffnen. Auch wenn der Regen die Gänge gefährlich macht. → Abschnitt 11**
 
-**Zur alten Muehle schleichen — dort geht es weiter. Tiefer. Ins Unbekannte. → Abschnitt 41**
+**Zur alten Mühle schleichen — dort geht es weiter. Tiefer. Ins Unbekannte. → Abschnitt 41**
 
 **Bei Frau Bergmann anklopfen — sie will reden. Auch wenn sie Angst hat. → Abschnitt 66**
 
-**Winter anrufen — er kennt jedes Geheimnis. Aber warum ist er nie zurueckgekommen? → Abschnitt 91**
+**Winter anrufen — er kennt jedes Geheimnis. Aber warum ist er nie zurückgekommen? → Abschnitt 91**

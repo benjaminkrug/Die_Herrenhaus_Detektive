@@ -16,7 +16,7 @@ Mila stand auf. „Dann muss die Quelle hier irgendwo sein."
 
 In dem Moment hörte Jonas ein Geräusch. Leise. Wie ein Tropfen auf Stein. Dann noch einer. Und noch einer.
 
-„Hört ihr das?", flüsterte er.
+„Hört ihr das?", fragte er.
 
 Ben hob den Kopf. „Wasser. Irgendwo tropft Wasser."
 
@@ -26,23 +26,23 @@ Mila kniete sich hin. Sie berührte das Wasser mit dem Finger. „Eiskalt", sagt
 
 Jonas folgte dem Wasserstreifen mit der Taschenlampe. Er verschwand in einer Spalte am Boden. In Richtung des hinteren Gangs.
 
-„Das Wasser zeigt uns den Weg", sagte Jonas. Ein Kribbeln lief durch seine Arme.
+„Das Wasser zeigt uns den Weg", sagte Jonas. Eine Gänsehaut lief durch seine Arme.
 
 Ben grinste. „Folge dem Wasser. Wie in einem Abenteuerfilm."
 
 „Wie im echten Leben", sagte Mila. Sie stand auf und klopfte sich die Knie ab.
 
-Sie gingen weiter. Jonas drehte sich noch einmal um. Die Truhe auf dem Sockel. Die Urkunde. Die Muenzen. Der Brief.
+Sie gingen weiter. Jonas drehte sich noch einmal um. Die Truhe auf dem Sockel. Die Urkunde. Die Münzen. Der Brief.
 
-Seine Haende zitterten. Er ballte sie zu Faeusten. Aber sie hatten sich entschieden.
+Seine Hände zitterten. Er ballte sie zu Fäusten. Aber sie hatten sich entschieden.
 
 „Wir kommen wieder", sagte er leise.
 
-Niemand antwortete. Alle drei wussten: Vielleicht. Vielleicht auch nicht. Das Wasser tropfte lauter. Der Gang vor ihnen fuehrte tiefer.
+Niemand antwortete. Alle drei wussten: Vielleicht. Vielleicht auch nicht. Das Wasser tropfte lauter. Der Gang vor ihnen führte tiefer.
 
 Ben sah Jonas an. „Bist du sicher?"
 
-Jonas nickte. Aber sein Blick ging noch einmal zurueck. Die Truhe wurde kleiner. Dann war sie weg.
+Jonas nickte. Aber sein Blick ging noch einmal zurück. Die Truhe wurde kleiner. Dann war sie weg.
 
 ---
 

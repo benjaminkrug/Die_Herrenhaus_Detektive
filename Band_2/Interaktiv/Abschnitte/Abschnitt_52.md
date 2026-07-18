@@ -12,7 +12,7 @@ Mila runzelte die Stirn. „Und?"
 
 „Eingang heißt auch Ausgang!" Ben leuchtete mit der Taschenlampe voraus. „Man fand Frau Bergmann 1953 UNTER dem Brunnen. Sie ist nicht durch die Mühle rausgekommen. Sie ist durch den Brunnen gestiegen!"
 
-Jonas starrte ihn an. Ein Kribbeln schoss durch seine Brust. Ben hatte recht. Der Brunnen. Der Dorfplatz. Direkt über ihnen.
+Jonas starrte ihn an. Ein heißer Schauer schoss durch seine Brust. Ben hatte recht. Der Brunnen. Der Dorfplatz. Direkt über ihnen.
 
 „Zeig mal die Karte", sagte Mila. Sie riss sie Ben fast aus der Hand.
 

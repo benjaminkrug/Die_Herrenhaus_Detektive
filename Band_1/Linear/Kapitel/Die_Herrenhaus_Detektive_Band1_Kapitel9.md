@@ -505,17 +505,24 @@ Mila folgte.
 Ben brauchte länger.
 Seine Beine zitterten.
 
-„Die Person war am Gemälde", flüsterte Jonas.
-„Genau wie wir."
+Jonas sah zum Salon.
+„Die Person war am Gemälde", flüsterte er.
+„Vielleicht hat sie es nur geprüft."
 
-Mila sah zum Salon.
-„Sie weiß von den Hinweisen.
-Sie sucht das Gleiche wie wir."
+Er hielt inne.
+Das Kratzen.
+Genau an der Stelle mit dem runden Fenster.
+
+„Nein", sagte er leise.
+„Sie kennt die Hinweise.
+Genau wie wir."
+
+Mila nickte langsam.
+„Dann sind wir nicht die Einzigen, die suchen."
 
 Jonas schluckte.
 Das bedeutete, dass sie nicht allein waren.
 Jemand anderes kannte Herr Winters Geheimnisse.
-Jemand anderes suchte den Schatz.
 
 „Wir müssen schneller sein", sagte Jonas.
 

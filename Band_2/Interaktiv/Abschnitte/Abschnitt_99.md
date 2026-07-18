@@ -10,13 +10,13 @@ Mila stand auf. „Dann los. Wir brauchen drei Gegenstände. Winters Knopf haben
 
 Krüger griff an seine Kette. Er zog sie über den Kopf. Das kleine Silberkreuz pendelte im Licht. Dann legte er es auf den Tisch. Vorsichtig. Als wäre es zerbrechlich.
 
-„Passt auf", sagte er leise. „Es gehoerte Frau Bergmanns Vater."
+„Passt auf", sagte er leise. „Es gehörte Frau Bergmanns Vater."
 
 Jonas nickte ernst. „Versprochen."
 
 Mila steckte das Kreuz in ihre Jackentasche. „Fehlen noch zwei. Meier und Bergmann."
 
-Sie fanden Meier im Herrenhaus-Garten. Er stapelte Bretter. Schweiss auf der Stirn. Neben ihm lag eine Schaufel. Frische Erde am Kellereingang. Jonas sah es sofort. Die Schaufel. Die frische Erde. Meier grub hier. Aber warum?
+Sie fanden Meier im Herrenhaus-Garten. Er stapelte Bretter. Schweiß auf der Stirn. Neben ihm lag eine Schaufel. Frische Erde am Kellereingang. Jonas sah es sofort. Die Schaufel. Die frische Erde. Meier grub hier. Aber warum?
 
 „Herr Meier!", rief Jonas. „Wir brauchen Ihre Hilfe."
 
@@ -26,47 +26,47 @@ Meier richtete sich auf. „Wobei?"
 
 Meier wurde still. Er wischte sich die Hände an der Hose ab.
 
-"Die Metalltuer." Er sah zum Herrenhaus. "Mein Vater hat gesagt: Die Tuer bleibt zu. Fuer immer."
+„Die Metalltür." Er sah zum Herrenhaus. „Mein Vater hat gesagt: Die Tür bleibt zu. Für immer."
 
-"Warum?", fragte Jonas.
+„Warum?", fragte Jonas.
 
-"Weil dahinter die Wahrheit liegt." Meier lachte kurz. Ohne Freude. "Und Wahrheit macht manchmal Aerger."
+„Weil dahinter die Wahrheit liegt." Meier lachte kurz. Ohne Freude. „Und Wahrheit macht manchmal Ärger."
 
-Er ging ins Haus. Minuten spaeter kam er zurueck. In seiner Hand lag ein kleines Bronzesiegel. Schwer. Rund. Ein Wappen war eingepraegt: ein Baum mit vier Aesten.
+Er ging ins Haus. Minuten später kam er zurück. In seiner Hand lag ein kleines Bronzesiegel. Schwer. Rund. Ein Wappen war eingeprägt: ein Baum mit vier Ästen.
 
-„Passt auf", sagte Meier. „Es ist alles, was ich von meinem Vater habe." Er drueckte es Jonas in die Hand. "Vielleicht ist es Zeit fuer Aerger."
+„Passt auf", sagte Meier. „Es ist alles, was ich von meinem Vater habe." Er drückte es Jonas in die Hand. „Vielleicht ist es Zeit für Ärger."
 
 „Versprochen", sagte Jonas. Er steckte das Siegel in seinen Rucksack.
 
 Frau Bergmann war schwieriger.
 
-Sie oeffnete die Tuer nur einen Spalt. „Was wollt ihr?"
+Sie öffnete die Tür nur einen Spalt. „Was wollt ihr?"
 
 „Wir haben mit Herrn Winter telefoniert", sagte Jonas.
 
-„Winter?" Ihr Blick veraenderte sich. „Nach all den Jahren?"
+„Winter?" Ihr Blick veränderte sich. „Nach all den Jahren?"
 
-„Er hat uns alles erzaehlt", sagte Jonas. „Ueber die Metalltuer. Die vier Gegenstaende. Wir brauchen Ihren Messingring."
+„Er hat uns alles erzählt", sagte Jonas. „Über die Metalltür. Die vier Gegenstände. Wir brauchen Ihren Messingring."
 
 Frau Bergmann presste die Lippen zusammen.
 
-Ben rausperte sich. „Wir passen wirklich gut drauf auf."
+Ben räusperte sich. „Wir passen wirklich gut drauf auf."
 
-„Bitte", sagte Mila. „Wir bringen ihn zurueck. Versprochen."
+„Bitte", sagte Mila. „Wir bringen ihn zurück. Versprochen."
 
 Frau Bergmann schwieg. Lange. Dann verschwand sie im Haus. Minuten vergingen. Die Kinder schauten sich an.
 
-Dann kam sie zurueck. In ihrer Hand lag ein Messingring. Schlicht. Ohne Stein.
+Dann kam sie zurück. In ihrer Hand lag ein Messingring. Schlicht. Ohne Stein.
 
-Sie umklammerte ihn nochmal. Fest. Als koenne sie nicht loslassen.
+Sie umklammerte ihn nochmal. Fest. Als könne sie nicht loslassen.
 
-„Er hat Karl gehoert", fluesserte sie. „Siebzig Jahre habe ich ihn getragen."
+„Er hat Karl gehört", flüsterte sie. „Siebzig Jahre habe ich ihn getragen."
 
-Dann oeffnete sie die Hand. Langsam. Das Metall glaenzte matt im Licht.
+Dann öffnete sie die Hand. Langsam. Das Metall glänzte matt im Licht.
 
-„Bringt ihn zurueck", sagte sie. Ihre Stimme war fest. Aber ihre Augen glaenzten.
+„Bringt ihn zurück", sagte sie. Ihre Stimme war fest. Aber ihre Augen glänzten.
 
-Jonas nahm den Ring. Behutsam. Das Metall war warm von ihren Haenden.
+Jonas nahm den Ring. Behutsam. Das Metall war warm von ihren Händen.
 
 Vier Gegenstände. Vier Familien. Alles komplett.
 

@@ -1,6 +1,6 @@
 # Abschnitt 14
 
-Krueger sass auf seiner Bank. Wie immer. Es roch nach Pfeifentabak und nassem Laub. Sein Stock lehnte neben ihm. Die Tauben pickten um seine Fuesse.
+Krüger saß auf seiner Bank. Wie immer. Es roch nach Pfeifentabak und nassem Laub. Sein Stock lehnte neben ihm. Die Tauben pickten um seine Füße.
 
 „Vier Gegenstände", wiederholte er langsam. „Vier Gründerfamilien."
 
@@ -16,9 +16,9 @@ Krüger schloss die Augen. Er strich sich über das Kinn. Die Kinder warteten.
 
 „Und jetzt?", fragte Jonas.
 
-Krueger laechelte duenn. „Jetzt haengt es bei mir." Er griff in sein Hemd. Zog eine duenne Silberkette heraus. Daran hing ein Kreuz. Klein. Flach. Silber, angelaufen. Kaum groesser als ein Daumen.
+Krüger lächelte dünn. „Jetzt hängt es bei mir." Er griff in sein Hemd. Zog eine dünne Silberkette heraus. Daran hing ein Kreuz. Klein. Flach. Silber, angelaufen. Kaum größer als ein Daumen.
 
-Er nahm die Kette ab und legte das Kreuz auf den Tisch. Jonas konnte die Buchstaben E.B. auf der Rueckseite erkennen.
+Er nahm die Kette ab und legte das Kreuz auf den Tisch. Jonas konnte die Buchstaben E.B. auf der Rückseite erkennen.
 
 „Frau Bergmann hat es mir vor zwanzig Jahren gegeben", sagte Krüger. „Sie wollte es nicht mehr sehen. Zu viele Erinnerungen."
 

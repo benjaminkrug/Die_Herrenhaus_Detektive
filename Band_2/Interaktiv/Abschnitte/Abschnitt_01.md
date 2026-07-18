@@ -50,7 +50,7 @@ Ben sprang vom Brunnen. „Wir sitzen auf einem Gangsystem?!"
 
 Jonas las weiter. „Das Dorf hat es 1953 versiegelt. Was dort verborgen ist, darf nicht vergessen werden."
 
-Seine Haende kribbelten. Er drehte das Blatt um. Eine Skizze. Ein Kreis — der Brunnen. Striche — Gänge. Ein Pfeil vom Herrenhaus zum Brunnen.
+Seine Hände kribbelten. Er drehte das Blatt um. Eine Skizze. Ein Kreis — der Brunnen. Striche — Gänge. Ein Pfeil vom Herrenhaus zum Brunnen.
 
 „Da ist eine Karte", flüsterte er.
 
@@ -60,7 +60,7 @@ Mila riss ihm den Brief aus der Hand. „Gänge unter dem ganzen Dorf! Seht ihr 
 
 „Findet den anderen Zugang", las Mila. „Unterschrieben mit H. W."
 
-Sein Mund war trocken. Unter ihren Fuessen lag ein Gangsystem. Ein ganzes Netz aus Tunneln.
+Sein Mund war trocken. Unter ihren Füßen lag ein Gangsystem. Ein ganzes Netz aus Tunneln.
 
 „Wir müssen mehr erfahren", sagte Jonas. „Krüger. Der sitzt am Kirchplatz."
 

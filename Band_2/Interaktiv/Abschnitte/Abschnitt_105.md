@@ -10,9 +10,9 @@ Applaus. Klopfen auf Schultern. Lächelnde Gesichter.
 
 Mila boxte Jonas leicht gegen den Arm. „Nicht schlecht für drei Zehnjährige."
 
-Jonas laechelte. Aber etwas nagte an ihm. Sein Magen zog sich zusammen. Er hatte etwas uebersehen.
+Jonas lächelte. Aber etwas nagte an ihm. Sein Magen zog sich zusammen. Er hatte etwas übersehen.
 
-Die Truhe verschwand im Rathaus. Der Buergermeister wollte alles aufschreiben. Fotografieren. Wegschliessen.
+Die Truhe verschwand im Rathaus. Der Bürgermeister wollte alles aufschreiben. Fotografieren. Wegschließen.
 
 Am nächsten Morgen klingelte Jonas' Handy.
 
@@ -26,17 +26,17 @@ Jonas runzelte die Stirn. „Ja. Die Urkunde. Die Briefe. Die Münzen."
 
 „Und darunter?"
 
-Jonas' Magen zog sich zusammen. Die Lederrolle. Die zweite Karte. Er hatte sie gesehen. Er hatte sie in der Hand gehabt. Und er hatte sie zurueckgelegt. Unter den Samt. In der Truhe.
+Jonas' Magen zog sich zusammen. Die Lederrolle. Die zweite Karte. Er hatte sie gesehen. Er hatte sie in der Hand gehabt. Und er hatte sie zurückgelegt. Unter den Samt. In der Truhe.
 
-Er schloss die Augen. Er hatte sich entschieden. Die Karte war zu wichtig — zu gefaehrlich. Also hatte er sie versteckt. Unter dem Samt. Wo niemand sie finden wuerde.
+Er schloss die Augen. Er hatte sich entschieden. Die Karte war zu wichtig — zu gefährlich. Also hatte er sie versteckt. Unter dem Samt. Wo niemand sie finden würde.
 
-Nur jetzt lag die Truhe im Rathaus. Hinter einer verschlossenen Tuer.
+Nur jetzt lag die Truhe im Rathaus. Hinter einer verschlossenen Tür.
 
-„Die Rolle ist noch drin", sagte Jonas leise. „Ich habe sie gesehen. Aber ich habe sie zurueckgelegt."
+„Die Rolle ist noch drin", sagte Jonas leise. „Ich habe sie gesehen. Aber ich habe sie zurückgelegt."
 
 Stille am Telefon. Dann: „Warum?"
 
-„Weil alle davon erfahren haetten. Die Bagger. Die Touristen. Alles."
+„Weil alle davon erfahren hätten. Die Bagger. Die Touristen. Alles."
 
 Winter atmete aus. Langsam. „Die Rolle ist das Wichtigste, Jonas. Wichtiger als alles andere in der Truhe."
 
@@ -68,7 +68,7 @@ Nur das Rauschen der Leitung.
 
 „Dann wartet", sagte Winter leise. „Sie ist dort sicher. Niemand weiß, dass die Rolle da ist. Nur wir."
 
-Mila verschränkte die Arme. „Warten. Ausgerechnet."
+Mila stemmte die Hände in die Hüften. „Warten. Ausgerechnet."
 
 Jonas lehnte sich gegen die Rathauswand. Er hatte etwas übersehen. Etwas Wichtiges. Und jetzt lag die Antwort drei Tage entfernt. Hinter einer verschlossenen Tür.
 

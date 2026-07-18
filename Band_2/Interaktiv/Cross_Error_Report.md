@@ -8,6 +8,89 @@
 
 ---
 
+## NACHTRAG 2026-07-02: graph.yaml-Nachruestung + Feinschliff
+
+Diese Runde ruestet eine maschinenlesbare `graph.yaml` (Single Source of
+Truth) + `validate_graph.py` nach (Vorbild Schattenjaeger-CYOA). Der
+Validator fand automatisch Fehler, die die 3 manuellen Runden uebersehen
+hatten.
+
+**Neu gefunden & behoben:**
+
+- **STRUKTUR-F001 (kritisch):** Abschnitt 50b hatte die EP-B4-Entscheidung
+  im falschen Format (kursiv `*→ ...*` statt fett `**... → Abschnitt X**`).
+  Folge: Abschnitt 51 verwaist → 52/53/54 + **ENDE 211 „Der Brunnen fließt"
+  (★★★★)** und **ENDE 209 „Der Brief aus der Tiefe" (★★)** waren fuer Leser
+  UNERREICHBAR. Fix: 50b auf Standard-Entscheidungsformat umgestellt.
+- **NAV-F002 (Update):** Abschnitt 48b war NICHT mehr verwaist (45 verlinkte
+  darauf), aber inhaltlich doppelt redundant (dupliziert 45 + die 59→Meier-
+  Kette). Entscheidung: Option in 45 entfernt, 48b geloescht. Kein
+  Inhaltsverlust.
+- **FAK-H001 (behoben):** Umlaut-Chaos (105/128 Dateien mischten ae/oe/ue/ss
+  mit echten Umlauten). Skriptgestuetzt vereinheitlicht auf echte Umlaute +
+  ß, verlustfrei (0 False Positives). Inkl. Versalien (MUESSEN→MÜSSEN) und
+  4 Tippfehlern (flüsserte→flüsterte u.a.). Skript: `fix_umlaute.py`.
+- **END (behoben):** Enden-Trenner `--`→`—` bei ENDE 212 + 214.
+- **QUOTE (behoben):** 166 oeffnende gerade Quotes `"`→`„` in 37 Dateien →
+  durchgaengiges Buch-Schema `„Text"`. Skript: `fix_quotes.py`.
+
+**Geprueft, bewusst KEIN Eingriff** (nicht ueber-optimieren):
+- Dialog-Anteil 46/69/80: 69=50%, 46/80=36% mit dramaturgisch bewusster
+  Stille (Wasserfall-Ehrfurcht / Bergmann-Wiederkehr). Report war veraltet.
+- KON 2→3 Ortssprung, KON Rucksack: uebliches Kinderbuch-Tempo, kein Loch.
+- Sensorik: 4 auffaelligste Abschnitte (1/58/92/98) gelesen — alle stark;
+  Metrik hatte unterschaetzt. Bottleneck-Check: alle 3 Kern-Beats in allen
+  4 Clustern praesent.
+
+**Endstand:** `validate_graph.py` = 0 Fehler (1 gewollte Warnung: Geheim-Ende
+per Codewort). Manuskript neu kompiliert (127 Abschnitte, ~43.000 Woerter),
+Scrambling-Verweise konsistent.
+
+### Korrekturlese-Runde (alle 4 Cluster + Start gelesen)
+
+Manuelles Durchlesen je eines ★★★★-Pfads pro Cluster + gemeinsamer Start.
+Gefundene Fehlerklassen (Skripte konnten sie nicht sehen), alle behoben:
+
+- **Dash-Quote (34× in 28 Dateien):** `—„` → `—“`. Abgebrochene Rede wurde
+  faelschlich mit oeffnendem statt schliessendem Quote beendet
+  (Nebeneffekt des Quote-Fixes; Ursache in `fix_quotes.py` korrigiert:
+  `—` triggert kein oeffnendes Quote mehr).
+- **Tippfehler `rausperte` → `räusperte` (6×)** in 57, 57b, 72c, 99, 101b, 106.
+- **Restliche ss→ß (33× in 26 Dateien):** Fuss→Fuß, gross→groß, liess→ließ,
+  heiss→heiß, schliesslich→schließlich, stiess→stieß u.a. (SS_FIX erweitert).
+- **`--` im Fliesstext (4×):** → `—` in 25b, 71, 86.
+
+Kontrolliert, KEIN Fehler (grammatikalisch korrekt): „sie sie" in 69/85
+(Subjekt-Objekt). Alle 4 Cluster inhaltlich stimmig, Cliffhanger sitzen,
+Charakter-Dynamik konsistent. Finale docx-Kontrolle: 0 Rest-Fehler.
+
+### Stil-Runde: Varianz-Kur gegen „klingt nach KI" (2026-07-02)
+
+Messung ergab ueberstrapazierte Schablonen (begrenzte, durchrotierte Palette
+an Verben/Gesten/Koerper-Reaktionen — der staerkste „KI-Klang"-Tell).
+Kontextbewusst diversifiziert (kuratierte Exakt-Matches, kein globales
+Replace; emotional starke Stellen blieben, Wiederholungen variiert):
+
+- **`flüsterte` 102 → 58** (Dichte jetzt 1 pro ~690 Wörter, organisch). Ersatz
+  gemischt: sagte leise, raunte, fragte, las, murmelte, hauchte — je nach
+  Kontext. „ins Ohr flüstern"-Konstruktionen aufgeloest.
+- **`verschränkte die Arme` (Mila) 30 → 11.** Rest → wechselnde Gesten
+  (Kinn heben/recken, Fäuste ballen, Kopf schütteln, Stirn runzeln,
+  Schultern zucken, Hände in die Hüften).
+- **`Kribbeln` 21 → 11.** Rest → Magen zog sich zusammen, Herz schlug
+  schneller, Gänsehaut, Schauer, Unruhe, Wärme.
+- **`murmelte` nach der Kur entzerrt (38 → 34, keine Haeufung 2+/Abschnitt).**
+
+Kontrolle: kein Ersatz wurde zur neuen Schablone (alle neuen Gesten 1 pro
+5000+ Wörter). `schluckte` (23) bewusst gelassen — figurenuebergreifend
+verteilt und variiert, kein Muster. Graph nach ~60 Edits: 0 Fehler.
+Neu kompiliert (~43.000 Wörter).
+
+**Stil-Score-Effekt:** von ~7,8 auf geschaetzt ~8,4/10 (der „KI-Klang"-
+Hauptschwachpunkt behoben, ohne Neuschreiben).
+
+---
+
 ## Zusammenfassung
 
 | Kategorie | FEHLER | WARNUNG | HINWEIS | BEHOBEN |

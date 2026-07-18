@@ -348,7 +348,6 @@ Ein Fenster im Erdgeschoss.
 
 Es stand einen Spalt offen.
 
-Jonas blieb stehen.
 Sein Mund wurde trocken.
 Seine Knie fühlten sich weich an.
 
@@ -451,16 +450,16 @@ Seine Finger.
 Sein Bauch.
 Sogar seine Zehenspitzen.
 
-„Jemand will, dass wir die Sachen finden", sagte Jonas leise.
+„Beide gehören zu Herr Winter", sagte Jonas leise.
+„Da bin ich mir sicher."
 
 Ben wurde noch blasser.
-„Oder jemand will uns in eine Falle locken."
+„Und einer davon liegt hier.
+Ganz frisch.
+Als hätte ihn gerade jemand verloren."
 
-Mila schüttelte den Kopf.
-„Wer sollte das tun?
-Wir sind Kinder."
-
-„Gerade deshalb", murmelte Ben.
+Jonas nickte langsam.
+Genau das war der unheimliche Teil.
 
 Jonas sah zum offenen Fenster.
 Der Vorhang bewegte sich.
@@ -477,18 +476,16 @@ Zwei Hinweise, die zusammengehörten.
 Über Herr Winter.
 Über alles."
 
-„Im Dorfarchiv", sagte Mila plötzlich.
+Mila blieb stehen.
+„Moment", sagte sie.
+„Meine Oma.
+Sie arbeitet doch manchmal im Dorfarchiv."
+
+Ihre Augen leuchteten.
 „Da gibt es alte Unterlagen.
 Baupläne.
 Zeitungsartikel.
 Vielleicht finden wir dort was."
-
-Jonas sah sie an.
-„Du kennst das Dorfarchiv?"
-
-„Meine Oma arbeitet dort", sagte Mila.
-„Manchmal.
-Freiwillig."
 
 Ben stöhnte.
 „Natürlich tut sie das."
