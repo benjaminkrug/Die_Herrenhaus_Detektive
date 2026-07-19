@@ -415,6 +415,43 @@ nicht zaehlbar. Pro Akt durchgehen:
 
 ------------------------------------------------------------------------
 
+## 6.D Dokumenten-Synchronitaet (Autor-Auflage, verbindlich)
+
+> **Die Planungsdokumente sind die Pruefinstanz fuer die Story. Sie sind nur
+> etwas wert, wenn sie aktuell sind.**
+
+**Regel:** Eine inhaltliche Aenderung wird **nie in nur einem Dokument**
+vorgenommen. Betroffen sind immer:
+
+| Dokument | Was dort stehen muss |
+|----------|----------------------|
+| `Story_Outline.md` | Kapitelinhalt, Cliffhanger, Zeitleiste, Abschnitt 0 |
+| `Detaillierte_Szenenplanung.md` | Szenen, Wortzahl, Wer-treibt, Wachpunkte |
+| `Setup_Payoff_Tracker.md` | jede neue Saat + ihr Payoff |
+| `Welt_und_Figuren.md` | Geografie, Pegel, Figurendetails |
+| `Author_Info.md` | nur bei KANON (Gegenstaende, Figuren, Serienfakten) |
+
+**Warum das als Regel dasteht (teuer gelernt):**
+1. Fehler A1/A2 in der Outline entstanden, weil zehn Runden lang chirurgisch
+   editiert und nie das Ganze gegengelesen wurde.
+2. Beim Beheben von Befund 2 kam heraus, dass die **Szenenplanung schon in zwei
+   Punkten gegen die Outline stand**, ohne dass es jemand gemerkt hatte
+   (Ortsname im Brief; Aushang am Gemeindehaus statt im Gasthof). Beide
+   Widersprueche waren in Phase 5 stillschweigend entstanden.
+
+**Praktisch:**
+- Nach jeder Aenderungsrunde: das geaenderte Dokument **komplett** gegenlesen,
+  nicht nur die geaenderte Stelle.
+- Bei Widerspruch zwischen zwei Dokumenten: **nicht automatisch das neuere
+  gewinnen lassen.** Erst pruefen, welche Fassung inhaltlich besser ist --
+  bei Befund 2 war das zweimal die Szenenplanung, aber aus sachlichen Gruenden,
+  nicht wegen des Datums.
+- **Die Zeitleiste (`Story_Outline.md` 2b) ist die Autoritaet fuer alle
+  Tages- und Pegelangaben.** Kapiteltexte werden gegen sie geprueft, nie
+  umgekehrt.
+
+------------------------------------------------------------------------
+
 ## 7. Risiken & Wachpunkte beim Schreiben
 
 1. **Winter darf nicht loesen.** Er hat Band 3 gerettet. Findet er hier auch nur

@@ -382,18 +382,39 @@ zum Vollstau brauchen lange, weil der See nach oben hin viel breiter wird.
 ### AKT 1 -- DER RUF
 
 **Kapitel 1 -- Der Brief** *(Tag 1, Eichenhain)*
-Sommerferien, drueckende Hitze, seit Wochen kein Regen. Die drei am Brunnen,
-gelangweilt. Ein Brief liegt bei Jonas zu Hause -- adressiert an "Die
-Herrenhaus-Detektive". Eine ungelenke Handschrift, kein Absender. Sie werden
-zum ersten Mal GERUFEN. Ben ist geschmeichelt und sofort besorgt.
-> **Cliffhanger:** Am Ende des Briefs eine kleine Zeichnung -- drei Wellen und
-> ein achtzackiger Stern. Genau das Zeichen auf Jonas' Muenze.
+Sommerferien, drueckende Hitze, seit Wochen kein Regen.
+**BEWEGUNG AB SATZ 1** (Serien-Signatur -- Band 1 Autotuer, Band 2 Fahrrad,
+Band 3 Rennen): **Jonas rennt durch das staubige Dorf zum Brunnen**, wo Mila und
+Ben sind, einen Umschlag in der Hand -- und kann vor Atemlosigkeit erst nicht
+reden. *(Die Bewegung endet anders als in Band 3, damit es kein Selbstplagiat
+ist.)*
+Der Umschlag ist an **alle drei** adressiert: "Die Herrenhaus-Detektive".
+Ungelenke Handschrift, kein Absender. **Jonas hat ihn nicht geoeffnet** -- sie
+machen ihn gemeinsam auf. Sie werden zum ersten Mal GERUFEN. Ben ist
+geschmeichelt und sofort besorgt.
+**MINI-ENTSCHEIDUNG:** Ben haelt den Brief fuer einen Streich (sie standen in
+der Zeitung -- so etwas kann jeder schreiben), Mila will ihn glauben. **Jonas
+entscheidet: nachpruefen** -- Poststempel ansehen. **Der Brief nennt keinen Ort**
+(Nele verschweigt ihn schon hier -- dieselbe Angst, mit der sie spaeter den
+Stein verschweigt).
+> **Cliffhanger:** Beim Umdrehen des Umschlags -- am Ende des Briefs eine kleine
+> Zeichnung: drei Wellen und ein achtzackiger Stern. Genau das Zeichen auf
+> Jonas' Muenze. **Die Streitfrage des Kapitels ist damit beantwortet, ohne dass
+> jemand etwas sagen muss.**
 
 **Kapitel 2 -- Der Mann, der vierzig Jahre gesucht hat** *(Tag 1)*
-Zu Winter ins Herrenhaus. Winter sieht den Brief und wird still. Er haelt die
-Muenze ans Pergament -- das Symbol passt in die Luecke. Der Ort im Brief heisst
-"Der Graue See", ein Name, unter dem er nie gesucht hat. Krueger, Meier und
+Zu Winter ins Herrenhaus. **Der Brief nennt KEINEN Ort** -- die Kinder haben den
+**Poststempel** entziffert und wissen, aus welcher Gegend er kommt (Auszahlung
+ihrer Entscheidung aus Kap 1). **JONAS haelt die Muenze ans Pergament** -- es ist
+seine Muenze. Das Symbol passt in die Luecke. Winter wird still. **Was nur er
+beitragen kann:** Er kennt den See, der dort liegt -- "Der Graue See" -- und
+weiss, warum er dort nie gesucht hat. Krueger, Meier und
 Holzer werden dazugeholt: die Kinder duerfen fahren, Winter faehrt mit.
+**BEN-MOMENT:** Waehrend die Erwachsenen ueber Genehmigungen reden, stellt Ben
+die praktischen Fragen (wie lange, wo schlafen wir, was bei Wetterumschwung,
+wie kommen wir zurueck). **Jede sachlich berechtigt** -- die Angst zeigt sich in
+der Menge, nicht im Inhalt. Loest "Angst vor der Reise" aus der
+Charaktertabelle ein.
 > **Cliffhanger:** Winter, an der Tuer: "Wenn das stimmt, dann habe ich vierzig
 > Jahre lang am falschen Ort gesucht." Und leiser: "Und ich war nicht der Erste."
 
@@ -403,9 +424,14 @@ Ufer -- ein breiter, schlammiger Rand, wo Wasser sein sollte. Gasthof in
 Seebruck. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen -- und
 verstummt, als Winter ihn nennt. *Winter.* Der Name selbst ist hier das Problem.
 Winter merkt es und sagt nichts dazu.
-**Am Gemeindehaus haengt ein Aushang: Ende der Revision, Schliessung des
-Ablasses -- in vier Tagen.** Winter erklaert, was das heisst: danach steigt das
-Wasser, und in wenigen Tagen ist alles wieder weg. **DIE UHR LAEUFT AB HIER.**
+**Der Countdown -- die Kinder holen ihn sich selbst:** Der Wirt laesst nur eine
+saeuerliche Bemerkung fallen ("in vier Tagen ist der Spuk sowieso vorbei"). Die
+drei lesen die Bekanntmachung am **Anschlagbrett im Gastraum** selbst: Ende der
+Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** (Kanon:
+Band 3 Kap 5 -- er kennt Wehre vom Bach seiner Oma), halb richtig; Winter
+bestaetigt und ergaenzt einen Satz. **DIE UHR LAEUFT AB HIER.**
+**MINI-ENTSCHEIDUNG:** Abends beschliessen sie, nicht auf Winters Gemeindegang
+zu warten, sondern morgen frueh allein ans Ufer zu gehen.
 Am Fenster: etwas Dunkles, Spitzes ragt weit draussen aus dem Wasser.
 **Noch KEIN Messpunkt** -- hier nur die Silhouette. Die Erzaehlung darf das Wort
 "Kirchturm" nicht vor Ben sagen (siehe Fix A2).
@@ -415,8 +441,13 @@ Am Fenster: etwas Dunkles, Spitzes ragt weit draussen aus dem Wasser.
 
 **Kapitel 4 -- Die erste Regel am See** *(Tag 2, Pegel A)*
 Loest den Cliffhanger sofort auf: Es IST ein Kirchturm.
-Die drei allein zum Ufer (Winter ist bei der Gemeinde -- **erste Anwendung der
-Regel: Winter ermittelt nicht**). Schlamm, Muschelschalen, Fische in Pfuetzen.
+Die drei sind **vor Winter auf** und gehen allein zum Ufer -- Folge ihrer
+Entscheidung aus Kap 3, nicht Zufall (**erste Anwendung der Regel: Winter
+ermittelt nicht**). Schlamm, Muschelschalen, Fische in Pfuetzen.
+**BEN-MOMENT + SAAT:** Ben traut dem weichen Boden nicht (er brach in Band 3
+Kap 2 in ein Erdloch ein) und tippt ihn mit einem **Stock** ab -- so, wie Holzer
+es im Wald gemacht hat. **Zahlt in Kap 17 aus**, wo im truebem Wasser nach den
+Vertiefungen getastet werden muss.
 **MESSPUNKT 1 -- Einfuehrung des Instruments (Erzaehlung, vom Ufer aus):**
 Von hier unten sieht man es genau: Der Turm steht frei bis hinunter zum
 Kirchendach. Und quer ueber den Stein laeuft **ein dunkler Rand**, hoch oben,
@@ -643,6 +674,9 @@ bleiben.)*
 an Tag 5 gekommen, haetten sie ihn trocken ablesen koennen. Jetzt muessen sie
 Schlamm und Wasserpflanzen wegraeumen und die Vertiefungen **blind ertasten** --
 zu fuenft, mit kalten Haenden, gegen den steigenden Pegel.
+**AUSZAHLUNG Kap 4:** Ben findet sie -- mit dem Stock, wie er es seit dem
+Schlamm macht und wie Holzer es ihm im Wald vorgemacht hat. **Seine Angst vor
+unsicherem Grund ist zur Faehigkeit geworden.**
 Dann: vier Symbole, eine Jahreszahl, vier leere Vertiefungen.
 **Sie sind zurueckgekommen. Sie standen genau hier.**
 Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."*
@@ -708,7 +742,7 @@ Der Blick auf das Wappen: vier Symbole -- und jetzt weiss man, dass eins fehlt.
 |-------|-------|-------|-------|-------|
 | Jonas | Wird gerufen, ist stolz | **Nimmt die Ausrede nicht** (Kap 6) -- er koennte sagen "ich bin erst seit einem Jahr da" | Liest eine Person statt einer Spur (Kap 14) | Gibt die Muenze zurueck. Und: "Er hatte einfach geantwortet" (Kap 19) |
 | Mila | Draengt wie immer | Trifft auf jemanden, der schneller ist | Vertraut -- und wird enttaeuscht (Kap 15) | Vertraut nochmal (das ist der Mut) |
-| Ben | Angst vor der Reise. **Keim: die Pfandflasche** (Kap 5) | Redet als erster mit Nele (Herz) | Beinahe (12), dann **Signature: begreift, was ein Pfand ist** (13) | Humor, der traegt |
+| Ben | Angst vor der Reise (**Kap 2**), Stock-Skepsis am Schlamm (**Kap 4**), **Keim: die Pfandflasche** (Kap 5) | Erklaert den Ablass (3), redet als erster mit Nele (9, Herz) | Beinahe (12), dann **Signature: begreift, was ein Pfand ist** (13) | **Tastet mit dem Stock nach den Vertiefungen** (17) -- Auszahlung von Kap 4. Humor, der traegt |
 | Nele | Hindernis | **Blockiert die Tuer** (9), gibt sie frei (10) -- Verbuendete auf Probe | Irrefuehrerin aus Angst | Fuehrt sie hin -- **scheitert** bei der Oma (17), **ueberzeugt sie** am naechsten Morgen (18). Ihre groesste Szene |
 | Grossmutter Ahrens | Huetet die Geschichte (ab Kap 6) | Unbeirrbar, gastfreundlich | Erster Riss: wird still, als die Muenzen passen (12) | Verteidigt sich mit "Nein" (17), gibt nach -- wegen ihrer Enkelin, nicht wegen des Steins (18) |
 | Winter | Tueroeffner. **Sein Name laesst den Gasthof verstummen** (Kap 3) | Bei der Gemeinde gebunden | Ohnmaechtig zusehen -- **er ermittelt nicht, er ertraegt** | Haelt sich zurueck. Der Handschlag (Kap 18): sein Name bedeutet hier nicht mehr Verrat |
