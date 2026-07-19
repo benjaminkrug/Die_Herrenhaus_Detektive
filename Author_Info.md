@@ -590,3 +590,237 @@ Jedes Kapitel muss enthalten:
 - **Foerster** = Beschuetzer-Hindernis (s. o.).
 - **Band-4-Hook** = "Groesser werden" ueber das Wappen/die vier Familien.
 - Vollstaendige Begruendungen: `Band_3/Linear/PLAN_Band3.md`. Welt-/Geo-Details: `Band_3/Linear/Welt_und_Figuren.md`. Hinweis-Buchhaltung: `Band_3/Linear/Setup_Payoff_Tracker.md`.
+
+------------------------------------------------------------------------
+
+# BAND 4: Das versunkene Dorf (Arbeitstitel)
+
+> Status: PLANUNG. Konzept steht (`Band_4/Linear/PLAN_Band4.md`), Serienbogen
+> steht (`Band_4/Linear/Serienbogen_Band4_5.md`). Outline, Szenenplanung und
+> Kapitel folgen. Der Kontinuitaets-Tracker unten ist ABSICHTLICH LEER -- er
+> wird beim Schreiben Kapitel fuer Kapitel gefuellt (wie in Band 2 + 3).
+
+## Ausgangslage Band 4
+
+- **Sommer nach Band 3** (Band 3 endete im Herbst), also rund 10 Monate spaeter.
+  Sommerferien. Ein heisser, trockener Sommer -- seit Wochen kein Regen.
+- **Erster Band, der ausserhalb von Eichenhain spielt.**
+- Heinrich Winter ist zurueck und wohnt wieder im Herrenhaus (Band 3, Kap 17).
+  Das Haus ist bewohnt, Licht in den Fenstern -- die Auszahlung von Band 1.
+- Foerster Holzer gehoert zum Dorf, ist Freund der Kinder, Team mit Meier.
+  Der Wald ist "nicht mehr verboten" fuer die drei (Band 3, Kap 18).
+- Das Wehr im Wald ist fachgerecht gesichert, der Schieber offen -- das Wasser
+  fliesst kontrolliert in die alten Gaenge ab. Das Dorf ist ausser Gefahr.
+- Der Brunnen ist repariert, Frau Wenzels Haus steht. Frau Wenzel ist wohlauf.
+- Krueger ist weiterhin Anker/Mentor, fuettert jetzt mit Winter zusammen Tauben.
+- Meier ist Verbuendeter und stolzer Gruenderfamilien-Erbe.
+
+### Was die Kinder aus Band 3 mitbringen (Gegenstaende)
+- **Die MUENZE** -- in Jonas' Tasche. Eiche auf einer Seite, FREMDES Symbol auf
+  der anderen (3 Wellen + 8-Spitzen-Stern). Der zentrale Gegenstand von Band 4.
+  **WICHTIG: Sie ist kein Wegweiser, sie ist ein PFAND** (siehe unten).
+- **Das Pergament der Gruender** -- bei Winter. Unterer Rand abgerissen, bricht
+  ab bei *"Die vier Familien kamen aus dem..."*. Die Muenze passt in die Luecke.
+- Die Geheimtinte-Karte (aus Band 2/3) -- bei Jonas, fuer Band 4 ausgereizt.
+
+## Das Kern-Geheimnis Band 4 (steht fest, wird beim Schreiben aufgeloest)
+
+Die vier Gruenderfamilien kamen aus **Sternbach** -- einem Dorf, das vor rund
+300 Jahren in einem See versunken ist. Heute heisst der See **Der Graue See**;
+der Name "Sternbach" wurde nach der Flut aus dem Sprachgebrauch getilgt. Genau
+deshalb hat Winter ihn jahrzehntelang nicht gefunden.
+
+**Das Symbol IST der Ortsname:** 3 Wellen = Bach, 8-Spitzen-Stern = Stern ->
+**Sternbach**. Die Kinder loesen das selbst; der Leser kann mitraten.
+
+**Die fuenfte Familie:** Das Wappen von Eichenhain hat vier Symbole. In Sternbach
+taucht ein fuenftes auf. Es gehoerte einer fuenften Familie, die BLIEB, als die
+vier gingen. Am See gilt seit 300 Jahren: *"Die vier haben uns im Stich
+gelassen."*
+
+**Die Wahrheit, die die Kinder beweisen:** Die vier gingen nicht heimlich und
+nicht aus Feigheit. Sie zogen los, um **Hilfe und hoeher gelegenes Land zu
+holen**, und liessen ein Pfand zurueck -- das Versprechen zurueckzukehren. Sie
+kamen zu spaet; das Wasser war schneller.
+
+**Der Payoff der Muenze -- die Muenzen sind PAARE (Kanon, festgelegt Phase 4):**
+Ein Pfand wird zweimal gepraegt. Jede der vier Familien **nahm eine Muenze mit
+und liess die passende Gegenmuenze in Sternbach** -- acht Stueck, vier Paare,
+wie ein Kerbholz. Jonas traegt seit Band 3 eine der mitgenommenen.
+
+*Warum so:* Ohne die Paar-Regel widerspricht sich der Kanon -- Jonas' Muenze
+wurde in EICHENHAIN gefunden, kann also nicht in Sternbach zurueckgelassen
+worden sein. Die Paar-Loesung repariert das und traegt zugleich den Beweis:
+Die Familie Ahrens besitzt ihre Gegenmuenze seit 300 Jahren -- als Andenken an
+den Verrat. **Sie hatten den Gegenstand immer. Verloren war nur die Bedeutung.**
+(Dasselbe Motiv wie Band 2: Das Dorf hatte die Fakten, nicht den Sinn.)
+
+**Das Buch endet damit, dass Jonas seine Muenze zurueckgibt** -- 300 Jahre zu
+spaet, aber er gibt sie zurueck. Das ist der emotionale Zielpunkt; alles laeuft
+darauf zu.
+
+**Der zweite Beweis -- der Gedenkstein:** Das Muenzenpaar beweist, dass es ein
+Versprechen GAB. Dass die vier es gehalten haben, legt ein Stein am Osthang
+nahe, den sie nach der Flut gesetzt haben: vier Symbole, eine Jahreszahl, vier
+Vertiefungen fuer vier Muenzen. **Sie sind zurueckgekommen.** Nur bei
+Rekordtiefstand erreichbar -- deshalb fand ihn nie jemand.
+
+**Warum die Vertiefungen LEER sind:** Die vier konnten ihr Pfand nicht
+zurueckgeben -- es war niemand mehr da, dem sie es haetten geben koennen. Sie
+behielten die Muenzen. **Deshalb lag eine davon 300 Jahre spaeter noch in
+Eichenhain, wo Ben sie in Band 3 fand.** Der Stein ist eine **unvollendete
+Geste**; Jonas' Rueckgabe vollendet sie.
+
+**WICHTIG -- der Stein beweist es nicht allein.** Er belegt nur, dass die vier
+irgendwann dort waren. Grossmutter Ahrens weist ihn deshalb zunaechst zurueck
+("ein schlechtes Gewissen ist noch kein gehaltenes Wort"). **Umgestimmt wird sie
+nicht von einem Beweis, sondern von ihrer Enkelin** -- Nele haelt ihr entgegen,
+dass sie die Muenze 300 Jahre lang aufgehoben hat. Der Konflikt des Buchs ist
+damit nicht "Mensch gegen Beweis", sondern **"Mensch gegen die eigene
+Ueberzeugung"**. Details: `Story_Outline.md`, Abschnitt 0.2c.
+
+**Der Countdown:** Der trockene Sommer hat den Seespiegel gesenkt, die Ruinen
+sind begehbar. Das Wasser steigt wieder -- danach ist Sternbach fuer Jahrzehnte
+weg. **KEINE Lebensgefahr zu keinem Zeitpunkt.** Spannung aus dem sich
+schliessenden Zeitfenster, nicht aus Bedrohung. Ein nasser Schuh ist die
+Obergrenze der koerperlichen Folgen.
+
+## Neue Figuren Band 4
+
+### Nele Ahrens (11) -- die Rivalin
+- **Rolle:** Nachfahrin der fuenften Familie. Erste gleichaltrige Gegenspielerin
+  der Serie (Band 1-3 hatten Haeuser, Wasser und Erdreich als Gegner).
+- **Alter:** 11 -- bewusst ein Jahr aelter als die drei.
+- **Aussehen/Wesen:** Lebt am Grauen See. Kennt Wasser, Pegel und Ruinen genau.
+  Leise, beobachtet, weiss Dinge, die sie nicht sagt.
+  **NICHT eine zweite Mila:** Mila ist laut und stuermt vor, Nele ist still und
+  ist schon dagewesen.
+- **Ihr Vorsprung:** Ortskenntnis, nicht Alter oder Klugheit. Sie sucht seit
+  Beginn des trockenen Sommers selbst und war meist schon dort, wo die drei
+  gerade zum ersten Mal stehen.
+- **SIE SCHREIBT DEN BRIEF** (siehe unten) -- heimlich, weil sie allein nicht
+  weiterkommt. Und bereut es, als die drei tatsaechlich auftauchen.
+- **Verlauf (4 Stufen):**
+  1. *Feindselig/territorial* -- "das ist unser See, verschwindet". Aktives
+     Hindernis. (Dass sie selbst den Brief geschrieben hat, weiss noch niemand.)
+  2. *Waffenstillstand* -- sie hilft, wird Teil der Gruppe.
+  3. *Sie fuehrt sie bei EINER Sache bewusst in die Irre* -- aus ANGST vor dem,
+     was die drei beweisen koennten, nicht aus Bosheit. Das Auffliegen ist der
+     TIEFPUNKT in Akt 3.
+  4. *Wende* -- sie entscheidet, dass der Streit ihrer Ururgrosseltern nicht
+     ihrer ist. Gehoert am Ende dazu.
+- **PFLICHT (faires Spiel):** Mindestens ZWEI Vorzeichen fuer die Irrefuehrung
+  saeen, BEVOR sie auffliegt. Der Leser soll "oh nein" denken, nicht "die war
+  von Anfang an gemein".
+- **FUER BAND 5:** offen, ob sie nach Eichenhain kommt oder Brieffreundin bleibt.
+
+### Familie Ahrens -- die fuenfte Familie
+- Nachfahren derer, die in Sternbach blieben. Leben bis heute am Grauen See.
+- Tragen die Geschichte vom Verrat der vier Familien seit 300 Jahren weiter.
+- **Wichtig fuer den Ton: keine Boesewichte.** Sie glauben eine Geschichte, die
+  ihnen so erzaehlt wurde -- und sie ist nachvollziehbar, weil aus ihrer Sicht
+  tatsaechlich niemand zurueckkam.
+- Sie haben ebenfalls gesucht, ueber Generationen. **Das ist die Antwort auf
+  Winters Satz aus Band 3, Kap 18: "Ich war nicht der Erste."**
+
+### Der Brief -- Ausloeser des Buchs
+In Band 3 (Kap 17) stand der Bericht ueber die Kinder namentlich in der Zeitung.
+Nele liest davon und schreibt ihnen. Sinngemaess: *"Ich habe von euch gelesen.
+Bei uns ist etwas aufgetaucht, und niemand hier will darueber reden."*
+
+Damit werden die drei **zum ersten Mal ALS DETEKTIVE angefragt** -- der
+Serien-Aufstieg fuer Band 4. Winter erkennt das Symbol im Brief und faehrt sie
+in den Ferien hin.
+
+## Wer mitfaehrt -- und wer in Eichenhain bleibt
+
+**Mit an den See faehrt NUR Winter.** Er ist Tueroeffner (Auto, Erlaubnis der
+Eltern, Zugang zu Erwachsenen-Stellen), vor Ort aber gebunden mit
+Verwaltung/Archiv/Pegelterminen.
+
+> **HARTE REGEL: Winter darf in Band 4 keinen einzigen Hinweis finden.**
+> Er hat Band 3 gerettet. Ermittelt er hier mit, schrumpfen die Kinder.
+> Pruefung pro Kapitel: Wer hat die Entdeckung gemacht?
+
+**In Eichenhain bleiben** Holzer, Meier, Krueger und Frau Wenzel. Sie kommen im
+Schlussteil wieder vor. Begruendung: Sechs Erwachsene an einem Schauplatz, an
+dem drei Kinder ermitteln sollen, ist einer zu viel -- und CLAUDE.md warnt
+ausdruecklich vor "zu vielen Nebenfiguren auf einmal".
+
+## Charakter-Entwicklung Band 4 (ABSICHT -- wird beim Schreiben bestaetigt)
+
+| Charakter | Stand Ende Band 3 | Absicht fuer Band 4 |
+|-----------|-------------------|---------------------|
+| Jonas | Fuehrt ruhig, verbindet, traegt die Muenze | Traegt zum ersten Mal Verantwortung ausserhalb seines Dorfes. Muss eine PERSON lesen (Nele), nicht nur Spuren -- neue Faehigkeit. Erkennt am Ende, dass die Muenze eine Schuld ist, keine Trophaee. |
+| Mila | Mut = Handeln trotz Furcht | Trifft zum ersten Mal jemanden, der schneller und sturer ist als sie. Ihre Entwicklung: aushalten, nicht die Beste zu sein -- und Nele trotzdem vertrauen. |
+| Ben | Signature-Move: die rettende Idee | Braucht wieder mindestens 1 mutigen/klugen Moment. Am fremden Ort ist er der, der zuerst mit Nele redet statt sie zu bekaempfen (Herz statt Mut). |
+| Heinrich Winter | Zurueck, wohnt im Herrenhaus | Findet die Antwort auf seine Lebensfrage -- aber NICHT selbst. Er muss aushalten, dass Kinder finden, was er 40 Jahre gesucht hat. |
+| Nele Ahrens | (neu) | Hindernis -> Verbuendete -> Irrefuehrerin -> Freundin. Von der geerbten Feindschaft zur eigenen Entscheidung. |
+| Holzer / Meier / Krueger / Frau Wenzel | Verbuendete, Teil der Gemeinschaft | Bleiben in Eichenhain, Rahmen am Anfang und Ende. |
+
+## Band 4 Kontinuitaets-Tracker
+
+> **LEER -- wird beim Schreiben Kapitel fuer Kapitel gefuellt** (wie Band 2 + 3).
+> Nicht vorab erfinden: Die Handlung wird in `Story_Outline.md` und
+> `Detaillierte_Szenenplanung.md` festgelegt, hier nur nachgetragen, was
+> tatsaechlich im Text steht.
+
+### Zeitlinie Band 4
+*(wird gefuellt)*
+
+### Gefundene Hinweise/Gegenstaende Band 4
+*(wird gefuellt -- Startbestand siehe "Ausgangslage")*
+
+### Was die Kinder in Band 4 NEU erfahren
+*(wird gefuellt)*
+
+## Offene Fragen aus Band 3 -- MUSS Band 4 einloesen
+
+- [ ] Woher kamen die vier Gruenderfamilien? -> Sternbach, versunken im See
+- [ ] Was bedeutet das fremde Symbol (3 Wellen + Stern)? -> Zeichen der fuenften
+      Familie UND der Ortsname
+- [ ] Wer hat ausser Winter noch gesucht? -> die Familie Ahrens, seit Generationen
+- [ ] Warum verliessen die vier ihren Ort? -> um Hilfe und hoeheres Land zu holen
+- [ ] Das fehlende Pergament-Stueck -> gefunden, Luecke geschlossen
+- [ ] Die Muenze -> als Pfand erkannt und zurueckgegeben
+
+> Keine dieser Zeilen darf "teilweise" beantwortet bleiben. Wer Band 4 liest und
+> Band 5 nie kauft, muss ein abgeschlossenes Buch gelesen haben.
+
+## Was Band 4 NICHT anfassen darf (gehoert dem Finale)
+
+> Aus `Band_4/Linear/Serienbogen_Band4_5.md`, hier wiederholt, weil DIESE Datei
+> beim Kapitelschreiben offen liegt. Band 4 darf diese Punkte hoechstens ANDEUTEN:
+
+1. **Die drei uebrigen Pfand-Muenzen.** Vier Familien -> vier Muenzen. Jonas hat
+   eine. Band 4 stellt fest, DASS es vier gab -- findet aber keine weitere.
+2. **Was die Gruender in Eichenhain eigentlich vorhatten.** Band 4 klaert, WARUM
+   sie gingen. Nicht, WOZU sie Eichenhain gegruendet haben.
+3. **Die Faeden Bergmann und Hoffmann.** Liegen seit Band 2 still. Band 4 weckt
+   sie nicht -- Band 5 holt sie zurueck.
+4. **Sternbach selbst.** Der Ort versinkt am Ende wieder. Er ist erzaehlt und
+   abgeschlossen; Band 5 spielt nicht dort.
+
+## Offene Fragen -- FUER BAND 5 (in Band 4 zu saeen, NICHT aufzuloesen)
+
+- Wo sind die drei uebrigen Pfand-Muenzen?
+- Wozu wurde Eichenhain wirklich gegruendet -- was war die Aufgabe der Gruender?
+
+## Zentrale Festlegungen Band 4 (Konzept, mit Autor geprueft)
+
+- **Schauplatz:** Sternbach im Grauen See. Wasser ist hier der VORHANG, nicht die
+  Gefahr -- bewusste Umkehrung zu Band 2 (Geheimnis) und Band 3 (Bedrohung).
+- **Countdown:** das Wasser kommt zurueck. Zeitfenster, keine Lebensgefahr.
+- **Kern:** die fuenfte Familie und eine 300 Jahre alte falsche Geschichte.
+- **Neu fuer die Serie:** Die falsche Geschichte wird AKTIV VERTEIDIGT (in Band 2
+  wurde sie beschwiegen), und versoehnt wird auf KINDER-Ebene, nicht zwischen
+  Erwachsenen. Band 1-3 hatten dreimal denselben Motor -- das ist der Unterschied.
+- **Kapitellaenge Band 4: 900-1.500 Woerter** (breiter als Band 2 + 3). Das
+  Fenster ist eine Erlaubnis, kein Ziel. Verlaengert wird nur, wo etwas FEHLT --
+  nie, um eine Zahl zu erreichen. Regeln: `PLAN_Band4.md`, Abschnitt 4.
+- **Qualitaetssicherung NACH JEDEM AKT** (nicht erst am Buchende):
+  `qa_messung.py`, `schablonen_analyse.py`, `Menschlichkeits_Checkliste.md`.
+  Grundregel: **Die Skripte liefern Kandidaten, keine Urteile.**
+  Details: `PLAN_Band4.md`, Abschnitt 6.
+- Vollstaendige Begruendungen: `Band_4/Linear/PLAN_Band4.md`.
+  Serien-Trennlinie: `Band_4/Linear/Serienbogen_Band4_5.md`.
