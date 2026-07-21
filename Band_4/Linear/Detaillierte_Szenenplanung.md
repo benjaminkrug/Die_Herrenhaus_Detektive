@@ -963,3 +963,193 @@ vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
 - Ben hat in jedem Kapitel einen Moment, in Kap 13 seinen wichtigsten im Buch
 - Milas Schweigen (12) zahlt in Kap 15 aus
 - Jonas bekommt in Kap 14 seine eigentliche Faehigkeit: eine Person lesen
+
+------------------------------------------------------------------------
+
+## AKT 4 -- DIE RUECKGABE (Kapitel 16-19)
+
+### Drei Probleme, die beim Planen auffielen (alle geloest)
+
+**Problem 1 -- Kap 16 hatte keinen neuen Hinweis.**
+Sie lesen auf dem Friedhof dieselben vier Namen, die sie in Kap 8 ueber den
+Tueren gefunden haben. **Das ist eine Wiederholung, keine Entdeckung** --
+CLAUDE.md verlangt "at least 1 new clue".
+
+*Loesung -- der Friedhof zeigt etwas, das die Haeuser nicht koennen: ZEIT.*
+Grabsteine haben Jahreszahlen. **Die vier Familiennamen hoeren im selben Jahr
+auf. Der Name Ahrens geht weiter.**
+
+Das ist visuell, in Sekunden lesbar, und es ist die **staerkste Fassung der
+Anklage**: Die vier verschwinden aus dem Stein, die Ahrens sterben weiter dort.
+Kein Wunder, dass man am See erzaehlt, was man erzaehlt.
+
+> **Damit dreht Kap 16 den Akt um:** Es ist das Kapitel, in dem die Beweislage
+> **gegen** die vier am erdrueckendsten ist. Erst danach kommt Nele mit dem Weg
+> zum Gegenbeweis. Ohne diesen Tiefpunkt waere der Stein in Kap 17 nur ein Fund.
+> **So ist er eine Umkehr.**
+
+**Problem 2 -- Mila hatte in Akt 4 nichts zu tun.**
+Ihr Bogen lautet: vertraut (10) -> wird enttaeuscht (15) -> **vertraut nochmal**.
+Das dritte Mal stand nirgends.
+
+*Loesung:* Als Nele in Kap 17 mit dem Seil ankommt, **entscheidet MILA**, ob sie
+mitkommt. Nicht Jonas. **Sie war die am staerksten Betrogene** -- und sie ist
+diejenige, die in Kap 10 zugestimmt hat. Ihr "Meinetwegen" von damals bekommt
+hier sein Gegenstueck.
+
+**Problem 3 -- zwei Band-5-Haken im Epilog.**
+(a) Milas Frage nach den drei uebrigen Muenzen (Ende Kap 18) und (b) das Wappen
+mit vier Symbolen (Kap 19). Zwei Haken schwaechen einander.
+
+*Loesung -- sie sind verschiedene Dinge und werden getrennt gehalten:*
+- **(a) ist der PLOT-Haken** und steht am Ende von Kap 18. Er meint die
+  **mitgenommenen** Muenzen (Gruppe A, `Author_Info.md`).
+- **(b) ist der EMOTIONALE Schluss**, kein Haken: Das Wappen von Eichenhain hat
+  vier Symbole -- und **das fuenfte fehlt.** Die Familie, die geblieben ist,
+  steht nicht darauf. Das ist keine offene Frage, sondern ein stiller Vorwurf
+  an das eigene Dorf.
+
+------------------------------------------------------------------------
+
+### Kapitel 16 -- Die Namen auf den Steinen
+**Tag 8 | Osthang + Friedhof | Pegel C | Ziel: ~950 Woerter | 2 Szenen**
+
+*(Bewusst das kuerzeste Kapitel des Buchs -- es ist ein Aufstieg und eine
+Entdeckung. Sein Gewicht bekommt Kap 17.)*
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Gasthof -> Fuss des Osthangs | Loest den Cliffhanger: Der Talgrund ist weg, es geht nur noch ueber den Hang. **WINTER (Fix Befund F):** Er bietet an mitzukommen -- **und stoppt sich selbst.** Er sieht den Hang: steil, rutschig, und er ist alt. Niemand haelt ihn zurueck. **Neun Tage Archiv, kein Blatt -- und jetzt auch das nicht.** Der Aufstieg: muehsam, Zeit laeuft weg. Ohne Nele. |
+| 2 | Der Friedhof | **DER NEUE HINWEIS (Fix Problem 1):** Grabsteine mit den vier Familiennamen -- **und Jahreszahlen.** Ben liest laut vor und rechnet. **Alle vier Namen hoeren im selben Jahr auf.** Der Name Ahrens geht weiter: die naechste Generation, die uebernaechste, bis heute. **Der Tiefpunkt der Beweislage:** Es sieht aus, als haetten die vier das Dorf verlassen und nie zurueckgeblickt. Mila sagt es aus: *"Vielleicht hatten sie recht."* |
+
+> **Cliffhanger:** Unter ihnen legt ein Ruderboot an. **Nele steigt aus.
+> Allein. Mit einem Seil.**
+
+**Pruefzeilen:**
+- Loest Kap-15-Cliffhanger: ja, Szene 1
+- **Neuer Hinweis: die Jahreszahlen** -- und er spricht GEGEN die vier
+- Mini-Entscheidung: trotzdem hinaufsteigen, obwohl der Beweis fehlt
+- Ben-Moment: er liest die Steine laut und rechnet (sein Zaehlen aus Kap 8)
+- **Wachpunkt Ton:** Ein Friedhof in einem Kinderbuch -- **nicht gruselig, nicht
+  traurig, sondern still.** Es geht um Namen und Zahlen, nicht um Tote.
+  Kein Nebel, keine schiefen Kreuze. Sonnenlicht.
+- **Wachpunkt:** Milas Satz *"Vielleicht hatten sie recht"* ist der tiefste Punkt
+  des Buchs. **Er muss stehen bleiben duerfen** -- niemand widerspricht ihm.
+
+------------------------------------------------------------------------
+
+### Kapitel 17 -- Der Stein
+**Tag 8 | Suedbucht + Seebruck | Pegel C -> D | Ziel: ~1.500 Woerter | 4 Szenen**
+
+*(Das schwerste Kapitel des Buchs: zwei Schauplaetze, vier Beats. Deshalb steht
+Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Friedhof, Nele kommt herauf | Loest den Cliffhanger: Sie hat es sich anders ueberlegt. **MILAS ENTSCHEIDUNG (Fix Problem 2):** Nicht Jonas entscheidet, ob Nele mitkommt -- **Mila.** Sie war die am staerksten Betrogene, und sie hat in Kap 10 zugestimmt. Ihr "Meinetwegen" von damals bekommt hier sein Gegenstueck. **Sie sagt nicht viel** -- sie geht los und laesst Nele mitkommen. |
+| 2 | Suedbucht, Abstieg | Nele fuehrt sie vom Friedhof nach **Sueden**, den Hang entlang, in die Bucht, in die nie jemand geht (Geografie-Saat aus Kap 7). **Das Seil wird gebraucht** -- der Hang ist zu steil. Sie hat es mitgebracht, **weil sie wusste, was sie vorhat.** |
+| 3 | Am Stein | **Und jetzt zahlt der Verrat:** Der Stein steht bereits im Wasser. Waeren sie an Tag 5 gekommen, haetten sie ihn trocken ablesen koennen. Jetzt: Schlamm und Wasserpflanzen wegraeumen, **die Vertiefungen blind ertasten.** **BENS STOCK, Stufe 3** -- **Nele fordert ihn dazu auf** (sie hat in Kap 14 gefragt, was er da tut). Dann: **vier Symbole, eine Jahreszahl, vier leere Vertiefungen.** *"Sie sind zurueckgekommen. Sie standen genau hier."* Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."* **JONAS versteht, warum leer:** Sie konnten das Pfand nicht zurueckgeben -- es war niemand mehr da. Sie haben es behalten. *"Deshalb war meine Muenze noch in Eichenhain."* **Der Stein ist unvollendet.** |
+| 4 | Seebruck, abends | Nele sagt *"Ich kann das meiner Oma nicht sagen"* -- **und geht dann doch hin.** Ihr erster mutiger Akt, mit dem Beweis in der Hand. Grossmutter Ahrens hoert zu. **Und bleibt stehen:** *"Sie haben einen Stein gesetzt. Fuer sich selbst. Ein schlechtes Gewissen ist noch kein gehaltenes Wort."* |
+
+> **Cliffhanger:** Ein Wort. **"Nein."**
+
+**Pruefzeilen:**
+- Loest Kap-16-Cliffhanger: ja, Szene 1
+- Neuer Hinweis: der Gedenkstein -- der zweite Beweis
+- **Mini-Entscheidung: Milas** (Nele mitnehmen) -- die schwerste des Akts
+- Ben-Moment: **der Stock-Payoff** (Szene 3), Auszahlung ueber drei Baende
+- **Wachpunkt Laenge:** Vier Beats in 1.500 Woertern. **Szene 2 (Abstieg) so
+  kurz wie moeglich** -- sie ist Weg, nicht Inhalt. Wenn gestrafft werden muss,
+  dann dort.
+- **Wachpunkt Grossmutter:** Ihr "Nein" muss dem Leser **leidtun.** Sie ist
+  keine Gegnerin -- sie ist eine alte Frau, der man gerade sagt, dass das, was
+  ihre Familie ausmacht, auf einem Irrtum steht. **Und sie hat sachlich recht.**
+- **Wachpunkt:** Das "Nein" muss eine **Nacht** stehen bleiben (Outline 0.6).
+  Sonst kippen 300 Jahre auf Seite drei statt auf Seite eins.
+
+------------------------------------------------------------------------
+
+### Kapitel 18 -- Was man zurueckgibt
+**Tag 9 | Seebruck + Bucht | Pegel D | Ziel: ~1.400 Woerter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Gasthof, Morgen | Loest den Cliffhanger: Die Nacht ist vergangen, das "Nein" steht. Bedrueckte Stimmung. **Letzter Tag** -- das Wasser steigt, sie packen. Winter sagt wenig. |
+| 2 | Haus der Ahrens | **NELES GROESSTE SZENE.** Sie kommt nicht mit dem Stein, sondern mit dem **Kaestchen**: *"Wir haben sie dreihundert Jahre aufgehoben, Oma. Warum hebt man ein Andenken an Verraeter auf?"* **Kein neuer Beweis** -- eine Handlung ihrer eigenen Familie. Langes Schweigen. Dann holt die alte Frau ihre Jacke. **Der Beweis hat sie nicht umgestimmt. Ihre Enkelin hat es.** |
+| 3 | Die Bucht, per Boot | Der Stein ist zu Fuss nicht mehr erreichbar. **Sie fahren mit Neles Ruderboot** -- das Boot, das am Anfang ihr Vorsprung und ihre Abgrenzung war, bringt jetzt alle gemeinsam hin. Leute aus Seebruck in weiteren Booten. **Jonas taucht die Hand ins Wasser und legt seine Muenze in die erste Vertiefung.** Dreihundert Jahre zu spaet, aber zurueckgegeben -- **die unvollendete Geste ist vollendet.** Grossmutter Ahrens legt ihre daneben. **WINTERS AUSZAHLUNG:** Sie gibt ihm die Hand. Dem Mann, dessen Name hier dreihundert Jahre Verrat bedeutet hat. **Kein grosser Satz dazu** -- im Hintergrund von Neles Szene, nicht daneben. **MESSPUNKT 4 (durch Abwesenheit):** Jonas sucht den Turm und findet ihn fast nicht mehr. Nur das Steinkreuz. Und **der dunkle Rand aus Kap 4 ist zum Greifen nah.** |
+
+> **Cliffhanger (letzter):** Am Abend ist der Stein nicht mehr zu sehen.
+> Sternbach ist wieder im See. Und Mila fragt: **"Und die anderen drei
+> Muenzen?"**
+
+**Pruefzeilen:**
+- Loest Kap-17-Cliffhanger: ja, Szene 1 (die Nacht ist vergangen)
+- **Mini-Entscheidung:** Jonas gibt die Muenze her -- seinen Band-3-Gegenstand
+- Ben-Moment: Humor beim Bootfahren (er sitzt ungern in Booten)
+- **Wachpunkt Milas Frage:** Sie meint die **mitgenommenen** Muenzen (Gruppe A,
+  `Author_Info.md`) -- **nicht** die zurueckgelassenen aus Kap 13. Beim Schreiben
+  sauber trennen, sonst liest es sich wie eine Wiederholung.
+- **Wachpunkt:** Winters Handschlag darf Neles Szene nicht ueberdecken. **Ein
+  Satz, kein Absatz.**
+- **Wachpunkt Ton:** Kein Triumph. Niemand jubelt. Es ist eine Rueckgabe, keine
+  Schatzfindung -- und der Ort geht dabei verloren.
+
+------------------------------------------------------------------------
+
+### Kapitel 19 -- Epilog: Zurueck in Eichenhain
+**~2 Wochen spaeter, letzte Ferientage | Eichenhain | Ziel: ~1.100 Woerter | 3 Szenen**
+
+*(Kein Cliffhanger -- nachhallender Schluss wie Band 3.)*
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Herrenhaus | **Letzte Ferientage**, noch Sommer (nicht Herbst -- Band 4 begann in den Ferien). Winter haengt das Pergament auf. **Die Luecke ist gefuellt**, die Herkunft steht fest. Holzer, Meier, Krueger, Frau Wenzel -- alle wieder da, jeder ein, zwei Saetze. |
+| 2 | Am Brunnen | **Ein Brief von Nele.** Sie schreibt, wie es am See aussieht, jetzt wo das Wasser wieder steht. *(Ob sie nach Eichenhain kommt, bleibt offen -- Band 5.)* Die Muenze ist nicht mehr in Jonas' Tasche, **und das fuehlt sich richtig an.** **JONAS' AUSZAHLUNG -- ein Satz, nicht mehr:** *Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet.* **Kein Absatz darueber, keine Erklaerung.** |
+| 3 | Blick auf das Wappen | **Der emotionale Schluss (nicht der Plot-Haken):** Vier Symbole -- Baum, Kreuz, Ring, Blume. **Und jetzt weiss man, dass eins fehlt.** Die Familie, die geblieben ist, steht nicht darauf. *Ein stiller Vorwurf an das eigene Dorf, keine offene Frage.* |
+
+**Pruefzeilen:**
+- **KEIN Cliffhanger** (wie Band 3, Kap 19)
+- Ben-Moment: Humor, der traegt -- der letzte Ton des Buchs gehoert ihm
+- **Wachpunkt Jonas:** Der Satz steht und geht weiter. **Keine Erklaerung
+  darueber, was Zugehoerigkeit bedeutet** -- sonst Erwachsenenprosa (Outline 0.10)
+- **Wachpunkt:** Vier Nebenfiguren in Szene 1. **Je ein bis zwei Saetze**, keine
+  Szene fuer jeden (CLAUDE.md: nicht zu viele Nebenfiguren auf einmal)
+- **Wachpunkt Band-5-Sperre:** Keine weitere Muenze wird gefunden. Milas Frage
+  aus Kap 18 bleibt **unbeantwortet** (`Serienbogen_Band4_5.md` Abschnitt 3)
+
+------------------------------------------------------------------------
+
+## Akt-4-Bilanz
+
+| Kapitel | Woerter | Szenen | Tag | Pegel |
+|:-------:|:-------:|:------:|:---:|:-----:|
+| 16 | 950 | 2 | 8 | C |
+| 17 | 1.500 | 4 | 8 | C -> D |
+| 18 | 1.400 | 3 | 9 | D |
+| 19 | 1.100 | 3 | +2 Wo. | E |
+
+- **Summe Akt 4: ~4.950 Woerter** (nur 4 Kapitel)
+- Szenenzahl 2/4/3/3 -- die groesste Streuung aller Akte
+- **Gewicht bewusst verteilt:** Kap 16 ist das kuerzeste Kapitel des Buchs (950),
+  Kap 17 das laengste (1.500). Sie stehen direkt nebeneinander.
+- Tag/Pegel stimmen mit `Story_Outline.md` 2b ueberein
+
+### GESAMT-BILANZ (alle 19 Kapitel)
+
+| Akt | Kapitel | Woerter |
+|:---:|:-------:|--------:|
+| 1 | 1-5 | ~6.290 |
+| 2 | 6-10 | ~6.160 |
+| 3 | 11-15 | ~6.550 |
+| 4 | 16-19 | ~4.950 |
+| **Summe** | **19** | **~23.950** |
+
+> **BEFUND -- knapp ueber dem Ziel.** `PLAN_Band4.md` nennt 21.000-23.000.
+> ~23.950 liegt **rund 1.000 Woerter darueber.**
+>
+> **Kein Grund zu kuerzen, aber ein Grund zu wissen, wo:** Beim Schreiben sind
+> **Kap 3 (1.480)** und **Kap 13 (1.500)** die ersten Kandidaten -- beide stehen
+> an der Fenster-Obergrenze und beide tragen bereits einen Straffungs-Vermerk.
+> Zusammen mit Kap 14 (das Richtung 1.000 soll) ergibt das die Reserve.
+>
+> **NICHT kuerzen:** Kap 17 (1.500) -- das Gewicht dort ist Absicht.

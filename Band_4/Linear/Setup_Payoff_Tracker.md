@@ -79,7 +79,9 @@
 | 21c | **Winter bietet an, den Osthang mitzugehen -- und stoppt sich selbst** | 16 | Umkehrung zu Band 3 (dort rettete er das Finale). Bitter durch 21b: neun Tage nichts, und jetzt auch das nicht | 16 | geplant |
 | 22 | **Jonas nimmt die Ausrede nicht** ("ich bin da erst seit einem Jahr") | 6 | "Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet." | 19 | geplant |
 | 23 | **Winters Satz "Ich war nicht der Erste"** (aus Band 3, wiederholt) | 2 | Die Familie Ahrens sucht seit Generationen | 6/12 | geplant |
-| 24 | **Wappen mit vier Symbolen** (Serienkanon seit Band 2) | lfd. | "Und jetzt weiss man, dass eins fehlt" -> Band-5-Hook | 19 | geplant |
+| 24 | **Wappen mit vier Symbolen** (Serienkanon seit Band 2) | lfd. | **Das fuenfte fehlt** -- die Familie, die geblieben ist, steht nicht darauf. **Emotionaler Schluss, KEIN Plot-Haken** (der ist Milas Frage in Kap 18 -- getrennt halten) | 19 | geplant |
+| 25 | **Grabstein-Jahreszahlen:** die vier Namen hoeren im selben Jahr auf, Ahrens geht weiter | 16 | **Tiefpunkt der Beweislage** -- spricht GEGEN die vier. Macht den Gedenkstein zur Umkehr statt zu einem blossen Fund | 17 | geplant |
+| 26 | **Milas "Meinetwegen"** beim Waffenstillstand | 10 | **Sie entscheidet in Kap 17, Nele mitzunehmen** -- die am staerksten Betrogene vertraut ein zweites Mal. Schliesst ihren Bogen | 17 | geplant |
 
 ------------------------------------------------------------------------
 

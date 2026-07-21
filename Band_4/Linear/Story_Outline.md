@@ -742,11 +742,26 @@ vollstaendig: Der Mann, der dort das Finale rettete, bleibt hier unten stehen.
 nichts gefunden -- und jetzt auch das nicht.
 *(Erste Fassung: "wird zurueckgehalten -- das hier gehoert den Kindern". War
 unsympathisch: drei Kinder weisen einen alten Mann ab.)*
-Der Friedhof: Grabsteine mit vier Namen -- und immer wieder Ahrens.
+**DER NEUE HINWEIS -- der Friedhof zeigt ZEIT (Akt-4-Planung):** Grabsteine mit
+den vier Familiennamen, **und Jahreszahlen.** Ben liest vor und rechnet:
+**Alle vier Namen hoeren im selben Jahr auf. Der Name Ahrens geht weiter** --
+Generation um Generation, bis heute.
+**Das ist der Tiefpunkt der Beweislage:** Es sieht aus, als haetten die vier das
+Dorf verlassen und nie zurueckgeblickt. **Mila sagt es aus: *"Vielleicht hatten
+sie recht."*** Niemand widerspricht.
+*(Erste Fassung las nur dieselben vier Namen wie in Kap 8 -- Wiederholung statt
+Entdeckung. Jetzt spricht der Hinweis GEGEN die vier, und der Stein in Kap 17
+wird dadurch zur Umkehr statt zu einem blossen Fund.)*
 > **Cliffhanger:** Ein Ruderboot legt unter ihnen an. Nele steigt aus.
 > Allein. Mit einem Seil.
 
 **Kapitel 17 -- Der Stein** *(Tag 8, Pegel C -> D)*
+**MILAS ENTSCHEIDUNG (Akt-4-Planung):** Nicht Jonas entscheidet, ob Nele
+mitkommt -- **Mila.** Sie war die am staerksten Betrogene, und sie hat in Kap 10
+zugestimmt. **Ihr "Meinetwegen" von damals bekommt hier sein Gegenstueck:**
+Sie sagt nicht viel, sie geht los und laesst Nele mitkommen.
+*(Schliesst ihren Bogen: vertraut (10) -> wird enttaeuscht (15) -> vertraut
+nochmal. Das dritte Mal stand vorher nirgends.)*
 Zu fuenft. Nele fuehrt sie **vom Friedhof aus nach Sueden**, den Hang entlang in
 die Bucht, in die nie jemand geht -- die Stelle, die sie verschwiegen hat. Ihre
 Wiedergutmachung, und sie kostet sie alles.
@@ -819,7 +834,12 @@ fuehlt sich richtig an.
 **JONAS' AUSZAHLUNG -- ein Satz, nicht mehr:**
 *Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet.*
 Kein Absatz darueber, keine Erklaerung. Der Satz steht und geht weiter.
-Der Blick auf das Wappen: vier Symbole -- und jetzt weiss man, dass eins fehlt.
+**Der emotionale Schluss -- KEIN zweiter Plot-Haken (Akt-4-Planung):**
+Der Blick auf das Wappen: vier Symbole -- Baum, Kreuz, Ring, Blume. **Und jetzt
+weiss man, dass eins fehlt.** Die Familie, die geblieben ist, steht nicht
+darauf. *Ein stiller Vorwurf an das eigene Dorf, keine offene Frage.*
+*(Der PLOT-Haken ist Milas Frage am Ende von Kap 18 -- die drei mitgenommenen
+Muenzen. Die beiden werden getrennt gehalten, sonst schwaechen sie einander.)*
 **KEIN Cliffhanger** -- nachhallender Schluss, wie Band 3.
 
 ------------------------------------------------------------------------
@@ -829,7 +849,7 @@ Der Blick auf das Wappen: vier Symbole -- und jetzt weiss man, dass eins fehlt.
 | Figur | Akt 1 | Akt 2 | Akt 3 | Akt 4 |
 |-------|-------|-------|-------|-------|
 | Jonas | Wird gerufen, ist stolz | **Nimmt die Ausrede nicht** (Kap 6) -- er koennte sagen "ich bin erst seit einem Jahr da" | Liest eine Person statt einer Spur (Kap 14) | Gibt die Muenze zurueck. Und: "Er hatte einfach geantwortet" (Kap 19) |
-| Mila | Draengt wie immer. **Loest das Symbol** (Kap 5) | **Ihr Akt:** wird zornig ueber den Vorwurf (6, sie ist verwurzelt), findet den Abstieg (7), **erkennt die Familienzeichen** (8), Schlagabtausch mit Nele (9), **vertraut trotzdem** (10) | Vertraut -- und wird enttaeuscht (Kap 15) | Vertraut nochmal (das ist der Mut) |
+| Mila | Draengt wie immer. **Loest das Symbol** (Kap 5) | **Ihr Akt:** wird zornig ueber den Vorwurf (6, sie ist verwurzelt), findet den Abstieg (7), **erkennt die Familienzeichen** (8), Schlagabtausch mit Nele (9), **vertraut trotzdem** (10) | Sieht Neles Ablenkung und schweigt (12) -- und wird enttaeuscht (15). Ihr Zorn gilt dem eigenen Schweigen | Spricht den Tiefpunkt aus (*"Vielleicht hatten sie recht"*, 16). **Und entscheidet, Nele mitzunehmen** (17) -- ihr "Meinetwegen" von Kap 10 bekommt sein Gegenstueck |
 | Ben | Angst vor der Reise (**Kap 2**), Stock-Skepsis am Schlamm (**Kap 4**), **Keim: die Pfandflasche** (Kap 5) | Erklaert den Ablass (3), redet als erster mit Nele (9, Herz) | Beinahe (12), dann **Signature: begreift, was ein Pfand ist** (13) | **Tastet mit dem Stock nach den Vertiefungen** (17) -- Auszahlung von Kap 4. Humor, der traegt |
 | Nele | Hindernis | **Blockiert die Tuer** (9), gibt sie frei (10) -- Verbuendete auf Probe | Irrefuehrerin aus Angst | Fuehrt sie hin -- **scheitert** bei der Oma (17), **ueberzeugt sie** am naechsten Morgen (18). Ihre groesste Szene |
 | Grossmutter Ahrens | Huetet die Geschichte (ab Kap 6) | Unbeirrbar, gastfreundlich | Erster Riss: wird still, als die Muenzen passen (12) | Verteidigt sich mit "Nein" (17), gibt nach -- wegen ihrer Enkelin, nicht wegen des Steins (18) |
