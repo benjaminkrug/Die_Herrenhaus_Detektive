@@ -939,7 +939,7 @@ vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | An der Muehle, direkt weiter | Loest den Cliffhanger ohne Pause: **Sie gibt es zu.** Seit Wochen weiss sie von etwas am Osthang -- **in der suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen Felsen. **Vom Boot aus gesehen**, in flachem Licht; von Land ist dort nur ein verwitterter Block. **Das konnte niemand ausser ihr wissen.** **UND WARUM SIE NIE NACHGESEHEN HAT:** Die Bucht ist zum Anlanden zu steil, von oben kommt man nur mit einem Seil hinunter -- **das haelt niemand allein.** Sie konnte die Stelle **sehen und nicht erreichen.** |
+| 1 | An der Muehle, direkt weiter | Loest den Cliffhanger ohne Pause: **Sie gibt es zu.** Seit Wochen weiss sie von etwas am Osthang -- **in der suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen Felsen. **Vom Boot aus gesehen**, in flachem Licht; von Land ist dort nur ein verwitterter Block. **Das konnte niemand ausser ihr wissen.** **UND WARUM SIE NIE NACHGESEHEN HAT -- zwei Gruende, keiner davon Physik:** (a) Bei Tiefstand lag die Kante **weit ueber** ihr an einer steilen Boeschung -- vom Boot aus kam sie nicht hinauf, und von oben braucht man ein Seil und jemanden, der weiss, wo man ist. (b) **Sie wusste gar nicht, ob es etwas IST.** Von unten sah sie eine Kante. **Fuer ein Vielleicht klettert man da nicht allein hinunter.** Sie konnte die Stelle **sehen und nicht erreichen.** |
 | 2 | Ebenda | **Warum sie geschwiegen hat** -- und es ist kein Boesewicht-Grund: Wenn die vier zurueckgekommen sind, dann hat ihre Familie dreihundert Jahre lang etwas Falsches erzaehlt. Ihre Grossmutter. Ihre Urgrossmutter. **Alle.** *"Und dann ist alles, was wir sind, nur ein Irrtum."* Sie laeuft weg. |
 | 3 | Am Ufer, Rest des Tages | **Milas Moment -- und ihr Preis:** Sie ist wuetender, als sie zugeben will. Nicht wegen der verlorenen Tage. **Weil sie es gesehen hat** (Kap 12) und nichts gesagt hat. Sie hat sich an den Waffenstillstand gehalten, und das war der Fehler. *(Sie sagt das nicht -- Ben spricht es aus, und sie widerspricht nicht.)* |
 
@@ -966,9 +966,33 @@ sucht den ganzen Sommer. **Warum ist sie nie hingefahren?**
 nur *eine Kante, zu gerade fuer einen Felsen* -- das konnte alles Moegliche sein.
 **Ein Kind, das den ganzen Sommer sucht, faehrt hin und schaut nach.**
 
-*Die richtige Antwort ist koerperlich:* **Sie kam nicht hin.** Die Bucht ist zum
-Anlanden zu steil; von oben geht es nur mit einem Seil, **und das haelt niemand
-allein.**
+*Die richtige Antwort:* **Sie kam nicht hin -- aus zwei Gruenden, von denen
+keiner Physik behauptet.**
+
+**(a) Die Pegel-Geometrie.** Bei Tiefstand (als sie sie sah) lag die Kante
+**weit ueber** ihr an einer steilen Boeschung. Vom Boot kam sie nicht hinauf;
+von oben braucht es ein Seil und jemanden, der weiss, wo man ist.
+
+**(b) Sie wusste nicht, ob es etwas IST.** Von unten sah sie nur eine Kante.
+**Fuer ein Vielleicht klettert ein Kind da nicht allein hinunter.**
+
+> **PEGEL-GEOMETRIE, gegengeprueft -- kein Widerspruch zur Bootsfahrt in Kap 18:**
+>
+> | Zeitpunkt | Pegel | Lage des Steins |
+> |---|:---:|---|
+> | Neles Sichtung, vor Wochen | A | **weit ueber** dem Wasser, oben am Hang |
+> | Kap 17 | C -> D | Wasser steht **am** Stein -- von oben mit dem Seil |
+> | Kap 18 | D | Wasser steht **ueber** dem Stein -- das Boot schwimmt darueber, Jonas greift hinein |
+>
+> *(Erste Fassung schrieb "die Bucht ist zum Anlanden zu steil". Sachlich war das
+> nicht falsch, aber es benannte das Falsche -- das Problem war nie das Anlanden,
+> sondern der Aufstieg. Und es haette sich beim Schreiben wie ein Widerspruch zu
+> Kap 18 gelesen.)*
+>
+> *(Ebenfalls korrigiert: "das haelt niemand allein" war zu absolut -- ein Kind
+> koennte ein Seil an einen Baum binden. Ueberzogene Behauptungen laden zum
+> Widerspruch ein. Grund (b) traegt besser, weil er nichts Unmoegliches
+> behauptet, sondern kindliche Logik ist.)*
 
 > **Damit wird ihr Kernsatz aus Kap 10 woertlich:**
 > *"Ihr seid zu dritt. Ich bin allein. Deshalb habe ich geschrieben."*

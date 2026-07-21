@@ -725,8 +725,11 @@ suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen
 Felsen. **Sie hat sie vom Boot aus gesehen**, in flachem Licht -- von Land ist
 dort nur ein verwitterter Block zu sehen. Genau das konnte niemand ausser ihr
 wissen (siehe A1 in 0.2).
-**Und warum sie nie nachgesehen hat:** Die Bucht ist zum Anlanden zu steil, von
-oben kommt man nur mit einem Seil hinunter -- **das haelt niemand allein.**
+**Und warum sie nie nachgesehen hat -- zwei Gruende:** (a) Bei Tiefstand lag die
+Kante **weit ueber** ihr an einer steilen Boeschung -- vom Boot kam sie nicht
+hinauf, von oben braucht es ein Seil und jemanden, der weiss, wo man ist.
+(b) **Sie wusste gar nicht, ob es etwas IST** -- von unten war es nur eine Kante,
+und fuer ein Vielleicht klettert man da nicht allein hinunter.
 Sie konnte die Stelle **sehen und nicht erreichen.**
 *(Damit wird ihr Satz aus Kap 10 woertlich: "Ihr seid zu dritt. Ich bin allein.
 Deshalb habe ich geschrieben." Sie schrieb wegen DIESER Stelle -- und bekam dann
