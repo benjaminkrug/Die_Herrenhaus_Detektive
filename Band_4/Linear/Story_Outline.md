@@ -604,6 +604,10 @@ Milas schwerster Moment -- jemandem vertrauen, der schneller ist als sie;
 **Das Zugestaendnis ist konkret (B9): Nele gibt die Tuer frei.** Morgen duerfen
 sie ins fuenfte Haus.
 Zwei Tage bis zur Schliessung.
+**WINTER, ein Satz (Fix Befund F):** Abends am Gasthof kommt er spaet zurueck --
+Gemeindearchiv, Kirchenbuecher. **Nichts.** Er sucht seit Tag 3 nach dem Wort
+*Sternbach* in Papieren; **die Kinder haben ihm den Namen geliefert** (Kap 5).
+Etabliert das Muster, damit die Szene in Kap 14 nicht aus dem Nichts kommt.
 > **Cliffhanger:** Nachts ein Geraeusch am Fenster -- die ersten Regentropfen
 > seit Wochen. Nur ein paar. Aber der Sommer bricht.
 
@@ -620,6 +624,12 @@ Nele erzaehlt die Familiengeschichte, wie ihre Grossmutter sie erzaehlt.
 Jonas merkt: **Jedes Detail stimmt. Nur die Deutung nicht.**
 **MESSPUNKT 2 (im Nebensatz, waehrend sie graben):** Das Kirchendach ist weg.
 Nur noch der Turm. Niemand kommentiert es.
+**MILA findet die Nische** (sie raeumt Schlamm weg, weil ihr die Form nicht
+gefaellt). **STUFE 1 DER IRREFUEHRUNG (neu, Akt-3-Planung):** Jonas will danach
+weitersuchen -- **Nele bricht ab** (*"Da ist nichts mehr. Ich war hundertmal
+hier."*) und bietet stattdessen an, sie zu ihrer Grossmutter zu bringen.
+**Klingt fuersorglich, ist Ablenkung.** *(Schliesst die Luecke, warum das
+fuenfte Haus nie zu Ende durchsucht wird.)*
 > **Cliffhanger:** In der Nische, unter Schlamm: ein Steinblock mit vier
 > ausgesparten Vertiefungen. Alle vier sind leer.
 
@@ -643,12 +653,23 @@ nichts. Ein Satz, mehr nicht. (Stufe 2 von 0.9.)
 > zwei Haelften. Grossmutter Ahrens wird sehr still.
 
 **Kapitel 13 -- Was ein Pfand ist** *(Tag 6, Pegel A -> B)*
-**Bens Signature-Moment (Auszahlung von 0.9, Stufe 3):** Das Wort faellt ihm
-wieder ein -- sein eigenes, aus dem Gasthof.
+**Der erste Muehlentag wird GEZEIGT, nicht erwaehnt** (Akt-3-Planung): Sie
+graben und suchen den ganzen Vormittag an der Muehle -- und finden nichts.
+*(Sonst waeren Kap 12 und 13 zwei reine Gespraechskapitel in Folge.)*
+**Bens Signature-Moment (Auszahlung von 0.9, Stufe 3) faellt IM SCHLAMM**, nicht
+am Tisch -- er sitzt in der Pause auf einem Stein und sagt es beilaeufig.
+Das Wort faellt ihm wieder ein -- sein eigenes, aus dem Gasthof.
 *"Zwei Muenzen. Eine hier, eine dort. Das ist kein Abschied. Das ist ein Pfand."*
 Und: **Ein Pfand gibt niemand, der weglaeuft.** Ein Pfand gibt man, wenn man
 wiederkommen will. Zwei Muenzen heissen: ein Versprechen, von beiden Seiten.
 *(Wichtig: Er zitiert sich selbst, ohne es zu merken -- Mila darf es bemerken.)*
+**Der Gedanke wird zu Ende gedacht (Fix Befund D):** Wenn Muenzen Pfaender
+sind -- **wofuer war dann der Steinblock mit den vier Vertiefungen?** Die Kinder
+deduzieren es selbst: Vier Familien, vier Pfaender, verwahrt bei denen, die
+geblieben sind. **Der Block ist der Ort, an dem die Pfaender lagen** (und das
+erklaert, warum das fuenfte Haus groesser ist). Die Grossmutter bestaetigt es
+mit dem Familienwissen: Man nahm mit, was zu tragen war; ueber Generationen ging
+alles verloren bis auf ihr eines Stueck.
 Aber Grossmutter Ahrens kontert, und sie hat recht: Ein Versprechen ist noch
 kein gehaltenes Versprechen. **Wo waren sie dann?**
 **Fix A4:** Dieser Tag ist zugleich der ERSTE Muehlen-Tag -- sie suchen dort
@@ -658,13 +679,32 @@ laeuft abends. Sonst stimmt "zwei Tage verloren" in Kap 14 nicht.
 > hatten -- das Rauschen am Ablass. **Das Wehr ist zu. Ab jetzt steigt es.**
 
 **Kapitel 14 -- Die Muehle** *(Tag 7, Pegel B)*
+**WINTERS SZENE (Fix Befund F) -- sie IST die Cliffhanger-Aufloesung:**
+Morgens am Gasthof bestaetigt Winter, was sie nachts gehoert haben: Der Ablass
+ist zu, die Gemeinde hat es amtlich. **Reine Verwaltungsauskunft, kein Hinweis.**
+Dann fragt er, wie es laeuft. Ben setzt an -- **Jonas sagt "gut".**
+*(Motiv: Sie haben nichts Vorzeigbares. Kinder berichten nicht, solange sie
+nichts haben. Kein Misstrauen noetig.)*
+Und er selbst? **Neun Tage Archiv, kein einziges Blatt.** Der Name wurde
+getilgt -- **die Antwort steht in keinem Papier.**
 **Zweiter** Muehlen-Tag (der erste war Tag 6, siehe Kap 13 -- Fix A4). Damit
 sind es tatsaechlich zwei verlorene Tage. Nichts gefunden,
-und die Muehle steht schon knoecheltief. Frust, Streit, Zeitverlust.
+und die Muehle steht schon knoecheltief.
+**KEINE Wiederholung von Tag 6 (Fix Befund E):** Sie **teilen sich auf** (vier
+Kinder, vier Abschnitte), und die Suche ist eine andere -- knoecheltief heisst
+tasten statt sehen. **Bens Stock, Stufe 2:** Er tastet den Grund ab wie Holzer
+im Wald (Kap 4) -- **die Technik funktioniert, findet aber nichts.** Nele fragt,
+was er da tut *(dadurch weiss sie es in Kap 17)*.
+**Das Kapitel bleibt kurz** -- ein Tag, der nichts bringt, darf sich nicht
+ausbreiten.
 **MESSPUNKT 3 (als Witz, der kippt):** Ben albert ueber den Turm -- "der schrumpft
 ja" -- und mitten im Satz hoert er selbst auf. Der Turm steht nur noch bis zum
 Schallfenster. Es ist ploetzlich nicht mehr lustig.
-Jonas faellt auf, dass Nele nicht sucht, sondern zusieht.
+**Und die Aufteilung macht es SICHTBAR:** Auf dem Rueckweg kommt Jonas an den
+Abschnitten der anderen vorbei -- umgedrehte Steine bei Mila, eine Spur aus
+Stockloechern bei Ben. **Neles Abschnitt ist glatt. Kein Fussabdruck.**
+Er rechnet zurueck: das Haus (11), der Osthang (12), jetzt hier -- **dreimal
+dasselbe Muster.**
 > **Cliffhanger:** Jonas, ruhig: "Du wolltest gar nicht, dass wir hier suchen.
 > Du wolltest, dass wir NICHT woanders suchen."
 
@@ -680,7 +720,9 @@ wissen (siehe A1 in 0.2).
 Sie hat geschwiegen, **weil sie Angst hatte, dass ihre Grossmutter unrecht hat**
 und dass dann alles, was ihre Familie ist, nicht mehr gilt.
 Sie laeuft weg. Mila bleibt zurueck und ist wuetender, als sie zugeben will --
-weil sie vertraut hat.
+**nicht wegen der verlorenen Tage, sondern weil sie es in Kap 12 GESEHEN und
+nichts gesagt hat.** Sie hat sich an den Waffenstillstand gehalten, und das war
+der Fehler. *(Sie sagt das nicht -- Ben spricht es aus, sie widerspricht nicht.)*
 > **Cliffhanger:** Der untere Talgrund steht unter Wasser. Der Weg ueber den
 > Hang ist ab morgen der einzige. Und es sind noch zwei Tage.
 
@@ -692,9 +734,15 @@ schon im Cliffhanger von Kap 15. Jetzt das Bild des Kapitels: der Friedhof.)*
 Ohne Nele. Aufstieg ueber den Osthang -- muehsam, rutschig, Zeit lauft weg.
 **Sie tun endlich das, was Jonas schon in Kap 12 vorgeschlagen hatte** und wovon
 Nele sie abgelenkt hat: die Namen auf den Grabsteinen lesen. (Schliesst A5.)
-Winter will helfen und wird zurueckgehalten: **das hier gehoert den Kindern**
-(bewusste Umkehrung zu Band 3, wo er rettete). Der Friedhof: Grabsteine mit
-vier Namen -- und immer wieder Ahrens.
+**Winter bietet an mitzukommen -- und stoppt sich selbst (Fix Befund F).**
+Er sieht den Hang und weiss es: steil, rutschig, und er ist alt. **Niemand haelt
+ihn zurueck, niemand muss grausam sein.** Die Umkehrung zu Band 3 bleibt
+vollstaendig: Der Mann, der dort das Finale rettete, bleibt hier unten stehen.
+**Und mit dem Archiv-Motiv wird es bitter statt bloss traurig:** neun Tage
+nichts gefunden -- und jetzt auch das nicht.
+*(Erste Fassung: "wird zurueckgehalten -- das hier gehoert den Kindern". War
+unsympathisch: drei Kinder weisen einen alten Mann ab.)*
+Der Friedhof: Grabsteine mit vier Namen -- und immer wieder Ahrens.
 > **Cliffhanger:** Ein Ruderboot legt unter ihnen an. Nele steigt aus.
 > Allein. Mit einem Seil.
 
@@ -711,9 +759,12 @@ bleiben.)*
 an Tag 5 gekommen, haetten sie ihn trocken ablesen koennen. Jetzt muessen sie
 Schlamm und Wasserpflanzen wegraeumen und die Vertiefungen **blind ertasten** --
 zu fuenft, mit kalten Haenden, gegen den steigenden Pegel.
-**AUSZAHLUNG Kap 4:** Ben findet sie -- mit dem Stock, wie er es seit dem
-Schlamm macht und wie Holzer es ihm im Wald vorgemacht hat. **Seine Angst vor
-unsicherem Grund ist zur Faehigkeit geworden.**
+**AUSZAHLUNG Kap 4 + 14 (Stufe 3):** Ben findet sie -- mit dem Stock, wie er es
+seit dem Schlamm macht und wie Holzer es ihm im Wald vorgemacht hat.
+**NELE fordert ihn dazu auf** -- sie hat in Kap 14 gefragt, was er da tut, und
+weiss deshalb, dass er es kann. *(Gibt ihrer Wiedergutmachung eine praktische
+Seite, statt dass sie nur den Weg zeigt.)*
+**Seine Angst vor unsicherem Grund ist zur Faehigkeit geworden.**
 Dann: vier Symbole, eine Jahreszahl, vier leere Vertiefungen.
 **Sie sind zurueckgekommen. Sie standen genau hier.**
 Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."*
@@ -782,7 +833,7 @@ Der Blick auf das Wappen: vier Symbole -- und jetzt weiss man, dass eins fehlt.
 | Ben | Angst vor der Reise (**Kap 2**), Stock-Skepsis am Schlamm (**Kap 4**), **Keim: die Pfandflasche** (Kap 5) | Erklaert den Ablass (3), redet als erster mit Nele (9, Herz) | Beinahe (12), dann **Signature: begreift, was ein Pfand ist** (13) | **Tastet mit dem Stock nach den Vertiefungen** (17) -- Auszahlung von Kap 4. Humor, der traegt |
 | Nele | Hindernis | **Blockiert die Tuer** (9), gibt sie frei (10) -- Verbuendete auf Probe | Irrefuehrerin aus Angst | Fuehrt sie hin -- **scheitert** bei der Oma (17), **ueberzeugt sie** am naechsten Morgen (18). Ihre groesste Szene |
 | Grossmutter Ahrens | Huetet die Geschichte (ab Kap 6) | Unbeirrbar, gastfreundlich | Erster Riss: wird still, als die Muenzen passen (12) | Verteidigt sich mit "Nein" (17), gibt nach -- wegen ihrer Enkelin, nicht wegen des Steins (18) |
-| Winter | Tueroeffner. **Sein Name laesst den Gasthof verstummen** (Kap 3) | Bei der Gemeinde gebunden | Ohnmaechtig zusehen -- **er ermittelt nicht, er ertraegt** | Haelt sich zurueck. Der Handschlag (Kap 18): sein Name bedeutet hier nicht mehr Verrat |
+| Winter | Tueroeffner. **Sein Name laesst den Gasthof verstummen** (Kap 3) | **Sucht ab Tag 3 in Archiven nach "Sternbach"** -- den Namen haben ihm die Kinder geliefert (5). Kommt jeden Abend leer zurueck (10) | **Neun Tage, kein einziges Blatt** (14). Der Name wurde getilgt -- die Antwort steht in keinem Papier. Er ermittelt nicht, er ertraegt | Bietet an, stoppt sich selbst am Hang (16). Der Handschlag (18): **die Archive gaben ihm nichts -- seinen Namen bekommt er von einem Menschen zurueck** |
 
 ## 5. Pflicht-Checks fuer diese Outline
 

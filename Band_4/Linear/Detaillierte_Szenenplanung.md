@@ -175,6 +175,11 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
   zu sein.
 - **Wachpunkt Erzaehlperspektive:** Ab hier darf der Erzaehler nie mehr wissen
   als Jonas. Das Wort "Kirchturm" faellt zuerst bei Ben.
+- **PFLICHT-SAAT fuer Kap 13 (Tracker 17c):** Das **Rauschen am Ablass** muss
+  hier einmal beilaeufig erwaehnt werden -- ein Geraeusch, das nachts durchs
+  offene Fenster kommt und zu dem Ort gehoert. **Nur so kann es in Kap 13
+  WEGFALLEN.** Ohne diese Saat funktioniert dort der Cliffhanger nicht.
+  Ein Halbsatz genuegt, keine Betonung.
 - **Wer treibt (Befund 2 behoben):** Der Wirt liefert die Information nicht mehr
   freiwillig -- warum sollte ein feindseliger Mann Fremden etwas erklaeren? Er
   laesst nur eine saeuerliche Bemerkung fallen; **die Kinder gehen selbst zum
@@ -634,3 +639,327 @@ nicht angefasst.**
 - **Jedes Kapitel hat einen Ben-Moment**, Kap 9 seinen wichtigsten
 - **Mila traegt vier von fuenf Kapiteln** mit -- Befund aus Akt 1 behoben
 - **Ein Cliffhanger-Fehler behoben** (Kap 6 -> 7, siehe dort)
+
+------------------------------------------------------------------------
+
+## AKT 3 -- DER BRUCH (Kapitel 11-15)
+
+### Was dieser Akt zu leisten hat
+
+Der dichteste Akt des Buchs. Vier Dinge muessen ineinandergreifen:
+
+1. **Der Fund** (Steinblock mit vier leeren Vertiefungen, Kap 11)
+2. **Das Muenzenpaar** (Kap 12) -- der halbe Beweis
+3. **Bens Signature-Moment** (Kap 13) -- die Deutung des Fundes
+4. **Der Verrat** (Kap 14/15) -- und der Countdown kippt
+
+**Der Akt-Bogen in einem Satz:** Sie kommen der Wahrheit naeher als je zuvor --
+und verlieren dabei zwei Tage, weil eine von ihnen Angst hat.
+
+### Zwei Probleme, die beim Planen auffielen (beide geloest)
+
+**Problem 1 -- Warum durchsuchen sie das fuenfte Haus nicht zu Ende?**
+In Kap 11 finden sie den Steinblock. Danach gehen sie zur Muehle und kommen nie
+zurueck. **Ein Ermittler, der einen Fund macht und den Ort dann verlaesst, ist
+unglaubwuerdig.**
+
+*Loesung -- es ist Neles Figur, nicht Zufall:* Nach dem Fund will Jonas
+weitersuchen. **Nele bricht ab** ("da ist nichts mehr, ich war hundertmal hier")
+und bringt sie stattdessen zu ihrer Grossmutter -- was ein echtes Angebot ist
+und deshalb nicht wie Ablenkung wirkt. **Es IST Ablenkung.**
+Damit hat sie drei abgestufte Eingriffe statt zwei:
+
+| Stufe | Kapitel | Was sie tut | Wie es wirkt |
+|:-----:|:-------:|-------------|--------------|
+| 1 | 11 | bricht die Suche im Haus ab | fuersorglich ("ich kenne den Ort") |
+| 2 | 12 | lenkt vom Osthang auf die Muehle | bestimmt (VORZEICHEN 2) |
+| 3 | 14 | laesst sie zwei Tage suchen und sagt nichts | passiv -- und das faellt auf |
+
+**Der Leser sieht dreimal dasselbe Muster und merkt es beim zweiten oder dritten
+Mal.** Genau das verlangt `Author_Info.md`: "oh nein", nicht "die war von Anfang
+an gemein".
+
+**Problem 2 -- Kap 13 hatte kein Ereignis.**
+Nur Bens Erkenntnis + die Gegenrede der Grossmutter, also zwei Gespraechsszenen
+in Folge nach dem Gespraechskapitel 12.
+
+*Loesung:* Der erste Muehlentag (Tag 6, laut Zeitleiste ohnehin dort) wird
+**gezeigt**, nicht erwaehnt. Bens Erkenntnis kommt IM Schlamm, waehrend sie
+etwas Sinnloses tun -- nicht am Tisch. Und der Kapitelschluss ist ein Geraeusch,
+das wegfaellt.
+
+------------------------------------------------------------------------
+
+### Kapitel 11 -- Das fuenfte Haus
+**Tag 5 | Sternbach | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Vor dem fuenften Haus, morgens | Loest den Regen-Cliffhanger sofort: Der Boden ist dunkel vom Nachtregen, mehr nicht -- **aber die Schwelle steht jetzt tiefer im Wasser als gestern.** Nele geht als Erste hinein. **Sie gibt die Tuer nicht nur frei, sie fuehrt.** |
+| 2 | Im fuenften Haus | Grundmauern, eine Treppe, die ins Nichts fuehrt, eine steinerne Nische. Nele erzaehlt beim Suchen die Familiengeschichte -- **wie ihre Grossmutter sie erzaehlt**, Wort fuer Wort. **Jonas merkt: Jedes Detail stimmt. Nur die Deutung nicht.** *(Kein Kommentar dazu -- er denkt es, sagt es nicht.)* **MESSPUNKT 2 (im Nebensatz, waehrend sie graben):** Das Kirchendach ist weg. Nur noch der Turm. Niemand kommentiert es. |
+| 3 | Die Nische | **Mila findet sie** -- sie raeumt Schlamm weg, weil ihr die Form nicht gefaellt. **STUFE 1 DER IRREFUEHRUNG:** Jonas will danach weitersuchen; **Nele bricht ab** -- *"Da ist nichts mehr. Ich war hundertmal hier."* Sie bietet stattdessen an, sie zu ihrer Grossmutter zu bringen. **Ein echtes Angebot -- und trotzdem Ablenkung.** |
+
+> **Cliffhanger:** In der Nische, unter dem Schlamm: ein Steinblock mit **vier
+> ausgesparten Vertiefungen**. Alle vier sind leer.
+
+**Pruefzeilen:**
+- Loest Kap-10-Cliffhanger (Regen): ja, Szene 1, erster Satz
+- Neuer Hinweis: der Steinblock
+- Mini-Entscheidung: mitgehen statt weitersuchen (**und es ist die falsche**)
+- Mini-Hindernis: die abgebrochene Suche
+- Ben-Moment: er will die Treppe hinauf, die nirgendwohin fuehrt (Humor)
+- **Mila findet die Nische** -- ihr Akt-2-Bogen laeuft weiter, sie hat den Blick
+- **Wachpunkt Stufe 1:** Neles Abbruch muss **fuersorglich** klingen, nicht
+  abwehrend. Sie hat recht -- sie WAR hundertmal hier. Wenn es beim ersten Lesen
+  verdaechtig wirkt, ist die Staffelung kaputt.
+- **Wachpunkt:** Die Vertiefungen werden NICHT gedeutet. Niemand sagt "da
+  gehoert etwas hinein". Das ist Bens Arbeit in Kap 13.
+
+------------------------------------------------------------------------
+
+### Kapitel 12 -- Das Andenken
+**Tag 5, Abend | Haus der Ahrens | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Weg zum Haus der Ahrens | Loest den Cliffhanger: Sie tragen die Frage mit -- **wofuer vier Vertiefungen?** Ratlosigkeit, erste falsche Vermutungen (Ben: Kerzen? Werkzeug?). **Niemand kommt drauf.** |
+| 2 | Kueche der Grossmutter | Nele bringt sie hin -- **und jetzt zeigt die Grossmutter das Andenken aus Kap 6.** Ein Kaestchen, darin eine Muenze: Eiche auf einer Seite, drei Wellen und ein Stern auf der anderen. **Fuer sie ist es der Beweis des Verrats:** *"Die haben sie hiergelassen und sind weg."* **BEINAHE (Ben, Stufe 2 von Outline 0.9):** Bei diesem Satz macht Ben den Mund auf -- **und sagt dann doch nichts.** Ein Satz, mehr nicht. |
+| 3 | Dieselbe Kueche | **STUFE 2 DER IRREFUEHRUNG (VORZEICHEN 2):** Jonas erinnert sich an Neles Bemerkung ueber die Grabsteine (Kap 9) und schlaegt den Osthang vor -- *"Dann lesen wir die Namen."* **Nele lenkt bestimmt auf die Muehle im Talgrund.** Ungewohnt scharf. **Mila sieht sie an und sagt nichts.** |
+
+> **Cliffhanger:** Jonas legt seine Muenze daneben. **Sie passen aufeinander wie
+> zwei Haelften.** Grossmutter Ahrens wird sehr still.
+
+**Pruefzeilen:**
+- Loest Kap-11-Cliffhanger: ja, Szene 1 (die Frage nach den Vertiefungen)
+- Neuer Hinweis: die Gegenmuenze
+- Mini-Entscheidung: die eigene Muenze zeigen -- **Jonas gibt seinen wichtigsten
+  Gegenstand aus der Hand**, vor jemandem, der Eichenhain fuer Verraeter haelt
+- Ben-Moment: das Beinahe (Szene 2)
+- **Wachpunkt Timing:** Das Stillwerden der Grossmutter ist **der erste Riss**
+  (Outline 0.6). Kein Einlenken, keine Traene -- nur Stille. Sie sagt nichts
+  mehr bis zum Kapitelende.
+- **Wachpunkt Mila:** Sie bemerkt Neles Ablenkung **und sagt nichts.** Das ist
+  die Folge des Waffenstillstands aus Kap 10 -- sie hat zugestimmt, also haelt
+  sie sich daran. Ihr Schweigen kostet sie spaeter (Kap 15).
+
+------------------------------------------------------------------------
+
+### Kapitel 13 -- Was ein Pfand ist
+**Tag 6 | Muehle + Haus der Ahrens | Pegel A -> B | Ziel: ~1.500 Woerter | 3 Szenen**
+
+*(Fix Problem 2: Der erste Muehlentag wird GEZEIGT. Bens Erkenntnis kommt im
+Schlamm, nicht am Tisch.)*
+*(Nach Fix Befund D an der Obergrenze -- **Szene 1 kurz halten.** Die
+Muehlensuche muss nicht ausgespielt werden; Kap 14 tut dort ohnehin etwas
+anderes, es gibt also keine Doppelung zu vermeiden.)*
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | An der Muehle, den ganzen Vormittag | Loest den Cliffhanger: Die zwei Muenzen liegen die ganze Nacht in Jonas' Kopf. **Erster Muehlentag** -- sie graben, raeumen, suchen. **Nichts.** Der Ort ist gross und leer und sagt ihnen nichts. Frust. Nele sucht mit, aber ohne Eifer. |
+| 2 | Ebenda, mittags, Pause im Schlamm | **BENS SIGNATURE-MOMENT (Auszahlung Outline 0.9, Stufe 3).** Er sitzt auf einem Stein, dreckig, und sagt es beilaeufig -- **es faellt ihm ein, waehrend er an etwas anderes denkt:** *"Zwei Muenzen. Eine hier, eine dort. Das ist kein Abschied. Das ist ein Pfand."* Und dann: **Ein Pfand gibt niemand, der weglaeuft.** Ein Pfand gibt man, wenn man wiederkommen will. **Er zitiert sich selbst, ohne es zu merken** -- Mila erkennt den Satz aus dem Gasthof wieder. |
+| 3 | Kueche der Grossmutter, abends | Sie tragen es ihr vor. **DER GEDANKE WIRD ZU ENDE GEDACHT (Fix Befund D):** Wenn Muenzen Pfaender sind -- **wofuer war dann der Steinblock mit den vier Vertiefungen?** *Die Kinder deduzieren es selbst:* Vier Familien, vier Pfaender, verwahrt bei denen, die geblieben sind. **Der Block ist der Ort, an dem die vier Pfaender lagen.** *Die Grossmutter bestaetigt es mit dem Familienwissen* (nur sie kann das haben, wie Winter in Kap 2): Man nahm mit, was zu tragen war; ueber Generationen ging alles verloren -- **bis auf das eine Stueck in ihrem Kaestchen.** **Und dann kontert sie -- zu Recht:** Ein Versprechen ist noch kein gehaltenes Versprechen. *"Wo waren sie dann?"* **Der halbe Beweis reicht nicht.** Das ist die Frage, die den Rest des Buchs traegt. |
+
+> **Cliffhanger:** Am Abend faellt ein Geraeusch weg, an das sich alle gewoehnt
+> hatten -- **das Rauschen am Ablass.** Das Wehr ist zu. **Ab jetzt steigt es.**
+
+**Pruefzeilen:**
+- Loest Kap-12-Cliffhanger: ja, Szene 1
+- **Mini-Entscheidung:** Sie gehen damit zur Grossmutter, statt es fuer sich zu
+  behalten -- sie stellen sich der Gegenrede
+- Ben-Moment: **der Signature-Moment**, sein wichtigster im Buch
+- **Wachpunkt (der groesste des Kapitels):** Der Einfall darf NICHT nach einem
+  Geistesblitz aussehen. Kein Aufspringen, kein "Ich hab's!". Er sitzt im
+  Dreck und sagt es nebenbei -- **die anderen brauchen einen Moment, bis sie
+  verstehen, was er gerade gesagt hat.**
+- **Wachpunkt Grossmutter:** Ihre Gegenrede ist **richtig**, nicht stur. Wenn
+  der Leser hier denkt "die will es nur nicht glauben", ist Kap 17/18 kaputt.
+- **Wachpunkt Cliffhanger:** Ein Geraeusch, das WEGFAELLT -- nicht eines, das
+  anfaengt. Stille als Bedrohung. Es muss vorher (Kap 3-12) mindestens einmal
+  beilaeufig da gewesen sein, sonst kann es nicht fehlen. **Nachtragen in Kap 3.**
+
+**FIX BEFUND D -- der Gedanke muss zu Ende gedacht werden:**
+
+*Das Problem:* Ben sagt in Kap 13, was ein Pfand ist -- der wichtigste Gedanke
+des Buchs. **Und dann passieren zwei volle Tage, ohne dass jemand ihn
+weiterdenkt.** Der Steinblock hat vier Vertiefungen, sie wissen jetzt, was
+Muenzen bedeuten -- und niemand verknuepft es.
+
+*Kanon-Luecke, die dabei auffiel (jetzt geschlossen, siehe `Author_Info.md`):*
+**Wozu diente der Steinblock ueberhaupt?** Das stand nirgends. Aus der
+Paar-Logik folgt es zwingend: Die vier Familien liessen ihre Gegenmuenzen bei
+denen zurueck, die blieben -- **der Block im fuenften Haus ist der Ort, an dem
+die vier Pfaender verwahrt wurden.** Das erklaert nebenbei, **warum das fuenfte
+Haus groesser ist** (Kap 8): Es war das Haus, dem alle etwas anvertraut hatten.
+
+*Verworfene erste Fassung -- "sie fragen: wo sind die anderen drei Muenzen?,
+und Nele antwortet falsch".* Zwei Gruende dagegen:
+1. **Verwechslungsgefahr.** Es gibt ZWEI Vierergruppen: die vier
+   **mitgenommenen** (eine ist Jonas', drei fehlen -> Band 5) und die vier
+   **zurueckgelassenen** (eine hat die Grossmutter). Milas Frage am Ende von
+   Kap 18 gilt der ersten Gruppe. Dieselbe Frage in Kap 13 haette wie eine
+   Wiederholung gewirkt, obwohl verschiedene Muenzen gemeint sind.
+2. **Nele.** Eine dritte Taeuschung in Akt 3 (nach 11, 12, 14) macht sie
+   berechnend statt aengstlich -- genau das verbietet `Author_Info.md`.
+
+*Die bessere Frage:* nicht "Wo sind die Muenzen?", sondern **"Wofuer war der
+Block?"** Das ist die natuerliche Detektivfrage in diesem Moment, und Bens
+Erkenntnis liefert die Antwort. Der Block hoert damit auf, eine Kuriositaet zu
+sein: **Er ist der physische Beweis, dass es ein Versprechen gab.**
+
+> **WACHPUNKT fuer Kap 18:** Milas Schlussfrage ("Und die anderen drei
+> Muenzen?") meint die **mitgenommenen**. Beim Schreiben sauber trennen --
+> sonst entsteht genau die Verwirrung, die hier vermieden wurde.
+
+------------------------------------------------------------------------
+
+### Kapitel 14 -- Die Muehle
+**Tag 7 | Muehle | Pegel B | Ziel: ~1.000-1.150 Woerter | 3 Szenen**
+
+> **KURZ HALTEN.** Ein Tag, der nichts bringt, darf sich nicht ausbreiten.
+> Im Zweifel Richtung 1.000 gehen, nicht auffuellen (Autor-Vorgabe).
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1a | Gasthof, Fruehstueck | **WINTERS SZENE (Fix Befund F) -- sie ERSETZT die Ankunftsbeschreibung, sie addiert nicht.** Er bestaetigt amtlich, was sie nachts gehoert haben: Ablass zu. **Reine Verwaltungsauskunft.** Dann fragt er, wie es laeuft -- Ben setzt an, **Jonas sagt "gut"**. Und er selbst: **neun Tage Archiv, kein einziges Blatt.** *(Netto ~+40 Woerter, nicht +100.)* |
+| 1b | An der Muehle, morgens | **Man sieht es jetzt.** Der Steg ist weg, die Muehle steht knoecheltief. **DIE AUFTEILUNG (Fix Befund E):** Jonas ordnet an, sich zu trennen -- *"Sonst schaffen wir das nie."* **Vier Kinder, vier Abschnitte:** Bach (Mila), Rad (Ben), Mauer (Nele), Speicher (Jonas -- **der entfernteste**, damit er auf dem Rueckweg an allen anderen vorbeikommt). **Nele bekommt ihren Abschnitt zugewiesen, sie waehlt ihn nicht** -- sonst haette sie sich den nutzlosesten genommen, und das waere Berechnung statt Angst. |
+| 2 | Die einzelnen Abschnitte | **Andere Taetigkeit als Tag 6:** Gestern gruben sie im Schlamm, heute steht alles knoecheltief -- **man sucht mit Haenden und Fuessen und sieht nichts.** **BENS STOCK, Stufe 2 (Fix Befund E):** Er tastet den Grund ab, wie Holzer es im Wald machte (Kap 4). *Tock. Tock.* **Die Technik funktioniert -- und findet nichts.** **NELE FRAGT, was er da tut** (wichtig: dadurch weiss sie in Kap 17, dass Ben das kann, und kann ihn dort dazu auffordern). **MESSPUNKT 3 (als Witz, der kippt):** Ben albert ueber den Turm -- *"der schrumpft ja"* -- und **hoert mitten im Satz selbst auf.** Der Turm steht nur noch bis zum Schallfenster. Es ist ploetzlich nicht mehr lustig. |
+| 3 | Rueckweg ueber die Abschnitte | **STUFE 3 -- und jetzt ist sie SICHTBAR:** Jonas kommt an den Abschnitten der anderen vorbei. Bei Mila liegen umgedrehte Steine, bei Ben zieht sich eine Spur aus Stockloechern durch den Schlamm. **Dann Neles Abschnitt: glatt. Kein Loch, kein Stein, kein Fussabdruck.** Er rechnet zurueck: das Haus (11), der Osthang (12), jetzt hier. **Dreimal dasselbe Muster.** |
+
+> **Cliffhanger:** Jonas, ruhig: *"Du wolltest gar nicht, dass wir hier suchen.
+> Du wolltest, dass wir NICHT woanders suchen."*
+
+**Pruefzeilen:**
+- Loest Kap-13-Cliffhanger: ja, Szene 1 -- sichtbar, nicht erklaert
+- Mini-Entscheidung: Jonas spricht es aus, statt es weiter zu beobachten
+- Ben-Moment: der Witz, der kippt (Szene 2)
+- **JONAS' EIGENTLICHE LEISTUNG IM BUCH:** Er liest hier eine **Person** statt
+  einer Spur. Das ist seine neue Faehigkeit (Author_Info: "muss eine PERSON
+  lesen, nicht nur Spuren").
+- **Wachpunkt:** Er klagt nicht an. Er stellt fest. Der Ton ist ruhig -- das
+  macht es schlimmer als ein Vorwurf.
+
+**FIX BEFUND E -- keine zweite Suchszene, sondern eine andere:**
+
+*Das Problem:* Kap 13 Szene 1 (*"sie graben, raeumen, suchen. Nichts."*) und
+Kap 14 (*"Suchen, nichts finden, streiten."*) waren derselbe Vorgang zweimal.
+
+*Verworfene erste Idee -- "sie raeumen ab, statt zu suchen".* **Es gibt nichts
+abzuraeumen.** Eine 300 Jahre alte Ruine, die niemandem gehoert und in der
+nichts von Wert liegt. Kinder, die dort etwas "retten", fuehren eine erfundene
+Beschaeftigung aus -- genau das Fuellmaterial, das `PLAN_Band4.md` Abschnitt 4
+verbietet. **Die Idee war nach Stimmung gewaehlt, nicht nach Logik.**
+
+*Die Loesung -- drei Unterschiede zu Tag 6:*
+1. **Sie teilen sich auf** (natuerliche Reaktion auf Zeitdruck)
+2. **Die Suche ist eine andere** (knoecheltief statt Schlamm: tasten statt sehen)
+3. **Neles Untaetigkeit wird MESSBAR** statt nur bemerkt
+
+> Der eigentliche Grund fuer die Aufteilung ist Punkt 3. Vorher haette Jonas es
+> "irgendwie gemerkt". Jetzt **sieht** man es -- und der Leser sieht es
+> gleichzeitig mit ihm. Fussspuren im Schlamm sind fuer Achtjaehrige das
+> konkreteste Beweismittel, das es gibt; niemand braucht dazu eine Erklaerung.
+
+*Nebenertrag -- Bens Stock bekommt eine Mittelstufe:* Die Saat aus Kap 4 hatte
+bis zur Auszahlung in Kap 17 **dreizehn Kapitel Abstand.** Mit Kap 14 wird
+daraus eine dreistufige Vorbereitung (wie bei Bens Pfand-Erkenntnis):
+
+| Stufe | Kap | Was |
+|:-----:|:---:|-----|
+| 1 | 4 | lernt es am Schlamm (von Holzer abgeschaut) |
+| 2 | 14 | wendet es unter Wasser an -- **und findet nichts** |
+| 3 | 17 | findet damit die Vertiefungen |
+
+**Dass Stufe 2 ergebnislos bleibt, ist der Punkt:** Die Technik bewaehrt sich,
+der Ort gibt nichts her. Kap 17 wird dadurch staerker, nicht schwaecher.
+
+*Ehrlicher Restzweifel:* Es bleibt "an der Muehle etwas suchen". Aufteilung und
+Tastarbeit machen es zu einer anderen **Szene**, nicht zu einem anderen
+**Szenentyp**. Konsequenz: **Das Kapitel muss kurz bleiben** -- im Zweifel
+1.000 statt 1.150. Ein Tag, der nichts bringt, darf sich nicht ausbreiten.
+
+**FIX BEFUND F -- Winter war elf Kapitel lang weg:**
+
+*Das Problem (der starke Grund, nicht der schwache):* Nicht "der Leser vergisst
+ihn". Sondern: **Ein Mann, der vierzig Jahre nach diesem Ort gesucht hat, zeigt
+neun Tage lang keinen Hunger.** Das macht ihn zur Requisite. Dazu die
+praktische Unwahrscheinlichkeit -- sie wohnen im selben Haus.
+
+*Was er tut -- und warum es die Loesung ist:* Er sucht die **Schriftquellen**
+(Gemeindearchiv, Kirchenbuecher) nach dem Wort *Sternbach*. **Und findet
+nichts** -- der Name wurde nach der Flut getilgt (Kanon, `Author_Info.md`).
+
+- **Es respektiert die harte Regel in ihrer staerksten Form.** Er findet nicht
+  bloss zufaellig nichts -- **die Antwort steht in keinem Archiv.** Sie liegt in
+  einem Stein und in einer Muenze. Er KANN nicht ermitteln, das ist der Punkt.
+- **Es spiegelt die Kinder:** Waehrend er in Papieren sucht, suchen sie an der
+  Muehle. Zwei Sorten Vergeblichkeit am selben Tag.
+- **Es bereitet Kap 18 vor:** Die Archive gaben ihm nichts. Seinen Namen bekommt
+  er von einem **Menschen** zurueck.
+- **Timing geprueft:** Er kann erst ab Tag 3 suchen -- die Kinder loesen das
+  Symbol erst in Kap 5. **Sie liefern ihm den Suchbegriff**, nicht umgekehrt.
+- **Kanon-Deckung:** "Verwaltung, Archiv, Pegeltermine" stand bereits in
+  `Author_Info.md` und `PLAN_Band4.md`. Dies ist eine **Praezisierung, keine
+  Erfindung.**
+
+*Zwei Beruehrungen, zusammen ~150 Woerter:* Kap 10 (ein Satz, etabliert das
+Muster) + Kap 14 Szene 1a. **Obergrenze.** Nebenstraenge muessen in einem Buch
+fuer Achtjaehrige fast schwerelos sein -- wenn es waechst, streichen.
+
+*Folge fuer Kap 16 (Korrektur meiner ersten Idee):* Dort stand "Winter wird
+zurueckgehalten -- das hier gehoert den Kindern". **Unsympathisch** (drei Kinder
+weisen einen alten Mann ab). Mein erster Gegenvorschlag "er kommt den Hang nicht
+hoch" war zu schnell -- er haette die **Entscheidung der Kinder** getilgt, die
+CLAUDE.md pro Kapitel verlangt.
+**Synthese:** Er bietet an **und stoppt sich selbst.** Er sieht den Hang und
+weiss es. Niemand muss ihn zurueckhalten. Die Umkehrung zu Band 3 bleibt
+vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
+
+------------------------------------------------------------------------
+
+### Kapitel 15 -- Was Nele wusste
+**Tag 7 | Muehle / Ufer | Pegel B -> C | Ziel: ~1.250 Woerter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | An der Muehle, direkt weiter | Loest den Cliffhanger ohne Pause: **Sie gibt es zu.** Seit Wochen weiss sie von etwas am Osthang -- **in der suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen Felsen. **Vom Boot aus gesehen**, in flachem Licht; von Land ist dort nur ein verwitterter Block. **Das konnte niemand ausser ihr wissen.** |
+| 2 | Ebenda | **Warum sie geschwiegen hat** -- und es ist kein Boesewicht-Grund: Wenn die vier zurueckgekommen sind, dann hat ihre Familie dreihundert Jahre lang etwas Falsches erzaehlt. Ihre Grossmutter. Ihre Urgrossmutter. **Alle.** *"Und dann ist alles, was wir sind, nur ein Irrtum."* Sie laeuft weg. |
+| 3 | Am Ufer, Rest des Tages | **Milas Moment -- und ihr Preis:** Sie ist wuetender, als sie zugeben will. Nicht wegen der verlorenen Tage. **Weil sie es gesehen hat** (Kap 12) und nichts gesagt hat. Sie hat sich an den Waffenstillstand gehalten, und das war der Fehler. *(Sie sagt das nicht -- Ben spricht es aus, und sie widerspricht nicht.)* |
+
+> **Cliffhanger:** Der untere Talgrund steht unter Wasser. **Der Weg ueber den
+> Hang ist ab morgen der einzige.** Und es sind noch zwei Tage.
+
+**Pruefzeilen:**
+- Loest Kap-14-Cliffhanger: ja, sofort, ohne Szenenwechsel
+- Mini-Entscheidung: Sie gehen morgen trotzdem zum Osthang -- ohne Nele
+- Ben-Moment: er spricht Milas Schuldgefuehl aus (Herz, nicht Humor)
+- **Wachpunkt Nele:** Ihr Grund muss **verstaendlich** sein, nicht entschuldbar.
+  Der Leser soll denken "oh nein", nicht "wie gemein". Sie hat den drei geschadet
+  UND ihnen die Wahrheit vorenthalten, die sie selbst gesucht hat.
+- **Wachpunkt Mila:** Ihr Schweigen aus Kap 12 zahlt hier aus. **Das ist der
+  Grund, warum ihr Schweigen dort ueberhaupt gezeigt wurde.**
+- **Wachpunkt Ton:** Kein Kind schreit hier. Enttaeuschung ist leiser als Zorn.
+
+------------------------------------------------------------------------
+
+## Akt-3-Bilanz
+
+| Kapitel | Woerter | Szenen | Tag | Pegel |
+|:-------:|:-------:|:------:|:---:|:-----:|
+| 11 | 1.350 | 3 | 5 | A |
+| 12 | 1.300 | 3 | 5 | A |
+| 13 | 1.500 | 3 | 6 | A -> B |
+| 14 | **1.000-1.150** | 3 | 7 | B |
+| 15 | 1.250 | 3 | 7 | B -> C |
+
+- **Summe Akt 3: ~6.550 Woerter** (Akt 1: ~6.290, Akt 2: ~6.160 -- steigend,
+  passend zum dichtesten Akt)
+- Tag/Pegel stimmen mit `Story_Outline.md` 2b ueberein
+- **Alle drei Irrefuehrungs-Stufen sitzen** (11 / 12 / 14) -- der Leser sieht
+  dreimal dasselbe Muster
+- **Fuenfmal 3 Szenen** -- das ist die einzige Formular-Auffaelligkeit des Akts.
+  **Bewusst so:** Akt 3 ist der gleichfoermigste im Aufbau (jeder Tag: suchen,
+  finden, jemand redet), und die Variation liegt hier in der Szenen-LAENGE, nicht
+  in der Zahl. **Beim Schreiben pruefen**, ob ein Kapitel auf 2 oder 4 will.
+- Ben hat in jedem Kapitel einen Moment, in Kap 13 seinen wichtigsten im Buch
+- Milas Schweigen (12) zahlt in Kap 15 aus
+- Jonas bekommt in Kap 14 seine eigentliche Faehigkeit: eine Person lesen

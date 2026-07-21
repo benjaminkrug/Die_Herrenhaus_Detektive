@@ -671,6 +671,29 @@ behielten die Muenzen. **Deshalb lag eine davon 300 Jahre spaeter noch in
 Eichenhain, wo Ben sie in Band 3 fand.** Der Stein ist eine **unvollendete
 Geste**; Jonas' Rueckgabe vollendet sie.
 
+### Die ZWEI Vierergruppen (Kanon -- beim Schreiben streng trennen!)
+
+Aus der Paar-Regel folgen **acht** Muenzen in zwei Gruppen. Sie duerfen im Text
+nie verwechselt werden:
+
+| | **A -- die mitgenommenen** | **B -- die zurueckgelassenen** |
+|---|---|---|
+| Wer hat sie | die vier Familien, mit nach Eichenhain | die Ahrens, in Sternbach |
+| Wo verwahrt | verstreut (Band-5-Thema) | im **Steinblock im fuenften Haus** |
+| Heute | 1 bei Jonas (Band 3), **3 verschollen** | 1 bei Grossmutter Ahrens, 3 ueber Generationen verloren |
+| Gehoeren in | die Vertiefungen des **Gedenksteins** (Kap 17/18) | die Vertiefungen des **Steinblocks** (Kap 11) |
+
+- **Der Steinblock im fuenften Haus** (Kap 11) ist der Ort, an dem die vier
+  Pfaender der Gruppe B verwahrt wurden -- deshalb vier Vertiefungen.
+  **Das erklaert zugleich, warum das fuenfte Haus groesser ist als die anderen**
+  (Kap 8): Es war das Haus, dem alle etwas anvertraut hatten.
+- **Warum SEINE Vertiefungen leer sind:** Die Ahrens nahmen beim Fliehen mit,
+  was zu tragen war. Ueber 300 Jahre ging alles verloren -- **bis auf das eine
+  Stueck im Kaestchen der Grossmutter** (Kap 12).
+- **Milas Schlussfrage in Kap 18** ("Und die anderen drei Muenzen?") meint
+  **Gruppe A** -- den Band-5-Hook. In Kap 13 geht es dagegen um Gruppe B.
+  Beim Schreiben sauber trennen, sonst liest es sich wie eine Wiederholung.
+
 **WICHTIG -- der Stein beweist es nicht allein.** Er belegt nur, dass die vier
 irgendwann dort waren. Grossmutter Ahrens weist ihn deshalb zunaechst zurueck
 ("ein schlechtes Gewissen ist noch kein gehaltenes Wort"). **Umgestimmt wird sie
@@ -737,6 +760,21 @@ in den Ferien hin.
 **Mit an den See faehrt NUR Winter.** Er ist Tueroeffner (Auto, Erlaubnis der
 Eltern, Zugang zu Erwachsenen-Stellen), vor Ort aber gebunden mit
 Verwaltung/Archiv/Pegelterminen.
+
+**Was er dort konkret tut (praezisiert, Akt-3-Planung):** Er sucht ab Tag 3 die
+**Schriftquellen** ab -- Gemeindearchiv, Kirchenbuecher -- nach dem Wort
+*Sternbach*. **Den Namen haben ihm die KINDER geliefert** (sie loesen das Symbol
+in Kap 5). **Und er findet nichts.** Der Name wurde nach der Flut getilgt --
+**die Antwort steht in keinem Papier.** Sie liegt in einem Stein und in einer
+Muenze.
+
+> Das ist die staerkste Form der Winter-Regel: Er findet nicht bloss zufaellig
+> nichts -- **er KANN nicht ermitteln.** Seine Vergeblichkeit spiegelt die der
+> Kinder an der Muehle, und sie bereitet Kap 18 vor: Die Archive geben ihm
+> nichts; **seinen Namen bekommt er von einem Menschen zurueck.**
+>
+> **Umfang: hoechstens zwei kurze Beruehrungen** (Kap 10, Kap 14), zusammen
+> ~150 Woerter. Nebenstraenge muessen fuer 8-10-Jaehrige fast schwerelos sein.
 
 > **HARTE REGEL: Winter darf in Band 4 keinen einzigen Hinweis finden.**
 > Er hat Band 3 gerettet. Ermittelt er hier mit, schrumpfen die Kinder.

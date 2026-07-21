@@ -30,9 +30,12 @@
 | 3a | **Der Brief nennt KEINEN Ort** -- Jonas beschliesst, den Poststempel zu pruefen | 1 | Die Kinder bringen die Gegend mit zu Winter; er steuert den Seenamen bei | 2 | geplant |
 | 3b | **Nele verschweigt schon im Brief den Ort** (Angst, kaum abgeschickt bereut) | 1 | Dieselbe Angst laesst sie spaeter den Stein verschweigen -- ihr Muster ist ab Kap 1 gepflanzt | 15 | geplant |
 | 3c | **Bens Wehr-/Wasserwissen** (Kanon aus Band 3 Kap 5, "Omas Bach") | (B3) | Er erklaert den Ablass am Anschlagbrett -- halb richtig, Winter ergaenzt | 3 | geplant |
-| 3d | **Bens Stock**: Er tippt weichen Boden ab, wie Holzer es in Band 3 Kap 7 vormachte (er selbst brach Band 3 Kap 2 in ein Erdloch ein) | 4 | **Er findet die Vertiefungen im truebem Wasser** -- seine Angst vor unsicherem Grund ist zur Faehigkeit geworden | 17 | geplant |
+| 3d | **Bens Stock**: Er tippt weichen Boden ab, wie Holzer es in Band 3 Kap 7 vormachte (er selbst brach Band 3 Kap 2 in ein Erdloch ein) | 4 | Dreistufig: **Stufe 2 in Kap 14** -- er tastet unter Wasser, die Technik funktioniert, **findet aber nichts**. **Stufe 3 in Kap 17** -- er findet damit die Vertiefungen | 14 / 17 | geplant |
+| 3e | **Nele fragt in Kap 14, was Ben mit dem Stock tut** | 14 | Sie weiss deshalb in Kap 17, dass er unsichtbaren Grund absuchen kann -- **sie fordert ihn dazu auf.** Gibt ihrer Wiedergutmachung eine praktische Seite | 17 | geplant |
+| 3f | **Die Aufteilung an der Muehle** (vier Kinder, vier Abschnitte) | 14 | Macht Neles Untaetigkeit **messbar**: umgedrehte Steine bei Mila, Stockloecher bei Ben -- **ihr Abschnitt glatt, kein Fussabdruck** | 14 | geplant |
 | 4 | **Das "Andenken" der Familie Ahrens** (erwaehnt, nicht gezeigt) | 6 | Kaestchen mit der **Gegenmuenze** -- passt auf Jonas' Muenze | 12 | geplant |
-| 5 | **Steinblock mit vier leeren Vertiefungen** im fuenften Haus | 11 | Der Gedenkstein am Osthang hat dieselben vier Vertiefungen | 17 | geplant |
+| 5 | **Steinblock mit vier leeren Vertiefungen** im fuenften Haus | 11 | (a) Die Kinder deuten ihn: **hier lagen die vier Pfaender** der zurueckgelassenen Muenzen (Gruppe B) -- erklaert zugleich, warum das fuenfte Haus groesser ist. (b) Der Gedenkstein am Osthang hat dieselben vier Vertiefungen | 13 / 17 | geplant |
+| 5b | **Das fuenfte Haus ist groesser als die anderen** | 8 | Es war das Haus, dem alle etwas anvertraut hatten (Verwahrort der Pfaender) | 13 | geplant |
 | 6 | **Die vier Vertiefungen sind leer** (Frage bleibt offen) | 11/17 | Sie konnten das Pfand nicht zurueckgeben -- niemand war mehr da. Unvollendete Geste | 17 | geplant |
 | 7 | **Neles Ruderboot** (ihr Vorsprung, ihre Abgrenzung) | 4 | Bringt am Ende ALLE gemeinsam zum Stein | 18 | geplant |
 | 8 | **Neles Seil** (sie steigt damit aus dem Boot) | 16 | Abstieg in die steile Suedbucht | 17 | geplant |
@@ -57,7 +60,10 @@
 | 15 | **Nele blockiert die Tuer** des fuenften Hauses -- **zweimal**: Tag 3 als Fremde (Ende Kap 8), Tag 4 als Bekannte (Kap 9) | 8/9 | Sie gibt sie frei -- das konkrete Zugestaendnis des Waffenstillstands | 10 | geplant |
 | 15b | **Nele folgt ihnen** vom Haus ihrer Grossmutter aus (deshalb ist sie am fuenften Haus) | 6/8 | Erklaert, warum sie in Kap 9 am naechsten Morgen schon dort sitzt: Sie weiss, dass sie wiederkommen | 9 | geplant |
 | 16 | **VORZEICHEN 1:** Nele weiss, dass die Grabsteine noch lesbar sind (sie war also schon am Osthang) | 9 | Fliegt auf: Sie kannte die Stelle seit Wochen | 14/15 | geplant |
-| 17 | **VORZEICHEN 2:** Sie lenkt von genau diesen Grabsteinen auf die Muehle ab | 12 | Jonas durchschaut es: "Du wolltest, dass wir NICHT woanders suchen" | 14 | geplant |
+| 16b | **STUFE 1 der Irrefuehrung:** Nele bricht die Suche im fuenften Haus ab ("da ist nichts mehr, ich war hundertmal hier") -- klingt fuersorglich | 11 | Teil des dreistufigen Musters, das Jonas in Kap 14 zurueckrechnet | 14 | geplant |
+| 17 | **VORZEICHEN 2 (Stufe 2):** Sie lenkt von genau diesen Grabsteinen auf die Muehle ab | 12 | Jonas durchschaut es: "Du wolltest, dass wir NICHT woanders suchen" | 14 | geplant |
+| 17b | **Mila sieht Neles Ablenkung und sagt nichts** (sie haelt sich an den Waffenstillstand) | 12 | Ihr Zorn in Kap 15 gilt nicht den verlorenen Tagen, sondern **ihrem eigenen Schweigen** -- Ben spricht es aus | 15 | geplant |
+| 17c | **Das Rauschen am Ablass** (mind. einmal beilaeufig hoerbar) | 3-12 | Es **faellt weg** -- Stille als Cliffhanger, das Wehr ist zu | 13 | geplant |
 | 18 | **Grossmutter Ahrens wird still**, als die Muenzen zusammenpassen (erster Riss) | 12 | Sie verteidigt sich mit "Nein" (17) und gibt dann nach (18) | 17/18 | geplant |
 | 19 | **Sie hat die Muenze 300 Jahre aufgehoben** (als Andenken an den Verrat) | 12 | **Neles Argument**: "Warum hebt man ein Andenken an Verraeter auf?" | 18 | geplant |
 
@@ -69,6 +75,8 @@
 | 19c | **Mila ist in Eichenhain verwurzelt** (Oma im Rathausarchiv, Band 2 Kap 3) | (B2) | Der Verratsvorwurf trifft sie anders als Jonas -- sie wird zornig, waehrend er sich fuer die Zugehoerigkeit ENTSCHEIDET | 6 | geplant |
 | 20 | **Der Osthang: Weg im Norden, steile Bucht im Sueden** (beilaeufig) | 7 | Der Gedenkstein liegt in genau dieser Bucht | 17 | geplant |
 | 21 | **Winters Name laesst den Gasthof verstummen** | 3 | Grossmutter Ahrens gibt ihm die Hand | 18 | geplant |
+| 21b | **Winter sucht ab Tag 3 in Archiven nach "Sternbach"** -- den Namen liefern ihm die KINDER (Kap 5). Kommt abends leer zurueck (10), nach neun Tagen kein einziges Blatt (14) | 5/10/14 | **Der Name wurde getilgt -- die Antwort steht in keinem Papier.** Er bekommt sie von einem Menschen: dem Handschlag der Grossmutter | 18 | geplant |
+| 21c | **Winter bietet an, den Osthang mitzugehen -- und stoppt sich selbst** | 16 | Umkehrung zu Band 3 (dort rettete er das Finale). Bitter durch 21b: neun Tage nichts, und jetzt auch das nicht | 16 | geplant |
 | 22 | **Jonas nimmt die Ausrede nicht** ("ich bin da erst seit einem Jahr") | 6 | "Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet." | 19 | geplant |
 | 23 | **Winters Satz "Ich war nicht der Erste"** (aus Band 3, wiederholt) | 2 | Die Familie Ahrens sucht seit Generationen | 6/12 | geplant |
 | 24 | **Wappen mit vier Symbolen** (Serienkanon seit Band 2) | lfd. | "Und jetzt weiss man, dass eins fehlt" -> Band-5-Hook | 19 | geplant |
