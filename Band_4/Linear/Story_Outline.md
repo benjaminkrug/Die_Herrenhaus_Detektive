@@ -362,8 +362,8 @@ mit der sie aufgewachsen ist, falsch ist -- bevor das Wasser zurueckkommt.
 |:---:|:-------:|:-----:|------------------------------|
 | 1 | 1-2 | -- | Eichenhain. Hitze, seit Wochen kein Regen |
 | 2 | 3-5 | A | Ankunft. **Aushang: Schliessung in 4 Tagen.** Tiefstand |
-| 3 | 6-8 | A | Tiefstand haelt |
-| 4 | 9-10 | A | Tiefstand haelt. Nachts erste Tropfen |
+| 3 | 6-8, **9 (Szene 1)** | A | Tiefstand haelt. Tag endet an Neles Tuerblockade |
+| 4 | **9 (Szene 2-4)**, 10 | A | Tiefstand haelt. Nachts erste Tropfen |
 | 5 | 11-12 | A | Letzter Tag VOR der Schliessung. **Haetten sie hier den Osthang genommen, waere der Stein trocken gewesen** |
 | 6 | 13 | A -> B | **1. Muehlen-Tag** (nichts gefunden). Abends: **Ablass geschlossen.** Ab jetzt steigt es |
 | 7 | 14-15 | B -> C | **2. Muehlen-Tag** -> zwei Tage verloren. Muehle und Steg unter Wasser. Unterer Talgrund faellt weg |
@@ -489,6 +489,10 @@ Geschichte.**
 *"Ich bin da erst seit einem Jahr"* -- es waere wahr und wuerde ihn sofort
 entlasten. **Er sagt es nicht.** Kein Kommentar dazu, kein erklaerender Satz
 (siehe Wachpunkt 0.10).
+**MILAS GEGENREAKTION (Akt-2-Planung):** Derselbe Satz trifft sie anders --
+**sie ist in Eichenhain verwurzelt** (Oma im Rathausarchiv, Band 2 Kap 3) und
+wird zornig. Jonas WAEHLT die Zugehoerigkeit, Mila HAT sie. Zwei Reaktionen auf
+denselben Vorwurf.
 Im Hintergrund steht ein Maedchen und sagt kein Wort -- Nele.
 **Saat (Tschechow):** Sie erwaehnt, dass die Familie "ein Andenken" von damals
 verwahrt. Zeigen tut sie es nicht -- **nicht Fremden aus Eichenhain.**
@@ -496,7 +500,14 @@ verwahrt. Zeigen tut sie es nicht -- **nicht Fremden aus Eichenhain.**
 > Eichenhain Kinder. Nach dreihundert Jahren."
 
 **Kapitel 7 -- Der Weg ueber den Hang** *(Tag 3, Pegel A)*
+**LOEST DEN CLIFFHANGER (Fix aus der Akt-2-Planung):** Der Satz der Grossmutter
+laeuft ihnen nach. Mila will zurueck und es richtigstellen; Jonas haelt dagegen:
+**Mit Reden kommen wir hier nicht weiter -- wir muessen es beweisen.**
+*(Erste Fassung liess das Kapitel mit Logistik beginnen, waehrend Kap 6 mit
+einem emotionalen Schlag endete -- der Satz haette in der Luft gehangen.
+Dieselbe Fehlerklasse wie B9.)*
 Sie brauchen einen Weg zu den Ruinen ohne Boot -- ueber den Osthang.
+**MILA loest das praktische Problem** und findet den Abstieg.
 **GEOGRAFIE FESTLEGEN (wichtig fuer A1):** Der einzige gangbare Abstieg quert
 den Hang **im Norden**; suedlich davon faellt er steil in eine Bucht ab, in die
 niemand geht. Das wird hier beilaeufig etabliert -- **nicht betont**, sonst ist
@@ -509,18 +520,30 @@ steinernen Kreuz. Ein ganzes Dorf, leer, still, schlammig.
 
 **Kapitel 8 -- Vier Haeuser** *(Tag 3, Pegel A)*
 Sie finden alle vier: Baum, Kreuz, Ring, Blume -- die Zeichen vom Wappen in
-Eichenhain, hier ueber vier Tueren. Ben zaehlt und stutzt.
+Eichenhain, hier ueber vier Tueren. **MILA erkennt sie** (Kanon: Sie erkannte in
+Band 3 Kap 8 das Hoffmann-Ring-Zeichen wieder -- sie hat den Blick dafuer).
+Ben zaehlt und stutzt.
 Die Haeuser stehen im Kreis, und im Kreis ist eine Luecke.
-> **Cliffhanger (Fix B6):** Das fuenfte Haus ist groesser als die anderen. Ueber
-> seiner Tuer: drei Wellen und ein Stern. **Kein Raetsel mehr -- seit Kap 6
-> wissen sie, wem das Zeichen gehoert.** Der Schlag ist ein anderer: Sie stehen
-> vor dem Zuhause des Maedchens, das sie weggeschickt hat. Ben spricht es aus:
-> *"Das ist ihr Haus."*
+Das fuenfte Haus ist groesser als die anderen. Ueber seiner Tuer: drei Wellen
+und ein Stern. **Kein Raetsel mehr (Fix B6)** -- seit Kap 6 wissen sie, wem das
+Zeichen gehoert. Ben spricht es aus: *"Das ist ihr Haus."* Sie gehen auf die
+Tuer zu.
+> **Cliffhanger (Fix Befund A):** Sie steht darin. **Nele** -- sie ist ihnen seit
+> dem Haus ihrer Grossmutter gefolgt. *"Nicht in dieses Haus."*
+> *(Bens Satz wird nicht erklaert, sondern beantwortet. Und es schliesst die
+> Luecke, warum sie das Haus an Tag 3 nicht sofort betreten.)*
 
-**Kapitel 9 -- Die, die geblieben ist** *(Tag 4, Pegel A)*
-**Loest den Cliffhanger von Kap 8 sofort auf:** Sie gehen zum fuenften Haus.
-Nele ist da und sieht zu -- den ganzen Tag, ohne sich zu ruehren. Die Ruinen
-sind ihr gleichgueltig. **Bis sie zur Tuer des fuenften Hauses gehen.**
+**Kapitel 9 -- Die, die geblieben ist** *(Tag 3 Rest + Tag 4, Pegel A)*
+**Loest den Cliffhanger von Kap 8 sofort auf -- ohne Zeitsprung:** Die Szene
+laeuft weiter, wo Kap 8 aufhoerte. Sie versuchen es im Guten und mit Argumenten;
+**Nele bleibt in der Tuer stehen.** Der Tag endet dort -- an ihr vorbei kommen
+sie nicht, und schieben wollen sie sie nicht.
+**Tag 4:** Sie ist schon da, als die drei morgens kommen -- sie wusste, dass sie
+wiederkommen. Sie sieht zu, ohne sich zu ruehren; die Ruinen sind ihr
+gleichgueltig. **Nur die Tuer nicht.** Zweite Blockade, anderer Ton: keine
+Fremde mehr.
+*(Der Tageswechsel liegt INNERHALB des Kapitels -- so bleibt die Regel
+"kein Zeitsprung zwischen Cliffhanger und Aufloesung" gewahrt.)*
 Weil ihre Familienzugehoerigkeit seit Kap 6 bekannt ist, geht es hier nicht mehr
 um eine Information, sondern um eine **Konfrontation**: Wo steht sie?
 Bissiger Schlagabtausch mit Mila. **Ben ist der, der einfach mit ihr redet**
@@ -555,16 +578,30 @@ selbst gerufen und bereut es -- **die blockierte Tuer IST die Form dieses
 Bereuens.**
 > **VORZEICHEN 1:** Beilaeufig weiss sie, dass oben auf dem Friedhof die
 > Grabsteine noch lesbar sind. Sie war also schon am Osthang. Niemand fragt nach.
+
+**Beim Aufbrechen (Fix Befund C):** Jonas sieht, dass die **Tuerschwelle des
+fuenften Hauses feucht** ist -- morgens war sie trocken. Ein Satz, keine
+Erklaerung, niemand kommentiert es.
 > **Cliffhanger:** "Ihr sucht nach Beweisen, dass sie gute Leute waren", sagt
 > sie. "Ich suche nach dem Gegenteil."
 
 **Kapitel 10 -- Waffenstillstand** *(Tag 4, Pegel A)*
-Streit, der kippt: Nele **bestaetigt endlich**, was seit Kap 5 im Raum steht --
-sie hat den Brief geschrieben. Sie gibt es zu -- weil sie
+**Der Ausloeser ist das Wasser, kein Argument (Fix Befund C):** Sie kommen
+morgens an, und **die Tuerschwelle steht im Wasser** -- gestern war sie nur
+feucht. **Nele sagt zuerst gar nichts.** Es ist ihre Schwelle.
+Erst danach kippt der Streit: Nele **bestaetigt endlich**, was seit Kap 5 im
+Raum steht -- sie hat den Brief geschrieben. Sie gibt es zu -- weil sie
 allein nicht weiterkam. Und weil sie beweisen wollte, dass ihre Familie recht
-hat. Zaeher, unbequemer Waffenstillstand: **gemeinsam suchen, egal was rauskommt.**
-Milas schwerster Moment -- jemandem vertrauen, der schneller ist als sie.
-**Das Zugestaendnis ist konkret (B9): Sie gibt die Tuer frei.** Morgen duerfen
+hat.
+**Der Grund, den nur sie hat (Fix Befund B):** *"Ihr seid zu dritt. Ich bin
+allein. Deshalb habe ich geschrieben."* Sie sucht seit Wochen ohne Ergebnis --
+die drei haben an einem Nachmittag vier Tuerschwellen gefunden, und sie hat es
+mit angesehen (Kap 8). **Kein Handel, ein Eingestaendnis:** Ihr fehlen Haende
+und Augen, nicht Zugang oder Wissen.
+Zaeher, unbequemer Waffenstillstand: **gemeinsam suchen, egal was rauskommt.**
+Milas schwerster Moment -- jemandem vertrauen, der schneller ist als sie;
+**sie sagt nur "Meinetwegen".**
+**Das Zugestaendnis ist konkret (B9): Nele gibt die Tuer frei.** Morgen duerfen
 sie ins fuenfte Haus.
 Zwei Tage bis zur Schliessung.
 > **Cliffhanger:** Nachts ein Geraeusch am Fenster -- die ersten Regentropfen
@@ -741,7 +778,7 @@ Der Blick auf das Wappen: vier Symbole -- und jetzt weiss man, dass eins fehlt.
 | Figur | Akt 1 | Akt 2 | Akt 3 | Akt 4 |
 |-------|-------|-------|-------|-------|
 | Jonas | Wird gerufen, ist stolz | **Nimmt die Ausrede nicht** (Kap 6) -- er koennte sagen "ich bin erst seit einem Jahr da" | Liest eine Person statt einer Spur (Kap 14) | Gibt die Muenze zurueck. Und: "Er hatte einfach geantwortet" (Kap 19) |
-| Mila | Draengt wie immer | Trifft auf jemanden, der schneller ist | Vertraut -- und wird enttaeuscht (Kap 15) | Vertraut nochmal (das ist der Mut) |
+| Mila | Draengt wie immer. **Loest das Symbol** (Kap 5) | **Ihr Akt:** wird zornig ueber den Vorwurf (6, sie ist verwurzelt), findet den Abstieg (7), **erkennt die Familienzeichen** (8), Schlagabtausch mit Nele (9), **vertraut trotzdem** (10) | Vertraut -- und wird enttaeuscht (Kap 15) | Vertraut nochmal (das ist der Mut) |
 | Ben | Angst vor der Reise (**Kap 2**), Stock-Skepsis am Schlamm (**Kap 4**), **Keim: die Pfandflasche** (Kap 5) | Erklaert den Ablass (3), redet als erster mit Nele (9, Herz) | Beinahe (12), dann **Signature: begreift, was ein Pfand ist** (13) | **Tastet mit dem Stock nach den Vertiefungen** (17) -- Auszahlung von Kap 4. Humor, der traegt |
 | Nele | Hindernis | **Blockiert die Tuer** (9), gibt sie frei (10) -- Verbuendete auf Probe | Irrefuehrerin aus Angst | Fuehrt sie hin -- **scheitert** bei der Oma (17), **ueberzeugt sie** am naechsten Morgen (18). Ihre groesste Szene |
 | Grossmutter Ahrens | Huetet die Geschichte (ab Kap 6) | Unbeirrbar, gastfreundlich | Erster Riss: wird still, als die Muenzen passen (12) | Verteidigt sich mit "Nein" (17), gibt nach -- wegen ihrer Enkelin, nicht wegen des Steins (18) |

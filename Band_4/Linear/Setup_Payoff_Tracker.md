@@ -46,14 +46,16 @@
 | 10 | **Aushang/Wirt: Ablass wird in vier Tagen geschlossen** | 3 | Das Rauschen faellt weg -- das Wehr ist zu | 13 | geplant |
 | 11 | **Der dunkle Rand am Turmstein** (wohin das Wasser zurueckkommt) | 4 | "Zum Greifen nah" -- der Rand ist fast erreicht | 18 | geplant |
 | 12 | **Die drei Marken am Turm** (Dach / Schallfenster / Kreuz) | 4 | Messpunkte: Dach weg (11), Schallfenster (14), nur noch Kreuz (18) | 11/14/18 | geplant |
-| 13 | **Tuerschwelle des fuenften Hauses** (nahes Messgeraet) | 7/8 | Tag fuer Tag weiter im Wasser -- der Verlust, nicht die Frist | lfd. | geplant |
+| 13 | **Tuerschwelle des fuenften Hauses** (nahes Messgeraet) | 7/8 | **feucht** (Kap 9, Ende Tag 4) -> **steht im Wasser** (Kap 10, morgens) -> danach laufend. **Sie ist der AUSLOESER fuer Neles Nachgeben** -- es ist ihre Schwelle | 9/10 + lfd. | geplant |
 
 ### A.3 Der Nele-Komplex
 
 | # | Hinweis / Setup (gesaet) | Kap | Aufloesung / Payoff | Kap | Status |
 |---|--------------------------|:---:|---------------------|:---:|--------|
 | 14 | **Nele kennt ihre Namen**, obwohl niemand sie genannt hat | 4 | Verdacht ausgesprochen (5), sie schweigt (9), **sie gibt es zu** (10) | 5/9/10 | geplant |
-| 15 | **Nele blockiert die Tuer** des fuenften Hauses | 9 | Sie gibt sie frei -- das konkrete Zugestaendnis des Waffenstillstands | 10 | geplant |
+| 14b | **Nele sucht seit Wochen allein und findet nichts** -- die drei legen an einem Nachmittag vier Tuerschwellen frei, sie sieht zu | 8 | Der Grund ihres Nachgebens: *"Ihr seid zu dritt. Ich bin allein."* Kein Handel, ein Eingestaendnis -- und derselbe Grund, aus dem sie den Brief schrieb | 10 | geplant |
+| 15 | **Nele blockiert die Tuer** des fuenften Hauses -- **zweimal**: Tag 3 als Fremde (Ende Kap 8), Tag 4 als Bekannte (Kap 9) | 8/9 | Sie gibt sie frei -- das konkrete Zugestaendnis des Waffenstillstands | 10 | geplant |
+| 15b | **Nele folgt ihnen** vom Haus ihrer Grossmutter aus (deshalb ist sie am fuenften Haus) | 6/8 | Erklaert, warum sie in Kap 9 am naechsten Morgen schon dort sitzt: Sie weiss, dass sie wiederkommen | 9 | geplant |
 | 16 | **VORZEICHEN 1:** Nele weiss, dass die Grabsteine noch lesbar sind (sie war also schon am Osthang) | 9 | Fliegt auf: Sie kannte die Stelle seit Wochen | 14/15 | geplant |
 | 17 | **VORZEICHEN 2:** Sie lenkt von genau diesen Grabsteinen auf die Muehle ab | 12 | Jonas durchschaut es: "Du wolltest, dass wir NICHT woanders suchen" | 14 | geplant |
 | 18 | **Grossmutter Ahrens wird still**, als die Muenzen zusammenpassen (erster Riss) | 12 | Sie verteidigt sich mit "Nein" (17) und gibt dann nach (18) | 17/18 | geplant |
@@ -63,6 +65,8 @@
 
 | # | Hinweis / Setup (gesaet) | Kap | Aufloesung / Payoff | Kap | Status |
 |---|--------------------------|:---:|---------------------|:---:|--------|
+| 19b | **Milas Blick fuer Familienzeichen** (Kanon: Band 3 Kap 8, sie erkannte das Hoffmann-Ring-Zeichen) | (B3) | Sie erkennt die vier Zeichen ueber den Tueren in Sternbach | 8 | geplant |
+| 19c | **Mila ist in Eichenhain verwurzelt** (Oma im Rathausarchiv, Band 2 Kap 3) | (B2) | Der Verratsvorwurf trifft sie anders als Jonas -- sie wird zornig, waehrend er sich fuer die Zugehoerigkeit ENTSCHEIDET | 6 | geplant |
 | 20 | **Der Osthang: Weg im Norden, steile Bucht im Sueden** (beilaeufig) | 7 | Der Gedenkstein liegt in genau dieser Bucht | 17 | geplant |
 | 21 | **Winters Name laesst den Gasthof verstummen** | 3 | Grossmutter Ahrens gibt ihm die Hand | 18 | geplant |
 | 22 | **Jonas nimmt die Ausrede nicht** ("ich bin da erst seit einem Jahr") | 6 | "Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet." | 19 | geplant |
@@ -116,9 +120,10 @@ Aus `Author_Info.md`, Abschnitt BAND 4:
 
 ## E. Was beim Anlegen auffiel
 
-- **Zeile 13 (Tuerschwelle) hat kein einzelnes Payoff-Kapitel**, sondern laeuft
-  durch. Das ist zulaessig, aber es muss beim Schreiben tatsaechlich mehrfach
-  vorkommen -- sonst ist es ein totes Setup. **Beim Akt-2-Check pruefen.**
+- ~~**Zeile 13 (Tuerschwelle) hat kein einzelnes Payoff-Kapitel.**~~
+  **ERLEDIGT im Akt-2-Check (Befund C):** Die Schwelle ist jetzt der Ausloeser
+  fuer Neles Nachgeben -- feucht in Kap 9, im Wasser in Kap 10. Aus dem
+  drohenden toten Setup ist der Wendepunkt des Akts geworden.
 - **Zeile 23 (Winters "Ich war nicht der Erste")** wird in Kap 6 und 12
   beantwortet, aber nie ausgesprochen verknuepft. Beim Schreiben von Kap 12
   pruefen, ob Winter oder Jonas den Bogen laut schliessen sollte.

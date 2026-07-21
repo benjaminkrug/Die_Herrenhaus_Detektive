@@ -45,7 +45,7 @@ Verlaengert wird nur, wo etwas fehlt.
 ## AKT 1 -- DER RUF (Kapitel 1-5)
 
 ### Kapitel 1 -- Der Brief
-**Tag 1 | Eichenhain | Pegel -- | Ziel: ~1.150 Woerter | 3 Szenen**
+**Tag 1 | Eichenhain | Pegel -- | Ziel: ~1.210 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -146,7 +146,8 @@ Es zerhacken hiesse, ihm die Wucht nehmen.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 3 -- Der Graue See
-**Tag 2 | Ankunft, Seebruck | Pegel A | Ziel: ~1.400 Woerter | 3 Szenen**
+**Tag 2 | Ankunft, Seebruck | Pegel A | Ziel: ~1.480 Woerter | 3 Szenen**
+*(Haertester Fall im Fenster -- beim Schreiben zuerst hier straffen, siehe unten.)*
 
 *(Das war das ueberladenste Kapitel der Outline: Anfahrt, Gasthof, Winters Name,
 Aushang, Countdown, Silhouette. **Loesung:** Die Anfahrt schrumpft auf wenige
@@ -274,13 +275,13 @@ in drei Szenen.)*
 
 | Kapitel | Woerter | Szenen | Tag | Pegel |
 |:-------:|:-------:|:------:|:---:|:-----:|
-| 1 | 1.150 | 3 | 1 | -- |
+| 1 | 1.210 | 3 | 1 | -- |
 | 2 | 1.000 | 2 | 1 | -- |
-| 3 | 1.400 | 3 | 2 | A |
+| 3 | 1.480 | 3 | 2 | A |
 | 4 | 1.250 | 3 | 2 | A |
 | 5 | 1.350 | 3 | 2 | A |
 
-- **Summe Akt 1: ~6.150 Woerter** (~28 % des Buchs bei 5 von 19 Kapiteln --
+- **Summe Akt 1: ~6.290 Woerter** (~28 % des Buchs bei 5 von 19 Kapiteln --
   passt, Akt 1 ist der kuerzeste)
 - **Szenenzahl variiert** (2/3), Wortzahl variiert (1.000-1.400) -- kein Formular
 - Pegel durchgehend A, stimmt mit `Story_Outline.md` 2b ueberein
@@ -315,6 +316,8 @@ Die Anfahrt in Szene 1 vertraegt noch weniger Zeilen.
 | 4 | Tippt weichen Boden mit dem Stock ab, wie Holzer (Erdloch, Band 3) | Angst + Humor + Kanon | **ergaenzt, zahlt in Kap 17 aus** |
 | 5 | Die Pfandflasche | Humor (+ verdeckter Keim) | stand schon |
 
+**ERLEDIGT in der Akt-2-Planung** -- siehe dort Abschnitt "Milas Akt".
+
 **Neuer Wachpunkt fuer die Akt-2-Planung -- Balance:**
 Ben hat jetzt in allen fuenf Kapiteln einen Moment und dazu die Ablass-Erklaerung.
 **Mila dagegen ist in Akt 1 duenn:** Sie draengt (Kap 1), stichelt (Kap 4) und
@@ -323,3 +326,311 @@ und 6.
 Das ist fuer Akt 1 vertretbar -- Milas Buch beginnt mit Nele. Aber **in Akt 2
 muss sie sichtbar mehr tragen**, sonst kippt das Team zu Ben. Bei der Planung
 von Kap 6-10 zuerst pruefen: Was tut Mila?
+
+------------------------------------------------------------------------
+
+## AKT 2 -- DAS DORF (Kapitel 6-10)
+
+### Milas Akt (Antwort auf den Wachpunkt aus Akt 1)
+
+Akt 1 gehoerte Ben und Jonas; Mila hatte nur EINEN grossen Auftritt (Kap 5).
+Akt 2 ist ihrer -- und zwar aus einem Kanon-Grund, nicht durch Zuteilung:
+
+> **Mila ist in Eichenhain verwurzelt, Jonas nicht.** Ihre Oma hat Dienst im
+> Rathausarchiv (Band 2, Kap 3). Wenn Grossmutter Ahrens Eichenhain Verrat
+> vorwirft, trifft das die beiden **verschieden**: Jonas ENTSCHEIDET sich
+> dazuzugehoeren (Outline 0.10). Mila IST es -- und wird wuetend.
+
+| Kap | Was Mila tut | Woher es kommt |
+|:---:|--------------|----------------|
+| 6 | Wird zornig ueber den Vorwurf -- es ist ihr Dorf | Kanon: verwurzelt |
+| 7 | Loest das Zugangsproblem (Weg ohne Boot) | "praktisch, loesungsorientiert" (Author_Info) |
+| 8 | **Erkennt die Familienzeichen** | Kanon: erkannte in Band 3 Kap 8 das Hoffmann-Ring-Zeichen |
+| 9 | Der Schlagabtausch mit Nele | ihr Kernkonflikt |
+| 10 | **Vertraut trotzdem** -- ihr schwerster Moment | Charakterbogen |
+
+**Ihr Akt-Bogen:** von *"Das ist mein Dorf und du liegst falsch"* zu *"Ich
+arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
+
+------------------------------------------------------------------------
+
+### Kapitel 6 -- Die Frau, die die Geschichte huetet
+**Tag 3 | Seebruck | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Seebruck, Gassen | Loest den Kap-5-Cliffhanger: Wenn man den Namen hier nicht sagt -- **wer sagt ihn dann?** Sie fragen sich durch. Zwei, drei kurze Abfuhren (Ton: nicht feindselig, sondern unbehaglich). Man schickt sie schliesslich weiter: zu der Alten, die die alten Geschichten kennt. |
+| 2 | Haus der Ahrens, Kueche | **Grossmutter Ahrens.** Freundlich, gastfreundlich, Kuchen -- und unbeirrbar. Sie erzaehlt **die falsche Geschichte** zum ersten Mal, ruhig und vollstaendig. **Im Hintergrund steht ein Maedchen und sagt kein Wort** -- Nele. **SAAT:** Sie erwaehnt, dass die Familie "ein Andenken" von damals verwahrt. **Zeigen tut sie es nicht** -- nicht Fremden aus Eichenhain. |
+| 3 | Dieselbe Kueche / Haustuer | **Die beiden Reaktionen.** Jonas begreift, dass "die vier" seine Leute sind -- **JONAS BOGEN, Saat:** Sie sagt "ihr aus Eichenhain", er koennte sich rausreden ("ich bin da erst seit einem Jahr") und **tut es nicht**. **MILA dagegen wird zornig** -- es ist ihr Dorf, ihre Oma, ihre Leute. Sie will widersprechen. **Nele sieht ihr zu.** |
+
+> **Cliffhanger:** An der Tuer, freundlich wie zuvor: *"Und jetzt schickt
+> Eichenhain Kinder. Nach dreihundert Jahren."*
+
+**Pruefzeilen:**
+- Loest Kap-5-Cliffhanger: ja, Szene 1 (die Frage "wer sagt den Namen?")
+- Neuer Hinweis: die ganze Gegengeschichte + das Andenken (Saat)
+- Mini-Hindernis: die Abfuhren im Ort; dann die freundliche Unerschuetterlichkeit
+- **Mini-Entscheidung:** Sie hoeren zu Ende zu, statt zu widersprechen --
+  Jonas haelt Mila zurueck. *(Eine Entscheidung kann auch ein Verzicht sein.)*
+- Ben-Moment: Er isst den Kuchen und bedankt sich, waehrend die Stimmung kippt
+  -- unfreiwillig komisch, entschaerft die Szene fuer junge Leser
+- **Wachpunkt Ton:** Grossmutter Ahrens ist **keine Gegnerin**. Freundlich,
+  gastfreundlich, sicher. Wenn sie streng oder bitter wirkt, ist die Figur
+  kaputt -- ihr "Nein" in Kap 17 muss dem Leser spaeter leidtun.
+- **Wachpunkt:** Nele sagt in diesem Kapitel **kein einziges Wort.**
+
+------------------------------------------------------------------------
+
+### Kapitel 7 -- Der Weg ueber den Hang
+**Tag 3 | Osthang + Talgrund | Pegel A | Ziel: ~1.100 Woerter | 2 Szenen**
+
+*(Nur zwei Szenen: Das Kapitel ist EIN Vorgang -- hinunter und hinein.
+Zerhacken wuerde den Sog nehmen.)*
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Weg vom Ahrens-Haus zum Ufer | **LOEST DEN CLIFFHANGER (Fix, siehe unten):** Der Satz laeuft ihnen nach. Mila ist wuetend und will zurueck und es richtigstellen. Jonas: Mit Reden kommen wir hier nicht weiter -- **wir muessen es beweisen.** **MILAS BEITRAG:** Sie loest das praktische Problem. Kein Boot, also von Land -- und sie findet den einzigen gangbaren Abstieg **im Norden** des Osthangs. **GEOGRAFIE-SAAT (A1):** Suedlich davon faellt der Hang steil in eine Bucht ab, in die niemand geht. **Ein Satz, beilaeufig, keine Betonung.** |
+| 2 | Abstieg + Talgrund | Sie steigen hinunter und stehen im Dorf. Gassen, Tuerschwellen, ein Marktplatz mit steinernem Kreuz. Leer, still, schlammig. **Sinneswelt** (Muschelschalen an Waenden, Wasserpflanzen wie Haare, schmatzende Schritte). **KEIN Brunnen, KEINE Truhe** -- Abgrenzung zu Band 2. |
+
+> **Cliffhanger:** Ueber einer Tuerschwelle, halb im Schlamm: ein eingemeisselter
+> **Baum**. Meiers Familienzeichen.
+
+**Pruefzeilen:**
+- **FIX (Cliffhanger-Regel):** Erste Fassung liess Kap 7 mit Logistik beginnen
+  ("Sie brauchen einen Weg ohne Boot"), waehrend Kap 6 mit einem emotionalen
+  Schlag endete. Der Satz haette in der Luft gehangen -- **dieselbe Fehlerklasse
+  wie B9.** Jetzt ist die Reaktion auf den Vorwurf die erste Bewegung des
+  Kapitels, und die Antwort darauf ist eine **Tat**: beweisen statt streiten.
+- Mini-Entscheidung: beweisen statt zurueckgehen und streiten
+- Mini-Hindernis: es gibt keinen bequemen Weg hinunter
+- Ben-Moment: der Abstieg; er geht mit dem Stock (Fortsetzung aus Kap 4)
+- **Wachpunkt:** Die Suedbucht darf NICHT interessant klingen. Ein Nebensatz.
+  Wenn sie betont wird, ist der Gedenkstein verraten.
+
+------------------------------------------------------------------------
+
+### Kapitel 8 -- Vier Haeuser
+**Tag 3 | Sternbach | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Vor der Tuerschwelle mit dem Baum | Loest den Cliffhanger: Es IST Meiers Zeichen. Der Gedanke, der allen gleichzeitig kommt: **Wenn eins hier ist, sind die anderen auch hier.** |
+| 2 | Durch die Gassen | Suche. Sie finden **Kreuz, Ring, Blume** ueber drei weiteren Tueren. **MILA erkennt sie** -- sie hat in Band 3 (Kap 8) das Hoffmann-Ring-Zeichen wiedererkannt, sie hat den Blick dafuer. **Ben zaehlt** und stutzt: Die Haeuser stehen im Kreis. Und im Kreis ist eine Luecke. |
+| 3 | Die Luecke im Kreis | Sie gehen hin. Das Haus dort ist **groesser** als die anderen. Ueber seiner Tuer: drei Wellen und ein Stern. **Kein Raetsel mehr** -- seit Kap 6 wissen sie, wem das Zeichen gehoert. Ben spricht aus, was alle denken: *"Das ist ihr Haus."* Sie gehen auf die Tuer zu. |
+
+> **Cliffhanger (Fix Befund A):** Sie steht darin. **Nele** -- sie ist ihnen seit
+> dem Haus ihrer Grossmutter gefolgt. *"Nicht in dieses Haus."*
+> **Bens Satz wird nicht erklaert, sondern beantwortet: Sie steht davor.**
+
+**Pruefzeilen:**
+- Loest Kap-7-Cliffhanger: ja, Szene 1
+- Neuer Hinweis: vier Zeichen = die Gruenderfamilien kamen von hier
+- Mini-Entscheidung: systematisch suchen statt weiterlaufen
+- Mini-Hindernis: Schlamm, verschuettete Tuerschwellen, Zeit
+- Ben-Moment: das Zaehlen -- **und er ist es, der die Luecke bemerkt**
+- **Mila und Ben teilen sich die Arbeit:** Sie erkennt, er zaehlt. Beide tragen
+  bei, keiner loest allein.
+
+**FIX BEFUND A -- warum Nele den Tag beendet (und nicht die Daemmerung):**
+
+*Das Problem:* Sie finden das fuenfte Haus an Tag 3, gehen nach Hause und kommen
+erst an Tag 4 wieder -- bei laufendem Countdown, ohne dass sie etwas aufhaelt.
+**Dieselbe Luecke, die B9 in Kap 9 geschlossen hat.**
+
+*Zwei verworfene Loesungen:*
+1. **Daemmerung** ("zu dunkel, wir muessen zurueck"). Verworfen: In Kap 9 sitzt
+   Nele am naechsten Morgen **schon da** -- sie wusste also, dass sie kommen.
+   Das geht nur, wenn sie am Vorabend dabei war. Daemmerung haette eine zweite
+   Luecke aufgerissen. Ausserdem waere das Kapitel mit einer *Verhinderung*
+   geendet -- schwacher Abgang fuer den groessten Fund des Akts.
+2. **Kap 8 auf Tag 4 verschieben.** Verworfen: Dann traegt Tag 4 drei Kapitel
+   und Tag 3 nur zwei -- eine Ungleichheit gegen eine andere getauscht. Und es
+   haette die Zeitleiste (`Story_Outline.md` 2b) geaendert, also ausgerechnet
+   das Dokument, das die Autoritaet fuer alle Tagesangaben ist.
+
+*Warum Nele die richtige Loesung ist -- sie loest vier Dinge auf einmal:*
+- Die Logikluecke ist zu: **Ein Mensch hindert sie, nicht die Sonne.**
+- **Kap 9 wird sauber:** Sie sitzt am naechsten Morgen da, weil sie WEISS, dass
+  die wiederkommen -- sie hat sie am Vorabend weggeschickt.
+- **Der Cliffhanger wird staerker:** Bens *"Das ist ihr Haus"* wird nicht
+  erklaert, sondern beantwortet. Bild statt Erlaeuterung.
+- **Der Akt bekommt Form:** Nele blockiert die Tuer **zweimal** -- Tag 3 als
+  Fremde, Tag 4 als jemand, mit der sie schon geredet haben. Beim zweiten Mal
+  ist es keine Abwehr mehr, sondern ein Ringen.
+
+*Warum sie ueberhaupt dort ist:* **Sie ist ihnen gefolgt**, seit sie bei ihrer
+Grossmutter waren. Passt zu einer, die die drei selbst gerufen hat und nicht
+weiss, ob das ein Fehler war.
+
+*Ehrlicher Preis:* Der Wachpunkt bei Kap 6 lautet "Nele sagt kein einziges Wort".
+Ihr erstes Wort im Akt ist jetzt eine Abwehr. **Kein Verlust:** Der Wachpunkt
+betrifft nur Kap 6, und dort aendert sich nichts. Sie schweigt in der Kueche
+ihrer Grossmutter, waehrend ueber ihre Familie geredet wird -- **und redet erst,
+als jemand an ihre Tuer will.** Konsistenter, als wenn sie erst einen Tag
+spaeter reagierte.
+
+------------------------------------------------------------------------
+
+### Kapitel 9 -- Die, die geblieben ist
+**Tag 3 (Rest) + Tag 4 | Sternbach | Pegel A | Ziel: ~1.450 Woerter | 4 Szenen**
+
+*(Vier Szenen und das laengste Kapitel des Akts -- hier laeuft am meisten
+zusammen: zwei Tuerblockaden, Konfrontation, Bens Herzmoment, Vorzeichen 1.)*
+
+> **Das Kapitel ueberspannt den Tageswechsel** (Fix Befund A). Szene 1 setzt
+> Kap 8 nahtlos fort und beendet Tag 3 an der Tuer; Szene 2 beginnt Tag 4.
+> **Der Zeitsprung liegt INNERHALB des Kapitels, nicht zwischen zwei Kapiteln** --
+> so bleibt die Regel "kein Zeitsprung zwischen Cliffhanger und Aufloesung"
+> gewahrt.
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Vor dem fuenften Haus, Tag 3, direkt weiter | **LOEST DEN CLIFFHANGER SOFORT:** Kein Zeitsprung -- die Szene laeuft weiter, wo Kap 8 aufhoerte. Sie versuchen es im Guten, sie versuchen es mit Argumenten (das Wasser kommt, wir haben zwei Tage). **Nele bleibt stehen.** Am Ende gehen sie -- an ihr vorbei kommen sie nicht, und schieben wollen sie sie nicht. **Der Tag endet an dieser Tuer.** |
+| 2 | Tag 4, frueher Morgen, dasselbe Haus | **Sie ist schon da** -- sie wusste, dass die wiederkommen. Sitzt am Rand, sieht zu, waehrend sie in den umliegenden Ruinen arbeiten. **Sie ruehrt sich nicht.** Die Ruinen sind ihr gleichgueltig. **Nur die Tuer nicht** -- sobald sich jemand ihr naehert, steht sie auf. **Zweite Blockade, anderer Ton:** keine Fremde mehr, sondern jemand, mit der sie schon geredet haben. |
+| 3 | Ebenda, Konfrontation | Schlagabtausch **Mila gegen Nele** -- zwei, die beide nicht nachgeben. **Mila stellt die Frage direkt:** "Hast du uns den Brief geschrieben?" **Nele antwortet nicht.** Sie weicht aus: *"Denkt doch, was ihr wollt."* **Sie luegt nicht** -- sie schweigt. |
+| 4 | Etwas abseits | **BENS HERZMOMENT:** Waehrend die anderen sich festbeissen, setzt Ben sich einfach neben sie und **redet mit ihr** -- ueber irgendetwas Belangloses. Sie antwortet knapp. **VORZEICHEN 1:** Dabei weiss sie beilaeufig, dass die Grabsteine oben auf dem Friedhof noch lesbar sind. Sie war also schon am Osthang. **Niemand hakt nach.** **AM ENDE, beim Aufbrechen (Fix Befund C, Teil 1):** Jonas sieht, dass die **Tuerschwelle des fuenften Hauses feucht** ist. Am Morgen war sie trocken. **Ein Satz, keine Erklaerung, niemand kommentiert es.** |
+
+> **Cliffhanger:** *"Ihr sucht nach Beweisen, dass sie gute Leute waren"*, sagt
+> sie. *"Ich suche nach dem Gegenteil."*
+
+**Pruefzeilen:**
+- Loest Kap-8-Cliffhanger: ja, Szene 1, **ohne jeden Zeitsprung** -- die Szene
+  laeuft weiter, wo Kap 8 aufhoert (das war Fix B9 + Befund A)
+- **Zwei Blockaden, unterschiedlicher Ton:** Tag 3 als Fremde (Szene 1),
+  Tag 4 als jemand, mit der sie schon geredet haben (Szene 2). Beim zweiten Mal
+  ist es Ringen, nicht Abwehr.
+- Mini-Entscheidung: nicht gegen sie durchdruecken, obwohl sie zu dritt sind
+- Ben-Moment: der Herzmoment (Szene 4) -- **sein wichtigster in Akt 2**
+- **Wachpunkt Vorzeichen 1:** Die Friedhofs-Bemerkung muss in einem Gespraech
+  ueber etwas ANDERES fallen. Wenn sie als Information dasteht, ist sie
+  verbrannt. Sie soll beim zweiten Lesen auffallen, nicht beim ersten.
+- **Wachpunkt:** Drei gegen eine -- die drei duerfen NICHT als Meute wirken.
+  Deshalb Bens Szene 4: Sie gewinnt nicht durch Nachgeben, sondern weil einer
+  aufhoert zu kaempfen.
+
+------------------------------------------------------------------------
+
+### Kapitel 10 -- Waffenstillstand
+**Tag 4 | Sternbach | Pegel A | Ziel: ~1.060 Woerter | 2 Szenen**
+
+*(Kurz und zweiszenig: ein einziges Gespraech, das kippt. Danach die Nacht.)*
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Vor dem fuenften Haus, morgens | **Loest den Cliffhanger -- aber nicht mit Worten (Fix Befund C, Teil 2):** Sie kommen an, und **die Tuerschwelle steht im Wasser.** Gestern war sie feucht, heute steht sie drin. **Nele sagt zuerst gar nichts.** Sie sieht es nur an. **Es ist IHRE Schwelle.** Erst danach kommt der Rest: Jonas fragt, warum sie das Gegenteil sucht, und bekommt die Familiengeschichte aus IHREM Mund -- kuerzer und haerter als von der Grossmutter. Dann **bestaetigt** sie, was seit Kap 5 im Raum steht: Sie hat den Brief geschrieben. |
+| 2 | Ebenda | **Der Waffenstillstand -- und der Grund, den NUR SIE hat (Fix Befund B):** Nele gibt zu, was sie seit Wochen weiss: **"Ihr seid zu dritt. Ich bin allein. Deshalb habe ich geschrieben."** Sie sucht seit Wochen und hat nichts gefunden -- die drei haben an einem Nachmittag vier Tuerschwellen freigelegt, und sie hat zugesehen (Kap 8). Ihr fehlt nicht Zugang und nicht Wissen, ihr fehlen **Haende und Augen**. **Kein Handel, ein Eingestaendnis.** Danach: gemeinsam suchen, **egal was rauskommt.** **MILAS SCHWERSTER MOMENT:** Sie muss jemandem vertrauen, der schneller ist als sie und der ihr Dorf beschimpft hat -- **sie sagt nur "Meinetwegen"**, mehr nicht. **Das Zugestaendnis ist konkret: Nele gibt die Tuer frei.** Morgen duerfen sie ins fuenfte Haus. Zwei Tage bis zur Schliessung. |
+
+> **Cliffhanger:** Nachts ein Geraeusch am Fenster. Die ersten Regentropfen seit
+> Wochen. Nur ein paar. Aber der Sommer bricht.
+
+**Pruefzeilen:**
+- Loest Kap-9-Cliffhanger: ja, Szene 1, direkt
+- **Mini-Entscheidung: der Waffenstillstand selbst** -- die groesste des Akts
+- Ben-Moment: er ist der Einzige, den ihr Gestaendnis nicht ueberrascht
+  (Folge seiner Szene 4 in Kap 9)
+- **Wachpunkt:** Der Waffenstillstand darf sich NICHT gut anfuehlen. Kein
+  Haendeschuetteln, keine Erleichterung. Vier Leute, die zusammenarbeiten, weil
+  ihnen nichts Besseres einfaellt.
+
+**FIX BEFUND B -- warum Nele nachgibt (Eingestaendnis, kein Handel):**
+
+*Das Problem:* Erste Fassung liess sie nachgeben, **weil sie im Streit
+unterliegt**. Aber sie war 14 Kapitel lang die Sturere. Warum knickt sie
+ausgerechnet hier ein? Es fehlte ein Grund, den SIE hat.
+
+*Verworfene Loesung -- der Handel* ("sie gibt die Tuer frei, dafuer erfaehrt sie
+alles, was die drei finden"). Zwei Gruende dagegen:
+1. **Es ist kein Handel.** Sie ist in jeder Szene dabei, kennt den Ort besser
+   und koennte jederzeit selbst hineingehen. Sie bekaeme nichts, was sie nicht
+   ohnehin haette -- eine Kapitulation mit Etikett.
+2. **Es beschaedigt ihren Verrat.** Kap 15 waere dann der Bruch eines VERTRAGES,
+   also Wortbruch. `Author_Info.md` verlangt aber ausdruecklich, dass sie aus
+   **Angst** handelt und der Leser "oh nein" denkt -- nicht "die war unehrlich".
+
+*Die Loesung:* Was ihr fehlt, ist nicht Zugang und nicht Wissen, sondern
+**Haende und Augen**. Die drei haben an einem Nachmittag vier Tuerschwellen
+gefunden, wofuer sie Wochen gebraucht haette -- **und sie hat es in Kap 8 mit
+angesehen.**
+
+> **"Ihr seid zu dritt. Ich bin allein. Deshalb habe ich geschrieben."**
+
+Das ist **nichts Neues** -- es ist genau der Grund, aus dem sie den Brief
+geschickt hat (Kap 1). Sie gibt endlich zu, was sie laengst getan hat. Fuer ein
+Kind, das seit 14 Kapiteln "das ist unser See" sagt, ist das die schwerste Art
+nachzugeben.
+
+*Ehrlicher Preis:* Sie oeffnet die Tuer ohne Gegenleistung -- zunaechst weicher
+als ein Handel. **Aber genau deshalb traegt es:** Der Waffenstillstand haelt nur,
+solange die Ergebnisse ihr passen. Er ist von Anfang an fragil, ohne dass es
+erklaert werden muss. Und der Verrat bleibt sauber: Sie bricht keinen Vertrag,
+sie **verschweigt** etwas -- aus derselben Angst, aus der sie den Ort schon im
+Brief verschwieg (Tracker 3b). **Das Muster ist ab Kap 1 gepflanzt.**
+
+*Zu Mila:* Sie bekommt **keinen eigenen Satz** dazu. "Meinetwegen" ist alles.
+Eine Figur, die seit Kap 6 zornig ist, haelt keine Rede ueber Vertrauen -- ihr
+Zugestaendnis ist, dass sie **nicht widerspricht**.
+
+**FIX BEFUND C -- der Ausloeser ist das Wasser, nicht ein Argument:**
+
+*Das Problem an der Oberflaeche:* Kap 9 Szene 3 und Kap 10 Szene 1 waren beide
+"Mila streitet mit Nele, Nele weicht aus" -- zweimal derselbe Beat in Folge
+(Menschlichkeits-Checkliste Punkt 4).
+
+*Das eigentliche Problem darunter:* **Zwischen beiden Szenen lag kein Ereignis.**
+Kap 9 endet mit Neles haertestem Satz, und in Kap 10 gibt sie den Brief zu und
+oeffnet die Tuer. Warum? Es war nichts passiert. Derselbe Fehlertyp wie
+Befund B, eine Ebene tiefer: Ihr Sinneswandel war begruendet, aber ohne
+**Ausloeser**.
+
+*Verworfene Loesung -- "Jonas fragt statt Mila".* Beseitigt die Wiederholung
+durch **Sprecherwechsel**, nicht durch einen Grund. Die Szene waere weiterhin:
+vier Leute reden, am Ende gibt Nele nach. **Symmetrie kaschiert, nicht
+aufgeloest.**
+
+*Die Loesung:* Der Ausloeser darf nicht aus einem Gespraech kommen -- sonst ist
+es die dritte Redeszene in Folge. Er kommt aus dem **Countdown**, der seit Kap 3
+laeuft und in Akt 2 bisher nur als Zahl vorkam:
+
+| Wann | Was man sieht |
+|------|---------------|
+| Kap 9, Ende Tag 4 | Die Tuerschwelle ist **feucht**. Morgens war sie trocken |
+| Kap 10, morgens | Die Schwelle **steht im Wasser** |
+
+> **Nele gibt nicht nach, weil man sie ueberredet hat. Sie gibt nach, weil das
+> Wasser sie ueberholt.** Ihr Satz aus Befund B ("Ihr seid zu dritt, ich bin
+> allein") ist damit keine Antwort auf ein Argument, sondern auf eine sichtbare
+> Tatsache.
+
+*Warum die Tuerschwelle und nicht der Turm:* Der Turm ist Messpunkt 2 und
+gehoert zu Kap 11. Die Schwelle ist das **nahe** Messgeraet aus Outline 0.8 --
+und es ist **Neles Schwelle**. Das ist der Unterschied zwischen einer
+Information und einem Treffer. Zugleich bekommt Tracker-Eintrag 13 damit
+endlich Kapitel: Er stand bisher mit dem Vermerk "sonst ist es ein totes Setup".
+
+*Geprueft, kollidiert nicht:* **Pegelstufe bleibt A.** Das Wehr schliesst erst
+an Tag 6 -- aber A ist der TIEFSTAND, kein Stillstand: Die Zufluesse laufen
+weiter. Ein feuchter Rand an einer Schwelle ist keine Pegelstufe. Der
+Regen-Cliffhanger derselben Nacht bestaetigt es sogar. **Die Zeitleiste wird
+nicht angefasst.**
+- **Wachpunkt Kap 11:** Der Regen-Cliffhanger muss dort in der ersten Szene
+  aufgegriffen werden (auch wenn es nur ein feuchter Boden ist, mehr nicht).
+
+------------------------------------------------------------------------
+
+## Akt-2-Bilanz
+
+| Kapitel | Woerter | Szenen | Tag | Pegel |
+|:-------:|:-------:|:------:|:---:|:-----:|
+| 6 | 1.300 | 3 | 3 | A |
+| 7 | 1.100 | 2 | 3 | A |
+| 8 | 1.250 | 3 | 3 | A |
+| 9 | 1.450 | 4 | **3-4** | A |
+| 10 | 1.060 | 2 | 4 | A |
+
+- **Summe Akt 2: ~6.160 Woerter** (Akt 1: ~6.150 -- gleichmaessig)
+- Szenenzahl 2/3/4 gemischt, Wortzahl 1.000-1.450 -- kein Formular
+- Tag/Pegel stimmen mit `Story_Outline.md` 2b ueberein (Tag 3-4, durchgehend A)
+- **Jedes Kapitel hat eine Mini-Entscheidung** (in Kap 6 ein Verzicht)
+- **Jedes Kapitel hat einen Ben-Moment**, Kap 9 seinen wichtigsten
+- **Mila traegt vier von fuenf Kapiteln** mit -- Befund aus Akt 1 behoben
+- **Ein Cliffhanger-Fehler behoben** (Kap 6 -> 7, siehe dort)
