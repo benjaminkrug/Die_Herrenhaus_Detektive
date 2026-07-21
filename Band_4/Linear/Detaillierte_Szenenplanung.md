@@ -1049,7 +1049,7 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 | 1 | Friedhof, Nele kommt herauf | Loest den Cliffhanger: Sie hat es sich anders ueberlegt. **MILAS ENTSCHEIDUNG (Fix Problem 2):** Nicht Jonas entscheidet, ob Nele mitkommt -- **Mila.** Sie war die am staerksten Betrogene, und sie hat in Kap 10 zugestimmt. Ihr "Meinetwegen" von damals bekommt hier sein Gegenstueck. **Sie sagt nicht viel** -- sie geht los und laesst Nele mitkommen. |
 | 2 | Suedbucht, Abstieg | Nele fuehrt sie vom Friedhof nach **Sueden**, den Hang entlang, in die Bucht, in die nie jemand geht (Geografie-Saat aus Kap 7). **Das Seil wird gebraucht** -- der Hang ist zu steil. Sie hat es mitgebracht, **weil sie wusste, was sie vorhat.** |
 | 3 | Am Stein | **Und jetzt zahlt der Verrat:** Der Stein steht bereits im Wasser. Waeren sie an Tag 5 gekommen, haetten sie ihn trocken ablesen koennen. Jetzt: Schlamm und Wasserpflanzen wegraeumen, **die Vertiefungen blind ertasten.** **BENS STOCK, Stufe 3** -- **Nele fordert ihn dazu auf** (sie hat in Kap 14 gefragt, was er da tut). Dann: **vier Symbole, eine Jahreszahl, vier leere Vertiefungen.** *"Sie sind zurueckgekommen. Sie standen genau hier."* Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."* **JONAS versteht, warum leer:** Sie konnten das Pfand nicht zurueckgeben -- es war niemand mehr da. Sie haben es behalten. *"Deshalb war meine Muenze noch in Eichenhain."* **Der Stein ist unvollendet.** |
-| 4 | Seebruck, abends | Nele sagt *"Ich kann das meiner Oma nicht sagen"* -- **und geht dann doch hin.** Ihr erster mutiger Akt, mit dem Beweis in der Hand. Grossmutter Ahrens hoert zu. **Und bleibt stehen:** *"Sie haben einen Stein gesetzt. Fuer sich selbst. Ein schlechtes Gewissen ist noch kein gehaltenes Wort."* |
+| 4 | Weg nach Seebruck -> Haus der Ahrens, abends | **WINTER ERFAEHRT ES (Fix Befund G) -- kein eigener Beat, der Uebergang selbst:** Er steht vor dem Gasthof, als haette er sich den ganzen Tag nicht gesetzt. **Jonas nickt. Mehr nicht.** Winter sagt nichts, sieht sie an, setzt sich auf die Bank. *"Geht ihr."* **Er erfaehrt NICHT, was sie gefunden haben** -- nur, dass es etwas gibt. Den Stein sieht er zum ersten Mal in Kap 18. Dann weiter: Nele sagt *"Ich kann das meiner Oma nicht sagen"* -- **und geht dann doch hin.** Ihr erster mutiger Akt, mit dem Beweis in der Hand. Grossmutter Ahrens hoert zu. **Und bleibt stehen:** *"Sie haben einen Stein gesetzt. Fuer sich selbst. Ein schlechtes Gewissen ist noch kein gehaltenes Wort."* |
 
 > **Cliffhanger:** Ein Wort. **"Nein."**
 
@@ -1067,6 +1067,43 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 - **Wachpunkt:** Das "Nein" muss eine **Nacht** stehen bleiben (Outline 0.6).
   Sonst kippen 300 Jahre auf Seite drei statt auf Seite eins.
 
+**FIX BEFUND G -- Winter erfaehrt es (und der groessere Fund dahinter):**
+
+*Das Problem:* Die Kinder finden das Ziel seiner vierzigjaehrigen Suche -- und
+er kommt im Kapitel nicht vor. Er wartet stundenlang und erfaehrt es off-page.
+
+*Der groessere Fund beim Pruefen -- **WINTER BETRITT STERNBACH NIE.***
+Kap 3: Turmsilhouette vom Fenster. Kap 4: die Kinder gehen allein. Kap 16: er
+bleibt am Fuss des Hangs. **Er setzt keinen Fuss in das Dorf, das er vierzig
+Jahre gesucht hat.** Erst in Kap 18 erreicht er den Gedenkstein -- **mit dem
+Boot**, und da ist Sternbach schon weg.
+
+> **DAS IST ABSICHT UND WIRD HIER FESTGESCHRIEBEN**, damit es spaeter niemand
+> "repariert" (auch ich nicht). Der Mann, der sein Leben mit der Suche verbracht
+> hat, geht nie dort. Das Wasser holt es sich vorher. Was er bekommt, ist der
+> Stein, den seine eigene Familie gesetzt hat -- und den erreicht er in dem
+> Moment, in dem eine Ahrens ihm die Hand gibt.
+
+*Warum ein Nicken genuegt -- und mehr schaedlich waere:*
+1. **Sein Payoff liegt in Kap 18.** Ein grosser Moment hier wuerde ihn entwerten.
+2. **Sein Register ist stille Duldung** (Kap 3: "Winter merkt es und sagt nichts
+   dazu"; Kap 14: neun Tage Archiv, kein Blatt). Eine grosse Szene braeche die Figur.
+3. **Er erfaehrt nur DASS, nicht WAS.** Sonst haette Kap 18 fuer ihn keine
+   Entdeckung mehr.
+
+*Plausibilitaets-Korrektur:* Erste Idee war "Winter steht am Ufer". **Geht
+nicht** -- ein alter Mann steht nicht stundenlang am Fuss eines Hangs. Also
+**vor dem Gasthof in Seebruck**, auf dem Weg zur Ahrens-Tuer. Kein eigener
+Schauplatz: **es ist der Uebergang, den das Kapitel ohnehin braucht.**
+
+*Warum er nicht mitkommt:* **Sein Name ist in diesem Haus das Problem** (Kap 3,
+der Wirt verstummt). Er weiss besser als alle, dass seine Anwesenheit es
+schwerer machen wuerde. **"Geht ihr"** ist keine Bequemlichkeit, sondern seine
+kluegste Handlung im Buch.
+
+*Kosten:* ~25 Woerter netto (ersetzt einen Uebergangssatz). **Kap 17 steht damit
+endgueltig an der Obergrenze -- Szene 2 auf das Minimum.**
+
 ------------------------------------------------------------------------
 
 ### Kapitel 18 -- Was man zurueckgibt
@@ -1074,8 +1111,8 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Gasthof, Morgen | Loest den Cliffhanger: Die Nacht ist vergangen, das "Nein" steht. Bedrueckte Stimmung. **Letzter Tag** -- das Wasser steigt, sie packen. Winter sagt wenig. |
-| 2 | Haus der Ahrens | **NELES GROESSTE SZENE.** Sie kommt nicht mit dem Stein, sondern mit dem **Kaestchen**: *"Wir haben sie dreihundert Jahre aufgehoben, Oma. Warum hebt man ein Andenken an Verraeter auf?"* **Kein neuer Beweis** -- eine Handlung ihrer eigenen Familie. Langes Schweigen. Dann holt die alte Frau ihre Jacke. **Der Beweis hat sie nicht umgestimmt. Ihre Enkelin hat es.** |
+| 1 | Gasthof, Morgen | Loest den Cliffhanger: Die Nacht ist vergangen, das "Nein" steht. Bedrueckte Stimmung. **Letzter Tag** -- das Wasser steigt, sie packen. Winter sagt wenig. **Sie beschliessen, vorher noch Auf Wiedersehen zu sagen** (Fix Befund H): Sie haben verloren und fahren heim -- man verabschiedet sich trotzdem. |
+| 2 | Kueche der Ahrens | **NELES GROESSTE SZENE.** **Die drei sind im Raum und sagen kein Wort** (Fix Befund H -- POV: ohne Jonas kann das Buch die Szene nicht erzaehlen). **Winter wartet draussen am Auto** -- sein Name ist in diesem Haus weiter das Problem (Kap 3). Weil die anderen gerade gehen, tut Nele es **jetzt oder nie** -- ein Impuls, kein ueber Nacht gefasster Entschluss. Sie kommt nicht mit dem Stein, sondern mit dem **Kaestchen**: *"Wir haben sie dreihundert Jahre aufgehoben, Oma. Warum hebt man ein Andenken an Verraeter auf?"* **Kein neuer Beweis** -- eine Handlung ihrer eigenen Familie. Langes Schweigen. **Die Grossmutter gibt KEINEN Irrtum zu.** Sie holt ihre Jacke. **Sie stimmt nur zu, es sich anzusehen** -- mehr nicht, und das kann sie vor jedem tun. **Der Beweis hat sie nicht dorthin gebracht. Ihre Enkelin hat es.** |
 | 3 | Die Bucht, per Boot | Der Stein ist zu Fuss nicht mehr erreichbar. **Sie fahren mit Neles Ruderboot** -- das Boot, das am Anfang ihr Vorsprung und ihre Abgrenzung war, bringt jetzt alle gemeinsam hin. Leute aus Seebruck in weiteren Booten. **Jonas taucht die Hand ins Wasser und legt seine Muenze in die erste Vertiefung.** Dreihundert Jahre zu spaet, aber zurueckgegeben -- **die unvollendete Geste ist vollendet.** Grossmutter Ahrens legt ihre daneben. **WINTERS AUSZAHLUNG:** Sie gibt ihm die Hand. Dem Mann, dessen Name hier dreihundert Jahre Verrat bedeutet hat. **Kein grosser Satz dazu** -- im Hintergrund von Neles Szene, nicht daneben. **MESSPUNKT 4 (durch Abwesenheit):** Jonas sucht den Turm und findet ihn fast nicht mehr. Nur das Steinkreuz. Und **der dunkle Rand aus Kap 4 ist zum Greifen nah.** |
 
 > **Cliffhanger (letzter):** Am Abend ist der Stein nicht mehr zu sehen.
@@ -1094,18 +1131,64 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 - **Wachpunkt Ton:** Kein Triumph. Niemand jubelt. Es ist eine Rueckgabe, keine
   Schatzfindung -- und der Ort geht dabei verloren.
 
+**FIX BEFUND H -- die POV-Regel und was daraus folgt:**
+
+*Das Problem:* Neles wichtigste Szene ist eine Familienszene. **Ist Jonas nicht
+im Raum, kann das Buch sie nicht erzaehlen.** CLAUDE.md: "immer nah an Jonas".
+*Geprueft:* Jonas kommt in **allen 19 Kapiteln von Band 3** vor (9-22 Nennungen),
+und in Band 1-3 gibt es **keinen einzigen Perspektivwechsel**. Die Regel wird
+ausnahmslos gehandhabt.
+
+*Einwand gegen die erste Fassung des Fixes ("sie tut es oeffentlich, das ist
+mutiger"):* **Eine stolze alte Frau, der man vor vier Kindern sagt, dass die
+Geschichte ihrer Familie falsch ist, verhaertet sich eher.** Oeffentlichkeit
+macht Menschen defensiv -- der Fix haette die Szene unglaubwuerdiger gemacht.
+
+*Die Aufloesung liegt darin, was sie tatsaechlich tut:* **Sie gibt keinen Irrtum
+zu.** Nele sagt nicht "du hast unrecht", sondern zeigt auf etwas, das die
+Familie GETAN hat. Und die Grossmutter antwortet nicht mit einem Eingestaendnis,
+**sie holt ihre Jacke** -- sie stimmt zu, hinzusehen. **Gesichtswahrend, vor
+jedem moeglich.** Die eigentliche Kapitulation kommt am Stein (Szene 3), und
+dann ist sie Versoehnung, nicht Niederlage.
+
+> **DIE SPIEGELUNG (nicht geplant, aber der beste Grund fuer diese Loesung):**
+> Wachpunkt Kap 6: *"Nele sagt in diesem Kapitel kein einziges Wort"* -- sie
+> steht stumm in der Kueche ihrer Grossmutter, waehrend ueber ihre Familie
+> geredet wird.
+> **Kap 18 ist exakt die Umkehrung:** dieselbe Kueche, dieselben Menschen --
+> und jetzt redet sie, waehrend die drei schweigen.
+
+- **WACHPUNKT (hart):** **Die drei sagen in Szene 2 kein Wort.** Kein Beistand,
+  kein Nicken, keine Bestaetigung. Sie stehen nur da. Sobald Mila oder Ben etwas
+  beisteuert, gehoert die Szene nicht mehr Nele.
+- **Winter bleibt draussen.** Wenn die Grossmutter mit der Jacke herauskommt,
+  steht er am Auto -- **erste Begegnung, aber KEIN Handschlag.** Der gehoert an
+  den Stein.
+
 ------------------------------------------------------------------------
 
 ### Kapitel 19 -- Epilog: Zurueck in Eichenhain
-**~2 Wochen spaeter, letzte Ferientage | Eichenhain | Ziel: ~1.100 Woerter | 3 Szenen**
+**~2 Wochen spaeter, letzte Ferientage | Eichenhain | Ziel: ~1.100 Woerter | ZWEI ORTE, ~7 KURZE BEATS**
 
 *(Kein Cliffhanger -- nachhallender Schluss wie Band 3.)*
 
-| # | Ort | Was passiert |
-|---|-----|--------------|
-| 1 | Herrenhaus | **Letzte Ferientage**, noch Sommer (nicht Herbst -- Band 4 begann in den Ferien). Winter haengt das Pergament auf. **Die Luecke ist gefuellt**, die Herkunft steht fest. Holzer, Meier, Krueger, Frau Wenzel -- alle wieder da, jeder ein, zwei Saetze. |
-| 2 | Am Brunnen | **Ein Brief von Nele.** Sie schreibt, wie es am See aussieht, jetzt wo das Wasser wieder steht. *(Ob sie nach Eichenhain kommt, bleibt offen -- Band 5.)* Die Muenze ist nicht mehr in Jonas' Tasche, **und das fuehlt sich richtig an.** **JONAS' AUSZAHLUNG -- ein Satz, nicht mehr:** *Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet.* **Kein Absatz darueber, keine Erklaerung.** |
-| 3 | Blick auf das Wappen | **Der emotionale Schluss (nicht der Plot-Haken):** Vier Symbole -- Baum, Kreuz, Ring, Blume. **Und jetzt weiss man, dass eins fehlt.** Die Familie, die geblieben ist, steht nicht darauf. *Ein stiller Vorwurf an das eigene Dorf, keine offene Frage.* |
+> **FORM (belegt, nicht geschaetzt):** Epiloge dieser Reihe sind **keine Folge
+> von Szenen, sondern eine Reihe kurzer Abschiede.** Band 3 Kap 19 hat
+> **7 Abschnitte in 1.074 Woertern** -- im Schnitt 130 Woerter pro Beat. Jeder
+> Faden bekommt seinen Moment und ist dann fertig.
+> Laengen zum Vergleich: Band 1 = 814, Band 2 = 1.076, Band 3 = 1.074 Woerter.
+> **1.100 ist damit genau richtig.**
+> *(Erste Fassung plante 3 lange Szenen -- falsche Form, zu langsam.)*
+
+| # | Ort | Beat |
+|---|-----|------|
+| 1 | Herrenhaus | **Letzte Ferientage**, noch Sommer (nicht Herbst -- Band 4 begann in den Ferien). Ankunft, das Haus ist bewohnt. |
+| 2 | Herrenhaus | Winter haengt das **Pergament** auf. **Die Luecke ist gefuellt**, die Herkunft steht fest. |
+| 3 | Herrenhaus | **Die Verbuendeten:** Holzer, Meier, Krueger, Frau Wenzel -- **je ein bis zwei Saetze**, keine Szene fuer jeden. |
+| 4 | Herrenhaus, beim Hinausgehen | **DAS WAPPEN, nah -- KEIN Beat, nur eine Zeile.** Jonas sieht es ueber der Tuer und zaehlt: vier. **Er sagt nichts.** *(Erste Nennung ohne Betonung -- dieselbe Bauweise wie Pfand-Keim, Tuerschwelle und Bens Stock.)* |
+| 5 | Am Brunnen | **Ein Brief von Nele.** Sie schreibt, wie es am See aussieht, jetzt wo das Wasser wieder steht. *(Ob sie nach Eichenhain kommt, bleibt offen -- Band 5.)* |
+| 6 | Am Brunnen | **Die leere Tasche.** Jonas' Hand faehrt aus Gewohnheit hinein -- die Muenze ist weg. **Und das fuehlt sich richtig an.** |
+| 7 | Am Brunnen | **JONAS' AUSZAHLUNG -- ein Satz:** *Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet.* **Dann der Blick hinauf** zum Haus auf dem Huegel: vier Symbole, und **eigentlich muessten es fuenf sein.** Die Familie, die geblieben ist, steht nicht darauf. |
 
 **Pruefzeilen:**
 - **KEIN Cliffhanger** (wie Band 3, Kap 19)
@@ -1117,6 +1200,40 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 - **Wachpunkt Band-5-Sperre:** Keine weitere Muenze wird gefunden. Milas Frage
   aus Kap 18 bleibt **unbeantwortet** (`Serienbogen_Band4_5.md` Abschnitt 3)
 
+**DER SCHLUSS -- Reihenfolge und Ortsfolge (geprueft an Band 1-3):**
+
+*Die Serien-Signatur ist NICHT der Ort, sondern ein Dreiklang:*
+**die drei zusammen -> ein Blick auf das Unfertige -> ein kurzer Satz nach vorn.**
+
+| Band | Letztes Bild |
+|:----:|--------------|
+| 1 | "Zum Herrenhaus. Zum Brunnen. **Zu seinen Freunden.**" + *das naechste Abenteuer wartete* |
+| 2 | "Dann sah er wieder **in den Wald**." + *"Bald"* -- der Wald ist der Schauplatz von Band 3 |
+| 3 | **Drei Kinder** auf dem Brunnenrand + *die naechste Seite umblaettern* |
+
+- **Erst das Persoenliche, dann der Ausblick** (Band 1 und 3 machen es genau so).
+  Also: leere Tasche -> Jonas' Satz -> **Blick hinauf**. Nicht umgekehrt.
+- **Das Wappen ist Band 4s "Blick in den Wald"** -- das Unfertige, auf das Band 5
+  zielt. Deshalb darf es in Beat 4 **nicht verbraucht** werden.
+- **Ortsfolge Herrenhaus -> Brunnen**, nicht umgekehrt: Das Wappen haengt am
+  Herrenhaus (`Author_Info.md`: "das gleiche Wappen wie am Herrenhaus"), vom
+  Brunnen aus sieht man das Haus auf dem Huegel. **Ein Ortswechsel statt zwei.**
+
+**Zwei Einwaende, die geprueft wurden:**
+
+1. *"Warum faellt ihm das Wappen erst jetzt auf?"* Er weiss seit Kap 8 von der
+   fuenften Familie -- aber er hat das Wappen **neun Tage nicht gesehen**, er war
+   am See. **Der Moment ist keine Erkenntnis, sondern ein Wiedersehen mit
+   veraendertem Blick.** Beim Schreiben so anlegen: nicht "ihm faellt ein",
+   sondern "er steht davor".
+2. *"Zweimal dasselbe Bild in einem kurzen Kapitel?"* Nur, wenn beide betont
+   sind. **Beat 4 traegt keine Betonung** -- eine Zeile im Vorbeigehen.
+
+- **Wachpunkt Formulierung:** Genau genommen wurde nichts entfernt -- Eichenhain
+  wurde von VIER Familien gegruendet, das fuenfte Zeichen war nie da.
+  **Es ist Jonas' Deutung, kein physischer Mangel.** Also nicht "ein Symbol
+  wurde entfernt", sondern: *eigentlich muessten es fuenf sein.*
+
 ------------------------------------------------------------------------
 
 ## Akt-4-Bilanz
@@ -1126,7 +1243,7 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 | 16 | 950 | 2 | 8 | C |
 | 17 | 1.500 | 4 | 8 | C -> D |
 | 18 | 1.400 | 3 | 9 | D |
-| 19 | 1.100 | 3 | +2 Wo. | E |
+| 19 | 1.100 | **~7 Beats / 2 Orte** | +2 Wo. | E |
 
 - **Summe Akt 4: ~4.950 Woerter** (nur 4 Kapitel)
 - Szenenzahl 2/4/3/3 -- die groesste Streuung aller Akte

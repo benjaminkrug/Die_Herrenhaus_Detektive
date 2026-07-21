@@ -65,7 +65,8 @@
 | 17b | **Mila sieht Neles Ablenkung und sagt nichts** (sie haelt sich an den Waffenstillstand) | 12 | Ihr Zorn in Kap 15 gilt nicht den verlorenen Tagen, sondern **ihrem eigenen Schweigen** -- Ben spricht es aus | 15 | geplant |
 | 17c | **Das Rauschen am Ablass** (mind. einmal beilaeufig hoerbar) | 3-12 | Es **faellt weg** -- Stille als Cliffhanger, das Wehr ist zu | 13 | geplant |
 | 18 | **Grossmutter Ahrens wird still**, als die Muenzen zusammenpassen (erster Riss) | 12 | Sie verteidigt sich mit "Nein" (17) und gibt dann nach (18) | 17/18 | geplant |
-| 19 | **Sie hat die Muenze 300 Jahre aufgehoben** (als Andenken an den Verrat) | 12 | **Neles Argument**: "Warum hebt man ein Andenken an Verraeter auf?" | 18 | geplant |
+| 19 | **Sie hat die Muenze 300 Jahre aufgehoben** (als Andenken an den Verrat) | 12 | **Neles Argument**: "Warum hebt man ein Andenken an Verraeter auf?" -- **die Grossmutter gibt keinen Irrtum zu, sie holt ihre Jacke** (stimmt nur zu, hinzusehen) | 18 | geplant |
+| 19d | **Nele schweigt in der Kueche ihrer Grossmutter**, waehrend ueber ihre Familie geredet wird | 6 | **Exakte Umkehrung in Kap 18:** dieselbe Kueche, dieselben Menschen -- jetzt redet sie, und die drei schweigen | 18 | geplant |
 
 ### A.4 Geografie und Figurenboegen
 
@@ -77,9 +78,12 @@
 | 21 | **Winters Name laesst den Gasthof verstummen** | 3 | Grossmutter Ahrens gibt ihm die Hand | 18 | geplant |
 | 21b | **Winter sucht ab Tag 3 in Archiven nach "Sternbach"** -- den Namen liefern ihm die KINDER (Kap 5). Kommt abends leer zurueck (10), nach neun Tagen kein einziges Blatt (14) | 5/10/14 | **Der Name wurde getilgt -- die Antwort steht in keinem Papier.** Er bekommt sie von einem Menschen: dem Handschlag der Grossmutter | 18 | geplant |
 | 21c | **Winter bietet an, den Osthang mitzugehen -- und stoppt sich selbst** | 16 | Umkehrung zu Band 3 (dort rettete er das Finale). Bitter durch 21b: neun Tage nichts, und jetzt auch das nicht | 16 | geplant |
+| 21d | **Winter betritt Sternbach NIE** (Absicht, `Author_Info.md`): Silhouette (3), Kinder gehen allein (4), Halt am Hangfuss (16) | 3/4/16 | Er erreicht **nur den Gedenkstein**, per Boot, als das Dorf schon versunken ist -- den Stein seiner eigenen Familie, in dem Moment, in dem eine Ahrens ihm die Hand gibt | 18 | geplant |
+| 21e | **Jonas nickt ihm vor dem Gasthof zu** -- Winter erfaehrt nur DASS, nicht WAS. *"Geht ihr."* | 17 | Er sieht den Stein zum ersten Mal in Kap 18 -- sonst haette das Kapitel fuer ihn keine Entdeckung mehr | 18 | geplant |
 | 22 | **Jonas nimmt die Ausrede nicht** ("ich bin da erst seit einem Jahr") | 6 | "Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet." | 19 | geplant |
 | 23 | **Winters Satz "Ich war nicht der Erste"** (aus Band 3, wiederholt) | 2 | Die Familie Ahrens sucht seit Generationen | 6/12 | geplant |
-| 24 | **Wappen mit vier Symbolen** (Serienkanon seit Band 2) | lfd. | **Das fuenfte fehlt** -- die Familie, die geblieben ist, steht nicht darauf. **Emotionaler Schluss, KEIN Plot-Haken** (der ist Milas Frage in Kap 18 -- getrennt halten) | 19 | geplant |
+| 24 | **Wappen mit vier Symbolen** (Serienkanon seit Band 2) | lfd. | **Zweistufig in Kap 19:** beim Hinausgehen aus dem Herrenhaus zaehlt Jonas nach (**unbetont, keine Auszahlung**) -- und **zuletzt** vom Brunnen aus der Blick hinauf: *eigentlich muessten es fuenf sein*. **Band 4s "Blick in den Wald"** (Serien-Signatur, vgl. Band 2). KEIN Plot-Haken -- der ist Milas Frage in Kap 18 | 19 | geplant |
+| 24b | **Die Muenze in Jonas' Tasche** (seit Band 3 staendig praesent) | (B3) | **Die leere Tasche:** Seine Hand faehrt aus Gewohnheit hinein -- die Muenze ist weg, und das fuehlt sich richtig an | 19 | geplant |
 | 25 | **Grabstein-Jahreszahlen:** die vier Namen hoeren im selben Jahr auf, Ahrens geht weiter | 16 | **Tiefpunkt der Beweislage** -- spricht GEGEN die vier. Macht den Gedenkstein zur Umkehr statt zu einem blossen Fund | 17 | geplant |
 | 26 | **Milas "Meinetwegen"** beim Waffenstillstand | 10 | **Sie entscheidet in Kap 17, Nele mitzunehmen** -- die am staerksten Betrogene vertraut ein zweites Mal. Schliesst ihren Bogen | 17 | geplant |
 

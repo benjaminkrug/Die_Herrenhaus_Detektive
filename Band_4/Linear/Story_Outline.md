@@ -788,6 +788,12 @@ Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."*
 zurueckgeben, weil niemand mehr da war. Sie haben es behalten. *"Deshalb war
 meine Muenze noch in Eichenhain."* Der Stein ist unvollendet.
 
+**WINTER ERFAEHRT ES (Fix Befund G):** Auf dem Weg nach Seebruck steht er vor
+dem Gasthof, als haette er sich den ganzen Tag nicht gesetzt. **Jonas nickt.
+Mehr nicht.** Winter sagt nichts, setzt sich auf die Bank: *"Geht ihr."*
+**Er erfaehrt nur DASS, nicht WAS** -- den Stein sieht er erst in Kap 18.
+*(Sein Name ist in diesem Haus das Problem, Kap 3 -- er bleibt bewusst weg.)*
+
 **Zweiter Teil des Kapitels -- abends in Seebruck:** Nele sagt "Ich kann das
 meiner Oma nicht sagen" -- **und geht dann doch hin.** Ihr erster mutiger Akt,
 mit dem Beweis in der Hand. Grossmutter Ahrens hoert zu. Und bleibt stehen.
@@ -799,11 +805,20 @@ noch kein gehaltenes Wort."*
 Morgen nach dem "Nein". Bedrueckte Stimmung, das Wasser steigt, es ist der
 letzte Tag. Die drei wollen abreisen.
 
-**NELES GROESSTE SZENE -- sie ueberzeugt ihre Grossmutter.** Nicht mit dem
-Stein, sondern mit dem Kaestchen: *"Oma. Du hast die Muenze dreihundert Jahre
-aufgehoben. Warum hebt man ein Andenken an Verraeter auf?"*
-Langes Schweigen. Dann holt die alte Frau ihre Jacke.
-**Der Beweis hat sie nicht umgestimmt. Ihre Enkelin hat es.**
+**Sie gehen vorher noch Auf Wiedersehen sagen** (Fix Befund H) -- man hat
+verloren, man faehrt heim, man verabschiedet sich trotzdem.
+**NELES GROESSTE SZENE.** **Die drei sind im Raum und sagen kein Wort**
+(POV-Regel: ohne Jonas kann das Buch die Szene nicht erzaehlen). **Winter wartet
+draussen** -- sein Name ist in diesem Haus weiter das Problem.
+Weil die anderen gerade gehen, tut Nele es **jetzt oder nie**. Nicht mit dem
+Stein, sondern mit dem Kaestchen: *"Wir haben sie dreihundert Jahre aufgehoben,
+Oma. Warum hebt man ein Andenken an Verraeter auf?"*
+Langes Schweigen. **Die Grossmutter gibt KEINEN Irrtum zu -- sie holt ihre
+Jacke.** Sie stimmt nur zu, es sich anzusehen (gesichtswahrend; die eigentliche
+Kapitulation kommt am Stein).
+**Der Beweis hat sie nicht dorthin gebracht. Ihre Enkelin hat es.**
+*(Spiegel zu Kap 6: Dort schwieg Nele in dieser Kueche, waehrend ueber ihre
+Familie geredet wurde. Jetzt redet sie, und die anderen schweigen.)*
 
 Der Stein ist zu Fuss nicht mehr erreichbar. **Sie fahren mit Neles Ruderboot** --
 das Boot, das am Anfang ihr Vorsprung und ihre Abgrenzung war, bringt jetzt alle
@@ -831,15 +846,33 @@ Eichenhain. Holzer, Meier, Krueger, Frau Wenzel -- alle wieder da.
 Winter haengt das Pergament auf; die Luecke ist gefuellt, die Herkunft steht
 fest. Ein Brief von Nele. Die Muenze ist nicht mehr in Jonas' Tasche, und das
 fuehlt sich richtig an.
-**JONAS' AUSZAHLUNG -- ein Satz, nicht mehr:**
-*Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet.*
-Kein Absatz darueber, keine Erklaerung. Der Satz steht und geht weiter.
-**Der emotionale Schluss -- KEIN zweiter Plot-Haken (Akt-4-Planung):**
-Der Blick auf das Wappen: vier Symbole -- Baum, Kreuz, Ring, Blume. **Und jetzt
-weiss man, dass eins fehlt.** Die Familie, die geblieben ist, steht nicht
-darauf. *Ein stiller Vorwurf an das eigene Dorf, keine offene Frage.*
-*(Der PLOT-Haken ist Milas Frage am Ende von Kap 18 -- die drei mitgenommenen
-Muenzen. Die beiden werden getrennt gehalten, sonst schwaechen sie einander.)*
+**Form: ZWEI ORTE, ~7 kurze Beats** -- kein Kapitel aus langen Szenen. Belegt:
+Band 3 Kap 19 hat 7 Abschnitte in 1.074 Woertern. Epiloge dieser Reihe sind eine
+**Reihe kurzer Abschiede**, jeder Faden bekommt seinen Moment.
+
+**Ortsfolge Herrenhaus -> Brunnen** (das Wappen haengt am Herrenhaus; vom
+Brunnen sieht man das Haus auf dem Huegel -- ein Ortswechsel statt zwei).
+**Beim Hinausgehen aus dem Herrenhaus** sieht Jonas das Wappen aus der Naehe und
+zaehlt: vier. **Er sagt nichts** -- eine Zeile ohne Betonung, keine Auszahlung.
+
+Dann am Brunnen: Neles Brief -- **die leere Tasche** (seine Hand faehrt aus
+Gewohnheit hinein, die Muenze ist weg, und das fuehlt sich richtig an) --
+**JONAS' AUSZAHLUNG, ein Satz:** *Niemand hatte ihn gefragt, ob er dazugehoert.
+Er hatte einfach geantwortet.*
+**Und ZULETZT der Blick hinauf** zum Haus auf dem Huegel: vier Symbole, und
+**eigentlich muessten es fuenf sein.**
+
+> **Warum der Ausblick zuletzt kommt (Serien-Signatur, geprueft an Band 1-3):**
+> die drei zusammen -> **Blick auf das Unfertige** -> kurzer Satz nach vorn.
+> Band 1: "Zu seinen Freunden" + *das naechste Abenteuer wartete*.
+> Band 2: "Dann sah er wieder in den Wald" -- der Schauplatz von Band 3.
+> Band 3: drei Kinder am Brunnen + *die naechste Seite umblaettern*.
+> **Das Wappen ist Band 4s "Blick in den Wald".**
+> *(Der PLOT-Haken bleibt Milas Frage am Ende von Kap 18. Getrennt halten.)*
+> *Wachpunkt Formulierung:* Nichts wurde entfernt -- das fuenfte Zeichen war nie
+> da. **Es ist Jonas' Deutung**, also nicht "ein Symbol fehlt", sondern
+> *eigentlich muessten es fuenf sein*.
+
 **KEIN Cliffhanger** -- nachhallender Schluss, wie Band 3.
 
 ------------------------------------------------------------------------

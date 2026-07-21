@@ -776,6 +776,26 @@ Muenze.
 > **Umfang: hoechstens zwei kurze Beruehrungen** (Kap 10, Kap 14), zusammen
 > ~150 Woerter. Nebenstraenge muessen fuer 8-10-Jaehrige fast schwerelos sein.
 
+### WINTER BETRITT STERNBACH NIE (Absicht -- nicht "reparieren")
+
+Kap 3 sieht er die Turmsilhouette vom Gasthoffenster. Kap 4 gehen die Kinder
+allein. Kap 16 bleibt er am Fuss des Osthangs stehen. **Er setzt keinen Fuss in
+das Dorf, das er vierzig Jahre gesucht hat.** Keine Gasse, keine Tuerschwelle,
+kein Haus.
+
+Erst in Kap 18 erreicht er den **Gedenkstein** -- mit dem Boot, und da ist
+Sternbach bereits versunken.
+
+> Das ist die haerteste und beste Fassung seiner Figur: Der Mann, der sein Leben
+> mit der Suche verbracht hat, geht nie dort. Das Wasser holt es sich vorher.
+> Was er bekommt, ist der Stein, den seine **eigene Familie** gesetzt hat -- und
+> den erreicht er in dem Moment, in dem eine Ahrens ihm die Hand gibt.
+
+**Wenn die Kinder in Kap 17 den Stein finden, erfaehrt er nur DASS, nicht WAS**
+(Jonas nickt ihm vor dem Gasthof zu). Sonst haette Kap 18 fuer ihn keine
+Entdeckung mehr. Und er geht bewusst **nicht** mit zu den Ahrens: **Sein Name
+ist in diesem Haus das Problem** (Kap 3, der Wirt verstummt).
+
 > **HARTE REGEL: Winter darf in Band 4 keinen einzigen Hinweis finden.**
 > Er hat Band 3 gerettet. Ermittelt er hier mit, schrumpfen die Kinder.
 > Pruefung pro Kapitel: Wer hat die Entdeckung gemacht?
