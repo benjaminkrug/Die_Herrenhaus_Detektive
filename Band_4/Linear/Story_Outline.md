@@ -425,7 +425,8 @@ Seebruck. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen -- und
 verstummt, als Winter ihn nennt. *Winter.* Der Name selbst ist hier das Problem.
 Winter merkt es und sagt nichts dazu.
 **Der Countdown -- die Kinder holen ihn sich selbst:** Der Wirt laesst nur eine
-saeuerliche Bemerkung fallen ("in vier Tagen ist der Spuk sowieso vorbei"). Die
+saeuerliche Bemerkung fallen ("in vier Tagen ist der Spuk sowieso vorbei") --
+und auf die Nachfrage nur ein Schulterzucken: **"Da geht keiner hin."** Die
 drei lesen die Bekanntmachung am **Anschlagbrett im Gastraum** selbst: Ende der
 Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** (Kanon:
 Band 3 Kap 5 -- er kennt Wehre vom Bach seiner Oma), halb richtig; Winter
@@ -496,6 +497,9 @@ denselben Vorwurf.
 Im Hintergrund steht ein Maedchen und sagt kein Wort -- Nele.
 **Saat (Tschechow):** Sie erwaehnt, dass die Familie "ein Andenken" von damals
 verwahrt. Zeigen tut sie es nicht -- **nicht Fremden aus Eichenhain.**
+**Und Jonas fragt:** *"Waren Sie schon mal unten?"* -- ***"Nein."*** Nie.
+*(Zahlt in Kap 18 aus: Ihre Bootsfahrt ist das erste Mal -- und das Dorf ist da
+schon weg. Sie hat die Schwelle ihres eigenen Hauses nie gesehen.)*
 > **Cliffhanger:** An der Tuer, freundlich wie zuvor: "Und jetzt schickt
 > Eichenhain Kinder. Nach dreihundert Jahren."
 
@@ -515,6 +519,10 @@ der Stein verraten. Ein Satz ueber den steilen Suedteil genuegt.
 (**Erste Erwaehnung des Osthangs. Wichtig fuer Akt 4.**)
 Abstieg in den Talgrund. Gassen, Tuerschwellen, ein Marktplatz mit einem
 steinernen Kreuz. Ein ganzes Dorf, leer, still, schlammig.
+**Der eine Besucher (ein Satz):** Oben am Rand steht ein Mann mit einer Kamera,
+fotografiert zweimal, und ist weg, als sie das naechste Mal hinsehen.
+*(Macht "leer" zu etwas Erarbeitetem: Die Welt weiss davon -- sie will nur nicht
+in den Schlamm steigen.)*
 > **Cliffhanger:** Ueber einer Tuerschwelle, halb im Schlamm: ein eingemeisselter
 > Baum. Meiers Familienzeichen.
 

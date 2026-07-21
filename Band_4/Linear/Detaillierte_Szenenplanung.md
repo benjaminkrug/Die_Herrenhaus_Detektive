@@ -146,8 +146,13 @@ Es zerhacken hiesse, ihm die Wucht nehmen.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 3 -- Der Graue See
-**Tag 2 | Ankunft, Seebruck | Pegel A | Ziel: ~1.480 Woerter | 3 Szenen**
-*(Haertester Fall im Fenster -- beim Schreiben zuerst hier straffen, siehe unten.)*
+**Tag 2 | Ankunft, Seebruck | Pegel A | Ziel: ~1.550 Woerter | 3 Szenen**
+*(**Dokumentierte Ausnahme, Autor-Entscheidung:** Dieses Kapitel darf das Fenster
+900-1.500 minimal ueberschreiten. **Harte Grenze 1.550** -- "minimal nach oben"
+darf beim Schreiben nicht zu 1.700 werden. Begruendung: Kap 3 traegt Ankunft,
+Winters Namen, Countdown, Bens Ablass-Erklaerung, die Mini-Entscheidung, die
+Rauschen-Saat und die Silhouette. Alles davon ist verzahnt, nichts laesst sich
+streichen, ohne anderswo ein Loch zu reissen.)*
 
 *(Das war das ueberladenste Kapitel der Outline: Anfahrt, Gasthof, Winters Name,
 Aushang, Countdown, Silhouette. **Loesung:** Die Anfahrt schrumpft auf wenige
@@ -156,7 +161,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 | # | Ort | Was passiert |
 |---|-----|--------------|
 | 1 | Auto, letzte Kurve vor dem Tal | **Kurz halten -- 10-15 Zeilen.** Nicht die Fahrt erzaehlen, sondern nur den Moment, in dem das Tal aufgeht. Der See ist grau und **viel zu klein fuer sein Ufer**: ein breiter, heller Schlammrand rundherum, wie ein zu weiter Kragen. Ben: "Ist der kaputt?" |
-| 2 | Gasthof in Seebruck | Ankunft, Zimmer, Essen. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen fuers Gaestebuch -- und verstummt, als Winter ihn nennt. *Winter.* Er schreibt ihn auf, sagt nichts, geht. **Der Countdown -- aber die Kinder holen ihn sich selbst:** Der Wirt macht nur eine saeuerliche Bemerkung im Weggehen (*"In vier Tagen ist der Spuk sowieso vorbei."*). Die drei gehen zum **Anschlagbrett im Gastraum** und lesen die Bekanntmachung selbst: Ende der Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** -- er kennt es vom Bach seiner Oma (Kanon: Band 3, Kap 5, dort erklaert er das Wehr). Er bekommt es **halb richtig** hin; Winter bestaetigt und korrigiert ein Detail. **DIE UHR LAEUFT AB HIER.** |
+| 2 | Gasthof in Seebruck | Ankunft, Zimmer, Essen. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen fuers Gaestebuch -- und verstummt, als Winter ihn nennt. *Winter.* Er schreibt ihn auf, sagt nichts, geht. **Der Countdown -- aber die Kinder holen ihn sich selbst:** Der Wirt macht nur eine saeuerliche Bemerkung im Weggehen (*"In vier Tagen ist der Spuk sowieso vorbei."*). **BELEG 1 fuer "warum ist da niemand":** Auf die Nachfrage, ob man da hinuntergehen koenne, nur ein Schulterzucken -- **"Da geht keiner hin."** Keine Erklaerung, kein Grund. Der Ton macht klar: **nicht weil es verboten waere, sondern weil es niemand will.** Die drei gehen zum **Anschlagbrett im Gastraum** und lesen die Bekanntmachung selbst: Ende der Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** -- er kennt es vom Bach seiner Oma (Kanon: Band 3, Kap 5, dort erklaert er das Wehr). Er bekommt es **halb richtig** hin; Winter bestaetigt und korrigiert ein Detail. **DIE UHR LAEUFT AB HIER.** |
 | 3 | Zimmer + Fenster, Abend | **MINI-ENTSCHEIDUNG (neu):** Winter will am naechsten Morgen zur Gemeinde -- Genehmigungen, Pegeltermine, alles ordentlich -- und schlaegt vor, die drei kommen mit. Sie rechnen nach: **vier Tage.** Und beschliessen, **nicht zu warten**. Morgen frueh allein ans Ufer. *(Sie sagen es Winter nicht als Widerspruch -- sie stehen einfach frueher auf. Kein Streit, eine Entscheidung.)* Danach: Jonas kann nicht schlafen und sieht hinaus. Weit draussen, wo Wasser sein muesste, ragt **etwas Dunkles, Spitzes** heraus. Er holt die anderen. **Die Erzaehlung sagt NICHT "Kirchturm"** (Fix A2). |
 
 > **Cliffhanger:** Ben, mit dem Fernglas: *"Leute. Das ist ein Kirchturm."*
@@ -199,7 +204,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 | # | Ort | Was passiert |
 |---|-----|--------------|
 | 1 | Gasthof -> Uferweg, frueher Morgen | Loest den Cliffhanger: Es IST ein Kirchturm, bei Tageslicht unuebersehbar. **Sie sind vor Winter auf** (Folge ihrer Entscheidung aus Kap 3, Szene 3) und gehen allein los -- **erste Anwendung der Regel: die Kinder ermitteln allein.** *(Nicht mehr: "Winter muss zufaellig zur Gemeinde".)* |
-| 2 | Am Ufer, im Schlamm | **BEN-MOMENT (neu):** Der Boden ist weich. Ben will nicht als Erster drauf. **Er ist letzten Sommer in ein Erdloch eingebrochen** (Band 3, Kap 2 -- Holzer zog ihn raus) und traut weichem Grund seither nicht. **Er sucht sich einen Stock und tippt den Boden vor sich ab -- so, wie Holzer es im Wald gemacht hat.** Mila stichelt; er macht trotzdem weiter. **Der Band-3-Bezug wird angedeutet, nicht erklaert.** **MESSPUNKT 1 -- Einfuehrung des Instruments.** Von unten sieht man es genau: Der Turm steht frei bis hinunter zum **Kirchendach**. Und quer ueber den Stein laeuft **ein dunkler Rand**, hoch oben, fast an der Spitze -- dorthin kommt das Wasser zurueck. *(Kein Kommentar dazu. Das Bild allein.)* Sinneswelt: Muschelschalen in Fugen, Fische in Restpfuetzen, Schuhe, die schmatzen. |
+| 2 | Am Ufer, im Schlamm | **BEN-MOMENT (neu):** Der Boden ist weich. Ben will nicht als Erster drauf. **Er ist letzten Sommer in ein Erdloch eingebrochen** (Band 3, Kap 2 -- Holzer zog ihn raus) und traut weichem Grund seither nicht. **Er sucht sich einen Stock und tippt den Boden vor sich ab -- so, wie Holzer es im Wald gemacht hat.** Mila stichelt; er macht trotzdem weiter. **Der Band-3-Bezug wird angedeutet, nicht erklaert.** **BELEG 2 fuer "warum ist da niemand" -- kostet KEIN zusaetzliches Wort:** Bens Skepsis ist bereits die Antwort. Die geplante Sinneswelt (Schlamm, tote Fische in Pfuetzen, schmatzende Schuhe, alles rutschig) **ist der Grund** -- es sind keine malerischen Ruinen. Ein Halbsatz von ihm genuegt: *"Wer will da freiwillig rein?"* **Der staerkste Grund ist der unromantischste.** **MESSPUNKT 1 -- Einfuehrung des Instruments.** Von unten sieht man es genau: Der Turm steht frei bis hinunter zum **Kirchendach**. Und quer ueber den Stein laeuft **ein dunkler Rand**, hoch oben, fast an der Spitze -- dorthin kommt das Wasser zurueck. *(Kein Kommentar dazu. Das Bild allein.)* Sinneswelt: Muschelschalen in Fugen, Fische in Restpfuetzen, Schuhe, die schmatzen. |
 | 3 | Erste Mauerreste | Sie kommen bis an die ersten Grundmauern. Dann steht **ein Maedchen** da, barfuss, ein Ruderboot hinter sich im Schlamm. |
 
 > **Cliffhanger:** *"Das ist unser See"*, sagt sie. *"Geht wieder dahin, wo ihr
@@ -282,11 +287,11 @@ in drei Szenen.)*
 |:-------:|:-------:|:------:|:---:|:-----:|
 | 1 | 1.210 | 3 | 1 | -- |
 | 2 | 1.000 | 2 | 1 | -- |
-| 3 | 1.480 | 3 | 2 | A |
+| 3 | **1.550** | 3 | 2 | A |
 | 4 | 1.250 | 3 | 2 | A |
 | 5 | 1.350 | 3 | 2 | A |
 
-- **Summe Akt 1: ~6.290 Woerter** (~28 % des Buchs bei 5 von 19 Kapiteln --
+- **Summe Akt 1: ~6.360 Woerter** (~28 % des Buchs bei 5 von 19 Kapiteln --
   passt, Akt 1 ist der kuerzeste)
 - **Szenenzahl variiert** (2/3), Wortzahl variiert (1.000-1.400) -- kein Formular
 - Pegel durchgehend A, stimmt mit `Story_Outline.md` 2b ueberein
@@ -360,12 +365,12 @@ arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
 ------------------------------------------------------------------------
 
 ### Kapitel 6 -- Die Frau, die die Geschichte huetet
-**Tag 3 | Seebruck | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
+**Tag 3 | Seebruck | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
 | 1 | Seebruck, Gassen | Loest den Kap-5-Cliffhanger: Wenn man den Namen hier nicht sagt -- **wer sagt ihn dann?** Sie fragen sich durch. Zwei, drei kurze Abfuhren (Ton: nicht feindselig, sondern unbehaglich). Man schickt sie schliesslich weiter: zu der Alten, die die alten Geschichten kennt. |
-| 2 | Haus der Ahrens, Kueche | **Grossmutter Ahrens.** Freundlich, gastfreundlich, Kuchen -- und unbeirrbar. Sie erzaehlt **die falsche Geschichte** zum ersten Mal, ruhig und vollstaendig. **Im Hintergrund steht ein Maedchen und sagt kein Wort** -- Nele. **SAAT:** Sie erwaehnt, dass die Familie "ein Andenken" von damals verwahrt. **Zeigen tut sie es nicht** -- nicht Fremden aus Eichenhain. |
+| 2 | Haus der Ahrens, Kueche | **Grossmutter Ahrens.** Freundlich, gastfreundlich, Kuchen -- und unbeirrbar. Sie erzaehlt **die falsche Geschichte** zum ersten Mal, ruhig und vollstaendig. **Im Hintergrund steht ein Maedchen und sagt kein Wort** -- Nele. **SAAT:** Sie erwaehnt, dass die Familie "ein Andenken" von damals verwahrt. **Zeigen tut sie es nicht** -- nicht Fremden aus Eichenhain. **BELEG 3 -- zehn Woerter, und der tiefste Grund:** Jonas fragt (seine Funktion): *"Waren Sie schon mal unten?"* -- ***"Nein."*** Nie. **Fuer Seebruck sind das keine Ruinen, sondern die Stelle, an der die Schande liegt.** |
 | 3 | Dieselbe Kueche / Haustuer | **Die beiden Reaktionen.** Jonas begreift, dass "die vier" seine Leute sind -- **JONAS BOGEN, Saat:** Sie sagt "ihr aus Eichenhain", er koennte sich rausreden ("ich bin da erst seit einem Jahr") und **tut es nicht**. **MILA dagegen wird zornig** -- es ist ihr Dorf, ihre Oma, ihre Leute. Sie will widersprechen. **Nele sieht ihr zu.** |
 
 > **Cliffhanger:** An der Tuer, freundlich wie zuvor: *"Und jetzt schickt
@@ -383,11 +388,17 @@ arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
   gastfreundlich, sicher. Wenn sie streng oder bitter wirkt, ist die Figur
   kaputt -- ihr "Nein" in Kap 17 muss dem Leser spaeter leidtun.
 - **Wachpunkt:** Nele sagt in diesem Kapitel **kein einziges Wort.**
+- **GROSSER GEWINN aus Beleg 3 (in Kap 18 verankern):** Wenn Grossmutter Ahrens
+  in Kap 18 ins Boot steigt, ist es **das erste Mal, dass sie dorthin faehrt.**
+  Sie hat die Tuerschwelle ihres eigenen Familienhauses **nie gesehen** -- und
+  jetzt ist es zu spaet, das Dorf ist bereits versunken. **Sie faehrt zum Stein
+  statt zum Haus.** Macht ihre Fahrt ungleich schwerer, ohne ein zusaetzliches
+  Wort in Kap 18.
 
 ------------------------------------------------------------------------
 
 ### Kapitel 7 -- Der Weg ueber den Hang
-**Tag 3 | Osthang + Talgrund | Pegel A | Ziel: ~1.100 Woerter | 2 Szenen**
+**Tag 3 | Osthang + Talgrund | Pegel A | Ziel: ~1.130 Woerter | 2 Szenen**
 
 *(Nur zwei Szenen: Das Kapitel ist EIN Vorgang -- hinunter und hinein.
 Zerhacken wuerde den Sog nehmen.)*
@@ -395,7 +406,7 @@ Zerhacken wuerde den Sog nehmen.)*
 | # | Ort | Was passiert |
 |---|-----|--------------|
 | 1 | Weg vom Ahrens-Haus zum Ufer | **LOEST DEN CLIFFHANGER (Fix, siehe unten):** Der Satz laeuft ihnen nach. Mila ist wuetend und will zurueck und es richtigstellen. Jonas: Mit Reden kommen wir hier nicht weiter -- **wir muessen es beweisen.** **MILAS BEITRAG:** Sie loest das praktische Problem. Kein Boot, also von Land -- und sie findet den einzigen gangbaren Abstieg **im Norden** des Osthangs. **GEOGRAFIE-SAAT (A1):** Suedlich davon faellt der Hang steil in eine Bucht ab, in die niemand geht. **Ein Satz, beilaeufig, keine Betonung.** |
-| 2 | Abstieg + Talgrund | Sie steigen hinunter und stehen im Dorf. Gassen, Tuerschwellen, ein Marktplatz mit steinernem Kreuz. Leer, still, schlammig. **Sinneswelt** (Muschelschalen an Waenden, Wasserpflanzen wie Haare, schmatzende Schritte). **KEIN Brunnen, KEINE Truhe** -- Abgrenzung zu Band 2. |
+| 2 | Abstieg + Talgrund | Sie steigen hinunter und stehen im Dorf. Gassen, Tuerschwellen, ein Marktplatz mit steinernem Kreuz. Leer, still, schlammig. **Sinneswelt** (Muschelschalen an Waenden, Wasserpflanzen wie Haare, schmatzende Schritte). **KEIN Brunnen, KEINE Truhe** -- Abgrenzung zu Band 2. **BELEG 4 -- der eine Besucher (ein Satz):** Oben am Rand steht ein Mann mit einer Kamera. Er fotografiert zweimal. Als sie das naechste Mal hinsehen, ist er weg. **Kein Name, keine Figur, kommt nie wieder.** |
 
 > **Cliffhanger:** Ueber einer Tuerschwelle, halb im Schlamm: ein eingemeisselter
 > **Baum**. Meiers Familienzeichen.
@@ -411,6 +422,13 @@ Zerhacken wuerde den Sog nehmen.)*
 - Ben-Moment: der Abstieg; er geht mit dem Stock (Fortsetzung aus Kap 4)
 - **Wachpunkt:** Die Suedbucht darf NICHT interessant klingen. Ein Nebensatz.
   Wenn sie betont wird, ist der Gedenkstein verraten.
+- **Warum der Besucher hierher gehoert und nicht in Kap 8:** Kap 8 traegt die
+  steigende Entdeckung (vier Haeuser, die Luecke, das fuenfte Haus) -- ein
+  Tourist mittendrin waere eine Unterbrechung. **Kap 7 ist das Kapitel, in dem
+  sie zum ersten Mal unten stehen**, und hier steht woertlich "leer, still".
+  **Der Mann macht "leer" zu etwas Erarbeitetem statt zu einer Behauptung:**
+  Die Welt weiss davon -- sie findet es nur nicht interessant genug, um in den
+  Schlamm zu steigen.
 
 ------------------------------------------------------------------------
 
@@ -626,13 +644,13 @@ nicht angefasst.**
 
 | Kapitel | Woerter | Szenen | Tag | Pegel |
 |:-------:|:-------:|:------:|:---:|:-----:|
-| 6 | 1.300 | 3 | 3 | A |
-| 7 | 1.100 | 2 | 3 | A |
+| 6 | 1.350 | 3 | 3 | A |
+| 7 | 1.130 | 2 | 3 | A |
 | 8 | 1.250 | 3 | 3 | A |
 | 9 | 1.450 | 4 | **3-4** | A |
 | 10 | 1.060 | 2 | 4 | A |
 
-- **Summe Akt 2: ~6.160 Woerter** (Akt 1: ~6.150 -- gleichmaessig)
+- **Summe Akt 2: ~6.240 Woerter** (Akt 1: ~6.360 -- gleichmaessig)
 - Szenenzahl 2/3/4 gemischt, Wortzahl 1.000-1.450 -- kein Formular
 - Tag/Pegel stimmen mit `Story_Outline.md` 2b ueberein (Tag 3-4, durchgehend A)
 - **Jedes Kapitel hat eine Mini-Entscheidung** (in Kap 6 ein Verzicht)
@@ -1255,11 +1273,11 @@ dann ist sie Versoehnung, nicht Niederlage.
 
 | Akt | Kapitel | Woerter |
 |:---:|:-------:|--------:|
-| 1 | 1-5 | ~6.290 |
-| 2 | 6-10 | ~6.160 |
+| 1 | 1-5 | ~6.360 |
+| 2 | 6-10 | ~6.240 |
 | 3 | 11-15 | ~6.550 |
 | 4 | 16-19 | ~4.950 |
-| **Summe** | **19** | **~23.950** |
+| **Summe** | **19** | **~24.100** |
 
 > **BEFUND -- knapp ueber dem Ziel.** `PLAN_Band4.md` nennt 21.000-23.000.
 > ~23.950 liegt **rund 1.000 Woerter darueber.**

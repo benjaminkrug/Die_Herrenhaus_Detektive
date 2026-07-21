@@ -208,6 +208,12 @@ Aus `CLAUDE.md` + `Author_Info.md` + `_Gemeinsam/Schreibstil_Regeln.md`:
 - Mila: mutig, darf verletzlich sein; Jonas fragt, Mila treibt, Ben bremst
 - Kapitellaenge Band 4: **900-1.500 Woerter** (Autor-Entscheidung -- bewusst
   breiter als Band 2 + 3, wo 1.200-1.400 galt)
+- **AUSNAHME (Autor-Entscheidung, Phase 5): Kapitel 3 darf bis 1.550.**
+  Harte Grenze, kein Freibrief -- "minimal nach oben" darf beim Schreiben nicht
+  zu 1.700 werden. Begruendung: Kap 3 traegt Ankunft, Winters Namen, Countdown,
+  Bens Ablass-Erklaerung, Mini-Entscheidung, Rauschen-Saat und Silhouette; alles
+  ist verzahnt, nichts laesst sich streichen, ohne anderswo ein Loch zu reissen.
+  **Fuer alle uebrigen Kapitel gilt 1.500 weiterhin als Obergrenze.**
 - Umfang: **18 Kapitel + 1 Epilog = 19**, ca. 21.000-23.000 Woerter
 
 ### Zur Kapitellaenge: das breitere Fenster ist eine Erlaubnis, kein Ziel
