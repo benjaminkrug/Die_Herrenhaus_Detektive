@@ -725,6 +725,12 @@ suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen
 Felsen. **Sie hat sie vom Boot aus gesehen**, in flachem Licht -- von Land ist
 dort nur ein verwitterter Block zu sehen. Genau das konnte niemand ausser ihr
 wissen (siehe A1 in 0.2).
+**Und warum sie nie nachgesehen hat:** Die Bucht ist zum Anlanden zu steil, von
+oben kommt man nur mit einem Seil hinunter -- **das haelt niemand allein.**
+Sie konnte die Stelle **sehen und nicht erreichen.**
+*(Damit wird ihr Satz aus Kap 10 woertlich: "Ihr seid zu dritt. Ich bin allein.
+Deshalb habe ich geschrieben." Sie schrieb wegen DIESER Stelle -- und bekam dann
+Angst vor dem, was dort stehen koennte.)*
 Sie hat geschwiegen, **weil sie Angst hatte, dass ihre Grossmutter unrecht hat**
 und dass dann alles, was ihre Familie ist, nicht mehr gilt.
 Sie laeuft weg. Mila bleibt zurueck und ist wuetender, als sie zugeben will --

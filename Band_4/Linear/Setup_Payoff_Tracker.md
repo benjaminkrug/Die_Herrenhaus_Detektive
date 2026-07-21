@@ -38,7 +38,7 @@
 | 5b | **Das fuenfte Haus ist groesser als die anderen** | 8 | Es war das Haus, dem alle etwas anvertraut hatten (Verwahrort der Pfaender) | 13 | geplant |
 | 6 | **Die vier Vertiefungen sind leer** (Frage bleibt offen) | 11/17 | Sie konnten das Pfand nicht zurueckgeben -- niemand war mehr da. Unvollendete Geste | 17 | geplant |
 | 7 | **Neles Ruderboot** (ihr Vorsprung, ihre Abgrenzung) | 4 | Bringt am Ende ALLE gemeinsam zum Stein | 18 | geplant |
-| 8 | **Neles Seil** (sie steigt damit aus dem Boot) | 16 | Abstieg in die steile Suedbucht | 17 | geplant |
+| 8 | **Neles Seil** (sie steigt damit aus dem Boot) | 16 | Abstieg in die steile Suedbucht. **Sie bringt es mit, weil sie seit Wochen weiss, was noetig waere** (14c) -- Beleg langer Ueberlegung, nicht praktisches Zubehoer | 17 | geplant |
 | 9 | **Bens Limoflasche / "Pfand heisst, dass es zurueckkommt"** | 5 | Beinahe (12) -> **Bens Signature-Moment**: zwei Muenzen = ein Versprechen | 12/13 | geplant |
 
 ### A.2 Der Countdown (sichtbar gemacht)
@@ -56,7 +56,8 @@
 | # | Hinweis / Setup (gesaet) | Kap | Aufloesung / Payoff | Kap | Status |
 |---|--------------------------|:---:|---------------------|:---:|--------|
 | 14 | **Nele kennt ihre Namen**, obwohl niemand sie genannt hat | 4 | Verdacht ausgesprochen (5), sie schweigt (9), **sie gibt es zu** (10) | 5/9/10 | geplant |
-| 14b | **Nele sucht seit Wochen allein und findet nichts** -- die drei legen an einem Nachmittag vier Tuerschwellen frei, sie sieht zu | 8 | Der Grund ihres Nachgebens: *"Ihr seid zu dritt. Ich bin allein."* Kein Handel, ein Eingestaendnis -- und derselbe Grund, aus dem sie den Brief schrieb | 10 | geplant |
+| 14b | **Nele sucht seit Wochen allein.** In den Ruinen findet sie nichts (die drei legen an einem Nachmittag vier Tuerschwellen frei, sie sieht zu) -- **das EINE, was sie fand, konnte sie nicht erreichen** (siehe 14c) | 8 | Der Grund ihres Nachgebens: *"Ihr seid zu dritt. Ich bin allein."* Kein Handel, ein Eingestaendnis -- und derselbe Grund, aus dem sie den Brief schrieb | 10 | geplant |
+| 14c | **Warum sie den Stein nie selbst untersucht hat:** Die Bucht ist zum Anlanden zu steil, von oben geht es nur mit einem Seil -- **das haelt niemand allein.** Sie konnte ihn sehen und nicht erreichen | 15 | Macht ihren Satz aus Kap 10 **woertlich**: Sie schrieb den Brief wegen DIESER Stelle. Und **das Seil in Kap 16** wird zum Beleg langer Ueberlegung statt zu praktischem Zubehoer | 10/16/17 | geplant |
 | 15 | **Nele blockiert die Tuer** des fuenften Hauses -- **zweimal**: Tag 3 als Fremde (Ende Kap 8), Tag 4 als Bekannte (Kap 9) | 8/9 | Sie gibt sie frei -- das konkrete Zugestaendnis des Waffenstillstands | 10 | geplant |
 | 15b | **Nele folgt ihnen** vom Haus ihrer Grossmutter aus (deshalb ist sie am fuenften Haus) | 6/8 | Erklaert, warum sie in Kap 9 am naechsten Morgen schon dort sitzt: Sie weiss, dass sie wiederkommen | 9 | geplant |
 | 16 | **VORZEICHEN 1:** Nele weiss, dass die Grabsteine noch lesbar sind (sie war also schon am Osthang) | 9 | Fliegt auf: Sie kannte die Stelle seit Wochen | 14/15 | geplant |

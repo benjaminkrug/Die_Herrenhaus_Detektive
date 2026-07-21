@@ -939,7 +939,7 @@ vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | An der Muehle, direkt weiter | Loest den Cliffhanger ohne Pause: **Sie gibt es zu.** Seit Wochen weiss sie von etwas am Osthang -- **in der suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen Felsen. **Vom Boot aus gesehen**, in flachem Licht; von Land ist dort nur ein verwitterter Block. **Das konnte niemand ausser ihr wissen.** |
+| 1 | An der Muehle, direkt weiter | Loest den Cliffhanger ohne Pause: **Sie gibt es zu.** Seit Wochen weiss sie von etwas am Osthang -- **in der suedlichen Bucht**, wo kein Weg hinfuehrt. Eine Kante, zu gerade fuer einen Felsen. **Vom Boot aus gesehen**, in flachem Licht; von Land ist dort nur ein verwitterter Block. **Das konnte niemand ausser ihr wissen.** **UND WARUM SIE NIE NACHGESEHEN HAT:** Die Bucht ist zum Anlanden zu steil, von oben kommt man nur mit einem Seil hinunter -- **das haelt niemand allein.** Sie konnte die Stelle **sehen und nicht erreichen.** |
 | 2 | Ebenda | **Warum sie geschwiegen hat** -- und es ist kein Boesewicht-Grund: Wenn die vier zurueckgekommen sind, dann hat ihre Familie dreihundert Jahre lang etwas Falsches erzaehlt. Ihre Grossmutter. Ihre Urgrossmutter. **Alle.** *"Und dann ist alles, was wir sind, nur ein Irrtum."* Sie laeuft weg. |
 | 3 | Am Ufer, Rest des Tages | **Milas Moment -- und ihr Preis:** Sie ist wuetender, als sie zugeben will. Nicht wegen der verlorenen Tage. **Weil sie es gesehen hat** (Kap 12) und nichts gesagt hat. Sie hat sich an den Waffenstillstand gehalten, und das war der Fehler. *(Sie sagt das nicht -- Ben spricht es aus, und sie widerspricht nicht.)* |
 
@@ -956,6 +956,35 @@ vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
 - **Wachpunkt Mila:** Ihr Schweigen aus Kap 12 zahlt hier aus. **Das ist der
   Grund, warum ihr Schweigen dort ueberhaupt gezeigt wurde.**
 - **Wachpunkt Ton:** Kein Kind schreit hier. Enttaeuschung ist leiser als Zorn.
+
+**WARUM NELE DEN STEIN NIE SELBST UNTERSUCHT HAT (Logik-Fix):**
+
+*Das Problem:* Sie sah die bearbeitete Kante vor Wochen, sie hat ein Boot, sie
+sucht den ganzen Sommer. **Warum ist sie nie hingefahren?**
+
+*Verworfene Antwort -- "sie hatte Angst hinzusehen".* Traegt nicht: Damals war es
+nur *eine Kante, zu gerade fuer einen Felsen* -- das konnte alles Moegliche sein.
+**Ein Kind, das den ganzen Sommer sucht, faehrt hin und schaut nach.**
+
+*Die richtige Antwort ist koerperlich:* **Sie kam nicht hin.** Die Bucht ist zum
+Anlanden zu steil; von oben geht es nur mit einem Seil, **und das haelt niemand
+allein.**
+
+> **Damit wird ihr Kernsatz aus Kap 10 woertlich:**
+> *"Ihr seid zu dritt. Ich bin allein. Deshalb habe ich geschrieben."*
+> Sie hat den Brief **nicht wegen abstrakter Hilfe** geschrieben, sondern wegen
+> **dieser einen Stelle** -- dem einzigen Ding, das sie gefunden und nicht
+> erreicht hat.
+
+*Der scheinbare Widerspruch loest sich in ihre beste Eigenschaft auf:* Sie ruft
+sie, um dorthin zu kommen -- **und verschweigt es dann.** Zwischen dem
+Abschicken des Briefs und ihrer Ankunft ist die **Angst gewachsen.** Genau
+deshalb bereut sie den Brief in dem Moment, in dem die drei auftauchen
+(`Author_Info.md`: "bereut es, als die drei tatsaechlich auftauchen").
+
+*Nebengewinn -- das Seil in Kap 16:* Sie bringt es mit, weil sie **seit Wochen
+weiss, was noetig waere.** Aus praktischem Zubehoer wird der Beleg einer langen
+Ueberlegung.
 
 ------------------------------------------------------------------------
 
