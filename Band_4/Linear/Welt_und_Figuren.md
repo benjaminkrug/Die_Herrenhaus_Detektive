@@ -17,7 +17,7 @@
 
 | Frage | Festlegung |
 |-------|-----------|
-| Wo liegt er? | "Weit hinter den Huegeln" (Band 3, Kap 19). Mit dem Auto von Eichenhain aus in einigen Stunden erreichbar -- **nicht praezise in km/Std. beziffern** (bewusst offen fuer Band 5). |
+| Wo liegt er? | "Weit hinter den Huegeln" (Band 3, Kap 19). **Rund 400 km / vier Autostunden von Eichenhain** -- beim Schreiben festgelegt und viermal im Text genannt (Kap 2, 4, 8, 19). *Erste Fassung sagte "nie beziffern, bewusst offen fuer Band 5". Diese Sperre ist hinfaellig: Der Serienbogen legt Band 5 inzwischen auf EICHENHAIN fest -- die Entfernung zum Grauen See schraenkt dort nichts mehr ein. Und konkrete Zahlen sind fuer Kinder greifbarer als "weit weg".* |
 | Wie sieht er aus? | Langgestreckter Talsee zwischen bewaldeten Haengen. Grau-gruenes Wasser, daher der Name. Steile Ufer im Sueden, flach auslaufend im Norden. |
 | Wie ist er entstanden? | **Kein Menschenwerk.** Um 1710 loeste sich am Nordende ein Hang und verschuettete den Talausgang. Der Bach staute sich -- das Tal lief voll. Sternbach lag im Talgrund. |
 | Wie lange dauerte die Flut? | **Wochen, nicht Minuten.** Kritisch fuer den Ton: Es war keine Katastrophe mit Toten, sondern ein langsames, unaufhaltsames Steigen. Alle kamen heraus. Sie verloren ihr Zuhause, nicht ihr Leben. |
@@ -214,7 +214,7 @@ eine Geschichte erzaehlt und verteidigt -- und sie ist nachvollziehbar.
 
 ## 8. Bewusst offen gelassen (Freiraum fuer Band 5)
 
-- Exakte Entfernung Eichenhain -> Grauer See (nie in km/Std. beziffern)
+- ~~Exakte Entfernung Eichenhain -> Grauer See~~ **festgelegt: ~400 km / 4 Autostunden** (siehe Abschnitt 1)
 - Wie viele Menschen 1710 in Sternbach lebten
 - Ob es weitere Nachfahren der fuenften Familie anderswo gibt
 - Wo genau die drei uebrigen Pfand-Muenzen sind (**gesperrt** -- Band 5,

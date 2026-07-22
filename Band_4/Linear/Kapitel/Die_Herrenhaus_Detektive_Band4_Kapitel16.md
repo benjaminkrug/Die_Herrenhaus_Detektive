@@ -194,7 +194,7 @@ Jonas suchte nach etwas und fand nichts.
 Es war ganz still auf dem Absatz.
 Unten am See sang irgendein Vogel viel zu fröhlich.
 
-Mila setzte sich auf einen der umgefallenen Steine.
+Mila setzte sich an den Rand des Absatzes, mit dem Rücken zu den Steinen.
 
 Sie saß da mit dem Zettel in der Hand und sah nicht hoch.
 
@@ -215,7 +215,7 @@ Mila schnaubte.
 
 Aber sie rückte ein Stück, damit Jonas auch noch draufpasste.
 
-Sie saßen zu dritt auf dem Stein und sahen aufs Wasser.
+Sie saßen zu dritt am Rand und sahen aufs Wasser.
 Eine Weile machte niemand einen Vorschlag.
 
 ---

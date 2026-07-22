@@ -248,12 +248,16 @@ Sie richtete sich auf und zog den nassen Ärmel herunter.
 
 Auf dem Rückweg saß niemand richtig still.
 
-Ben hatte einen nassen Ärmel und Jonas zwei.
-Und Mila hatte sich beim Aussteigen den Rücken eingesaut.
+Jonas' Ärmel klebte ihm am Arm.
 
-„Wir sehen aus wie was", sagte Ben.
+Frau Ahrens hatte genau denselben nassen Ärmel.
+Nur am anderen Arm.
 
-„Wir sehen aus wie Leute, die was gemacht haben", sagte Mila.
+„Ihr seht aus wie zwei, die was gemacht haben", sagte Ben.
+
+Frau Ahrens sah an sich herunter.
+
+„Ja", sagte sie. „So sieht das wohl aus."
 
 Nele ruderte und sagte nichts dazu.
 
