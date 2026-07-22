@@ -190,7 +190,7 @@ einem sich schliessenden Zeitfenster beruht. In Band 3 tickt die Uhr ab Kap 1.
 (Kap 3, Tag 2). Akt 2 laeuft komplett unter Druck.
 
 **Nebenbei ein Rechenfehler behoben:** Kap 10 sagte "in neun Tagen ist Sternbach
-weg", das Buch endet aber an Tag 9, und `Welt_und_Figuren.md` sprach von zwei
+weg", das Buch endet aber nach elf Tagen, und `Welt_und_Figuren.md` sprach von zwei
 Wochen Fuellzeit. Aufgeloest ueber die Beckenform: Der flache Talgrund laeuft in
 ~3 Tagen voll, die letzten Meter bis Vollstau brauchen 2 Wochen. Beide Zahlen
 stimmen jetzt.
