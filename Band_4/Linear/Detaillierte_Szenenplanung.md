@@ -8,6 +8,118 @@
 
 ------------------------------------------------------------------------
 
+## HANDWERKS-REGELN BEIM SCHREIBEN
+
+> **Gelernt an Kapitel 1** (792 statt 1.210 Woerter, 3 statt 6 Dialogverben,
+> Satzmittel 5,6 statt 6,0).
+> **Vor jedem Kapitel lesen. Nach jedem Kapitel gegenpruefen.**
+> Das sind Schreib-Regeln (Vorbeugung), nicht Pruef-Regeln --
+> die Pruefung steht in `PLAN_Band4.md` Abschnitt 6.
+>
+> **Zweck: Kapitel 2-19 sollen im ERSTEN Durchgang das erreichen, wofuer
+> Kapitel 1 drei gebraucht hat.**
+
+### R1 -- Kein Dialog ohne Koerper *(wichtigste Regel)*
+
+**Hoechstens ~6 Dialogzeilen am Stueck ohne eine echte Handlung.**
+
+In Kap 1 liefen ueber vierzig Zeilen fast reiner Dialog: *"Das ist ein Fall"*
+bis *"Setz dich hin"*. **Niemand tat etwas.** Die Figuren reden gut und stehen
+dabei still.
+
+**Echte Handlung** heisst: aufstehen, Gras ausreissen, in den Schatten ruecken,
+etwas hochheben, weggehen. **Nicht** Sprechbegleitung ("sagte er laechelnd") --
+das ist Dekoration, keine Handlung.
+
+> **Diagnose-Regel (an Kap 1 nachgemessen und korrigiert):** Wenn ein Kapitel zu
+> kurz wird, fehlt zuerst **Koerper, nicht Inhalt.** Nicht neue Beats erfinden --
+> die vorhandenen verankern.
+> **ABER: Das bringt weniger, als man denkt.** Bei Kap 1 waren es +78 Woerter,
+> nicht die erhofften +400. Koerperliche Verankerung macht eine Szene lebendig,
+> sie fuellt keine Seiten.
+> **Wenn danach immer noch 300+ Woerter fehlen**, ist tatsaechlich ein Inhalt
+> nicht ausgespielt -- meist der **Schauplatz**. In Kap 1 blieb der Marktplatz
+> fast unsichtbar, obwohl dort die Gedenktafel aus Band 2 steht.
+
+### R2 -- Der Erzaehler erklaert nie eine Figur
+
+Verboten (aus Kap 1, muss raus):
+> *"Das war nicht Bens aengstliche Stimme. Das war seine andere Stimme.
+> Die, mit der er manchmal recht hatte."*
+
+Das ist **Erwachsenenprosa** -- und ein Zehnjaehriger denkt nicht in "seiner
+anderen Stimme". Die Figur handelt oder spricht, **der Leser schliesst selbst.**
+Wenn eine Erklaerung noetig scheint, ist die Szene davor zu schwach.
+
+### R3 -- Was TUT jede Figur? (nicht: was sagt sie)
+
+Pro Kapitel gegenpruefen: **Jonas, Mila und Ben brauchen je mindestens eine
+Handlung**, nicht nur Repliken.
+
+**Mila ist der Dauerkandidat.** In Kap 1 hatte sie genau eine Handlung (den
+Umschlag pruefen) und sonst nur Saetze -- ausgerechnet in dem Akt, in dem sie
+ohnehin als duenn markiert ist.
+
+### R4 -- Dialogverben: mindestens 5 verschiedene pro Kapitel
+
+Band 3 liegt bei **5,9**; Kap 1 hatte **3** (fast nur "sagte"/"fragte").
+**Nicht kuenstlich variieren** -- aber "sagte" ist kein Default, sondern eine
+Entscheidung. Oft ist gar kein Verb noetig: eine Handlung davor sagt, wer spricht.
+
+### R5 -- Genre-Standard meiden, bevor er entsteht
+
+*"Jonas wurde kalt, obwohl die Sonne brannte"* -- der Gegensatz ist richtig
+gedacht, die Formulierung ist Standard. Dasselbe gilt fuer "Herz klopfte",
+"Schauer ueber den Ruecken", "Gaensehaut".
+`schablonen_analyse.py` faengt sie hinterher -- **besser gar nicht erst schreiben.**
+
+### R6 -- Reihenfolge der Beats: Ursache vor Wirkung
+
+Aus Kap 1: Jonas *spricht*, und danach steht *"Er bekam endlich wieder Luft."*
+Falsch herum. **Beim Korrekturlesen jede Beat-Folge einmal rueckwaerts pruefen.**
+
+### R7 -- Satzlaenge: nicht laenger, sondern UNGLEICHMAESSIGER
+
+**Zielwert Satzmittel: ~6 Woerter. Zielwert Streuung: 3,0-3,5.**
+
+Die Streuung ist die wichtigere Zahl. Ein Kapitel, in dem jeder Satz gleich lang
+ist, liest sich maschinell -- auch wenn jede Einzelregel erfuellt ist.
+
+> **WICHTIG, sonst schreibt man am Ziel vorbei:**
+> `CLAUDE.md` und die Schreibstil-Regeln fordern **8-12 Woerter je Satz**.
+> **Die Reihe erfuellt das selbst nicht.** Band 3 liegt bei **4,5-6,3** im
+> Schnitt -- die Buecher arbeiten mit vielen kurzen Saetzen und Fragmenten
+> ("Kuehl. Und feucht."). Wer auf 8-12 schreibt, klingt **anders als Band 1-3.**
+>
+> Dasselbe gilt fuer die 40-%-Dialogregel: Band 3 liegt bei 29 %.
+> **In beiden Faellen ist die PRAXIS der Reihe der Massstab, nicht die Vorgabe.**
+
+**Wo kurz bleiben:** Atemlosigkeit, Schreck, Cliffhanger, Schlagabtausch.
+**Wo verbinden:** beschreibende und ueberleitende Saetze -- dort leistet die
+Kuerze nichts. Verbinden mit "und" oder Komma, **nie mit Nebensatz-Verschachtelung.**
+
+### Zielwerte (gemessen an Band 3, nicht geschaetzt)
+
+**Diese Tabelle vor jedem Kapitel ansehen -- sie ist der Massstab, nicht die
+Stilfibel.**
+
+| | Band 3 (Praxis) | Vorgabe auf dem Papier | Ziel Band 4 |
+|---|:---:|:---:|:---:|
+| Woerter je Kapitel | 1.004-1.265 | 900-1.500 | **laut Kapitelplan** |
+| Dialoganteil | 29 % | 40 % | **~30 %** |
+| Satzmittel | 4,5-6,3 | 8-12 | **~6** |
+| **Satzlaengen-Streuung** | 2,5 | -- | **3,0-3,5** |
+| **Dialogverben je Kapitel** | 5,9 | -- | **>= 5** |
+| Saetze > 15 Woerter | 0-5 | 0 | **0** |
+| Passiv-Konstruktionen | 0-3 | 0 | **0** |
+| Abstrakte Emotionen | 0-2 | 0 | **0** |
+
+**Erreicht in Kapitel 1** (nach zwei Durchgaengen): 884 W, 27 % Dialog,
+Satzmittel 6,0, Streuung 3,5, 6 Dialogverben, 0 lange Saetze, 0 Passiv,
+0 abstrakte Emotionen. **Das ist der Referenzwert fuer Kapitel 2-19.**
+
+------------------------------------------------------------------------
+
 ## 0. Zwei Abweichungen von der Band-3-Vorlage (begruendet)
 
 ### 0.1 Die Szenenzahl VARIIERT (2-4), sie ist nicht vorgeschrieben
@@ -50,7 +162,7 @@ Verlaengert wird nur, wo etwas fehlt.
 | # | Ort | Was passiert |
 |---|-----|--------------|
 | 1 | Vom Haus zum Marktplatz | **BEWEGUNG AB SATZ 1 (Fix Befund 4).** Jonas rennt durch das heisse, staubige Dorf zum Brunnen, wo Mila und Ben sind. In der Hand ein Umschlag. Er kommt an und **kriegt keinen Ton heraus** -- haelt nur den Brief hoch. Drei, vier Zeilen Atemlosigkeit, bevor er reden kann. Hitze und Trockenheit **nebenbei** etabliert (Staub, knirschendes Gras, flirrende Luft) -- Vorbereitung des Rekordtiefstands am See. Bens/Milas Reaktion traegt in EINEM Satz, was vorher eine ganze Szene war: Endlich passiert mal was. |
-| 2 | Am Brunnen | Der Umschlag ist **an alle drei adressiert: "Die Herrenhaus-Detektive"** -- ungelenke Handschrift, kein Absender, fremder Poststempel. **Jonas hat ihn NICHT geoeffnet.** Sie machen ihn gemeinsam auf. Inhalt knapp: *"Ich habe von euch gelesen. Bei uns ist etwas aufgetaucht, und niemand hier will darueber reden."* |
+| 2 | Am Brunnen | Der Umschlag ist **an alle drei adressiert: "Die Herrenhaus-Detektive"** -- ungelenke Handschrift, kein Absender, fremder Poststempel. **Die Adresse: nur "DIE HERRENHAUS-DETEKTIVE, EICHENHAIN"** -- mehr weiss Nele nicht, die Zeitung druckt keine Adressen. In einem Dorf dieser Groesse genuegt das: **Jonas' Mutter erwaehnt beilaeufig, der Brieftraeger habe gefragt, ob sie das seien.** Ein Satz -- und er sagt nebenbei, wie bekannt die drei nach Band 3 sind. **Jonas hat ihn NICHT geoeffnet.** Sie machen ihn gemeinsam auf. Inhalt knapp: *"Ich habe von euch gelesen. Bei uns ist etwas aufgetaucht, und niemand hier will darueber reden."* |
 | 3 | Am Brunnen, wenige Minuten spaeter | **Sie werden zum ersten Mal GERUFEN** -- und streiten sofort darueber, ob es echt ist. **MINI-ENTSCHEIDUNG (neu):** Ben haelt es fuer einen Streich -- sie standen in der Zeitung, jeder im Umkreis weiss von ihnen, so einen Brief kann jeder schreiben. Mila will es glauben. **Jonas entscheidet: nachpruefen statt glauben oder wegwerfen** -- Poststempel ansehen, herausfinden, woher er kommt. |
 
 > **Cliffhanger:** Beim Umdrehen des Umschlags faellt es Jonas auf -- unter der

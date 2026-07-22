@@ -358,15 +358,27 @@ Zusammenfuehrung von `Band_3/Linear/feinschliff_messung.py` und
    zaehlt ZEILEN, die ein Anfuehrungszeichen enthalten -- eine Zeile mit einem
    einzigen zitierten Wort zaehlt damit voll als Dialog. Das ueberschaetzt den
    Anteil systematisch. `_dlg_check.py` zaehlt Woerter innerhalb der
-   Anfuehrungszeichen und ist die richtige Methode. Sonst misst die 40-%-Regel
-   etwas anderes, als sie meint.
+   Anfuehrungszeichen und ist die richtige Methode.
 
-2. **Cliffhanger-Pruefung ergaenzt.** In CLAUDE.md ist der Cliffhanger die einzige
-   Regel mit dem Zusatz "mandatory, no exceptions" -- und kein bisheriges Skript
-   hat sie geprueft. Maschinell nur als Heuristik moeglich (letzte Zeilen: offene
-   Frage, abgebrochene Bewegung, neue Information, direkte Rede ohne Antwort).
-   **Sie ersetzt das Lesen nicht -- sie erinnert nur daran.** Ein Treffer heisst
-   "wahrscheinlich okay", ein Nicht-Treffer heisst "nachsehen".
+   **ABER: Die 40-%-Regel ist ein RICHTWERT, kein Muss (Autor-Entscheidung).**
+   Kalibrierung an Band 3 ergab: Das fertige, abgenommene Buch liegt bei
+   **29 % im Schnitt** (Spanne 16-50 %), **16 von 19 Kapiteln unter 40 %**.
+   Gegengeprueft mit dem Original-Skript -- identische Zahlen, die Messung
+   stimmt. **Die Reihe erreicht die eigene 40-%-Vorgabe also nie** und liest
+   sich trotzdem dialogreich (viele kurze Zeilen, wenig Beschreibung).
+   *Folge:* `qa_messung.py` flaggt erst **unter 20 %** -- alles andere waere
+   Rauschen. Die 40 % bleiben als Referenz in der Ausgabe sichtbar.
+
+2. ~~**Cliffhanger-Pruefung ergaenzt.**~~ **VERWORFEN nach der Kalibrierung an
+   Band 3 (Autor-Entscheidung).** Die Heuristik (Fragezeichen, Ausruf, direkte
+   Rede am Schluss, "ploetzlich") markierte **16 von 19 Band-3-Kapiteln** als
+   verdaechtig -- obwohl Band 3 durchgehend Cliffhanger hat. **84 % Fehlalarm =
+   wertlos.**
+   *Grund:* Ein Cliffhanger ist **semantisch, nicht syntaktisch**. "Und dann
+   brach der Stein" hat kein Satzzeichen, das ihn verraet.
+   **Ersatz:** `qa_messung.py` druckt die **letzten Zeilen jedes Kapitels**
+   untereinander -- 19 Schluesse auf einem Bildschirm, in zwei Minuten mit dem
+   Auge geprueft. **Das unterstuetzt das Lesen, statt es vorzutaeuschen.**
 
 ### 6.B `schablonen_analyse.py` -- Floskeln und Gleichfoermigkeit (Anti-KI)
 
@@ -418,6 +430,17 @@ nicht zaehlbar. Pro Akt durchgehen:
 6. **Reagiert jemand, der gerade nicht dran ist?** In KI-Text handelt immer nur,
    wer gerade spricht. Ben, der die Muetze tiefer zieht, waehrend Mila redet,
    ist der billigste und wirksamste Gegenmittel-Satz.
+7. **Stehen die Figuren still, waehrend sie reden?** *(ergaenzt nach Kapitel 1)*
+   Der haeufigste Einzelfehler. Ueber sechs Dialogzeilen ohne eine echte
+   Handlung = sprechende Koepfe. **Und: Wenn ein Kapitel zu kurz geraet, fehlt
+   fast immer Koerper, nicht Inhalt.**
+8. **Erklaert der Erzaehler irgendwo eine Figur?** *(ergaenzt nach Kapitel 1)*
+   "Das war seine andere Stimme, die, mit der er manchmal recht hatte" -- solche
+   Saetze sind Erwachsenenprosa. Die Figur handelt, der Leser schliesst.
+
+> **Die Schreib-Regeln zur Vorbeugung (R1-R6) stehen am Anfang von
+> `Detaillierte_Szenenplanung.md`** -- dort, wo beim Schreiben hingesehen wird.
+> Diese Liste hier prueft hinterher.
 
 ------------------------------------------------------------------------
 

@@ -27,7 +27,7 @@
 | 1 | **Die Muenze** (aus Band 3, in Jonas' Tasche) | (B3) | Erweist sich als **Pfand**, nicht als Wegweiser -- und wird zurueckgegeben | 13/18 | geplant |
 | 2 | **Das Pergament mit abgerissenem Rand** (bei Winter, aus Band 3) | (B3) | Die Muenze passt in die Luecke -> fuehrt zum Grauen See | 2 | geplant |
 | 3 | **Zeichnung am Briefende** (3 Wellen + Stern) | 1 | Mila loest es: Wellen = Bach, Stern = Stern -> **Sternbach** | 5 | geplant |
-| 3a | **Der Brief nennt KEINEN Ort** -- Jonas beschliesst, den Poststempel zu pruefen | 1 | Die Kinder bringen die Gegend mit zu Winter; er steuert den Seenamen bei | 2 | geplant |
+| 3a | **Der Brief nennt KEINEN Ort** -- Jonas beschliesst, den Poststempel zu pruefen. Adresse nur "Die Herrenhaus-Detektive, Eichenhain"; **der Brieftraeger fragt nach, ob sie das seien** (zeigt nebenbei ihre Bekanntheit nach Band 3) | 1 | Die Kinder bringen die Gegend mit zu Winter; er steuert den Seenamen bei | 2 | geplant |
 | 3b | **Nele verschweigt schon im Brief den Ort** (Angst, kaum abgeschickt bereut) | 1 | Dieselbe Angst laesst sie spaeter den Stein verschweigen -- ihr Muster ist ab Kap 1 gepflanzt | 15 | geplant |
 | 3c | **Bens Wehr-/Wasserwissen** (Kanon aus Band 3 Kap 5, "Omas Bach") | (B3) | Er erklaert den Ablass am Anschlagbrett -- halb richtig, Winter ergaenzt | 3 | geplant |
 | 3d | **Bens Stock**: Er tippt weichen Boden ab, wie Holzer es in Band 3 Kap 7 vormachte (er selbst brach Band 3 Kap 2 in ein Erdloch ein) | 4 | Dreistufig: **Stufe 2 in Kap 14** -- er tastet unter Wasser, die Technik funktioniert, **findet aber nichts**. **Stufe 3 in Kap 17** -- er findet damit die Vertiefungen | 14 / 17 | geplant |

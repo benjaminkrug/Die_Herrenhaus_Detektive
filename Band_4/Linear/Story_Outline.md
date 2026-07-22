@@ -389,7 +389,9 @@ Ben sind, einen Umschlag in der Hand -- und kann vor Atemlosigkeit erst nicht
 reden. *(Die Bewegung endet anders als in Band 3, damit es kein Selbstplagiat
 ist.)*
 Der Umschlag ist an **alle drei** adressiert: "Die Herrenhaus-Detektive".
-Ungelenke Handschrift, kein Absender. **Jonas hat ihn nicht geoeffnet** -- sie
+Ungelenke Handschrift, kein Absender.
+**Adressiert nur an "Die Herrenhaus-Detektive, Eichenhain"** -- mehr weiss die
+Absenderin nicht. Der Brieftraeger hat gefragt, ob sie das seien. **Jonas hat ihn nicht geoeffnet** -- sie
 machen ihn gemeinsam auf. Sie werden zum ersten Mal GERUFEN. Ben ist
 geschmeichelt und sofort besorgt.
 **MINI-ENTSCHEIDUNG:** Ben haelt den Brief fuer einen Streich (sie standen in
