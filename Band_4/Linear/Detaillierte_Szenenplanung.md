@@ -117,6 +117,19 @@ ist, liest sich maschinell -- auch wenn jede Einzelregel erfuellt ist.
 **Wo verbinden:** beschreibende und ueberleitende Saetze -- dort leistet die
 Kuerze nichts. Verbinden mit "und" oder Komma, **nie mit Nebensatz-Verschachtelung.**
 
+### GEPRUEFT, BLEIBT SO -- niedriger Dialoganteil in Entdeckungskapiteln
+
+**Autor-Entscheidung nach Akt 2:** Kap 7 und 8 liegen bei je 18 % Dialog,
+deutlich unter Band 3 (29 %). **Wird NICHT erzwungen.**
+
+*Begruendung:* Beides sind Entdeckungskapitel -- die Kinder gehen durch einen
+Ort, den sie zum ersten Mal sehen. Dort wird geschaut, nicht geredet. Dialog
+hineinzuschreiben, um eine Zahl zu erreichen, waere genau das Fuellmaterial,
+das `PLAN_Band4.md` Abschnitt 4 verbietet.
+
+**Der Flag-Wert von 20 % bleibt** -- er soll melden, nicht befehlen
+(Grundregel 6.0: Kandidaten, keine Urteile).
+
 ### Zielwerte (gemessen an Band 3, nicht geschaetzt)
 
 **Diese Tabelle vor jedem Kapitel ansehen -- sie ist der Massstab, nicht die
