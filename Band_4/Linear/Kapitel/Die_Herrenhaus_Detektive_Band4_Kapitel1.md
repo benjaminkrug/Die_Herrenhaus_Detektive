@@ -71,6 +71,21 @@ Ben schob die Kappe hoch und las die zwei Wörter, dann noch einmal.
 „Uns", murmelte er.
 „Der ist an uns."
 
+Jonas sah über den Platz.
+
+Am Brunnen glänzte die Gedenktafel in der Sonne.
+*Eichenhain -- Gegründet an der Heilquelle -- Seit 1712.*
+
+Und schräg gegenüber, in Meiers Schaufenster,
+hing immer noch der Zeitungsausschnitt vom letzten Herbst.
+Das Papier war gelb geworden, das Foto krumm eingeklebt.
+
+Drei Kinder am Brunnenrand.
+
+Ben fand das großartig.
+Mila fand es peinlich.
+Meier hatte gesagt, der bleibe da, solange er den Laden habe.
+
 „Deshalb bin ich ja gerannt."
 
 Mila hielt den Umschlag gegen die Sonne.
