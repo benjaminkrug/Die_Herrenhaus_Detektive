@@ -358,18 +358,34 @@ mit der sie aufgewachsen ist, falsch ist -- bevor das Wasser zurueckkommt.
 > Muss mit `Welt_und_Figuren.md` Abschnitt 6 uebereinstimmen. Bei jeder Aenderung
 > an einem Kapitel hier gegenpruefen.
 
-| Tag | Kapitel | Pegel | Was passiert mit dem Wasser |
-|:---:|:-------:|:-----:|------------------------------|
-| 1 | 1-2 | -- | Eichenhain. Hitze, seit Wochen kein Regen |
-| 2 | 3-5 | A | Ankunft. **Aushang: Schliessung in 4 Tagen.** Tiefstand |
-| 3 | 6-8, **9 (Szene 1)** | A | Tiefstand haelt. Tag endet an Neles Tuerblockade |
-| 4 | **9 (Szene 2-4)**, 10 | A | Tiefstand haelt. Nachts erste Tropfen |
-| 5 | 11-12 | A | Letzter Tag VOR der Schliessung. **Haetten sie hier den Osthang genommen, waere der Stein trocken gewesen** |
-| 6 | 13 | A -> B | **1. Muehlen-Tag** (nichts gefunden). Abends: **Ablass geschlossen.** Ab jetzt steigt es |
-| 7 | 14-15 | B -> C | **2. Muehlen-Tag** -> zwei Tage verloren. Muehle und Steg unter Wasser. Unterer Talgrund faellt weg |
-| 8 | 16-17 | C -> D | Nur noch ueber den Osthang. Gedenkstein steht im Wasser |
-| 9 | 18 | D | Nur noch per Boot. Abends ist Sternbach verschwunden |
-| +2 Wo. | 19 | E | Eichenhain, **letzte Ferientage** (noch Sommer). See wieder voll |
+> **KORRIGIERT beim Schreiben von Akt 1.** Erste Fassung wies Kap 3-5 alle dem
+> Tag 2 zu. **Falsch:** Kap 3 endet nachts (Jonas sieht den Turm), Kap 4 beginnt
+> "zwanzig vor sieben" -- dazwischen liegt eine Nacht. Da jede weitere
+> Kapitelkette ebenfalls sauber ist, verschiebt sich alles ab Kap 4 um einen Tag.
+> **Das Buch dauert 10 Tage, nicht 9.**
+>
+> Die Wochentage sind dabei so gewaehlt, dass drei Dinge stimmen, die vorher
+> nicht stimmten: Der Brief kommt an einem **Postzustelltag**, Winter findet am
+> Montag ein **offenes Gemeindeamt**, und das Wasserwirtschaftsamt schliesst an
+> einem **Freitag**, nicht am Wochenende.
+
+| Tag | Wochentag | Kapitel | Pegel | Was passiert mit dem Wasser |
+|:---:|:---------:|:-------:|:-----:|------------------------------|
+| 1 | **Samstag** | 1-2 | -- | Eichenhain. Hitze, seit Wochen kein Regen. **Brief kommt (Samstagspost)** |
+| 2 | **Sonntag** | 3 | A | Ankunft. **Aushang: Schliessung Freitag = in 5 Tagen.** Tiefstand. Nachts: Turmsilhouette |
+| 3 | Montag | 4-5 | A | Erster Gang ans Ufer. **Ab hier: noch 4 Tage.** Winter zur Gemeinde (Behoerden offen) |
+| 4 | Dienstag | 6-8, **9 (Szene 1)** | A | Tiefstand haelt. Tag endet an Neles Tuerblockade |
+| 5 | Mittwoch | **9 (Szene 2-4)**, 10 | A | Tiefstand haelt. Nachts erste Tropfen |
+| 6 | Donnerstag | 11-12 | A | Letzter Tag VOR der Schliessung. **Haetten sie hier den Osthang genommen, waere der Stein trocken gewesen** |
+| 7 | **Freitag** | 13 | A -> B | **1. Muehlen-Tag** (nichts gefunden). Abends: **Ablass geschlossen.** Ab jetzt steigt es |
+| 8 | Samstag | 14-15 | B -> C | **2. Muehlen-Tag** -> zwei Tage verloren. Muehle und Steg unter Wasser. Unterer Talgrund faellt weg |
+| 9 | Sonntag | 16-17 | C -> D | Nur noch ueber den Osthang. Gedenkstein steht im Wasser |
+| 10 | Montag | 18 | D | Nur noch per Boot. Abends ist Sternbach verschwunden |
+| +2 Wo. | -- | 19 | E | Eichenhain, **letzte Ferientage** (noch Sommer). See wieder voll |
+
+**Countdown-Kontrolle (im Text nachgezaehlt):** Sonntag "fuenf Tage" (Kap 3),
+Montag "vier Tage" (Kap 4). **Der Countdown faellt zwischen den Kapiteln, ohne
+dass jemand darauf hinweist** -- der Leser merkt es selbst.
 
 **Warum das Dorf in 3 Tagen weg ist, der See aber 2 Wochen braucht:** Der
 Talgrund ist flach und breit -- er laeuft schnell voll. Die letzten Meter bis

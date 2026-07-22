@@ -157,7 +157,7 @@ Verlaengert wird nur, wo etwas fehlt.
 ## AKT 1 -- DER RUF (Kapitel 1-5)
 
 ### Kapitel 1 -- Der Brief
-**Tag 1 | Eichenhain | Pegel -- | Ziel: ~1.210 Woerter | 3 Szenen**
+**Tag 1 (Sa) | Eichenhain | Pegel -- | Ziel: ~1.210 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -213,7 +213,7 @@ Leseprobe beginnt.
 ------------------------------------------------------------------------
 
 ### Kapitel 2 -- Der Mann, der vierzig Jahre gesucht hat
-**Tag 1 | Herrenhaus | Ziel: ~1.000 Woerter | 2 Szenen**
+**Tag 1 (Sa) | Herrenhaus | Ziel: ~1.000 Woerter | 2 Szenen**
 
 *(Bewusst kurz und bewusst nur zwei Szenen: Das Kapitel ist EIN Gespraech.
 Es zerhacken hiesse, ihm die Wucht nehmen.)*
@@ -258,7 +258,7 @@ Es zerhacken hiesse, ihm die Wucht nehmen.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 3 -- Der Graue See
-**Tag 2 | Ankunft, Seebruck | Pegel A | Ziel: ~1.550 Woerter | 3 Szenen**
+**Tag 2 (So) | Ankunft, Seebruck | Pegel A | Ziel: ~1.550 Woerter | 3 Szenen**
 *(**Dokumentierte Ausnahme, Autor-Entscheidung:** Dieses Kapitel darf das Fenster
 900-1.500 minimal ueberschreiten. **Harte Grenze 1.550** -- "minimal nach oben"
 darf beim Schreiben nicht zu 1.700 werden. Begruendung: Kap 3 traegt Ankunft,
@@ -311,7 +311,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 4 -- Die erste Regel am See
-**Tag 2 | Ufer + Ruinenrand | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
+**Tag 3 (Mo) | Ufer + Ruinenrand | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -346,7 +346,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 5 -- Drei Wellen und ein Stern
-**Tag 2, Abend | Gasthof | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+**Tag 3 (Mo), Abend | Gasthof | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 *(Wirkte in der Outline ueberladen -- war es aber nicht. **Verdacht und
 Pfand-Keim gehoeren in DIESELBE Szene:** Der Keim soll laut Outline 0.9
@@ -477,7 +477,7 @@ arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
 ------------------------------------------------------------------------
 
 ### Kapitel 6 -- Die Frau, die die Geschichte huetet
-**Tag 3 | Seebruck | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+**Tag 4 (Di) | Seebruck | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -510,7 +510,7 @@ arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
 ------------------------------------------------------------------------
 
 ### Kapitel 7 -- Der Weg ueber den Hang
-**Tag 3 | Osthang + Talgrund | Pegel A | Ziel: ~1.130 Woerter | 2 Szenen**
+**Tag 4 (Di) | Osthang + Talgrund | Pegel A | Ziel: ~1.130 Woerter | 2 Szenen**
 
 *(Nur zwei Szenen: Das Kapitel ist EIN Vorgang -- hinunter und hinein.
 Zerhacken wuerde den Sog nehmen.)*
@@ -545,7 +545,7 @@ Zerhacken wuerde den Sog nehmen.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 8 -- Vier Haeuser
-**Tag 3 | Sternbach | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
+**Tag 4 (Di) | Sternbach | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -607,7 +607,7 @@ spaeter reagierte.
 ------------------------------------------------------------------------
 
 ### Kapitel 9 -- Die, die geblieben ist
-**Tag 3 (Rest) + Tag 4 | Sternbach | Pegel A | Ziel: ~1.450 Woerter | 4 Szenen**
+**Tag 4 (Di, Rest) + Tag 5 (Mi) | Sternbach | Pegel A | Ziel: ~1.450 Woerter | 4 Szenen**
 
 *(Vier Szenen und das laengste Kapitel des Akts -- hier laeuft am meisten
 zusammen: zwei Tuerblockaden, Konfrontation, Bens Herzmoment, Vorzeichen 1.)*
@@ -646,7 +646,7 @@ zusammen: zwei Tuerblockaden, Konfrontation, Bens Herzmoment, Vorzeichen 1.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 10 -- Waffenstillstand
-**Tag 4 | Sternbach | Pegel A | Ziel: ~1.060 Woerter | 2 Szenen**
+**Tag 5 (Mi) | Sternbach | Pegel A | Ziel: ~1.060 Woerter | 2 Szenen**
 
 *(Kurz und zweiszenig: ein einziges Gespraech, das kippt. Danach die Nacht.)*
 
@@ -821,7 +821,7 @@ das wegfaellt.
 ------------------------------------------------------------------------
 
 ### Kapitel 11 -- Das fuenfte Haus
-**Tag 5 | Sternbach | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+**Tag 6 (Do) | Sternbach | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -848,7 +848,7 @@ das wegfaellt.
 ------------------------------------------------------------------------
 
 ### Kapitel 12 -- Das Andenken
-**Tag 5, Abend | Haus der Ahrens | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
+**Tag 6 (Do), Abend | Haus der Ahrens | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -875,7 +875,7 @@ das wegfaellt.
 ------------------------------------------------------------------------
 
 ### Kapitel 13 -- Was ein Pfand ist
-**Tag 6 | Muehle + Haus der Ahrens | Pegel A -> B | Ziel: ~1.500 Woerter | 3 Szenen**
+**Tag 7 (Fr) | Muehle + Haus der Ahrens | Pegel A -> B | Ziel: ~1.500 Woerter | 3 Szenen**
 
 *(Fix Problem 2: Der erste Muehlentag wird GEZEIGT. Bens Erkenntnis kommt im
 Schlamm, nicht am Tisch.)*
@@ -943,7 +943,7 @@ sein: **Er ist der physische Beweis, dass es ein Versprechen gab.**
 ------------------------------------------------------------------------
 
 ### Kapitel 14 -- Die Muehle
-**Tag 7 | Muehle | Pegel B | Ziel: ~1.000-1.150 Woerter | 3 Szenen**
+**Tag 8 (Sa) | Muehle | Pegel B | Ziel: ~1.000-1.150 Woerter | 3 Szenen**
 
 > **KURZ HALTEN.** Ein Tag, der nichts bringt, darf sich nicht ausbreiten.
 > Im Zweifel Richtung 1.000 gehen, nicht auffuellen (Autor-Vorgabe).
@@ -1047,7 +1047,7 @@ vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
 ------------------------------------------------------------------------
 
 ### Kapitel 15 -- Was Nele wusste
-**Tag 7 | Muehle / Ufer | Pegel B -> C | Ziel: ~1.250 Woerter | 3 Szenen**
+**Tag 8 (Sa) | Muehle / Ufer | Pegel B -> C | Ziel: ~1.250 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -1195,7 +1195,7 @@ mit vier Symbolen (Kap 19). Zwei Haken schwaechen einander.
 ------------------------------------------------------------------------
 
 ### Kapitel 16 -- Die Namen auf den Steinen
-**Tag 8 | Osthang + Friedhof | Pegel C | Ziel: ~950 Woerter | 2 Szenen**
+**Tag 9 (So) | Osthang + Friedhof | Pegel C | Ziel: ~950 Woerter | 2 Szenen**
 
 *(Bewusst das kuerzeste Kapitel des Buchs -- es ist ein Aufstieg und eine
 Entdeckung. Sein Gewicht bekommt Kap 17.)*
@@ -1222,7 +1222,7 @@ Entdeckung. Sein Gewicht bekommt Kap 17.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 17 -- Der Stein
-**Tag 8 | Suedbucht + Seebruck | Pegel C -> D | Ziel: ~1.500 Woerter | 4 Szenen**
+**Tag 9 (So) | Suedbucht + Seebruck | Pegel C -> D | Ziel: ~1.500 Woerter | 4 Szenen**
 
 *(Das schwerste Kapitel des Buchs: zwei Schauplaetze, vier Beats. Deshalb steht
 Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
@@ -1290,7 +1290,7 @@ endgueltig an der Obergrenze -- Szene 2 auf das Minimum.**
 ------------------------------------------------------------------------
 
 ### Kapitel 18 -- Was man zurueckgibt
-**Tag 9 | Seebruck + Bucht | Pegel D | Ziel: ~1.400 Woerter | 3 Szenen**
+**Tag 10 (Mo) | Seebruck + Bucht | Pegel D | Ziel: ~1.400 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
