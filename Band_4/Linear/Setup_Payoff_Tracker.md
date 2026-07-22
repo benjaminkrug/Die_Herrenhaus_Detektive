@@ -89,7 +89,7 @@
 | 21d | **Winter betritt Sternbach NIE** (Absicht, `Author_Info.md`): Silhouette (3), Kinder gehen allein (4), Halt am Hangfuss (16) | 3/4/16 | Er erreicht **nur den Gedenkstein**, per Boot, als das Dorf schon versunken ist -- den Stein seiner eigenen Familie, in dem Moment, in dem eine Ahrens ihm die Hand gibt | 18 | geschrieben |
 | 21e | **Jonas nickt ihm vor dem Gasthof zu** -- Winter erfaehrt nur DASS, nicht WAS. *"Geht ihr."* | 17 | Er sieht den Stein zum ersten Mal in Kap 18 -- sonst haette das Kapitel fuer ihn keine Entdeckung mehr | 18 | geschrieben |
 | 22 | **Jonas nimmt die Ausrede nicht** ("ich bin da erst seit einem Jahr") | 6 | "Niemand hatte ihn gefragt, ob er dazugehoert. Er hatte einfach geantwortet." | 19 | geschrieben |
-| 23 | **Winters Satz "Ich war nicht der Erste"** (aus Band 3, wiederholt) | 2 | Die Familie Ahrens sucht seit Generationen | 6/12 | geschrieben |
+| 23 | **Winters Satz "Und ich war nicht der Erste"** -- in Band 4 verkuerzt und als Kapitel-Cliffhanger gesetzt (in Band 3 Kap 18 stand die Erklaerung noch dabei) | 2 | Drei Antworten im Text: **die Gruender selbst** (der Gedenkstein von 1710 -- sie suchten ihr Dorf, 300 Jahre vor ihm), die **Familie Ahrens** (haelt Geschichte + Gegenmuenze), **Nele** (sucht seit Juni). **HOERBAR geschlossen in Kap 19:** Jonas liest Winters eigene Zeile *"und von Nele Ahrens, die vorher da war"*, erinnert sich an das Fluestern an der Haustuer -- *"Jetzt hatte er es selbst aufgeschrieben."* | 17 / 6/12 / **19** | geschrieben |
 | 24 | **Wappen mit vier Symbolen** (Serienkanon seit Band 2) | lfd. | **Zweistufig in Kap 19:** beim Hinausgehen aus dem Herrenhaus zaehlt Jonas nach (**unbetont, keine Auszahlung**) -- und **zuletzt** vom Brunnen aus der Blick hinauf: *eigentlich muessten es fuenf sein*. **Band 4s "Blick in den Wald"** (Serien-Signatur, vgl. Band 2). KEIN Plot-Haken -- der ist Milas Frage in Kap 18 | 19 | geschrieben |
 | 24b | **Die Muenze in Jonas' Tasche** (seit Band 3 staendig praesent) | (B3) | **Die leere Tasche:** Seine Hand faehrt aus Gewohnheit hinein -- die Muenze ist weg, und das fuehlt sich richtig an | 19 | geschrieben |
 | 25 | **Grabstein-Jahreszahlen:** die vier Namen hoeren im selben Jahr auf, Ahrens geht weiter | 16 | **Tiefpunkt der Beweislage** -- spricht GEGEN die vier. Macht den Gedenkstein zur Umkehr statt zu einem blossen Fund | 17 | geschrieben |
@@ -107,10 +107,10 @@ Aus `Author_Info.md`, Abschnitt BAND 4:
 - [x] **Was bedeutet das fremde Symbol?** -> beides, wie geplant: der Ortsname
       (Mila liest Bach + Stern = Sternbach, Kap 5) UND das Zeichen der fuenften
       Familie (es steht ueber der Tuer des fuenften Hauses, Kap 8).
-- [~] **Wer hat ausser Winter noch gesucht?** -> Nele sucht seit Juni (Kap 10),
-      die Familie Ahrens hat die Muenze 300 Jahre aufgehoben (Kap 12).
-      **ABER:** Winters Satz *"Und ich war nicht der Erste"* (Kap 2) wird nie
-      hoerbar geschlossen -- siehe Abschnitt E, Befund 2.
+- [x] **Wer hat ausser Winter noch gesucht?** -> **die Gruender selbst** (der
+      Gedenkstein von 1710, Kap 17 -- das ist woertlich die Antwort aus Band 3:
+      *"vor mir waren es die Gruender"*), die Familie Ahrens (Kap 6/12) und Nele
+      (Kap 10). **Seit dem Nachtrag in Kap 19 auch hoerbar geschlossen.**
 - [x] **Warum verliessen die vier ihren Ort?** -> "Sie haben gesagt, sie holen
       Hilfe" (Kap 6), als Pfand-Versprechen gedeutet (Kap 13), durch den
       Gedenkstein von 1710 belegt (Kap 17).
@@ -176,8 +176,13 @@ Tag 3 ein Sonntag ist. Nachgezogen: Kap 15 (*"seit einer Woche hier"*), Kap 16
 `Story_Outline.md` 2b, `Welt_und_Figuren.md` 6 (Pegel-Tracker gefuellt),
 `Detaillierte_Szenenplanung.md` (alle Kopfzeilen + Akt-Bilanzen), `Author_Info.md`.
 
-**Befund 2 -- Zeile 23 wird nie hoerbar geschlossen.**
-Winters *"Und ich war nicht der Erste"* (Kap 2) wird faktisch beantwortet
-(Frau Ahrens haelt die Geschichte, Nele sucht seit Juni) -- aber niemand spricht
-den Bogen aus. Ein Leser von 8-10 verknuepft das mit hoher Wahrscheinlichkeit
-nicht selbst. Betrifft auch die Band-3-Pflichtfrage in Abschnitt B.
+~~**Befund 2 -- Zeile 23 wird nie hoerbar geschlossen.**~~
+**BEHOBEN in Kap 19** (~45 Woerter, keine gesprochene Zeile). Der Text hatte die
+Antwort bereits -- Winter selbst schreibt in den Rahmen *"und von Nele Ahrens,
+die vorher da war"*. Es fehlte nur die Bruecke zu Kap 2. Jonas liest die Zeile
+noch einmal und erinnert sich an das Fluestern an der Haustuer.
+
+*Warum nicht Winter es sagt:* Eine gesprochene Fassung haette einen
+Aufhaenger-Satz gebraucht (*"Ich habe dir mal gesagt ..."*) und damit erklaert,
+was schon dasteht. *Warum nicht in Kap 17 am Stein:* Dort laeuft Jonas'
+Pfand-Erkenntnis -- eine zweite Erkenntnis daneben halbiert beide.

@@ -48,6 +48,18 @@ Ben las es dreimal.
 
 „Ja", sagte Ben. „Aber meiner auch."
 
+Jonas las die letzte Zeile noch einmal.
+
+*Und von Nele Ahrens, die vorher da war.*
+
+Er musste an den Morgen denken, als sie losgefahren waren.
+An die abgeschlossene Haustür.
+Und an den Satz danach, den Winter fast nur geflüstert hatte.
+
+*Und ich war nicht der Erste.*
+
+Jetzt hatte er es selbst aufgeschrieben.
+
 ---
 
 Herr Meier kam am Nachmittag.

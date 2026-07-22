@@ -1398,7 +1398,8 @@ dann ist sie Versoehnung, nicht Niederlage.
 | # | Ort | Beat |
 |---|-----|------|
 | 1 | Herrenhaus | **Letzte Ferientage**, noch Sommer (nicht Herbst -- Band 4 begann in den Ferien). Ankunft, das Haus ist bewohnt. |
-| 2 | Herrenhaus | Winter haengt das **Pergament** auf. **Die Luecke ist gefuellt**, die Herkunft steht fest. |
+| 2 | Herrenhaus | Winter haengt das **Pergament** auf. **Die Luecke ist gefuellt**, die Herkunft steht fest. Er hat ein eigenes Blatt dazugelegt: *"Sternbach am Grauen See. Gefunden im August von Jonas, Mila und Ben. Und von Nele Ahrens, die vorher da war."* |
+| 2b | Herrenhaus, am Rahmen | **SCHLUSS DES BAND-3-HAKENS (nachgetragen):** Jonas liest die letzte Zeile noch einmal -- *"die vorher da war"* -- und erinnert sich an Winters Fluestern an der Haustuer in Kap 2: *"Und ich war nicht der Erste."* **Kein gesprochenes Wort, keine Erklaerung.** Schlusszeile: *"Jetzt hatte er es selbst aufgeschrieben."* |
 | 3 | Herrenhaus | **Die Verbuendeten:** Holzer, Meier, Krueger, Frau Wenzel -- **je ein bis zwei Saetze**, keine Szene fuer jeden. |
 | 4 | Herrenhaus, beim Hinausgehen | **DAS WAPPEN, nah -- KEIN Beat, nur eine Zeile.** Jonas sieht es ueber der Tuer und zaehlt: vier. **Er sagt nichts.** *(Erste Nennung ohne Betonung -- dieselbe Bauweise wie Pfand-Keim, Tuerschwelle und Bens Stock.)* |
 | 5 | Am Brunnen | **Ein Brief von Nele.** Sie schreibt, wie es am See aussieht, jetzt wo das Wasser wieder steht. *(Ob sie nach Eichenhain kommt, bleibt offen -- Band 5.)* |

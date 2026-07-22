@@ -890,7 +890,10 @@ Herbst, das war abgeschrieben). Emotional sogar staerker: der Sommer, nach dem
 etwas anders ist, kurz bevor die Schule wieder anfaengt.
 Eichenhain. Holzer, Meier, Krueger, Frau Wenzel -- alle wieder da.
 Winter haengt das Pergament auf; die Luecke ist gefuellt, die Herkunft steht
-fest. Ein Brief von Nele. Die Muenze ist nicht mehr in Jonas' Tasche, und das
+fest -- und er hat ein eigenes Blatt dazugelegt, auf dem **Nele mitgenannt ist**.
+An dieser Zeile schliesst sich der Band-3-Haken: Jonas erinnert sich an Winters
+"Und ich war nicht der Erste" (Kap 2), und der Satz steht jetzt in Winters
+eigener Schrift an der Wand. Ein Brief von Nele. Die Muenze ist nicht mehr in Jonas' Tasche, und das
 fuehlt sich richtig an.
 **Form: ZWEI ORTE, ~7 kurze Beats** -- kein Kapitel aus langen Szenen. Belegt:
 Band 3 Kap 19 hat 7 Abschnitte in 1.074 Woertern. Epiloge dieser Reihe sind eine
