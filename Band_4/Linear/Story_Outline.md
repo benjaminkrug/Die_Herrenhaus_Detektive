@@ -387,6 +387,44 @@ mit der sie aufgewachsen ist, falsch ist -- bevor das Wasser zurueckkommt.
 Montag "vier Tage" (Kap 4). **Der Countdown faellt zwischen den Kapiteln, ohne
 dass jemand darauf hinweist** -- der Leser merkt es selbst.
 
+### BEFUND aus dem Schluss-Abgleich (Kontinuitaets-Tracker) -- OFFEN
+
+Die Tabelle oben ist der **Planstand**. Der geschriebene Text weicht an genau
+einer Stelle ab: Zeile "Tag 5" legt **Kap 9 (Sz 2-4) und Kap 10 auf denselben
+Tag**. Geschrieben wurden zwei Tage -- Kap 9 endet mit dem Heimweg am Abend,
+Kap 10 beginnt mit einer neuen Ankunft und *"Gestern hatte sie in der Tuerluecke
+gestanden"*. **Das Buch dauert 11 Tage, nicht 10.**
+
+Damit stimmt der Wochentag in **Kap 3** nicht mehr: Zwischen *"Heute war Sonntag"*
+(Kap 3) und *"Heute war Samstag"* (Kap 15) liegen im Text sieben Tageswechsel --
+Sonntag + 7 = Sonntag.
+
+**Alles ab Kap 4 ist untereinander stimmig** und braucht keine Aenderung:
+Winters *"Neun Tage"* (Kap 14) trifft Tag 9 exakt, die Schliessung faellt auf
+Freitagabend, Kap 15 zaehlt korrekt *"Samstag. Sonntag. Montag."* bis zur
+Abreise. **Falsch ist nur der Anker am Anfang.**
+
+**Loesungsvorschlag (4 kleine Eingriffe, alle in Kap 3 + 4):**
+
+| Tag | **NEU** | Kapitel | Warum es besser wird |
+|:---:|:-------:|:-------:|----------------------|
+| 1 | **Freitag** | 1-2 | Brief kommt an einem **Werktag** (statt Samstagspost) |
+| 2 | **Samstag** | 3 | Anreise am Samstag -- der natuerliche Reisetag |
+| 3 | **Sonntag** | 4-5 | **Winter kann nichts tun, alle Aemter zu.** Deshalb gehen die Kinder allein ans Ufer -- besser motiviert als bisher |
+| 4 | Montag | 6-8, 9 (Sz 1) | Winter zur Gemeinde, Behoerden offen |
+| 5 | Dienstag | 9 (Sz 2-5) | |
+| 6 | Mittwoch | 10 | |
+| 7 | Donnerstag | 11-12 | |
+| 8 | **Freitag** | 13 | Schliessung am Freitagabend -- unveraendert |
+| 9 | Samstag | 14-15 | *"Heute war Samstag"* -- unveraendert |
+| 10 | Sonntag | 16-17 | |
+| 11 | Montag | 18 | Abreise -- unveraendert |
+
+Noetige Textaenderungen: Kap 3 *"Heute war Sonntag"* -> *Samstag*; Kap 3
+*"Fuenf Tage"* / *"Fuenf Tage bis Freitag"* -> *Sechs*; Kap 3 Winters
+Ankuendigung (er kann am Sonntag zu keiner Gemeinde); Kap 4 *"Wir haben vier
+Tage"* -> *fuenf*. **Noch nicht eingebaut -- wartet auf Freigabe.**
+
 **Warum das Dorf in 3 Tagen weg ist, der See aber 2 Wochen braucht:** Der
 Talgrund ist flach und breit -- er laeuft schnell voll. Die letzten Meter bis
 zum Vollstau brauchen lange, weil der See nach oben hin viel breiter wird.
