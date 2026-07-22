@@ -6,8 +6,8 @@
 > STATUS: PLANUNG -- entsteht VOR der Outline, wird beim Schreiben praezisiert.
 >
 > **Warum diese Datei fuer Band 4 besonders wichtig ist:** Der Schauplatz
-> VERAENDERT SICH physisch waehrend des Buchs. Was an Tag 2 begehbar ist, steht
-> an Tag 8 unter Wasser. Ohne festgehaltenen Pegelstand pro Tag entstehen
+> VERAENDERT SICH physisch waehrend des Buchs. Was an Tag 3 begehbar ist, steht
+> an Tag 9 unter Wasser. Ohne festgehaltenen Pegelstand pro Tag entstehen
 > zwangslaeufig Widersprueche ("gestern war die Gasse doch noch trocken").
 > Abschnitt 6 ist deshalb das wichtigste Stueck dieser Datei.
 
@@ -45,19 +45,19 @@ nicht gab:
 zum ersten Mal seit Generationen begehbar.
 
 **Der Countdown, hart und mit Datum:** Die Revision endet an einem festgelegten
-Tag (**Tag 6** der Handlung). Dann wird der Ablass geschlossen.
+Tag (**Tag 8** der Handlung). Dann wird der Ablass geschlossen.
 
 **Wie schnell steigt das Wasser? (praezise, weil davon alles abhaengt):**
 Der Talgrund ist flach und breit -- er laeuft in **etwa drei Tagen** voll.
 Die letzten Meter bis zum Vollstau brauchen dagegen **zwei Wochen**, weil der
 See nach oben hin viel breiter wird.
 
-> **Sternbach ist an Tag 9 verschwunden. Der See ist erst ~2 Wochen spaeter
+> **Sternbach ist an Tag 11 verschwunden. Der See ist erst ~2 Wochen spaeter
 > wieder voll.** Beides gleichzeitig richtig -- flache Flaeche fuellt schnell,
 > hohe Flaeche fuellt langsam.
 
 **Die Kinder erfahren die Frist bei der Ankunft (Tag 2, Kap 3).** Ihr Fenster:
-7 Tage. *Begruendung:* Ein Countdown, der erst nach der Haelfte des Buchs
+6 Tage bis zur Schliessung, danach noch drei, bis alles weg ist. *Begruendung:* Ein Countdown, der erst nach der Haelfte des Buchs
 beginnt, ist keiner. In Band 3 tickt die Uhr ab Kapitel 1 (der feuchte Riss).
 
 *Warum das so gebaut ist:* (a) Es beantwortet zwingend, warum Winter den Ort
@@ -174,16 +174,33 @@ eine Geschichte erzaehlt und verteidigt -- und sie ist nachvollziehbar.
 | **D** | Hoch | Nur noch Kirche, Marktplatz-Kreuz und Friedhof. **Der Gedenkstein wird ueberspuelt** -- nur noch per Boot und tastend erreichbar |
 | **E** | Normalstand | Nur die Kirchturmspitze zu ahnen. Sternbach ist wieder verschwunden. |
 
-**Tabelle (wird beim Schreiben gefuellt):**
+**GEFUELLT nach Fertigstellung aller 19 Kapitel** (aus dem Kapiteltext, nicht
+aus der Planung):
 
-| Tag | Kapitel | Pegelstufe | Ereignis / was noch begehbar war |
-|:---:|:-------:|:----------:|----------------------------------|
-| | | | *(wird gefuellt)* |
+| Tag | Wo.tag | Kapitel | Stufe | Was im Text steht |
+|:---:|:------:|:-------:|:-----:|-------------------|
+| 1 | Fr | 1-2 | -- | Eichenhain. Hitze, seit drei Wochen kein Regen |
+| 2 | Sa | 3 | **A** | Ankunft. Breiter heller Rand rundum, Steg auf dem Trockenen, kein Wasser darunter. Nachts: Turmsilhouette |
+| 3 | So | 4-5 | **A** | Schlammfeld begehbar. Muschelschalen, toter Fisch in einer Pfuetze. Turm **frei bis zur Dachkante**. Der dunkle Rand liegt fast an der Spitze. Erste Mauern hueft hoch |
+| 4 | Mo | 6-8, 9 (Sz 1) | **A** | Osthang-Pfad, Gasse, Marktplatz mit Steinkreuz. Vier Tuerschwellen + fuenftes Haus freigelegt |
+| 5 | Di | 9 (Sz 2-5) | **A** | Zwei weitere Schwellen. **Abends: der untere Rand der Schwelle des fuenften Hauses ist feucht** -- morgens war er trocken |
+| 6 | Mi | 10 | **A** | **In der Tuerluecke steht eine flache Pfuetze** ("es kommt von unten, der Boden ist voll"). Nachts die ersten Regentropfen |
+| 7 | Do | 11-12 | **A** | Die Pfuetze bedeckt die **ganze** Schwelle. **Das Kirchendach ist weg** -- der Turm faengt jetzt im Wasser an |
+| 8 | Fr | 13 | **A -> B** | Muehle noch ausgrabbar. **Abends: der Ablass wird geschlossen, das Rauschen faellt weg** |
+| 9 | Sa | 14-15 | **B -> C** | Steg steht im Wasser, die ausgeraeumte Muehlengrube ist wieder voll. Turm nur noch bis zu den Schallfenstern. **Abends: unterer Dorfteil unter Wasser, Marktplatz ein flacher See -- es bleibt nur der Osthang** |
+| 10 | So | 16-17 | **C -> D** | Friedhof frei (liegt hoch). **Der Gedenkstein steht im Wasser**, obere Haelfte lesbar, die Mulden nur blind ertastbar |
+| 11 | Mo | 18 | **D** | Bucht voll, zu Fuss geht nichts mehr -- **nur noch per Boot**. Der Stein liegt knapp unter Wasser. Abends nur noch das Kreuz, der dunkle Rand ist "zum Greifen nah" |
+| +2 Wo. | -- | 19 | **E** | Aus Neles Brief: *"Der See steht wieder fast normal. Vom Turm sieht man nichts mehr."* |
 
 **Regeln:**
 1. Der Pegel steigt ab dem Tag der Wehr-Schliessung **nur noch** -- nie wieder
    zurueck. Ein einmal versunkener Ort bleibt versunken.
-2. Vor der Schliessung steht der Pegel praktisch still (Stufe A).
+2. Vor der Schliessung steht der Pegel praktisch still (Stufe A). **Praezisiert
+   nach dem Schreiben:** "still" heisst nicht "unbewegt". Ab Tag 5 steigt es
+   sichtbar, **und der Text liefert den Grund selbst** -- Neles Satz *"Es kommt
+   von unten. Der Boden ist voll"* plus der Regen aus Tag 6. Deshalb ist das
+   Kirchendach schon an Tag 7 weg, einen Tag **vor** der Schliessung. Kein
+   Widerspruch, sondern der Countdown, der frueh anfaengt zu ticken.
 3. Die dramatische Kurve: lange Stufe A (Erkunden), dann zuegig B -> E.
    **Das Finale gehoert auf die letzte noch trockene Stelle.**
 

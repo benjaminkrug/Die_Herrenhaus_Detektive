@@ -358,72 +358,45 @@ mit der sie aufgewachsen ist, falsch ist -- bevor das Wasser zurueckkommt.
 > Muss mit `Welt_und_Figuren.md` Abschnitt 6 uebereinstimmen. Bei jeder Aenderung
 > an einem Kapitel hier gegenpruefen.
 
-> **KORRIGIERT beim Schreiben von Akt 1.** Erste Fassung wies Kap 3-5 alle dem
-> Tag 2 zu. **Falsch:** Kap 3 endet nachts (Jonas sieht den Turm), Kap 4 beginnt
-> "zwanzig vor sieben" -- dazwischen liegt eine Nacht. Da jede weitere
-> Kapitelkette ebenfalls sauber ist, verschiebt sich alles ab Kap 4 um einen Tag.
-> **Das Buch dauert 10 Tage, nicht 9.**
+> **ZWEIMAL KORRIGIERT.** (1) Beim Schreiben von Akt 1: Die erste Fassung wies
+> Kap 3-5 alle dem Tag 2 zu -- falsch, zwischen Kap 3 (endet nachts) und Kap 4
+> (beginnt "zwanzig vor sieben") liegt eine Nacht. (2) Beim Kontinuitaets-Abgleich
+> nach Fertigstellung: Die Planung legte **Kap 9 (Sz 2-5) und Kap 10 auf denselben
+> Tag** -- geschrieben wurden zwei (Kap 10 beginnt mit neuer Ankunft und *"Gestern
+> hatte sie in der Tuerluecke gestanden"*). **Das Buch dauert 11 Tage.**
 >
-> Die Wochentage sind dabei so gewaehlt, dass drei Dinge stimmen, die vorher
-> nicht stimmten: Der Brief kommt an einem **Postzustelltag**, Winter findet am
-> Montag ein **offenes Gemeindeamt**, und das Wasserwirtschaftsamt schliesst an
-> einem **Freitag**, nicht am Wochenende.
+> Sichtbar wurde es an den zwei Wochentagen im Text: Kap 3 sagte *"Sonntag"*,
+> Kap 15 sagt *"Samstag"* -- dazwischen liegen sieben Tageswechsel. Stimmig war
+> die hintere Haelfte (Schliessung Freitagabend, Winters *"Neun Tage"* = Tag 9,
+> Abreise Montag). **Korrigiert wurde deshalb der Anker vorne: Anreise Samstag.**
+>
+> Die Wochentage sind so gewaehlt, dass vier Dinge stimmen: Der Brief kommt an
+> einem **Werktag**, gefahren wird am **Samstag**, Winter findet am **Montag** ein
+> offenes Gemeindeamt, und das Wasserwirtschaftsamt schliesst an einem
+> **Freitag**. **Tag 3 ist ein Sonntag, an dem Winter nichts tun kann** -- deshalb
+> gehoert dieser Tag den Kindern allein.
 
 | Tag | Wochentag | Kapitel | Pegel | Was passiert mit dem Wasser |
 |:---:|:---------:|:-------:|:-----:|------------------------------|
-| 1 | **Samstag** | 1-2 | -- | Eichenhain. Hitze, seit Wochen kein Regen. **Brief kommt (Samstagspost)** |
-| 2 | **Sonntag** | 3 | A | Ankunft. **Aushang: Schliessung Freitag = in 5 Tagen.** Tiefstand. Nachts: Turmsilhouette |
-| 3 | Montag | 4-5 | A | Erster Gang ans Ufer. **Ab hier: noch 4 Tage.** Winter zur Gemeinde (Behoerden offen) |
-| 4 | Dienstag | 6-8, **9 (Szene 1)** | A | Tiefstand haelt. Tag endet an Neles Tuerblockade |
-| 5 | Mittwoch | **9 (Szene 2-4)**, 10 | A | Tiefstand haelt. Nachts erste Tropfen |
-| 6 | Donnerstag | 11-12 | A | Letzter Tag VOR der Schliessung. **Haetten sie hier den Osthang genommen, waere der Stein trocken gewesen** |
-| 7 | **Freitag** | 13 | A -> B | **1. Muehlen-Tag** (nichts gefunden). Abends: **Ablass geschlossen.** Ab jetzt steigt es |
-| 8 | Samstag | 14-15 | B -> C | **2. Muehlen-Tag** -> zwei Tage verloren. Muehle und Steg unter Wasser. Unterer Talgrund faellt weg |
-| 9 | Sonntag | 16-17 | C -> D | Nur noch ueber den Osthang. Gedenkstein steht im Wasser |
-| 10 | Montag | 18 | D | Nur noch per Boot. Abends ist Sternbach verschwunden |
-| +2 Wo. | -- | 19 | E | Eichenhain, **letzte Ferientage** (noch Sommer). See wieder voll |
+| 1 | **Freitag** | 1-2 | -- | Eichenhain. Hitze, seit drei Wochen kein Regen. **Brief kommt** |
+| 2 | **Samstag** | 3 | A | Ankunft. Wirt: *"Am Freitag ist der Spuk vorbei."* Aushang: **ab Freitag wird eingestaut = in 6 Tagen.** Nachts: Turmsilhouette |
+| 3 | **Sonntag** | 4-5 | A | Erster Gang ans Ufer. **Ab hier: noch 5 Tage.** **Winter kann nichts tun -- Sonntag.** Abends loest Mila "Sternbach" |
+| 4 | Montag | 6-8, **9 (Szene 1)** | A | Frau Ahrens, Osthang, vier Tuerschwellen. Winter faehrt zur Gemeinde (Behoerden offen). Tag endet an Neles Tuerblockade |
+| 5 | Dienstag | **9 (Szene 2-5)** | A | Zweiter Tag vor der Tuer. **Abends: die Schwelle ist feucht** |
+| 6 | Mittwoch | 10 | A | Waffenstillstand. **Pfuetze in der Tuerluecke.** Nachts erste Tropfen |
+| 7 | Donnerstag | 11-12 | A | Letzter voller Tag vor der Schliessung. **Kirchendach weg.** Die vier Mulden + das Andenken |
+| 8 | **Freitag** | 13 | A -> B | **1. Muehlen-Tag.** Bens Pfand-Erkenntnis. Abends: **Ablass geschlossen**, das Rauschen faellt weg |
+| 9 | Samstag | 14-15 | B -> C | **2. Muehlen-Tag** -> zwei Tage verloren. Muehle und Steg unter Wasser. Neles Gestaendnis. **Nur noch der Osthang** |
+| 10 | Sonntag | 16-17 | C -> D | Friedhof, dann der Gedenkstein -- er steht schon im Wasser |
+| 11 | Montag | 18 | D | Abreisetag. Nur noch per Boot. Abends ist Sternbach verschwunden |
+| +2 Wo. | -- | 19 | E | Eichenhain, **letzte Ferienwoche**. See wieder fast normal |
 
-**Countdown-Kontrolle (im Text nachgezaehlt):** Sonntag "fuenf Tage" (Kap 3),
-Montag "vier Tage" (Kap 4). **Der Countdown faellt zwischen den Kapiteln, ohne
-dass jemand darauf hinweist** -- der Leser merkt es selbst.
-
-### BEFUND aus dem Schluss-Abgleich (Kontinuitaets-Tracker) -- OFFEN
-
-Die Tabelle oben ist der **Planstand**. Der geschriebene Text weicht an genau
-einer Stelle ab: Zeile "Tag 5" legt **Kap 9 (Sz 2-4) und Kap 10 auf denselben
-Tag**. Geschrieben wurden zwei Tage -- Kap 9 endet mit dem Heimweg am Abend,
-Kap 10 beginnt mit einer neuen Ankunft und *"Gestern hatte sie in der Tuerluecke
-gestanden"*. **Das Buch dauert 11 Tage, nicht 10.**
-
-Damit stimmt der Wochentag in **Kap 3** nicht mehr: Zwischen *"Heute war Sonntag"*
-(Kap 3) und *"Heute war Samstag"* (Kap 15) liegen im Text sieben Tageswechsel --
-Sonntag + 7 = Sonntag.
-
-**Alles ab Kap 4 ist untereinander stimmig** und braucht keine Aenderung:
-Winters *"Neun Tage"* (Kap 14) trifft Tag 9 exakt, die Schliessung faellt auf
-Freitagabend, Kap 15 zaehlt korrekt *"Samstag. Sonntag. Montag."* bis zur
-Abreise. **Falsch ist nur der Anker am Anfang.**
-
-**Loesungsvorschlag (4 kleine Eingriffe, alle in Kap 3 + 4):**
-
-| Tag | **NEU** | Kapitel | Warum es besser wird |
-|:---:|:-------:|:-------:|----------------------|
-| 1 | **Freitag** | 1-2 | Brief kommt an einem **Werktag** (statt Samstagspost) |
-| 2 | **Samstag** | 3 | Anreise am Samstag -- der natuerliche Reisetag |
-| 3 | **Sonntag** | 4-5 | **Winter kann nichts tun, alle Aemter zu.** Deshalb gehen die Kinder allein ans Ufer -- besser motiviert als bisher |
-| 4 | Montag | 6-8, 9 (Sz 1) | Winter zur Gemeinde, Behoerden offen |
-| 5 | Dienstag | 9 (Sz 2-5) | |
-| 6 | Mittwoch | 10 | |
-| 7 | Donnerstag | 11-12 | |
-| 8 | **Freitag** | 13 | Schliessung am Freitagabend -- unveraendert |
-| 9 | Samstag | 14-15 | *"Heute war Samstag"* -- unveraendert |
-| 10 | Sonntag | 16-17 | |
-| 11 | Montag | 18 | Abreise -- unveraendert |
-
-Noetige Textaenderungen: Kap 3 *"Heute war Sonntag"* -> *Samstag*; Kap 3
-*"Fuenf Tage"* / *"Fuenf Tage bis Freitag"* -> *Sechs*; Kap 3 Winters
-Ankuendigung (er kann am Sonntag zu keiner Gemeinde); Kap 4 *"Wir haben vier
-Tage"* -> *fuenf*. **Noch nicht eingebaut -- wartet auf Freigabe.**
+**Countdown-Kontrolle (im Text nachgezaehlt):** Samstag "sechs Tage" (Kap 3),
+Sonntag "fuenf Tage" (Kap 4), Montagabend "in vier Tagen" (Kap 9), Samstag
+"seit einer Woche hier" + "Samstag. Sonntag. Montag. Zwei Tage." (Kap 15),
+und Winters "Neun Tage" (Kap 14) trifft Tag 9 exakt. **Der Countdown faellt
+zwischen den Kapiteln, ohne dass jemand darauf hinweist** -- der Leser merkt es
+selbst.
 
 **Warum das Dorf in 3 Tagen weg ist, der See aber 2 Wochen braucht:** Der
 Talgrund ist flach und breit -- er laeuft schnell voll. Die letzten Meter bis
@@ -481,14 +454,14 @@ Seebruck. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen -- und
 verstummt, als Winter ihn nennt. *Winter.* Der Name selbst ist hier das Problem.
 Winter merkt es und sagt nichts dazu.
 **Der Countdown -- die Kinder holen ihn sich selbst:** Der Wirt laesst nur eine
-saeuerliche Bemerkung fallen ("in vier Tagen ist der Spuk sowieso vorbei") --
+saeuerliche Bemerkung fallen ("am Freitag ist der Spuk sowieso vorbei") --
 und auf die Nachfrage nur ein Schulterzucken: **"Da geht keiner hin."** Die
 drei lesen die Bekanntmachung am **Anschlagbrett im Gastraum** selbst: Ende der
 Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** (Kanon:
 Band 3 Kap 5 -- er kennt Wehre vom Bach seiner Oma), halb richtig; Winter
 bestaetigt und ergaenzt einen Satz. **DIE UHR LAEUFT AB HIER.**
 **MINI-ENTSCHEIDUNG:** Abends beschliessen sie, nicht auf Winters Gemeindegang
-zu warten, sondern morgen frueh allein ans Ufer zu gehen.
+am Montag zu warten, sondern morgen frueh allein ans Ufer zu gehen.
 Am Fenster: etwas Dunkles, Spitzes ragt weit draussen aus dem Wasser.
 **Noch KEIN Messpunkt** -- hier nur die Silhouette. Die Erzaehlung darf das Wort
 "Kirchturm" nicht vor Ben sagen (siehe Fix A2).
@@ -669,7 +642,7 @@ Milas schwerster Moment -- jemandem vertrauen, der schneller ist als sie;
 sie ins fuenfte Haus.
 Zwei Tage bis zur Schliessung.
 **WINTER, ein Satz (Fix Befund F):** Abends am Gasthof kommt er spaet zurueck --
-Gemeindearchiv, Kirchenbuecher. **Nichts.** Er sucht seit Tag 3 nach dem Wort
+Gemeindearchiv, Kirchenbuecher. **Nichts.** Er sucht seit Tag 4 nach dem Wort
 *Sternbach* in Papieren; **die Kinder haben ihm den Namen geliefert** (Kap 5).
 Etabliert das Muster, damit die Szene in Kap 14 nicht aus dem Nichts kommt.
 > **Cliffhanger:** Nachts ein Geraeusch am Fenster -- die ersten Regentropfen

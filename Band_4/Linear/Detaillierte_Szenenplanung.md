@@ -189,7 +189,7 @@ Verlaengert wird nur, wo etwas fehlt.
 ## AKT 1 -- DER RUF (Kapitel 1-5)
 
 ### Kapitel 1 -- Der Brief
-**Tag 1 (Sa) | Eichenhain | Pegel -- | Ziel: ~1.210 Woerter | 3 Szenen**
+**Tag 1 (Fr) | Eichenhain | Pegel -- | Ziel: ~1.210 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -245,7 +245,7 @@ Leseprobe beginnt.
 ------------------------------------------------------------------------
 
 ### Kapitel 2 -- Der Mann, der vierzig Jahre gesucht hat
-**Tag 1 (Sa) | Herrenhaus | Ziel: ~1.000 Woerter | 2 Szenen**
+**Tag 1 (Fr) | Herrenhaus | Ziel: ~1.000 Woerter | 2 Szenen**
 
 *(Bewusst kurz und bewusst nur zwei Szenen: Das Kapitel ist EIN Gespraech.
 Es zerhacken hiesse, ihm die Wucht nehmen.)*
@@ -290,7 +290,7 @@ Es zerhacken hiesse, ihm die Wucht nehmen.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 3 -- Der Graue See
-**Tag 2 (So) | Ankunft, Seebruck | Pegel A | Ziel: ~1.550 Woerter | 3 Szenen**
+**Tag 2 (Sa) | Ankunft, Seebruck | Pegel A | Ziel: ~1.550 Woerter | 3 Szenen**
 *(**Dokumentierte Ausnahme, Autor-Entscheidung:** Dieses Kapitel darf das Fenster
 900-1.500 minimal ueberschreiten. **Harte Grenze 1.550** -- "minimal nach oben"
 darf beim Schreiben nicht zu 1.700 werden. Begruendung: Kap 3 traegt Ankunft,
@@ -305,8 +305,8 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 | # | Ort | Was passiert |
 |---|-----|--------------|
 | 1 | Auto, letzte Kurve vor dem Tal | **Kurz halten -- 10-15 Zeilen.** Nicht die Fahrt erzaehlen, sondern nur den Moment, in dem das Tal aufgeht. Der See ist grau und **viel zu klein fuer sein Ufer**: ein breiter, heller Schlammrand rundherum, wie ein zu weiter Kragen. Ben: "Ist der kaputt?" |
-| 2 | Gasthof in Seebruck | Ankunft, Zimmer, Essen. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen fuers Gaestebuch -- und verstummt, als Winter ihn nennt. *Winter.* Er schreibt ihn auf, sagt nichts, geht. **Der Countdown -- aber die Kinder holen ihn sich selbst:** Der Wirt macht nur eine saeuerliche Bemerkung im Weggehen (*"In vier Tagen ist der Spuk sowieso vorbei."*). **BELEG 1 fuer "warum ist da niemand":** Auf die Nachfrage, ob man da hinuntergehen koenne, nur ein Schulterzucken -- **"Da geht keiner hin."** Keine Erklaerung, kein Grund. Der Ton macht klar: **nicht weil es verboten waere, sondern weil es niemand will.** Die drei gehen zum **Anschlagbrett im Gastraum** und lesen die Bekanntmachung selbst: Ende der Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** -- er kennt es vom Bach seiner Oma (Kanon: Band 3, Kap 5, dort erklaert er das Wehr). Er bekommt es **halb richtig** hin; Winter bestaetigt und korrigiert ein Detail. **DIE UHR LAEUFT AB HIER.** |
-| 3 | Zimmer + Fenster, Abend | **MINI-ENTSCHEIDUNG (neu):** Winter will am naechsten Morgen zur Gemeinde -- Genehmigungen, Pegeltermine, alles ordentlich -- und schlaegt vor, die drei kommen mit. Sie rechnen nach: **vier Tage.** Und beschliessen, **nicht zu warten**. Morgen frueh allein ans Ufer. *(Sie sagen es Winter nicht als Widerspruch -- sie stehen einfach frueher auf. Kein Streit, eine Entscheidung.)* Danach: Jonas kann nicht schlafen und sieht hinaus. Weit draussen, wo Wasser sein muesste, ragt **etwas Dunkles, Spitzes** heraus. Er holt die anderen. **Die Erzaehlung sagt NICHT "Kirchturm"** (Fix A2). |
+| 2 | Gasthof in Seebruck | Ankunft, Zimmer, Essen. **WINTERS BOGEN, Saat:** Der Wirt fragt nach dem Namen fuers Gaestebuch -- und verstummt, als Winter ihn nennt. *Winter.* Er schreibt ihn auf, sagt nichts, geht. **Der Countdown -- aber die Kinder holen ihn sich selbst:** Der Wirt macht nur eine saeuerliche Bemerkung im Weggehen (*"Am Freitag ist der Spuk sowieso vorbei."*). **BELEG 1 fuer "warum ist da niemand":** Auf die Nachfrage, ob man da hinuntergehen koenne, nur ein Schulterzucken -- **"Da geht keiner hin."** Keine Erklaerung, kein Grund. Der Ton macht klar: **nicht weil es verboten waere, sondern weil es niemand will.** Die drei gehen zum **Anschlagbrett im Gastraum** und lesen die Bekanntmachung selbst: Ende der Revision, Schliessung des Ablasses. **BEN erklaert, was ein Ablass ist** -- er kennt es vom Bach seiner Oma (Kanon: Band 3, Kap 5, dort erklaert er das Wehr). Er bekommt es **halb richtig** hin; Winter bestaetigt und korrigiert ein Detail. **DIE UHR LAEUFT AB HIER.** |
+| 3 | Zimmer + Fenster, Abend | **MINI-ENTSCHEIDUNG (neu):** Winter will **am Montag** zur Gemeinde -- morgen ist Sonntag, da geht nichts -- und schlaegt vor, die drei kommen mit. Sie rechnen nach: **sechs Tage.** Und beschliessen, **nicht zu warten**. Morgen frueh allein ans Ufer. *(Sie sagen es Winter nicht als Widerspruch -- sie stehen einfach frueher auf. Kein Streit, eine Entscheidung.)* Danach: Jonas kann nicht schlafen und sieht hinaus. Weit draussen, wo Wasser sein muesste, ragt **etwas Dunkles, Spitzes** heraus. Er holt die anderen. **Die Erzaehlung sagt NICHT "Kirchturm"** (Fix A2). |
 
 > **Cliffhanger:** Ben, mit dem Fernglas: *"Leute. Das ist ein Kirchturm."*
 
@@ -320,7 +320,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
   Gemeinde", der Erwachsene war also **zufaellig** beschaeftigt, wenn die Kinder
   allein losziehen sollten. Jetzt ist seine Abwesenheit **ihre Entscheidung**.
   Damit wird die Regel "Winter ermittelt nicht" von einer Behauptung zu einer
-  Handlung, und die vier Tage bekommen sofort eine Folge statt nur Information
+  Handlung, und der Countdown bekommt sofort eine Folge statt nur Information
   zu sein.
 - **Wachpunkt Erzaehlperspektive:** Ab hier darf der Erzaehler nie mehr wissen
   als Jonas. Das Wort "Kirchturm" faellt zuerst bei Ben.
@@ -343,7 +343,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 4 -- Die erste Regel am See
-**Tag 3 (Mo) | Ufer + Ruinenrand | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
+**Tag 3 (So) | Ufer + Ruinenrand | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -378,7 +378,7 @@ Zeilen, und Aushang + Wirt werden EINE Szene statt zweier Schauplaetze.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 5 -- Drei Wellen und ein Stern
-**Tag 3 (Mo), Abend | Gasthof | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+**Tag 3 (So), Abend | Gasthof | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 *(Wirkte in der Outline ueberladen -- war es aber nicht. **Verdacht und
 Pfand-Keim gehoeren in DIESELBE Szene:** Der Keim soll laut Outline 0.9
@@ -432,8 +432,8 @@ in drei Szenen.)*
 | 1 | 1.210 | 3 | 1 | -- |
 | 2 | 1.000 | 2 | 1 | -- |
 | 3 | **1.550** | 3 | 2 | A |
-| 4 | 1.250 | 3 | 2 | A |
-| 5 | 1.350 | 3 | 2 | A |
+| 4 | 1.250 | 3 | 3 | A |
+| 5 | 1.350 | 3 | 3 | A |
 
 - **Summe Akt 1: ~6.360 Woerter** (~28 % des Buchs bei 5 von 19 Kapiteln --
   passt, Akt 1 ist der kuerzeste)
@@ -509,7 +509,7 @@ arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
 ------------------------------------------------------------------------
 
 ### Kapitel 6 -- Die Frau, die die Geschichte huetet
-**Tag 4 (Di) | Seebruck | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+**Tag 4 (Mo) | Seebruck | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -542,7 +542,7 @@ arbeite mit dem Maedchen zusammen, das mein Dorf beschimpft hat."*
 ------------------------------------------------------------------------
 
 ### Kapitel 7 -- Der Weg ueber den Hang
-**Tag 4 (Di) | Osthang + Talgrund | Pegel A | Ziel: ~1.130 Woerter | 2 Szenen**
+**Tag 4 (Mo) | Osthang + Talgrund | Pegel A | Ziel: ~1.130 Woerter | 2 Szenen**
 
 *(Nur zwei Szenen: Das Kapitel ist EIN Vorgang -- hinunter und hinein.
 Zerhacken wuerde den Sog nehmen.)*
@@ -577,7 +577,7 @@ Zerhacken wuerde den Sog nehmen.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 8 -- Vier Haeuser
-**Tag 4 (Di) | Sternbach | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
+**Tag 4 (Mo) | Sternbach | Pegel A | Ziel: ~1.250 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -600,8 +600,8 @@ Zerhacken wuerde den Sog nehmen.)*
 
 **FIX BEFUND A -- warum Nele den Tag beendet (und nicht die Daemmerung):**
 
-*Das Problem:* Sie finden das fuenfte Haus an Tag 3, gehen nach Hause und kommen
-erst an Tag 4 wieder -- bei laufendem Countdown, ohne dass sie etwas aufhaelt.
+*Das Problem:* Sie finden das fuenfte Haus an Tag 4, gehen nach Hause und kommen
+erst an Tag 5 wieder -- bei laufendem Countdown, ohne dass sie etwas aufhaelt.
 **Dieselbe Luecke, die B9 in Kap 9 geschlossen hat.**
 
 *Zwei verworfene Loesungen:*
@@ -610,8 +610,8 @@ erst an Tag 4 wieder -- bei laufendem Countdown, ohne dass sie etwas aufhaelt.
    Das geht nur, wenn sie am Vorabend dabei war. Daemmerung haette eine zweite
    Luecke aufgerissen. Ausserdem waere das Kapitel mit einer *Verhinderung*
    geendet -- schwacher Abgang fuer den groessten Fund des Akts.
-2. **Kap 8 auf Tag 4 verschieben.** Verworfen: Dann traegt Tag 4 drei Kapitel
-   und Tag 3 nur zwei -- eine Ungleichheit gegen eine andere getauscht. Und es
+2. **Kap 8 auf Tag 5 verschieben.** Verworfen: Dann traegt Tag 5 drei Kapitel
+   und Tag 4 nur zwei -- eine Ungleichheit gegen eine andere getauscht. Und es
    haette die Zeitleiste (`Story_Outline.md` 2b) geaendert, also ausgerechnet
    das Dokument, das die Autoritaet fuer alle Tagesangaben ist.
 
@@ -621,8 +621,8 @@ erst an Tag 4 wieder -- bei laufendem Countdown, ohne dass sie etwas aufhaelt.
   die wiederkommen -- sie hat sie am Vorabend weggeschickt.
 - **Der Cliffhanger wird staerker:** Bens *"Das ist ihr Haus"* wird nicht
   erklaert, sondern beantwortet. Bild statt Erlaeuterung.
-- **Der Akt bekommt Form:** Nele blockiert die Tuer **zweimal** -- Tag 3 als
-  Fremde, Tag 4 als jemand, mit der sie schon geredet haben. Beim zweiten Mal
+- **Der Akt bekommt Form:** Nele blockiert die Tuer **zweimal** -- Tag 4 als
+  Fremde, Tag 5 als jemand, mit der sie schon geredet haben. Beim zweiten Mal
   ist es keine Abwehr mehr, sondern ein Ringen.
 
 *Warum sie ueberhaupt dort ist:* **Sie ist ihnen gefolgt**, seit sie bei ihrer
@@ -639,21 +639,21 @@ spaeter reagierte.
 ------------------------------------------------------------------------
 
 ### Kapitel 9 -- Die, die geblieben ist
-**Tag 4 (Di, Rest) + Tag 5 (Mi) | Sternbach | Pegel A | Ziel: ~1.450 Woerter | 4 Szenen**
+**Tag 4 (Mo, Rest) + Tag 5 (Di) | Sternbach | Pegel A | Ziel: ~1.450 Woerter | 4 Szenen**
 
 *(Vier Szenen und das laengste Kapitel des Akts -- hier laeuft am meisten
 zusammen: zwei Tuerblockaden, Konfrontation, Bens Herzmoment, Vorzeichen 1.)*
 
 > **Das Kapitel ueberspannt den Tageswechsel** (Fix Befund A). Szene 1 setzt
-> Kap 8 nahtlos fort und beendet Tag 3 an der Tuer; Szene 2 beginnt Tag 4.
+> Kap 8 nahtlos fort und beendet Tag 4 an der Tuer; Szene 2 beginnt Tag 5.
 > **Der Zeitsprung liegt INNERHALB des Kapitels, nicht zwischen zwei Kapiteln** --
 > so bleibt die Regel "kein Zeitsprung zwischen Cliffhanger und Aufloesung"
 > gewahrt.
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Vor dem fuenften Haus, Tag 3, direkt weiter | **LOEST DEN CLIFFHANGER SOFORT:** Kein Zeitsprung -- die Szene laeuft weiter, wo Kap 8 aufhoerte. Sie versuchen es im Guten, sie versuchen es mit Argumenten (das Wasser kommt, wir haben zwei Tage). **Nele bleibt stehen.** Am Ende gehen sie -- an ihr vorbei kommen sie nicht, und schieben wollen sie sie nicht. **Der Tag endet an dieser Tuer.** |
-| 2 | Tag 4, frueher Morgen, dasselbe Haus | **Sie ist schon da** -- sie wusste, dass die wiederkommen. Sitzt am Rand, sieht zu, waehrend sie in den umliegenden Ruinen arbeiten. **Sie ruehrt sich nicht.** Die Ruinen sind ihr gleichgueltig. **Nur die Tuer nicht** -- sobald sich jemand ihr naehert, steht sie auf. **Zweite Blockade, anderer Ton:** keine Fremde mehr, sondern jemand, mit der sie schon geredet haben. |
+| 1 | Vor dem fuenften Haus, Tag 4, direkt weiter | **LOEST DEN CLIFFHANGER SOFORT:** Kein Zeitsprung -- die Szene laeuft weiter, wo Kap 8 aufhoerte. Sie versuchen es im Guten, sie versuchen es mit Argumenten (das Wasser kommt, wir haben zwei Tage). **Nele bleibt stehen.** Am Ende gehen sie -- an ihr vorbei kommen sie nicht, und schieben wollen sie sie nicht. **Der Tag endet an dieser Tuer.** |
+| 2 | Tag 5, frueher Morgen, dasselbe Haus | **Sie ist schon da** -- sie wusste, dass die wiederkommen. Sitzt am Rand, sieht zu, waehrend sie in den umliegenden Ruinen arbeiten. **Sie ruehrt sich nicht.** Die Ruinen sind ihr gleichgueltig. **Nur die Tuer nicht** -- sobald sich jemand ihr naehert, steht sie auf. **Zweite Blockade, anderer Ton:** keine Fremde mehr, sondern jemand, mit der sie schon geredet haben. |
 | 3 | Ebenda, Konfrontation | Schlagabtausch **Mila gegen Nele** -- zwei, die beide nicht nachgeben. **Mila stellt die Frage direkt:** "Hast du uns den Brief geschrieben?" **Nele antwortet nicht.** Sie weicht aus: *"Denkt doch, was ihr wollt."* **Sie luegt nicht** -- sie schweigt. |
 | 4 | Etwas abseits | **BENS HERZMOMENT:** Waehrend die anderen sich festbeissen, setzt Ben sich einfach neben sie und **redet mit ihr** -- ueber irgendetwas Belangloses. Sie antwortet knapp. **VORZEICHEN 1:** Dabei weiss sie beilaeufig, dass die Grabsteine oben auf dem Friedhof noch lesbar sind. Sie war also schon am Osthang. **Niemand hakt nach.** **AM ENDE, beim Aufbrechen (Fix Befund C, Teil 1):** Jonas sieht, dass die **Tuerschwelle des fuenften Hauses feucht** ist. Am Morgen war sie trocken. **Ein Satz, keine Erklaerung, niemand kommentiert es.** |
 
@@ -663,8 +663,8 @@ zusammen: zwei Tuerblockaden, Konfrontation, Bens Herzmoment, Vorzeichen 1.)*
 **Pruefzeilen:**
 - Loest Kap-8-Cliffhanger: ja, Szene 1, **ohne jeden Zeitsprung** -- die Szene
   laeuft weiter, wo Kap 8 aufhoert (das war Fix B9 + Befund A)
-- **Zwei Blockaden, unterschiedlicher Ton:** Tag 3 als Fremde (Szene 1),
-  Tag 4 als jemand, mit der sie schon geredet haben (Szene 2). Beim zweiten Mal
+- **Zwei Blockaden, unterschiedlicher Ton:** Tag 4 als Fremde (Szene 1),
+  Tag 5 als jemand, mit der sie schon geredet haben (Szene 2). Beim zweiten Mal
   ist es Ringen, nicht Abwehr.
 - Mini-Entscheidung: nicht gegen sie durchdruecken, obwohl sie zu dritt sind
 - Ben-Moment: der Herzmoment (Szene 4) -- **sein wichtigster in Akt 2**
@@ -678,7 +678,7 @@ zusammen: zwei Tuerblockaden, Konfrontation, Bens Herzmoment, Vorzeichen 1.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 10 -- Waffenstillstand
-**Tag 5 (Mi) | Sternbach | Pegel A | Ziel: ~1.060 Woerter | 2 Szenen**
+**Tag 6 (Mi) | Sternbach | Pegel A | Ziel: ~1.060 Woerter | 2 Szenen**
 
 *(Kurz und zweiszenig: ein einziges Gespraech, das kippt. Danach die Nacht.)*
 
@@ -760,7 +760,7 @@ laeuft und in Akt 2 bisher nur als Zahl vorkam:
 
 | Wann | Was man sieht |
 |------|---------------|
-| Kap 9, Ende Tag 4 | Die Tuerschwelle ist **feucht**. Morgens war sie trocken |
+| Kap 9, Ende Tag 5 | Die Tuerschwelle ist **feucht**. Morgens war sie trocken |
 | Kap 10, morgens | Die Schwelle **steht im Wasser** |
 
 > **Nele gibt nicht nach, weil man sie ueberredet hat. Sie gibt nach, weil das
@@ -775,7 +775,7 @@ Information und einem Treffer. Zugleich bekommt Tracker-Eintrag 13 damit
 endlich Kapitel: Er stand bisher mit dem Vermerk "sonst ist es ein totes Setup".
 
 *Geprueft, kollidiert nicht:* **Pegelstufe bleibt A.** Das Wehr schliesst erst
-an Tag 6 -- aber A ist der TIEFSTAND, kein Stillstand: Die Zufluesse laufen
+an Tag 8 -- aber A ist der TIEFSTAND, kein Stillstand: Die Zufluesse laufen
 weiter. Ein feuchter Rand an einer Schwelle ist keine Pegelstufe. Der
 Regen-Cliffhanger derselben Nacht bestaetigt es sogar. **Die Zeitleiste wird
 nicht angefasst.**
@@ -788,15 +788,15 @@ nicht angefasst.**
 
 | Kapitel | Woerter | Szenen | Tag | Pegel |
 |:-------:|:-------:|:------:|:---:|:-----:|
-| 6 | 1.350 | 3 | 3 | A |
-| 7 | 1.130 | 2 | 3 | A |
-| 8 | 1.250 | 3 | 3 | A |
-| 9 | 1.450 | 4 | **3-4** | A |
-| 10 | 1.060 | 2 | 4 | A |
+| 6 | 1.350 | 3 | 4 | A |
+| 7 | 1.130 | 2 | 4 | A |
+| 8 | 1.250 | 3 | 4 | A |
+| 9 | 1.450 | 4 | **4-5** | A |
+| 10 | 1.060 | 2 | 6 | A |
 
 - **Summe Akt 2: ~6.240 Woerter** (Akt 1: ~6.360 -- gleichmaessig)
 - Szenenzahl 2/3/4 gemischt, Wortzahl 1.000-1.450 -- kein Formular
-- Tag/Pegel stimmen mit `Story_Outline.md` 2b ueberein (Tag 3-4, durchgehend A)
+- Tag/Pegel stimmen mit `Story_Outline.md` 2b ueberein (Tag 4-6, durchgehend A)
 - **Jedes Kapitel hat eine Mini-Entscheidung** (in Kap 6 ein Verzicht)
 - **Jedes Kapitel hat einen Ben-Moment**, Kap 9 seinen wichtigsten
 - **Mila traegt vier von fuenf Kapiteln** mit -- Befund aus Akt 1 behoben
@@ -845,7 +845,7 @@ an gemein".
 Nur Bens Erkenntnis + die Gegenrede der Grossmutter, also zwei Gespraechsszenen
 in Folge nach dem Gespraechskapitel 12.
 
-*Loesung:* Der erste Muehlentag (Tag 6, laut Zeitleiste ohnehin dort) wird
+*Loesung:* Der erste Muehlentag (Tag 8, laut Zeitleiste ohnehin dort) wird
 **gezeigt**, nicht erwaehnt. Bens Erkenntnis kommt IM Schlamm, waehrend sie
 etwas Sinnloses tun -- nicht am Tisch. Und der Kapitelschluss ist ein Geraeusch,
 das wegfaellt.
@@ -853,7 +853,7 @@ das wegfaellt.
 ------------------------------------------------------------------------
 
 ### Kapitel 11 -- Das fuenfte Haus
-**Tag 6 (Do) | Sternbach | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
+**Tag 7 (Do) | Sternbach | Pegel A | Ziel: ~1.350 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -880,7 +880,7 @@ das wegfaellt.
 ------------------------------------------------------------------------
 
 ### Kapitel 12 -- Das Andenken
-**Tag 6 (Do), Abend | Haus der Ahrens | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
+**Tag 7 (Do), Abend | Haus der Ahrens | Pegel A | Ziel: ~1.300 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -907,7 +907,7 @@ das wegfaellt.
 ------------------------------------------------------------------------
 
 ### Kapitel 13 -- Was ein Pfand ist
-**Tag 7 (Fr) | Muehle + Haus der Ahrens | Pegel A -> B | Ziel: ~1.500 Woerter | 3 Szenen**
+**Tag 8 (Fr) | Muehle + Haus der Ahrens | Pegel A -> B | Ziel: ~1.500 Woerter | 3 Szenen**
 
 *(Fix Problem 2: Der erste Muehlentag wird GEZEIGT. Bens Erkenntnis kommt im
 Schlamm, nicht am Tisch.)*
@@ -975,7 +975,7 @@ sein: **Er ist der physische Beweis, dass es ein Versprechen gab.**
 ------------------------------------------------------------------------
 
 ### Kapitel 14 -- Die Muehle
-**Tag 8 (Sa) | Muehle | Pegel B | Ziel: ~1.000-1.150 Woerter | 3 Szenen**
+**Tag 9 (Sa) | Muehle | Pegel B | Ziel: ~1.000-1.150 Woerter | 3 Szenen**
 
 > **KURZ HALTEN.** Ein Tag, der nichts bringt, darf sich nicht ausbreiten.
 > Im Zweifel Richtung 1.000 gehen, nicht auffuellen (Autor-Vorgabe).
@@ -984,7 +984,7 @@ sein: **Er ist der physische Beweis, dass es ein Versprechen gab.**
 |---|-----|--------------|
 | 1a | Gasthof, Fruehstueck | **WINTERS SZENE (Fix Befund F) -- sie ERSETZT die Ankunftsbeschreibung, sie addiert nicht.** Er bestaetigt amtlich, was sie nachts gehoert haben: Ablass zu. **Reine Verwaltungsauskunft.** Dann fragt er, wie es laeuft -- Ben setzt an, **Jonas sagt "gut"**. Und er selbst: **neun Tage Archiv, kein einziges Blatt.** *(Netto ~+40 Woerter, nicht +100.)* |
 | 1b | An der Muehle, morgens | **Man sieht es jetzt.** Der Steg ist weg, die Muehle steht knoecheltief. **DIE AUFTEILUNG (Fix Befund E):** Jonas ordnet an, sich zu trennen -- *"Sonst schaffen wir das nie."* **Vier Kinder, vier Abschnitte:** Bach (Mila), Rad (Ben), Mauer (Nele), Speicher (Jonas -- **der entfernteste**, damit er auf dem Rueckweg an allen anderen vorbeikommt). **Nele bekommt ihren Abschnitt zugewiesen, sie waehlt ihn nicht** -- sonst haette sie sich den nutzlosesten genommen, und das waere Berechnung statt Angst. |
-| 2 | Die einzelnen Abschnitte | **Andere Taetigkeit als Tag 6:** Gestern gruben sie im Schlamm, heute steht alles knoecheltief -- **man sucht mit Haenden und Fuessen und sieht nichts.** **BENS STOCK, Stufe 2 (Fix Befund E):** Er tastet den Grund ab, wie Holzer es im Wald machte (Kap 4). *Tock. Tock.* **Die Technik funktioniert -- und findet nichts.** **NELE FRAGT, was er da tut** (wichtig: dadurch weiss sie in Kap 17, dass Ben das kann, und kann ihn dort dazu auffordern). **MESSPUNKT 3 (als Witz, der kippt):** Ben albert ueber den Turm -- *"der schrumpft ja"* -- und **hoert mitten im Satz selbst auf.** Der Turm steht nur noch bis zum Schallfenster. Es ist ploetzlich nicht mehr lustig. |
+| 2 | Die einzelnen Abschnitte | **Andere Taetigkeit als Tag 8:** Gestern gruben sie im Schlamm, heute steht alles knoecheltief -- **man sucht mit Haenden und Fuessen und sieht nichts.** **BENS STOCK, Stufe 2 (Fix Befund E):** Er tastet den Grund ab, wie Holzer es im Wald machte (Kap 4). *Tock. Tock.* **Die Technik funktioniert -- und findet nichts.** **NELE FRAGT, was er da tut** (wichtig: dadurch weiss sie in Kap 17, dass Ben das kann, und kann ihn dort dazu auffordern). **MESSPUNKT 3 (als Witz, der kippt):** Ben albert ueber den Turm -- *"der schrumpft ja"* -- und **hoert mitten im Satz selbst auf.** Der Turm steht nur noch bis zum Schallfenster. Es ist ploetzlich nicht mehr lustig. |
 | 3 | Rueckweg ueber die Abschnitte | **STUFE 3 -- und jetzt ist sie SICHTBAR:** Jonas kommt an den Abschnitten der anderen vorbei. Bei Mila liegen umgedrehte Steine, bei Ben zieht sich eine Spur aus Stockloechern durch den Schlamm. **Dann Neles Abschnitt: glatt. Kein Loch, kein Stein, kein Fussabdruck.** Er rechnet zurueck: das Haus (11), der Osthang (12), jetzt hier. **Dreimal dasselbe Muster.** |
 
 > **Cliffhanger:** Jonas, ruhig: *"Du wolltest gar nicht, dass wir hier suchen.
@@ -1011,7 +1011,7 @@ nichts von Wert liegt. Kinder, die dort etwas "retten", fuehren eine erfundene
 Beschaeftigung aus -- genau das Fuellmaterial, das `PLAN_Band4.md` Abschnitt 4
 verbietet. **Die Idee war nach Stimmung gewaehlt, nicht nach Logik.**
 
-*Die Loesung -- drei Unterschiede zu Tag 6:*
+*Die Loesung -- drei Unterschiede zu Tag 8:*
 1. **Sie teilen sich auf** (natuerliche Reaktion auf Zeitdruck)
 2. **Die Suche ist eine andere** (knoecheltief statt Schlamm: tasten statt sehen)
 3. **Neles Untaetigkeit wird MESSBAR** statt nur bemerkt
@@ -1057,7 +1057,7 @@ nichts** -- der Name wurde nach der Flut getilgt (Kanon, `Author_Info.md`).
   Muehle. Zwei Sorten Vergeblichkeit am selben Tag.
 - **Es bereitet Kap 18 vor:** Die Archive gaben ihm nichts. Seinen Namen bekommt
   er von einem **Menschen** zurueck.
-- **Timing geprueft:** Er kann erst ab Tag 3 suchen -- die Kinder loesen das
+- **Timing geprueft:** Er kann erst ab Tag 4 suchen -- die Kinder loesen das
   Symbol erst in Kap 5. **Sie liefern ihm den Suchbegriff**, nicht umgekehrt.
 - **Kanon-Deckung:** "Verwaltung, Archiv, Pegeltermine" stand bereits in
   `Author_Info.md` und `PLAN_Band4.md`. Dies ist eine **Praezisierung, keine
@@ -1079,7 +1079,7 @@ vollstaendig -- und mit dem Archiv-Motiv wird sie bitter statt bloss traurig.
 ------------------------------------------------------------------------
 
 ### Kapitel 15 -- Was Nele wusste
-**Tag 8 (Sa) | Muehle / Ufer | Pegel B -> C | Ziel: ~1.250 Woerter | 3 Szenen**
+**Tag 9 (Sa) | Muehle / Ufer | Pegel B -> C | Ziel: ~1.250 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -1160,11 +1160,11 @@ Ueberlegung.
 
 | Kapitel | Woerter | Szenen | Tag | Pegel |
 |:-------:|:-------:|:------:|:---:|:-----:|
-| 11 | 1.350 | 3 | 5 | A |
-| 12 | 1.300 | 3 | 5 | A |
-| 13 | 1.500 | 3 | 6 | A -> B |
-| 14 | **1.000-1.150** | 3 | 7 | B |
-| 15 | 1.250 | 3 | 7 | B -> C |
+| 11 | 1.350 | 3 | 7 | A |
+| 12 | 1.300 | 3 | 7 | A |
+| 13 | 1.500 | 3 | 8 | A -> B |
+| 14 | **1.000-1.150** | 3 | 9 | B |
+| 15 | 1.250 | 3 | 9 | B -> C |
 
 - **Summe Akt 3: ~6.550 Woerter** (Akt 1: ~6.290, Akt 2: ~6.160 -- steigend,
   passend zum dichtesten Akt)
@@ -1227,7 +1227,7 @@ mit vier Symbolen (Kap 19). Zwei Haken schwaechen einander.
 ------------------------------------------------------------------------
 
 ### Kapitel 16 -- Die Namen auf den Steinen
-**Tag 9 (So) | Osthang + Friedhof | Pegel C | Ziel: ~950 Woerter | 2 Szenen**
+**Tag 10 (So) | Osthang + Friedhof | Pegel C | Ziel: ~950 Woerter | 2 Szenen**
 
 *(Bewusst das kuerzeste Kapitel des Buchs -- es ist ein Aufstieg und eine
 Entdeckung. Sein Gewicht bekommt Kap 17.)*
@@ -1254,7 +1254,7 @@ Entdeckung. Sein Gewicht bekommt Kap 17.)*
 ------------------------------------------------------------------------
 
 ### Kapitel 17 -- Der Stein
-**Tag 9 (So) | Suedbucht + Seebruck | Pegel C -> D | Ziel: ~1.500 Woerter | 4 Szenen**
+**Tag 10 (So) | Suedbucht + Seebruck | Pegel C -> D | Ziel: ~1.500 Woerter | 4 Szenen**
 
 *(Das schwerste Kapitel des Buchs: zwei Schauplaetze, vier Beats. Deshalb steht
 Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
@@ -1263,7 +1263,7 @@ Kap 16 bei 950 -- das Gewicht ist bewusst hierher verlegt.)*
 |---|-----|--------------|
 | 1 | Friedhof, Nele kommt herauf | Loest den Cliffhanger: Sie hat es sich anders ueberlegt. **MILAS ENTSCHEIDUNG (Fix Problem 2):** Nicht Jonas entscheidet, ob Nele mitkommt -- **Mila.** Sie war die am staerksten Betrogene, und sie hat in Kap 10 zugestimmt. Ihr "Meinetwegen" von damals bekommt hier sein Gegenstueck. **Sie sagt nicht viel** -- sie geht los und laesst Nele mitkommen. |
 | 2 | Suedbucht, Abstieg | Nele fuehrt sie vom Friedhof nach **Sueden**, den Hang entlang, in die Bucht, in die nie jemand geht (Geografie-Saat aus Kap 7). **Das Seil wird gebraucht** -- der Hang ist zu steil. Sie hat es mitgebracht, **weil sie wusste, was sie vorhat.** |
-| 3 | Am Stein | **Und jetzt zahlt der Verrat:** Der Stein steht bereits im Wasser. Waeren sie an Tag 5 gekommen, haetten sie ihn trocken ablesen koennen. Jetzt: Schlamm und Wasserpflanzen wegraeumen, **die Vertiefungen blind ertasten.** **BENS STOCK, Stufe 3** -- **Nele fordert ihn dazu auf** (sie hat in Kap 14 gefragt, was er da tut). Dann: **vier Symbole, eine Jahreszahl, vier leere Vertiefungen.** *"Sie sind zurueckgekommen. Sie standen genau hier."* Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."* **JONAS versteht, warum leer:** Sie konnten das Pfand nicht zurueckgeben -- es war niemand mehr da. Sie haben es behalten. *"Deshalb war meine Muenze noch in Eichenhain."* **Der Stein ist unvollendet.** |
+| 3 | Am Stein | **Und jetzt zahlt der Verrat:** Der Stein steht bereits im Wasser. Waeren sie an Tag 6 gekommen, haetten sie ihn trocken ablesen koennen. Jetzt: Schlamm und Wasserpflanzen wegraeumen, **die Vertiefungen blind ertasten.** **BENS STOCK, Stufe 3** -- **Nele fordert ihn dazu auf** (sie hat in Kap 14 gefragt, was er da tut). Dann: **vier Symbole, eine Jahreszahl, vier leere Vertiefungen.** *"Sie sind zurueckgekommen. Sie standen genau hier."* Nele: *"Vor vier Tagen haettet ihr einfach hingehen koennen."* **JONAS versteht, warum leer:** Sie konnten das Pfand nicht zurueckgeben -- es war niemand mehr da. Sie haben es behalten. *"Deshalb war meine Muenze noch in Eichenhain."* **Der Stein ist unvollendet.** |
 | 4 | Weg nach Seebruck -> Haus der Ahrens, abends | **WINTER ERFAEHRT ES (Fix Befund G) -- kein eigener Beat, der Uebergang selbst:** Er steht vor dem Gasthof, als haette er sich den ganzen Tag nicht gesetzt. **Jonas nickt. Mehr nicht.** Winter sagt nichts, sieht sie an, setzt sich auf die Bank. *"Geht ihr."* **Er erfaehrt NICHT, was sie gefunden haben** -- nur, dass es etwas gibt. Den Stein sieht er zum ersten Mal in Kap 18. Dann weiter: Nele sagt *"Ich kann das meiner Oma nicht sagen"* -- **und geht dann doch hin.** Ihr erster mutiger Akt, mit dem Beweis in der Hand. Grossmutter Ahrens hoert zu. **Und bleibt stehen:** *"Sie haben einen Stein gesetzt. Fuer sich selbst. Ein schlechtes Gewissen ist noch kein gehaltenes Wort."* |
 
 > **Cliffhanger:** Ein Wort. **"Nein."**
@@ -1322,7 +1322,7 @@ endgueltig an der Obergrenze -- Szene 2 auf das Minimum.**
 ------------------------------------------------------------------------
 
 ### Kapitel 18 -- Was man zurueckgibt
-**Tag 10 (Mo) | Seebruck + Bucht | Pegel D | Ziel: ~1.400 Woerter | 3 Szenen**
+**Tag 11 (Mo) | Seebruck + Bucht | Pegel D | Ziel: ~1.400 Woerter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -1455,9 +1455,9 @@ dann ist sie Versoehnung, nicht Niederlage.
 
 | Kapitel | Woerter | Szenen | Tag | Pegel |
 |:-------:|:-------:|:------:|:---:|:-----:|
-| 16 | 950 | 2 | 8 | C |
-| 17 | 1.500 | 4 | 8 | C -> D |
-| 18 | 1.400 | 3 | 9 | D |
+| 16 | 950 | 2 | 10 | C |
+| 17 | 1.500 | 4 | 10 | C -> D |
+| 18 | 1.400 | 3 | 11 | D |
 | 19 | 1.100 | **~7 Beats / 2 Orte** | +2 Wo. | E |
 
 - **Summe Akt 4: ~4.950 Woerter** (nur 4 Kapitel)

@@ -96,7 +96,7 @@ Der Wirt wischte über den Tresen.
 Der Wirt wischte weiter.
 Die Stelle war längst sauber.
 
-„In fünf Tagen ist der Spuk sowieso vorbei", sagte er.
+„Am Freitag ist der Spuk sowieso vorbei", sagte er.
 Dann nahm er ihre Gläser mit, obwohl Milas noch halb voll war.
 
 ---
@@ -155,11 +155,11 @@ Ben zog die Kappe zurecht und sah sehr zufrieden aus.
 
 Jonas rechnete.
 
-Heute war Sonntag.
+Heute war Samstag.
 
-„Fünf Tage", sagte er.
+„Sechs Tage", sagte er.
 
-„Fünf Tage bis Freitag", sagte Winter. „Und dann dauert es noch ein paar Tage,
+„Sechs Tage bis Freitag", sagte Winter. „Und dann dauert es noch ein paar Tage,
 bis alles wieder unter Wasser steht."
 
 „Wie viele?"
@@ -178,12 +178,18 @@ Er hatte einen Zettel in der Hand.
 Er faltete ihn zusammen und klappte ihn wieder auf.
 Die ganze Zeit.
 
-„Ich fahre morgen früh zur Gemeinde", sagte er.
+„Am Montag fahre ich zur Gemeinde", sagte er.
 „Und danach vielleicht zum Archiv, wenn eines da ist."
 
-„Warum?" fragte Jonas.
+Mila setzte sich gerade hin.
 
-„Weil ich wissen will, ob dieser See jemals anders geheißen hat."
+„Montag? Warum nicht morgen?"
+
+„Weil morgen Sonntag ist."
+
+„Und was suchen Sie da?" fragte Jonas.
+
+„Ich will wissen, ob dieser See jemals anders geheißen hat."
 
 Er sah sie der Reihe nach an.
 

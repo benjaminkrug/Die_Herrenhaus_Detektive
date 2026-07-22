@@ -35,7 +35,7 @@ Er sagte es zu sich selbst, nicht zu ihnen.
 
 Jonas suchte nach etwas, das man darauf antworten konnte.
 
-Neun Tage im Archiv.
+Neun Tage.
 Kein einziges Blatt Papier.
 
 Und jetzt auch das nicht.

@@ -51,10 +51,10 @@
 | # | Hinweis / Setup (gesaet) | Kap | Aufloesung / Payoff | Kap | Status |
 |---|--------------------------|:---:|---------------------|:---:|--------|
 | 9b | **Hitze und Trockenheit in Eichenhain** (Staub, knirschendes Gras -- NICHT ueber den Brunnenpegel, siehe Kanon-Falle) | 1 | Erklaert den **Rekordtiefstand** am Grauen See: dasselbe Wetter, 200 km weiter. Der See ist nicht zufaellig leer | 3/4 | geschrieben |
-| 10 | **Aushang/Wirt: Ablass wird in vier Tagen geschlossen** | 3 | Das Rauschen faellt weg -- das Wehr ist zu | 13 | geschrieben |
+| 10 | **Aushang/Wirt: Ablass wird am Freitag geschlossen** (bei Ankunft: in sechs Tagen) | 3 | Das Rauschen faellt weg -- das Wehr ist zu | 13 | geschrieben |
 | 11 | **Der dunkle Rand am Turmstein** (wohin das Wasser zurueckkommt) | 4 | "Zum Greifen nah" -- der Rand ist fast erreicht | 18 | geschrieben |
 | 12 | **Die drei Marken am Turm** (Dach / Schallfenster / Kreuz) | 4 | Messpunkte: Dach weg (11), Schallfenster (14), nur noch Kreuz (18) | 11/14/18 | geschrieben |
-| 13 | **Tuerschwelle des fuenften Hauses** (nahes Messgeraet) | 7/8 | **feucht** (Kap 9, Ende Tag 4) -> **steht im Wasser** (Kap 10, morgens) -> danach laufend. **Sie ist der AUSLOESER fuer Neles Nachgeben** -- es ist ihre Schwelle | 9/10 + lfd. | geschrieben |
+| 13 | **Tuerschwelle des fuenften Hauses** (nahes Messgeraet) | 7/8 | **feucht** (Kap 9, Ende Tag 5) -> **steht im Wasser** (Kap 10, morgens) -> danach laufend. **Sie ist der AUSLOESER fuer Neles Nachgeben** -- es ist ihre Schwelle | 9/10 + lfd. | geschrieben |
 
 ### A.3 Der Nele-Komplex
 
@@ -63,7 +63,7 @@
 | 14 | **Nele kennt ihre Namen**, obwohl niemand sie genannt hat | 4 | Verdacht ausgesprochen (5), sie schweigt (9), **sie gibt es zu** (10) | 5/9/10 | geschrieben |
 | 14b | **Nele sucht seit Wochen allein.** In den Ruinen findet sie nichts (die drei legen an einem Nachmittag vier Tuerschwellen frei, sie sieht zu) -- **das EINE, was sie fand, konnte sie nicht erreichen** (siehe 14c) | 8 | Der Grund ihres Nachgebens: *"Ihr seid zu dritt. Ich bin allein."* Kein Handel, ein Eingestaendnis -- und derselbe Grund, aus dem sie den Brief schrieb | 10 | geschrieben |
 | 14c | **Warum sie den Stein nie selbst untersucht hat -- zwei Gruende:** (a) Bei Tiefstand lag die Kante weit UEBER ihr an steiler Boeschung (vom Boot kam sie nicht hinauf; von oben braucht es Seil + jemanden, der weiss wo man ist). (b) **Sie wusste nicht, ob es etwas IST** -- fuer ein Vielleicht klettert man nicht allein hinunter. Sie konnte ihn sehen und nicht erreichen | 15 | Macht ihren Satz aus Kap 10 **woertlich**: Sie schrieb den Brief wegen DIESER Stelle. Und **das Seil in Kap 16** wird zum Beleg langer Ueberlegung statt zu praktischem Zubehoer | 10/16/17 | geschrieben |
-| 15 | **Nele blockiert die Tuer** des fuenften Hauses -- **zweimal**: Tag 3 als Fremde (Ende Kap 8), Tag 4 als Bekannte (Kap 9) | 8/9 | Sie gibt sie frei -- das konkrete Zugestaendnis des Waffenstillstands | 10 | geschrieben |
+| 15 | **Nele blockiert die Tuer** des fuenften Hauses -- **zweimal**: Tag 4 als Fremde (Ende Kap 8), Tag 5 als Bekannte (Kap 9) | 8/9 | Sie gibt sie frei -- das konkrete Zugestaendnis des Waffenstillstands | 10 | geschrieben |
 | 15b | **Nele folgt ihnen** vom Haus ihrer Grossmutter aus (deshalb ist sie am fuenften Haus) | 6/8 | Erklaert, warum sie in Kap 9 am naechsten Morgen schon dort sitzt: Sie weiss, dass sie wiederkommen | 9 | geschrieben |
 | 16 | **VORZEICHEN 1:** Nele weiss, dass die Grabsteine noch lesbar sind (sie war also schon am Osthang) | 9 | Fliegt auf: Sie kannte die Stelle seit Wochen | 14/15 | geschrieben |
 | 16b | **STUFE 1 der Irrefuehrung:** Nele bricht die Suche im fuenften Haus ab ("da ist nichts mehr, ich war hundertmal hier") -- klingt fuersorglich | 11 | Teil des dreistufigen Musters, das Jonas in Kap 14 zurueckrechnet | 14 | geschrieben |
@@ -84,7 +84,7 @@
 | 19f | **Grossmutter Ahrens war nie in Sternbach** ("Waren Sie schon mal unten?" -- "Nein.") | 6 | **Ihre Bootsfahrt in Kap 18 ist das erste Mal.** Sie hat die Tuerschwelle ihres eigenen Familienhauses nie gesehen -- und jetzt ist das Dorf weg. **Sie faehrt zum Stein statt zum Haus** | 18 | geschrieben |
 | 20 | **Der Osthang: Weg im Norden, steile Bucht im Sueden** (beilaeufig) | 7 | Der Gedenkstein liegt in genau dieser Bucht | 17 | geschrieben |
 | 21 | **Winters Name laesst den Gasthof verstummen** | 3 | Grossmutter Ahrens gibt ihm die Hand | 18 | geschrieben |
-| 21b | **Winter sucht ab Tag 3 in Archiven nach "Sternbach"** -- den Namen liefern ihm die KINDER (Kap 5). Kommt abends leer zurueck (10), nach neun Tagen kein einziges Blatt (14) | 5/10/14 | **Der Name wurde getilgt -- die Antwort steht in keinem Papier.** Er bekommt sie von einem Menschen: dem Handschlag der Grossmutter | 18 | geschrieben |
+| 21b | **Winter sucht ab Tag 4 in Archiven nach "Sternbach"** -- den Namen liefern ihm die KINDER (Kap 5). Kommt abends leer zurueck (10), nach neun Tagen kein einziges Blatt (14) | 5/10/14 | **Der Name wurde getilgt -- die Antwort steht in keinem Papier.** Er bekommt sie von einem Menschen: dem Handschlag der Grossmutter | 18 | geschrieben |
 | 21c | **Winter bietet an, den Osthang mitzugehen -- und stoppt sich selbst** | 16 | Umkehrung zu Band 3 (dort rettete er das Finale). Bitter durch 21b: neun Tage nichts, und jetzt auch das nicht | 16 | geschrieben |
 | 21d | **Winter betritt Sternbach NIE** (Absicht, `Author_Info.md`): Silhouette (3), Kinder gehen allein (4), Halt am Hangfuss (16) | 3/4/16 | Er erreicht **nur den Gedenkstein**, per Boot, als das Dorf schon versunken ist -- den Stein seiner eigenen Familie, in dem Moment, in dem eine Ahrens ihm die Hand gibt | 18 | geschrieben |
 | 21e | **Jonas nickt ihm vor dem Gasthof zu** -- Winter erfaehrt nur DASS, nicht WAS. *"Geht ihr."* | 17 | Er sieht den Stein zum ersten Mal in Kap 18 -- sonst haette das Kapitel fuer ihn keine Entdeckung mehr | 18 | geschrieben |
@@ -166,16 +166,15 @@ Aus `Author_Info.md`, Abschnitt BAND 4:
 
 ### Beim Schluss-Abgleich gegen den Kapiteltext (offen)
 
-**Befund 1 -- Zeitleiste: ein Tag Versatz zwischen Kap 3 und Kap 15.**
-Der Text nennt zwei Wochentage. Kap 3: *"Heute war Sonntag."* Kap 15: *"Heute war
-Samstag."* Dazwischen liegen im geschriebenen Text **sieben** Tageswechsel
-(Kap 4/5 | 6-8+9a | 9b | 10 | 11/12 | 13 | 14/15) -- Sonntag + 7 = Sonntag.
-Ursache: Die Szenenplanung legte Kap 9 (Sz 2-4) und Kap 10 auf **denselben** Tag;
-geschrieben wurden es zwei (Kap 10 beginnt mit neuer Ankunft und *"Gestern hatte
-sie in der Tuerlucke gestanden"*). Alles ab Kap 4 ist untereinander stimmig --
-inklusive Winters *"Neun Tage"* (Kap 14 = Tag 9) und der Schliessung am
-Freitagabend. **Falsch ist nur der Anker in Kap 3.**
--> Loesungsvorschlag steht in `Story_Outline.md`, Abschnitt 2b.
+~~**Befund 1 -- Zeitleiste: ein Tag Versatz zwischen Kap 3 und Kap 15.**~~
+**BEHOBEN.** Die Szenenplanung legte Kap 9 (Sz 2-5) und Kap 10 auf denselben Tag;
+geschrieben wurden zwei. Das Buch dauert **11 Tage**, und der falsche Anker stand
+in Kap 3. Korrigiert: Anreise Samstag statt Sonntag, Countdown "sechs Tage"
+(Kap 3) und "fuenf Tage" (Kap 4), Winter faehrt erst Montag zur Gemeinde, weil
+Tag 3 ein Sonntag ist. Nachgezogen: Kap 15 (*"seit einer Woche hier"*), Kap 16
+(*"Neun Tage"* statt *"Neun Tage im Archiv"*). Dokumente synchron:
+`Story_Outline.md` 2b, `Welt_und_Figuren.md` 6 (Pegel-Tracker gefuellt),
+`Detaillierte_Szenenplanung.md` (alle Kopfzeilen + Akt-Bilanzen), `Author_Info.md`.
 
 **Befund 2 -- Zeile 23 wird nie hoerbar geschlossen.**
 Winters *"Und ich war nicht der Erste"* (Kap 2) wird faktisch beantwortet

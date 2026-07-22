@@ -37,14 +37,14 @@ Hinter der Tür war es still.
 
 „Sollen wir klopfen?" flüsterte Ben.
 
-„Er fährt um neun zur Gemeinde", sagte Jonas.
-„Und danach ins Archiv."
+„Heute ist Sonntag", sagte Jonas.
+„Er kann gar nichts machen."
 
 „Und wir?"
 
 Jonas sah die Tür noch einen Moment an.
 
-„Wir haben vier Tage."
+„Wir haben fünf Tage."
 
 Mila war schon auf der Treppe.
 

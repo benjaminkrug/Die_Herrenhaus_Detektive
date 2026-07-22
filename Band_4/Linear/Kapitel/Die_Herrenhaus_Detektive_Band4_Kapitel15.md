@@ -48,7 +48,7 @@ Das Geräusch war viel zu laut für den Moment.
 
 „Ja."
 
-„Wir sind seit fünf Tagen hier."
+„Wir sind seit einer Woche hier."
 
 „Ich weiß."
 
