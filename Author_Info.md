@@ -124,7 +124,10 @@ SONDERN: "Sein Herz klopfte schneller."
 - **Eigenschaften:** Neugierig, aufmerksam, beobachtet genau, stellt viele Fragen. Mutig, aber nicht leichtsinnig. Denkt nach bevor er handelt.
 - **Sprechweise:** Direkt, fragt viel ("Warum?", "Was ist das?"). Kurze Saetze. Manchmal nachdenklich.
 - **Koerpersprache:** Kneift Augen zusammen, blinzelt, spuert Kribbeln im Bauch
-- **Funktion:** Leser identifizieren sich mit ihm. Er entdeckt alles zum ersten Mal, genau wie der Leser.
+- **Funktion:** Leser identifizieren sich mit ihm. Er ist bei allem dabei, und der Leser erlebt alles durch ihn.
+- **WICHTIG -- praezisiert 2026-07-22:** Er entdeckt **das meiste zuerst, aber NICHT alles.**
+  Frueher stand hier "Er entdeckt alles zum ersten Mal". Das ist zu eng gelesen worden und
+  macht ihn zum Kanal statt zur Figur. **Perspektive heisst dabei sein, nicht alles finden.**
 
 ### Mila
 - **Rolle:** Die Mutige. Kennt das Dorf.
@@ -148,6 +151,34 @@ SONDERN: "Sein Herz klopfte schneller."
 - Mila und Ben streiten oft (liebevoll)
 - Jonas vermittelt zwischen den beiden
 - Alle drei sind ein Team -- keiner wird ausgeschlossen
+
+### ABWECHSLUNG IM HANDELN (Regel fuer alle Baende, 2026-07-22)
+
+> **"Jonas fragt, Mila draengt, Ben bremst" ist die GRUNDHALTUNG, kein Gesetz.**
+> Wenn jede Szene der Formel folgt, werden die drei berechenbar -- und
+> berechenbare Figuren sind der haeufigste Grund, warum Text maschinell wirkt.
+
+**Die Formel muss regelmaessig gebrochen werden:**
+- **Mila zoegert** manchmal, statt zu draengen (sie darf verletzlich sein)
+- **Ben treibt** manchmal, statt zu bremsen (er hat mutige und kluge Momente)
+- **Jonas handelt** manchmal, statt zu fragen
+
+**Verteilungs-Regel, pro Akt pruefbar:**
+
+| | Muss pro Akt haben |
+|---|---|
+| Jonas | die **meisten** Entdeckungen -- aber mindestens eine gehoert einem anderen |
+| Mila | mindestens **eine eigene Entdeckung oder Loesung** (nicht nur Antreiben) |
+| Ben | mindestens **einen klugen Beitrag** (nicht nur Humor und Angst) |
+
+**Und umgekehrt genauso wichtig:** Wenn EIN Kind einen ganzen Akt lang traegt,
+ist der Akt schief -- auch wenn es das richtige Kind ist.
+
+*Anlass der Regel (Band 4, Akt 1):* Mila loeste das zentrale Raetsel, Ben hatte
+vier eigene Beitraege (Ablass-Erklaerung, Stock, Pfand-Keim, Streich-Verdacht),
+Winter lieferte den Ort -- **und Jonas hatte in fuenf Kapiteln genau eine eigene
+Entdeckung.** Ben wurde in drei von fuenf Kapiteln oefter genannt als die
+Perspektivfigur. Das faellt beim Schreiben nicht auf, nur beim Auszaehlen.
 
 ---
 

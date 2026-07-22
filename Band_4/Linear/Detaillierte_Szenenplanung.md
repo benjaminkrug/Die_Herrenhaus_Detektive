@@ -60,6 +60,25 @@ Handlung**, nicht nur Repliken.
 Umschlag pruefen) und sonst nur Saetze -- ausgerechnet in dem Akt, in dem sie
 ohnehin als duenn markiert ist.
 
+**PRO AKT zusaetzlich auszaehlen** (`Author_Info.md`, Abschnitt "Abwechslung im
+Handeln"):
+
+| | Muss pro Akt haben |
+|---|---|
+| Jonas | die **meisten** Entdeckungen -- aber mindestens eine gehoert einem anderen |
+| Mila | mindestens **eine eigene Entdeckung oder Loesung** |
+| Ben | mindestens **einen klugen Beitrag** |
+
+**Auszaehlen, nicht schaetzen.** In Akt 1 fiel es beim Schreiben nicht auf und
+erst beim Zaehlen: Ben stand in 3 von 5 Kapiteln oefter im Text als die
+Perspektivfigur, und Jonas hatte genau **eine** eigene Entdeckung.
+
+> **Konsequenz fuer Akt 2:** Jonas braucht dort deutlich mehr Eigenes. Der Plan
+> gibt es ihm bereits -- in Kap 14 liest er eine **Person** statt einer Spur --
+> aber das liegt in Akt 3. **In Akt 2 muss mindestens eine echte Entdeckung von
+> ihm kommen.** Kandidat: die Luecke im Haeuserkreis (Kap 8), die derzeit Ben
+> zugeschrieben ist.
+
 ### R4 -- Dialogverben: mindestens 5 verschiedene pro Kapitel
 
 Band 3 liegt bei **5,9**; Kap 1 hatte **3** (fast nur "sagte"/"fragte").
