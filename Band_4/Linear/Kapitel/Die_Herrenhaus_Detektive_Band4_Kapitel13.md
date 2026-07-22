@@ -64,6 +64,29 @@ dass sich niemand beschwerte.
 Es war heiß.
 Die Sonne stand über dem Tal, und der Schlamm fing an zu riechen.
 
+Mila legte sich rücklings auf die warmen Steine und machte die Augen zu.
+
+„Wenn wir das schaffen", sagte sie, „will ich ein Eis."
+
+„Nur eins?"
+
+„Ein großes."
+
+„Ich will drei", sagte Ben.
+„Und ich will, dass Herr Meier es bezahlt.
+Wir haben schließlich sein Haus gefunden."
+
+„Es ist nicht sein Haus."
+
+„Das Haus von seinen Ur-Ur-Ur-Leuten."
+Ben zählte die Urs an den Fingern ab und kam durcheinander.
+„Jedenfalls schuldet er mir ein Eis."
+
+Nele sah von der Grube herüber.
+
+Sie sagte nichts.
+Aber sie hörte zu, und sie hörte lange zu.
+
 Jonas saß neben Ben und sah nichts Bestimmtes an.
 
 Er dachte an die Blechdose mit der Blume drauf.

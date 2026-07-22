@@ -159,6 +159,25 @@ Er hatte recht, dachte Jonas.
 Es sah nicht aus wie ein Abenteuer.
 Es sah aus wie eine Baustelle nach dem Regen.
 
+Trotzdem blieb Mila stehen und sah sich um.
+
+„Merkt ihr das eigentlich?"
+
+„Was denn?"
+
+„Wir sind vierhundert Kilometer weg."
+Sie drehte sich einmal ganz herum.
+„Von zu Hause. Ohne Eltern. In einem See."
+
+Ben dachte darüber nach.
+
+„Wenn man es so sagt, klingt es besser als es riecht."
+
+Mila lachte.
+
+Es war das erste Mal, seit sie hier waren, dass jemand lachte.
+Es hallte ein bisschen zwischen den Mauern.
+
 ---
 
 Dann sah Jonas den Turm richtig.
