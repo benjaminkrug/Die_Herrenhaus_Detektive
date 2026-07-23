@@ -25,12 +25,16 @@ und Farbwelt des angehaengten Referenz-Covers (dieselbe Reihe) - dieselben drei
 Kinder, dieselbe atmosphaerische Daemmerung, derselbe goldene Titel-Look.
 
 SAFE MARGINS (CRITICAL - the outer edges get trimmed when the book is printed):
-- Keep ALL text - the series line, the band number, the main title and the
-  author name - inside a central safe area. Leave a clear empty margin on EVERY
-  side: at least 10% of the width free on the LEFT and RIGHT edges, at least 7%
-  of the height free at the TOP, at least 6% at the BOTTOM.
-- NO letter may touch or reach an outer edge. The big title must NOT run edge to
-  edge - leave clear dark sky on BOTH sides of every title line.
+- The WHOLE title must fit inside the central 80% of the width. There MUST be
+  clearly visible empty background - at least the width of two big letters -
+  to the LEFT of the leftmost letter AND to the RIGHT of the rightmost letter of
+  every single title line. The title NEVER touches or approaches the side edges.
+- Keep ALL other text too - series line, band number, author - inside the same
+  central safe area: at least 10% of the width free on the LEFT and RIGHT, at
+  least 7% of the height free at the TOP, at least 6% at the BOTTOM.
+- NO letter of any text may touch or reach an outer edge.
+- Better a slightly smaller title with clear margins than a big title that
+  touches the edge. When in doubt, shrink the title.
 - The illustration still fills the whole image to the edges; only the TEXT stays
   inside the safe margin.
 
@@ -67,9 +71,10 @@ high contrast, ALL of it inside the safe margin described above):
   DES BRUNNENS
 - Bottom centre, above the bottom margin: Benjamin Krug
 
-The main title should be large - about 35 to 40% of the cover height - BUT it must
-keep clear space to the left and right edges. If in doubt, make the title a little
-smaller rather than let it touch the edges. Spell every word exactly. Do NOT add
+The main title should be large - about 35% of the cover height - BUT it must NEVER
+be wider than 80% of the cover, and it must keep clear empty space on the left and
+right of every line. If in doubt, make the title smaller rather than let it touch
+the edges. Spell every word exactly. Do NOT add
 any other words, letters or numbers. Do NOT include: monsters, ghosts, skeletons,
 scary faces, glowing eyes, blood, modern elements, cars, phones, neon colours,
 manga or cartoon style.
