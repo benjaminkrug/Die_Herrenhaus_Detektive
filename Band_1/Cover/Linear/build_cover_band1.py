@@ -30,10 +30,10 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 FRONT = os.path.join(BASE, "front_band1.png")   # Vorderseite MIT Typografie
 BACK = os.path.join(BASE, "back_band1.png")     # Rueckseite MIT Typografie
 
-# !! Vor dem finalen Lauf durch die ECHTE Seitenzahl aus dem KDP-Previewer
-#    ersetzen. Die Schaetzung (150) ist grob -- Band 1 hat ~29.000 Woerter auf 5x8.
-PAGE_COUNT = 150
-PAGE_COUNT_IS_ESTIMATE = True
+# ECHTE Seitenzahl aus dem KDP-Previewer (191 Seiten). Ergibt Ruecken 0,430 Zoll
+# und Gesamtbreite 10,680 Zoll -- genau die von KDP erwartete Covergroesse.
+PAGE_COUNT = 191
+PAGE_COUNT_IS_ESTIMATE = False
 
 DPI = 300
 BLEED = 0.125          # Zoll, rundherum aussen
