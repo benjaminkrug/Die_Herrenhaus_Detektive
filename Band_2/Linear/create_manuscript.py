@@ -228,9 +228,6 @@ def add_impressum_page(doc):
         "",
         "Independently published",
         "",
-        "Coverdesign: Benjamin Krug",
-        "Satz und Layout: Benjamin Krug",
-        "",
         "ISBN: 9798253768228",
         "",
         "Dieses Buch ist ein Werk der Fiktion. Namen, Personen,",
@@ -640,6 +637,7 @@ def add_band3_teaser(doc):
     run.font.size = Pt(18)
     run.font.bold = True
     run.font.name = 'Georgia'
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(18)
 
     titel, gruppen = _lade_band3_leseprobe()

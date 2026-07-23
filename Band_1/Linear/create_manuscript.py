@@ -179,6 +179,10 @@ def add_title_page(doc):
     run.font.size = Pt(22)
     run.font.bold = True
     run.font.name = 'Georgia'
+    # Normal-Stil hat EXAKTEN Zeilenabstand (14pt) -- bei grossem, umbrechendem
+    # Titel wuerden die zwei Zeilen sonst uebereinander liegen. Einfacher
+    # (mitwachsender) Zeilenabstand fuer alle grossen Titelzeilen.
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(8)
 
     # Band
@@ -196,6 +200,7 @@ def add_title_page(doc):
     run.font.size = Pt(18)
     run.font.bold = True
     run.font.name = 'Georgia'
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(40)
 
     # Leerraum
@@ -225,11 +230,6 @@ def add_impressum_page(doc):
         "Alle Rechte vorbehalten.",
         "",
         "Independently published",
-        "",
-        "Lektorat: [NAME]",
-        "Korrektorat: [NAME]",
-        "Coverdesign: [NAME]",
-        "Satz und Layout: [NAME]",
         "",
         "ISBN: 9798248089956",
         "",
@@ -630,6 +630,7 @@ def add_band2_teaser(doc):
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run("Das Geheimnis des Brunnens")
     run.font.size = Pt(18); run.font.bold = True; run.font.name = "Georgia"
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(18)
 
     titel, gruppen = _lade_band2_leseprobe()
