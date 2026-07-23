@@ -526,6 +526,11 @@ def add_review_request_page(doc):
     if os.path.isfile(QR_REZENSION):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        # WICHTIG: Der Normal-Stil hat EXAKTEN Zeilenabstand (Pt(14)) -- der
+        # wuerde das Bild auf 14pt Hoehe abschneiden. Fuer den Bild-Absatz auf
+        # einfachen (mitwachsenden) Zeilenabstand umstellen.
+        p.paragraph_format.line_spacing = 1.0
+        p.paragraph_format.space_before = Pt(6)
         p.paragraph_format.space_after = Pt(6)
         p.add_run().add_picture(QR_REZENSION, width=Inches(1.5))
 
