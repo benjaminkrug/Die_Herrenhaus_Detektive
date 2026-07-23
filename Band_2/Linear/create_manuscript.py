@@ -15,9 +15,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 KAPITEL_DIR = os.path.join(BASE_DIR, "Kapitel")
 OUTPUT_FILE = os.path.join(BASE_DIR, "Manuskript.docx")
 
-# KDP Taschenbuch 5x8 Zoll (12.7 x 20.32 cm) - Kinderbuchformat
-PAGE_WIDTH = Cm(12.7)
-PAGE_HEIGHT = Cm(20.32)
+# KDP Taschenbuch 6x9 Zoll (15.24 x 22.86 cm) - wie Band 3/4
+# (Format-Umstellung 5x8 -> 6x9 fuer Band 2 und alle folgenden)
+PAGE_WIDTH = Cm(15.24)
+PAGE_HEIGHT = Cm(22.86)
 
 # Kapitel-Dateinamen in der richtigen Reihenfolge
 CHAPTER_FILES = [
@@ -90,7 +91,7 @@ def setup_document():
     h2_format.space_before = Pt(0)
     h2_format.space_after = Pt(14)
 
-    # Seitenformat (5x8 Zoll)
+    # Seitenformat (6x9 Zoll)
     section = doc.sections[0]
     section.page_width = PAGE_WIDTH
     section.page_height = PAGE_HEIGHT
@@ -337,11 +338,11 @@ def add_chapter(doc, chapter_num, title, content):
     add_page_break(doc)
 
     # "Sink": echter Leerraum-Absatz, damit der Kapitelkopf nach unten einrueckt.
-    # 44pt (wie Band 1, 5x8-Format). Bewusst NICHT ueber space_before der ersten
+    # 56pt (wie Band 4, 6x9-Format). Bewusst NICHT ueber space_before der ersten
     # Zeile (Word verwirft Abstand am Seitenanfang).
     spacer = doc.add_paragraph()
     spacer.paragraph_format.space_before = Pt(0)
-    spacer.paragraph_format.space_after = Pt(44)
+    spacer.paragraph_format.space_after = Pt(56)
 
     # Kapitelnummer (Heading 2): gesperrte graue Versalien
     if chapter_num == 19:

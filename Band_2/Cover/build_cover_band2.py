@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Baut das KDP-Full-Cover fuer Band 2 (5 x 8 Zoll, 300 dpi, weisses Papier).
+Baut das KDP-Full-Cover fuer Band 2 (6 x 9 Zoll, 300 dpi, weisses Papier).
 
 Unterschied zum Band-3-Skript: Dort wurde ein FERTIGES Full-Cover skaliert und
 zentriert beschnitten -- dabei verrutscht der Buchruecken, sobald die Seitenzahl
@@ -32,12 +32,12 @@ BACK = os.path.join(BASE, "back_band2.png")     # Rueckseite MIT Typografie
 
 # !! Schaetzung -- durch die ECHTE Seitenzahl aus dem KDP-Previewer ersetzen.
 # Band 2 hat ~22.140 Woerter auf 5x8 -> grob ~150 Seiten.
-PAGE_COUNT = 150
+PAGE_COUNT = 154
 PAGE_COUNT_IS_ESTIMATE = True
 
 DPI = 300
 BLEED = 0.125          # Zoll, rundherum aussen
-TRIM_W, TRIM_H = 5.0, 8.0
+TRIM_W, TRIM_H = 6.0, 9.0
 SPINE_FACTOR = 0.002252   # weisses Papier (creme: 0.0025)
 
 # Ruecken
@@ -57,8 +57,8 @@ FONT_CANDIDATES = [
     "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
 ]
 
-OUT_FULL_PNG = os.path.join(BASE, "Band2_Cover_KDP_5x8_300dpi.png")
-OUT_FULL_PDF = os.path.join(BASE, "Band2_Cover_KDP_5x8_300dpi.pdf")
+OUT_FULL_PNG = os.path.join(BASE, "Band2_Cover_KDP_6x9_300dpi.png")
+OUT_FULL_PDF = os.path.join(BASE, "Band2_Cover_KDP_6x9_300dpi.pdf")
 OUT_EBOOK = os.path.join(BASE, "Band2_Cover_eBook_1600x2560.png")
 
 

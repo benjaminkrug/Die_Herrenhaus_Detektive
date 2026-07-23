@@ -1,7 +1,7 @@
 # Cover-Konzept — Band 2: Das Geheimnis des Brunnens
 
 > Reihen-Look wie Band 1/3/4, **großer Goldtitel** (~35-40 % Höhe) mit
-> Sicherheitsrand. KDP-Taschenbuch **5 × 8 Zoll**, 300 dpi, weißes Papier.
+> Sicherheitsrand. KDP-Taschenbuch **6 × 9 Zoll**, 300 dpi, weißes Papier.
 > Full-Cover baut `build_cover_band2.py` aus `front_band2.png` + `back_band2.png`.
 >
 > Gleiche zwei Regeln wie bei Band 1, damit es nicht dieselben Fehler gibt:
@@ -19,8 +19,7 @@
 > Brunnen-Komposition. Kinder = dieselben drei.
 
 ```
-Erzeuge ein fertiges Buch-Vordercover im Hochformat (portrait, Seitenverhaeltnis
-5:8), mit dem Titeltext direkt und korrekt im Bild. Halte dich an Stil, Malweise
+Erzeuge ein fertiges Buch-Vordercover im Hochformat (portrait, Seitenverhaeltnis 2:3), mit dem Titeltext direkt und korrekt im Bild. Halte dich an Stil, Malweise
 und Farbwelt des angehaengten Referenz-Covers (dieselbe Reihe) - dieselben drei
 Kinder, dieselbe atmosphaerische Daemmerung, derselbe goldene Titel-Look.
 
@@ -93,8 +92,7 @@ Rand. Mach ihn kleiner und lasse auf beiden Seiten mindestens 10% freien Himmel.
 > stürzt).
 
 ```
-Erzeuge die komplette BUCH-RÜCKSEITE als Hochformat-Bild (portrait,
-Seitenverhältnis 5:8), mit dem gesamten Text sauber und korrekt im Bild.
+Erzeuge die komplette BUCH-RÜCKSEITE als Hochformat-Bild (portrait, Seitenverhältnis 2:3), mit dem gesamten Text sauber und korrekt im Bild.
 Übernimm Kunststil, Farbwelt und Stimmung des angehängten Vordercovers.
 
 ART STYLE: finished professional back cover, semi-realistic richly painted
@@ -148,11 +146,11 @@ scary faces, modern elements, neon colours, cartoon style.
 
 ## Technik
 
-- Format **5 × 8 Zoll**, Bleed 0,125", weißes Papier.
+- Format **6 × 9 Zoll**, Bleed 0,125", weißes Papier.
 - **Seitenzahl noch offen** — echte Zahl aus dem KDP-Previewer holen (Schätzung
   im Skript: 150). `build_cover_band2.py`: `PAGE_COUNT` setzen,
   `PAGE_COUNT_IS_ESTIMATE = False`, dann Wrap bauen.
-- Sollmaß hängt von der Seitenzahl ab; bei 150 S. ≈ 10,588 × 8,250".
+- Sollmaß hängt von der Seitenzahl ab; bei ~154 S. ≈ 12,597 × 9,250".
 
 ## Ablauf
 
