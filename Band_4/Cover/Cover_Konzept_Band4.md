@@ -385,6 +385,17 @@ right edges like a soft vignette. The whole CENTRE of the image is calm and
 gently darkened (as if a subtle dark overlay lay over it) so that text on top is
 easy to read. NO people, NO boat, NO objects in the foreground.
 
+LAYOUT AND SAFE ZONES (CRITICAL — the printed barcode goes bottom-right):
+- Keep ALL text within the UPPER 78% of the image height. The BOTTOM 16% must be
+  completely free of text (empty background only).
+- The BOTTOM-RIGHT CORNER — the right 40% of the width by the bottom 20% of the
+  height — must stay clean empty background, NO text at all. A barcode will be
+  printed there later.
+- Keep every line at least 6% of the width away from the left and right edges and
+  from the top edge (safe margin).
+- Do NOT stretch the text down to fill the page. Set it compact in the upper
+  area; empty calm background at the bottom is intended and correct.
+
 TEXT — render every word EXACTLY as written below, correctly spelled, including
 the German letters ä, ö, ü and the long dash —. Use clean, readable classic
 serif lettering in warm cream / off-white, high contrast against the darkened
@@ -420,16 +431,24 @@ Das vierte große Abenteuer der Herrenhaus-Detektive.
 FOOTER (small):
 Spannend, lustig und voller Mut — für alle Spürnasen ab 8 Jahren.
 
-BOTTOM-RIGHT CORNER: leave a clean empty light-grey rectangle, about 4 cm wide
-and 2 cm tall, completely free of artwork and text — reserved blank space for the
-printed barcode.
+BOTTOM-RIGHT CORNER: keep it clean empty background (NO grey box, NO text, NO
+artwork detail) — the barcode will be printed there. The whole bottom strip stays
+dark and calm.
 
 IMPORTANT: spell every German word exactly as given, including ä, ö, ü and the
-dash —. Keep all text inside the safe area, away from the outer edges. Do NOT
-invent or add any extra words, letters, numbers, logos or signatures. Do NOT
-include: people, a boat, monsters, ghosts, skeletons, scary faces, blood, glowing
-eyes, modern elements, cars, phones, neon colours, manga or cartoon style.
+dash —. Keep all text inside the upper safe area described above, away from the
+outer edges and completely clear of the bottom-right corner. Do NOT invent or add
+any extra words, letters, numbers, logos or signatures. Do NOT include: people, a
+boat, monsters, ghosts, skeletons, scary faces, blood, glowing eyes, modern
+elements, cars, phones, neon colours, manga or cartoon style.
 ```
+
+> **REVISION (Barcode-Kollision behoben):** Die erste Rückseite hatte den Text zu
+> tief und zu weit rechts — der KDP-Barcode (unten rechts, 2,0 × 1,2 Zoll) hat die
+> Fußzeile überdeckt. Die Zone „rechte 38 % der Breite × untere 16 % der Höhe“
+> muss textfrei bleiben. Der Block `LAYOUT AND SAFE ZONES` oben erzwingt das.
+> **Kein reserviertes graues Feld** (auf deinen Wunsch) — nur freier Hintergrund;
+> KDP legt den Barcode selbst darüber. Rückseite mit dieser Fassung neu erzeugen.
 
 **Nachfass-Sätze, falls nötig:**
 
