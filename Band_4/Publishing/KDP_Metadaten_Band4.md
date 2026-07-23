@@ -136,14 +136,16 @@ Das erzählt man sich am See. Und Nele, die dort wohnt, glaubt diese Geschichte 
 
 ### 4b. Beschreibung als HTML-Quellcode (1:1 in das KDP-Feld einfügen)
 
-> Optimiert + KDP-tauglich. **Keine Sonderzeichen:** kein Gedankenstrich (—),
-> keine typografischen Anführungszeichen („ “), keine Auslassungspunkte (…) —
-> alles durch schlichte ASCII-Zeichen ersetzt. **Umlaute (ä ö ü ß) bleiben** als
-> normale deutsche Buchstaben (Amazon rendert sie korrekt; „Muenze“ wäre
-> unprofessionell). KDP unterstützt nur diese Tags: `<b> <i> <br> <ul> <li>`.
+> Optimiert + KDP-tauglich. **Komplett ASCII, gar keine Sonderzeichen:** kein
+> Gedankenstrich, keine typografischen Anführungszeichen, keine
+> Auslassungspunkte, und **auch keine Umlaute** — ä/ö/ü/ß sind als ae/oe/ue/ss
+> geschrieben (Muenze, zurueck, Maedchen). KDP unterstützt nur diese Tags:
+> `<b> <i> <br> <ul> <li>`.
 >
-> Willst du es trotzdem komplett ASCII (Umlaute als ae/oe/ue/ss)? Sag Bescheid,
-> dann konvertiere ich.
+> **Empfehlung dazu:** Amazon rendert echte Umlaute einwandfrei, und „Muenze“
+> statt „Münze“ wirkt auf deutsche Käufer schnell unprofessionell. Für ein echtes
+> Listing würde ich die **Umlaut-Fassung** nehmen (siehe 4c). Diese reine
+> ASCII-Fassung nur, wenn du wirklich null Nicht-ASCII-Zeichen willst.
 
 ```html
 <b>Ein Brief ohne Absender. Ein See, der fast leer ist. Und ein Dorf, das seit dreihundert Jahren unter Wasser liegt.</b>
@@ -174,11 +176,48 @@ So erzaehlt man es sich am See. Und Nele, die dort wohnt, glaubt diese Geschicht
 ```
 
 **Was optimiert wurde:** Der Hook-Absatz wurde in kurze, harte Saetze zerlegt
-(„Drei Wellen und ein Stern." als eigener Satz zieht staerker als der
-Nebensatz). Der Gedankenstrich-Satzbau wurde durch Punkte ersetzt — dadurch
+("Drei Wellen und ein Stern." als eigener Satz zieht staerker als der
+Nebensatz). Der Gedankenstrich-Satzbau wurde durch Punkte ersetzt, dadurch
 verschwinden nicht nur die Sonderzeichen, der Text liest sich auch schneller,
-was auf Handybildschirmen zaehlt. Die Bullets beginnen jetzt einheitlich mit
-einem Substantiv/Verb und enden mit Punkt.
+was auf Handybildschirmen zaehlt. Die Bullets beginnen jetzt einheitlich und
+enden mit Punkt.
+
+---
+
+### 4c. Dieselbe Beschreibung MIT Umlauten (empfohlen fuers echte Listing)
+
+> Identischer Text, nur mit echten Umlauten statt ae/oe/ue. Weiterhin **ohne**
+> typografische Sonderzeichen (Gedankenstrich, geschweifte Anfuehrungszeichen,
+> Auslassungspunkte). Das ist die Fassung, die ich fuer die Veroeffentlichung
+> nehmen wuerde.
+
+```html
+<b>Ein Brief ohne Absender. Ein See, der fast leer ist. Und ein Dorf, das seit dreihundert Jahren unter Wasser liegt.</b>
+<br><br>
+Der Brief hat keinen Namen und keine Adresse, nur einen Empfänger: die Herrenhaus-Detektive. In der Ecke steht ein Zeichen, das Jonas sofort erkennt. Drei Wellen und ein Stern. Genau das Zeichen, das seit einem Jahr auf der alten Münze in seiner Hosentasche steht.
+<br><br>
+Vierhundert Kilometer weiter liegt der Graue See, und er ist fast leer. Im Schlamm stehen Mauern, Gassen und ein alter Kirchturm. Hier lag einmal ein Dorf namens Sternbach. Vor dreihundert Jahren zogen vier Familien fort. Sie sagten, sie holen Hilfe. Sie kamen nie zurück.
+<br><br>
+So erzählt man es sich am See. Und Nele, die dort wohnt, glaubt diese Geschichte. Sie will nicht, dass drei Fremde das Gegenteil beweisen. Doch am Freitag wird das alte Wehr geschlossen. Dann steigt das Wasser wieder, und Sternbach verschwindet für immer. Jonas, Mila und Ben bleiben nur wenige Tage, um herauszufinden, was damals wirklich geschah.
+<br><br>
+<b>Warum Kinder dieses Buch verschlingen:</b>
+<ul>
+<li>Ein Wettlauf gegen die Zeit. Das Wasser steigt mit jedem Kapitel.</li>
+<li>Ein echtes Rätsel zum Mitraten: Zeichen deuten, Spuren lesen, die Lösung selbst finden.</li>
+<li>Ein fremder Ort voller Geheimnisse und ein Mädchen, das etwas zu verbergen hat.</li>
+<li>Geheimnisvoll und spannend, aber nie beängstigend.</li>
+</ul>
+<b>Warum Eltern dieses Buch lieben:</b>
+<ul>
+<li>Kurze Kapitel, kurze Sätze, viel Dialog. Perfekt auch für Lesemuffel ab der 3. Klasse.</li>
+<li>Werte ganz nebenbei: Mut, Freundschaft, Zusammenhalt und Versöhnung.</li>
+<li>Keine Gewalt, nichts Übernatürliches. Spannend und trotzdem geborgen.</li>
+<li>In sich abgeschlossen und einzeln lesbar, Teil einer beliebten Reihe.</li>
+</ul>
+<i>Für Kinder ab 8 Jahren, die Die drei ??? Kids, die Olchi-Detektive oder Emil und die Detektive lieben. Mit einer ordentlichen Portion Spannung.</i>
+<br><br>
+<i>Jeder Band der Herrenhaus-Detektive ist ein eigener Fall und kann einzeln gelesen werden.</i>
+```
 
 ---
 
