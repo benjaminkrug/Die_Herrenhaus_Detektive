@@ -15,6 +15,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 KAPITEL_DIR = os.path.join(BASE_DIR, "Kapitel")
 OUTPUT_FILE = os.path.join(BASE_DIR, "Manuskript.docx")
 
+# Rezensions-QR-Code (fuehrt direkt zum Amazon-Bewertungsformular).
+# Erzeugt + gegengelesen von ../../build_qr_rezension.py
+QR_REZENSION = os.path.join(BASE_DIR, "..", "Cover", "qr_rezension_band2.png")
+
 # KDP Taschenbuch 6x9 Zoll (15.24 x 22.86 cm) - wie Band 3/4
 # (Format-Umstellung 5x8 -> 6x9 fuer Band 2 und alle folgenden)
 PAGE_WIDTH = Cm(15.24)
@@ -508,6 +512,33 @@ def add_review_request_page(doc):
         p.paragraph_format.space_after = Pt(4)
         p.paragraph_format.left_indent = Cm(1.0)
         p.paragraph_format.right_indent = Cm(1.0)
+
+    # QR-Code direkt zum Amazon-Bewertungsformular
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Einfach den Code scannen und eine Bewertung dalassen:")
+    run.font.size = Pt(11)
+    run.font.italic = True
+    run.font.name = 'Georgia'
+    p.paragraph_format.space_after = Pt(8)
+
+    if os.path.isfile(QR_REZENSION):
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.space_after = Pt(6)
+        p.add_run().add_picture(QR_REZENSION, width=Inches(1.5))
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("(Handykamera auf den Code halten \u2013 "
+                        "der Link \u00f6ffnet sich von selbst.)")
+        run.font.size = Pt(9)
+        run.font.italic = True
+        run.font.name = 'Georgia'
+        p.paragraph_format.space_after = Pt(10)
+    else:
+        print(f"  WARNUNG: QR-Code nicht gefunden: {QR_REZENSION}")
 
     # Abschluss
     doc.add_paragraph()
