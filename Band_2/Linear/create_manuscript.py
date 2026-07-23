@@ -64,30 +64,31 @@ def setup_document():
     paragraph_format.space_after = Pt(0)
     paragraph_format.line_spacing = Pt(14)
 
-    # Heading 1 Style anpassen (fuer navigierbares eBook-Inhaltsverzeichnis)
+    # Heading 1 Style = Kapiteltitel (Kindle erkennt Heading 1 als Kapitel).
+    # Muster A: groesser (17pt) und mehr Luft nach unten (22pt).
     h1_style = doc.styles['Heading 1']
     h1_font = h1_style.font
     h1_font.name = 'Georgia'
-    h1_font.size = Pt(14)
+    h1_font.size = Pt(17)
     h1_font.bold = True
     h1_font.color.rgb = RGBColor(0, 0, 0)
     h1_format = h1_style.paragraph_format
     h1_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h1_format.space_before = Pt(0)
-    h1_format.space_after = Pt(10)
+    h1_format.space_after = Pt(22)
     h1_format.page_break_before = False  # Wir machen den Seitenumbruch manuell
 
-    # Heading 2 Style fuer Kapitelnummer (Kindle erkennt Heading 1 als Kapitel)
+    # Heading 2 Style = Kapitelnummer (gesperrte graue Versalien, Muster A).
     h2_style = doc.styles['Heading 2']
     h2_font = h2_style.font
     h2_font.name = 'Georgia'
     h2_font.size = Pt(11)
     h2_font.bold = False
-    h2_font.color.rgb = RGBColor(100, 100, 100)
+    h2_font.color.rgb = RGBColor(90, 90, 90)
     h2_format = h2_style.paragraph_format
     h2_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h2_format.space_before = Pt(0)
-    h2_format.space_after = Pt(2)
+    h2_format.space_after = Pt(14)
 
     # Seitenformat (5x8 Zoll)
     section = doc.sections[0]
@@ -149,6 +150,14 @@ def add_hyperlink(paragraph, bookmark_name, text, font_name='Georgia', font_size
 def add_page_break(doc):
     """Fuegt einen Seitenumbruch ein."""
     doc.add_page_break()
+
+
+def set_tracking(run, points):
+    """Sperrung (letter-spacing) in Punkten auf einen Run legen."""
+    rpr = run._element.get_or_add_rPr()
+    sp = OxmlElement('w:spacing')
+    sp.set(qn('w:val'), str(int(points * 20)))  # Wert in Twips (1/20 pt)
+    rpr.append(sp)
 
 
 def add_title_page(doc):
@@ -327,17 +336,22 @@ def add_chapter(doc, chapter_num, title, content):
     """Fuegt ein Kapitel zum Dokument hinzu."""
     add_page_break(doc)
 
-    # Leerraum oben (kompakt)
-    p = doc.add_paragraph()
-    p.paragraph_format.space_after = Pt(10)
+    # "Sink": echter Leerraum-Absatz, damit der Kapitelkopf nach unten einrueckt.
+    # 44pt (wie Band 1, 5x8-Format). Bewusst NICHT ueber space_before der ersten
+    # Zeile (Word verwirft Abstand am Seitenanfang).
+    spacer = doc.add_paragraph()
+    spacer.paragraph_format.space_before = Pt(0)
+    spacer.paragraph_format.space_after = Pt(44)
 
-    # Kapitelnummer (Heading 2 — wird im eBook als Sub-Heading erkannt)
+    # Kapitelnummer (Heading 2): gesperrte graue Versalien
     if chapter_num == 19:
-        label = "Epilog"
+        label = "EPILOG"
     else:
-        label = f"Kapitel {chapter_num}"
+        label = f"KAPITEL {chapter_num}"
 
     p = doc.add_heading(label, level=2)
+    if p.runs:
+        set_tracking(p.runs[0], 2.6)
 
     # Kapiteltitel als Heading 1 mit Bookmark (fuer navigierbares TOC)
     bookmark_name = f"kapitel_{chapter_num}"
