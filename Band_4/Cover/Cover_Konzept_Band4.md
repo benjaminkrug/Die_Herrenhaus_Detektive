@@ -342,7 +342,116 @@ STRICTLY NOT: any text, letters or numbers; people; monsters, ghosts, skeletons,
 scary faces; modern elements; neon colours; manga or cartoon style.
 ```
 
+---
+
+### Prompt B2 — RÜCKSEITE komplett MIT Text (ein Prompt, alles fertig) ★
+
+> **Das ist der Ein-Schritt-Weg, den du wolltest.** Hintergrund + kompletter
+> Klappentext + Barcode-Feld in einem Bild. Szene an die **generierte
+> Vorderseite** angepasst (warmer Sonnenuntergang, heller Horizont), nicht an das
+> dunkle Band-3-Blau.
+>
+> **Referenzbild anhängen:** die fertige Vorderseite `cover_vorderseite_1.png`
+> (nicht Band 3 — die Rückseite soll zur eigenen Front passen).
+>
+> ⚠ **So viel deutscher Text mit Umlauten ist für Bildmodelle die Härteprobe.**
+> **4–6 Varianten** erzeugen und Wort für Wort prüfen — besonders `Mädchen`,
+> `schließt`, `Spürnasen`, `HERRENHAUS-DETEKTIVE`. Wenn keine Variante fehlerfrei
+> ist, nimm die mit dem saubersten Hintergrund und setze den Text nach dem
+> Textblock weiter unten selbst.
+
+```
+Erzeuge die komplette BUCH-RÜCKSEITE als Hochformat-Bild (portrait,
+Seitenverhältnis 2:3), mit dem gesamten Text sauber, korrekt und gut lesbar
+direkt im Bild gerendert. Es ist die Rückseite zum selben Buch wie das
+angehängte Referenz-Cover (die Vorderseite dieser deutschen
+Kinderbuch-Detektivreihe). Übernimm exakt Kunststil, Farbwelt und warme
+Sonnenuntergangs-Stimmung des Referenzbildes. Verwende genau diese Beschreibung:
+
+ART STYLE: a finished professional back cover of a German children's
+detective-adventure novel, target age 8-10. Semi-realistic, richly painted
+digital illustration, identical in style, palette and warm sunset mood to the
+attached front cover. Cinematic, mysterious yet warm and inviting — absolutely
+NOT scary, NOT horror. Portrait orientation, taller than wide.
+
+BACKGROUND (must stay calm and darkened in the centre so the text is perfectly
+readable): the same vast dried-out lake bed at dusk as on the front cover, but
+seen from much further away and quieter. Low warm amber afterglow along the
+horizon, deepening into a soft teal-blue evening sky above. Far in the
+centre-background stands the same lone old stone church tower, small and dark in
+silhouette, with an iron cross on top. A few shallow puddles on the cracked mud
+catch the last warm light. Dark rocky slopes with dry grass frame the left and
+right edges like a soft vignette. The whole CENTRE of the image is calm and
+gently darkened (as if a subtle dark overlay lay over it) so that text on top is
+easy to read. NO people, NO boat, NO objects in the foreground.
+
+TEXT — render every word EXACTLY as written below, correctly spelled, including
+the German letters ä, ö, ü and the long dash —. Use clean, readable classic
+serif lettering in warm cream / off-white, high contrast against the darkened
+background, all lines horizontal and centred, with generous spacing between the
+blocks. Place the text in this order from top to bottom:
+
+TOP (small, letter-spaced, all caps):
+DIE HERRENHAUS-DETEKTIVE
+
+HEADLINE below it (larger, bold, two short lines):
+Dreihundert Jahre lag es unter Wasser.
+Jetzt bleiben sechs Tage.
+
+BODY (normal size, each line on its own line, small gaps between the groups, do
+NOT merge into one paragraph):
+Ein Brief ohne Absender führt Jonas, Mila
+und Ben vierhundert Kilometer fort.
+
+Der Graue See ist fast leer.
+Im Schlamm stehen Mauern, Gassen, ein Kirchturm.
+Hier lag Sternbach.
+
+Vier Familien gingen fort und kamen nie zurück —
+sagt man am See.
+Ein Mädchen glaubt es. Und will es beweisen.
+
+Doch am Freitag schließt das Wehr.
+Dann versinkt alles wieder.
+
+CLOSING LINE (slightly larger, italic):
+Das vierte große Abenteuer der Herrenhaus-Detektive.
+
+FOOTER (small):
+Spannend, lustig und voller Mut — für alle Spürnasen ab 8 Jahren.
+
+BOTTOM-RIGHT CORNER: leave a clean empty light-grey rectangle, about 4 cm wide
+and 2 cm tall, completely free of artwork and text — reserved blank space for the
+printed barcode.
+
+IMPORTANT: spell every German word exactly as given, including ä, ö, ü and the
+dash —. Keep all text inside the safe area, away from the outer edges. Do NOT
+invent or add any extra words, letters, numbers, logos or signatures. Do NOT
+include: people, a boat, monsters, ghosts, skeletons, scary faces, blood, glowing
+eyes, modern elements, cars, phones, neon colours, manga or cartoon style.
+```
+
+**Nachfass-Sätze, falls nötig:**
+
+| Problem | Nachfassen mit |
+|---|---|
+| Ein Wort falsch geschrieben | *„Der Text enthält Schreibfehler. Schreibe exakt, Zeile für Zeile: [betroffene Zeilen]. Ändere sonst nichts am Bild."* |
+| Text schlecht lesbar | *„Dunkle die Mitte des Hintergrunds stärker ab und mach den Text heller (cremeweiß), damit er klar lesbar ist."* |
+| Barcode-Feld fehlt | *„Lass unten rechts ein leeres, hellgraues Rechteck frei, etwa 4 cm breit und 2 cm hoch, komplett ohne Text und Bild — für den Barcode."* |
+| Szene passt nicht zur Front | *„Übernimm exakt die Sonnenuntergangs-Farben und den Turm aus dem angehängten Vordercover. Nur weiter weg und dunkler."* |
+
+> **KDP-Hinweis:** Auch die Rückseite fürs Druck-Taschenbuch auf **1838 × 2775 px**
+> hochskalieren (bzw. gleich groß erzeugen). Der Klappentext für die
+> **Amazon-Produktseite** steht in Abschnitt 7 — dort wird er als echter Text
+> eingegeben und ist immer fehlerfrei.
+
+---
+
 ### Textblock der Rückseite (fertig gesetzt, zentriert, Creme `#E0D4AC`)
+
+> Fallback für den Fall, dass keine Variante von Prompt B2 den Text fehlerfrei
+> rendert: Hintergrund mit Prompt B (ohne Text) erzeugen und diesen Block selbst
+> setzen.
 
 ```
                 DIE HERRENHAUS-DETEKTIVE          ← klein, gesperrt, Versalien
