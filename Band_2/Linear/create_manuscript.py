@@ -563,102 +563,142 @@ def add_review_request_page(doc):
     run.font.name = 'Georgia'
 
 
-def add_band3_teaser(doc):
-    """Erstellt die Vorschau fuer Band 3."""
-    add_page_break(doc)
+BAND3_KAPITEL1 = os.path.join(
+    BASE_DIR, "..", "..", "Band_3", "Linear", "Kapitel",
+    "Die_Herrenhaus_Detektive_Band3_Kapitel1.md")
 
+# Bis hierhin (einschliesslich) laeuft die Leseprobe -- endet auf dem Cliffhanger.
+BAND3_LESEPROBE_ENDE = "Beide zeigten zum Wald."
+
+
+def _lade_band3_leseprobe():
+    """Liest den ECHTEN Anfang von Band 3, Kapitel 1 -- Titel + Text bis zum
+    Cliffhanger. Kein abgetippter Text: die Vorschau bleibt so automatisch
+    synchron mit dem geschriebenen Band 3."""
+    with open(BAND3_KAPITEL1, "r", encoding="utf-8") as f:
+        lines = f.read().split("\n")
+
+    titel = "Das zweite X"
+    prosa, gestartet, fertig = [], False, False
+    for line in lines:
+        m = re.match(r"^# Kapitel\s+1\s*[-\u2014]+\s*(.+)$", line.strip())
+        if m:
+            titel = m.group(1).strip()
+            gestartet = True
+            continue
+        if gestartet and not fertig:
+            prosa.append(line)
+            if line.strip() == BAND3_LESEPROBE_ENDE:
+                fertig = True
+                break
+
+    # In Absatzgruppen aufteilen (Leerzeile trennt), "---" = Szenentrenner
+    gruppen, aktuell = [], []
+    for line in prosa:
+        s = line.strip().replace(" -- ", " — ")   # sauberer Gedankenstrich
+        if not s:
+            if aktuell:
+                gruppen.append(aktuell)
+                aktuell = []
+        elif s == "---":
+            if aktuell:
+                gruppen.append(aktuell)
+                aktuell = []
+            gruppen.append("BREAK")
+        else:
+            aktuell.append(s)
+    if aktuell:
+        gruppen.append(aktuell)
+    return titel, gruppen
+
+
+def add_band3_teaser(doc):
+    """Vorschau auf Band 3: eine echte Leseprobe aus dem geschriebenen Kapitel 1."""
+    add_page_break(doc)
     doc.add_paragraph()
 
-    # Ueberschrift
+    # Kopf
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Vorschau")
+    run = p.add_run("LESEPROBE")
     run.font.size = Pt(11)
     run.font.name = 'Georgia'
     run.font.color.rgb = RGBColor(100, 100, 100)
+    set_tracking(run, 2.6)
     p.paragraph_format.space_after = Pt(4)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run("Die Herrenhaus-Detektive, Band 3")
-    run.font.size = Pt(14)
-    run.font.bold = True
+    run.font.size = Pt(13)
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(4)
+    p.paragraph_format.space_after = Pt(2)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run("Die zweite Quelle")
-    run.font.size = Pt(16)
+    run.font.size = Pt(18)
     run.font.bold = True
     run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(20)
+    p.paragraph_format.space_after = Pt(18)
 
-    # Atmosphaerischer Teaser-Text
-    teaser_lines = [
-        "Der Wald steht dunkel hinter Eichenhain.",
-        "Niemand geht hinein. Nicht seit \u2026",
-        "Kr\u00fcger bricht den Satz ab. Jedes Mal.",
-        "",
-        "Aber auf der Karte gibt es ein zweites X.",
-        "Eine Linie f\u00fchrt \u00fcber Felder, vorbei an der alten Eiche, "
-        "tief in den Wald hinein.",
-        "",
-        "Am Waldrand: eine Markierung.",
-        "Ein Kreis, in die Rinde geritzt.",
-        "Das gleiche Zeichen wie in den G\u00e4ngen unter dem Dorf.",
-        "",
-        "Jemand war vor ihnen dort.",
-        "Vor langer Zeit.",
-        "",
-        "Heinrich Winter hat sein ganzes Leben "
-        "nach der zweiten Quelle gesucht.",
-        "Jetzt will er nach Hause kommen.",
-        "Aber zuerst m\u00fcssen Jonas, Mila und Ben tun, "
-        "was noch niemand geschafft hat.",
-        "",
-        "Den Wald betreten.",
-        "Und sein Geheimnis finden.",
-    ]
+    titel, gruppen = _lade_band3_leseprobe()
 
-    for line in teaser_lines:
-        p = doc.add_paragraph()
-        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        if line:
-            run = p.add_run(line)
-            run.font.size = Pt(11)
-            run.font.name = 'Georgia'
-        p.paragraph_format.space_after = Pt(2)
-        p.paragraph_format.left_indent = Cm(0.8)
-        p.paragraph_format.right_indent = Cm(0.8)
-
-    # Szenen-Trenner
-    doc.add_paragraph()
+    # Kapitel-Ueberschrift der Leseprobe
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("* * *")
+    run = p.add_run("KAPITEL 1")
     run.font.size = Pt(11)
     run.font.name = 'Georgia'
-    p.paragraph_format.space_before = Pt(6)
-    p.paragraph_format.space_after = Pt(14)
+    run.font.color.rgb = RGBColor(90, 90, 90)
+    set_tracking(run, 2.6)
+    p.paragraph_format.space_after = Pt(6)
 
-    # Hook-Fragen
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run(
-        "Was verbirgt der Wald seit Jahrhunderten?\n"
-        "Warum geht niemand hinein?\n"
-        "Und was hat Heinrich Winter dort gesehen?"
-    )
-    run.font.size = Pt(11)
+    run = p.add_run(titel)
+    run.font.size = Pt(15)
+    run.font.bold = True
     run.font.name = 'Georgia'
-    run.font.italic = True
     p.paragraph_format.space_after = Pt(16)
 
-    # Call to Action
+    # Echter Text -- als Buch-Fliesstext (links, mit Kursiv-Erkennung)
+    for gruppe in gruppen:
+        if gruppe == "BREAK":
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            run = p.add_run("* * *")
+            run.font.size = Pt(11)
+            run.font.name = 'Georgia'
+            p.paragraph_format.space_before = Pt(6)
+            p.paragraph_format.space_after = Pt(6)
+            continue
+        p = doc.add_paragraph()
+        p.paragraph_format.space_before = Pt(4)
+        p.paragraph_format.space_after = Pt(0)
+        add_text_to_paragraph(p, " ".join(gruppe))
+
+    # Ueberleitung
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Band 3: Die zweite Quelle")
+    run = p.add_run("[ \u2026 ]")
+    run.font.size = Pt(12)
+    run.font.name = 'Georgia'
+    run.font.color.rgb = RGBColor(120, 120, 120)
+    p.paragraph_format.space_before = Pt(14)
+    p.paragraph_format.space_after = Pt(14)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Wie es weitergeht, liest du in")
+    run.font.size = Pt(11)
+    run.font.italic = True
+    run.font.name = 'Georgia'
+    p.paragraph_format.space_after = Pt(2)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Die zweite Quelle")
     run.font.size = Pt(13)
     run.font.bold = True
     run.font.name = 'Georgia'
@@ -666,10 +706,9 @@ def add_band3_teaser(doc):
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Erscheint bald!")
-    run.font.size = Pt(12)
+    run = p.add_run("Das dritte gro\u00dfe Abenteuer der Herrenhaus-Detektive.")
+    run.font.size = Pt(11)
     run.font.name = 'Georgia'
-    run.font.bold = True
 
 
 def _add_series_block(doc, title, description, band_info=None):
