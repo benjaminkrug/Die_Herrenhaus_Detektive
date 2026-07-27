@@ -33,7 +33,7 @@ _ROOT = os.path.dirname(os.path.abspath(__file__))
 ASIN = {
     1: "B0GNZDSLSH",   # Das verbotene Herrenhaus
     2: "B0GV3LJ1W9",   # Das Geheimnis des Brunnens
-    # 3: "...",        # Die zweite Quelle       -- ASIN eintragen
+    3: "B0H5B5WSP5",   # Die zweite Quelle
     # 4: "...",        # Das versunkene Dorf      -- noch nicht veroeffentlicht
 }
 
