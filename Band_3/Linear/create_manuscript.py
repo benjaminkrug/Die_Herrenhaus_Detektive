@@ -15,6 +15,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 KAPITEL_DIR = os.path.join(BASE_DIR, "Kapitel")
 OUTPUT_FILE = os.path.join(BASE_DIR, "Manuskript.docx")
 
+# Rezensions-QR-Code (fuehrt direkt zum Amazon-Bewertungsformular).
+# Erzeugt + gegengelesen von ../../build_qr_rezension.py (ASIN Band 3 noetig).
+QR_REZENSION = os.path.join(BASE_DIR, "..", "Cover", "qr_rezension_band3.png")
+
 # KDP Taschenbuch 6x9 Zoll (15.24 x 22.86 cm) - wie Band 2
 PAGE_WIDTH = Cm(15.24)
 PAGE_HEIGHT = Cm(22.86)
@@ -64,30 +68,31 @@ def setup_document():
     paragraph_format.space_after = Pt(0)
     paragraph_format.line_spacing = Pt(14)
 
-    # Heading 1 Style anpassen (fuer navigierbares eBook-Inhaltsverzeichnis)
+    # Heading 1 Style = Kapiteltitel (Kindle erkennt Heading 1 als Kapitel).
+    # Muster A: groesser (17pt) und mehr Luft nach unten (22pt).
     h1_style = doc.styles['Heading 1']
     h1_font = h1_style.font
     h1_font.name = 'Georgia'
-    h1_font.size = Pt(14)
+    h1_font.size = Pt(17)
     h1_font.bold = True
     h1_font.color.rgb = RGBColor(0, 0, 0)
     h1_format = h1_style.paragraph_format
     h1_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h1_format.space_before = Pt(0)
-    h1_format.space_after = Pt(10)
+    h1_format.space_after = Pt(22)
     h1_format.page_break_before = False  # Wir machen den Seitenumbruch manuell
 
-    # Heading 2 Style fuer Kapitelnummer (Kindle erkennt Heading 1 als Kapitel)
+    # Heading 2 Style = Kapitelnummer (gesperrte graue Versalien, Muster A).
     h2_style = doc.styles['Heading 2']
     h2_font = h2_style.font
     h2_font.name = 'Georgia'
     h2_font.size = Pt(11)
     h2_font.bold = False
-    h2_font.color.rgb = RGBColor(100, 100, 100)
+    h2_font.color.rgb = RGBColor(90, 90, 90)
     h2_format = h2_style.paragraph_format
     h2_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h2_format.space_before = Pt(0)
-    h2_format.space_after = Pt(2)
+    h2_format.space_after = Pt(14)
 
     # Seitenformat (5x8 Zoll)
     section = doc.sections[0]
@@ -149,6 +154,14 @@ def add_hyperlink(paragraph, bookmark_name, text, font_name='Georgia', font_size
 def add_page_break(doc):
     """Fuegt einen Seitenumbruch ein."""
     doc.add_page_break()
+
+
+def set_tracking(run, points):
+    """Sperrung (letter-spacing) in Punkten auf einen Run legen."""
+    rpr = run._element.get_or_add_rPr()
+    sp = OxmlElement('w:spacing')
+    sp.set(qn('w:val'), str(int(points * 20)))  # Wert in Twips (1/20 pt)
+    rpr.append(sp)
 
 
 def add_title_page(doc):
@@ -326,17 +339,22 @@ def add_chapter(doc, chapter_num, title, content):
     """Fuegt ein Kapitel zum Dokument hinzu."""
     add_page_break(doc)
 
-    # Leerraum oben (kompakt)
-    p = doc.add_paragraph()
-    p.paragraph_format.space_after = Pt(10)
+    # "Sink": echter Leerraum-Absatz, damit der Kapitelkopf nach unten einrueckt.
+    # 56pt (wie Band 4, 6x9-Format). Bewusst NICHT ueber space_before der ersten
+    # Zeile (Word verwirft Abstand am Seitenanfang).
+    spacer = doc.add_paragraph()
+    spacer.paragraph_format.space_before = Pt(0)
+    spacer.paragraph_format.space_after = Pt(56)
 
-    # Kapitelnummer (Heading 2 — wird im eBook als Sub-Heading erkannt)
+    # Kapitelnummer (Heading 2): gesperrte graue Versalien
     if chapter_num == 19:
-        label = "Epilog"
+        label = "EPILOG"
     else:
-        label = f"Kapitel {chapter_num}"
+        label = f"KAPITEL {chapter_num}"
 
     p = doc.add_heading(label, level=2)
+    if p.runs:
+        set_tracking(p.runs[0], 2.6)
 
     # Kapiteltitel als Heading 1 mit Bookmark (fuer navigierbares TOC)
     bookmark_name = f"kapitel_{chapter_num}"
@@ -494,6 +512,37 @@ def add_review_request_page(doc):
         p.paragraph_format.left_indent = Cm(1.0)
         p.paragraph_format.right_indent = Cm(1.0)
 
+    # QR-Code direkt zum Amazon-Bewertungsformular
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Einfach den Code scannen und eine Bewertung dalassen:")
+    run.font.size = Pt(11)
+    run.font.italic = True
+    run.font.name = 'Georgia'
+    p.paragraph_format.space_after = Pt(8)
+
+    if os.path.isfile(QR_REZENSION):
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        # Normal-Stil hat EXAKTEN Zeilenabstand (Pt(14)) -- wuerde das Bild
+        # abschneiden. Fuer den Bild-Absatz auf einfachen Zeilenabstand.
+        p.paragraph_format.line_spacing = 1.0
+        p.paragraph_format.space_before = Pt(6)
+        p.paragraph_format.space_after = Pt(6)
+        p.add_run().add_picture(QR_REZENSION, width=Inches(1.5))
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("(Handykamera auf den Code halten – "
+                        "der Link öffnet sich von selbst.)")
+        run.font.size = Pt(9)
+        run.font.italic = True
+        run.font.name = 'Georgia'
+        p.paragraph_format.space_after = Pt(10)
+    else:
+        print(f"  WARNUNG: QR-Code fehlt (ASIN Band 3 noetig): {QR_REZENSION}")
+
     # Abschluss
     doc.add_paragraph()
     p = doc.add_paragraph()
@@ -512,99 +561,134 @@ def add_review_request_page(doc):
     run.font.name = 'Georgia'
 
 
-def add_band4_teaser(doc):
-    """Erstellt die Vorschau fuer Band 4."""
-    add_page_break(doc)
+BAND4_KAPITEL1 = os.path.join(
+    BASE_DIR, "..", "..", "Band_4", "Linear", "Kapitel",
+    "Die_Herrenhaus_Detektive_Band4_Kapitel1.md")
 
+# Bis hierhin (einschliesslich) laeuft die Leseprobe -- Cliffhanger am Kapitelende.
+BAND4_LESEPROBE_ENDE = "Diesmal widersprach ihm keiner."
+
+
+def _lade_band4_leseprobe():
+    """Liest den ECHTEN Anfang von Band 4, Kapitel 1 -- Titel + Text bis zum
+    Cliffhanger. Kein abgetippter Text: die Leseprobe bleibt automatisch
+    synchron mit dem geschriebenen Band 4."""
+    with open(BAND4_KAPITEL1, "r", encoding="utf-8") as f:
+        lines = f.read().splitlines()
+
+    titel = "Der Brief"
+    prosa, gestartet, fertig = [], False, False
+    for line in lines:
+        m = re.match(r"^# Kapitel\s+1\s*[-—]+\s*(.+)$", line.strip())
+        if m:
+            titel = m.group(1).strip()
+            gestartet = True
+            continue
+        if gestartet and not fertig:
+            prosa.append(line)
+            if line.strip() == BAND4_LESEPROBE_ENDE:
+                fertig = True
+                break
+
+    gruppen, aktuell = [], []
+    for line in prosa:
+        t = line.strip().replace(" -- ", " — ")   # sauberer Gedankenstrich
+        if not t:
+            if aktuell:
+                gruppen.append(aktuell); aktuell = []
+        elif t == "---":
+            if aktuell:
+                gruppen.append(aktuell); aktuell = []
+            gruppen.append("BREAK")
+        else:
+            aktuell.append(t)
+    if aktuell:
+        gruppen.append(aktuell)
+    return titel, gruppen
+
+
+def add_band4_teaser(doc):
+    """Vorschau auf Band 4: echte Leseprobe aus dem geschriebenen Kapitel 1."""
+    add_page_break(doc)
     doc.add_paragraph()
 
-    # Ueberschrift
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Vorschau")
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
+    run = p.add_run("LESEPROBE")
+    run.font.size = Pt(11); run.font.name = 'Georgia'
     run.font.color.rgb = RGBColor(100, 100, 100)
+    set_tracking(run, 2.6)
     p.paragraph_format.space_after = Pt(4)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run("Die Herrenhaus-Detektive, Band 4")
-    run.font.size = Pt(14)
-    run.font.bold = True
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(20)
+    run.font.size = Pt(13); run.font.name = 'Georgia'
+    p.paragraph_format.space_after = Pt(2)
 
-    # Atmosphaerischer Teaser-Text
-    teaser_lines = [
-        "In Jonas' Tasche liegt eine Münze.",
-        "Drei Wellen und ein Stern, in das Metall geprägt.",
-        "",
-        "Es ist kein Zeichen aus Eichenhain.",
-        "Kein Wappen, das die Kinder kennen.",
-        "Auf dem alten Pergament fehlte genau dieses Stück.",
-        "",
-        "Die vier Familien kamen von irgendwoher.",
-        "Von weit her. Aus einem Ort, den niemand mehr nennt.",
-        "",
-        "Und das Zeichen zeigt nach draußen.",
-        "Weit hinter die Hügel.",
-        "Dorthin, wo Jonas, Mila und Ben noch nie gewesen sind.",
-        "",
-        "Manche Geschichten enden nicht.",
-        "Sie warten nur auf jemanden,",
-        "der mutig genug ist, die nächste Seite umzublättern.",
-    ]
-
-    for line in teaser_lines:
-        p = doc.add_paragraph()
-        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        if line:
-            run = p.add_run(line)
-            run.font.size = Pt(11)
-            run.font.name = 'Georgia'
-        p.paragraph_format.space_after = Pt(2)
-        p.paragraph_format.left_indent = Cm(0.8)
-        p.paragraph_format.right_indent = Cm(0.8)
-
-    # Szenen-Trenner
-    doc.add_paragraph()
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("* * *")
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_before = Pt(6)
-    p.paragraph_format.space_after = Pt(14)
+    run = p.add_run("Das versunkene Dorf")
+    run.font.size = Pt(18); run.font.bold = True; run.font.name = 'Georgia'
+    p.paragraph_format.line_spacing = 1.0
+    p.paragraph_format.space_after = Pt(18)
 
-    # Hook-Fragen
+    titel, gruppen = _lade_band4_leseprobe()
+
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run(
-        "Woher kamen die vier Familien wirklich?\n"
-        "Was bedeutet das fremde Zeichen?\n"
-        "Und was wartet weit hinter den Hügeln?"
-    )
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
-    run.font.italic = True
+    run = p.add_run("KAPITEL 1")
+    run.font.size = Pt(11); run.font.name = 'Georgia'
+    run.font.color.rgb = RGBColor(90, 90, 90)
+    set_tracking(run, 2.6)
+    p.paragraph_format.space_after = Pt(6)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(titel)
+    run.font.size = Pt(15); run.font.bold = True; run.font.name = 'Georgia'
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(16)
 
-    # Call to Action
+    for gruppe in gruppen:
+        if gruppe == "BREAK":
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            run = p.add_run("* * *")
+            run.font.size = Pt(11); run.font.name = 'Georgia'
+            p.paragraph_format.space_before = Pt(6)
+            p.paragraph_format.space_after = Pt(6)
+            continue
+        p = doc.add_paragraph()
+        p.paragraph_format.space_before = Pt(4)
+        p.paragraph_format.space_after = Pt(0)
+        add_text_to_paragraph(p, " ".join(gruppe))
+
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Die Herrenhaus-Detektive, Band 4")
-    run.font.size = Pt(13)
-    run.font.bold = True
-    run.font.name = 'Georgia'
+    run = p.add_run("[ … ]")
+    run.font.size = Pt(12); run.font.name = 'Georgia'
+    run.font.color.rgb = RGBColor(120, 120, 120)
+    p.paragraph_format.space_before = Pt(14)
+    p.paragraph_format.space_after = Pt(14)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Wie es weitergeht, liest du in")
+    run.font.size = Pt(11); run.font.italic = True; run.font.name = 'Georgia'
+    p.paragraph_format.space_after = Pt(2)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Das versunkene Dorf")
+    run.font.size = Pt(13); run.font.bold = True; run.font.name = 'Georgia'
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(4)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Erscheint bald!")
-    run.font.size = Pt(12)
-    run.font.name = 'Georgia'
-    run.font.bold = True
+    run = p.add_run("Das vierte große Abenteuer der Herrenhaus-Detektive.")
+    run.font.size = Pt(11); run.font.name = 'Georgia'
 
 
 def _add_series_block(doc, title, description, band_info=None):
