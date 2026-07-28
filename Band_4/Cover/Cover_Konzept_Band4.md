@@ -145,7 +145,107 @@ Keine moderne Technik, keine Neonfarben, kein Manga-/Cartoon-Stil.
 
 ---
 
-## 4. Prompt A — VORDERSEITE, Illustration OHNE Text ★ empfohlen
+## 4. Prompt A — VORDERSEITE MIT GROSSEM TITEL (wie Band 1–3) ★ AKTUELL
+
+> **Das ist der maßgebliche Prompt.** Band 1, 2 und 3 haben inzwischen alle einen
+> **großen Goldtitel im Bild** (kein separater Satz mehr). Damit Band 4 im Regal
+> zur Reihe passt, bekommt es denselben Look — großer Titel „DAS VERSUNKENE DORF",
+> Sicherheitsrand, 2:3. Der frühere „ohne Text + separat setzen"-Ansatz (Abschnitt
+> 4b/5) ist damit **überholt**, bleibt nur als Fallback dokumentiert.
+>
+> Referenzbild anhängen: eine fertige Reihen-Front mit großem Titel
+> (z. B. Band 3 `front_band3.png`) — für Stil, Kinder und den Gold-Titel-Look.
+
+```
+Erzeuge ein fertiges Buch-Vordercover im Hochformat (portrait, Seitenverhaeltnis
+2:3), mit dem Titeltext direkt und korrekt im Bild. Halte dich an Stil, Malweise
+und Farbwelt des angehaengten Referenz-Covers (dieselbe Reihe) - dieselben drei
+Kinder, dieselbe atmosphaerische Daemmerung, derselbe goldene Titel-Look.
+
+SAFE MARGINS (CRITICAL - the outer edges get trimmed when the book is printed):
+- The WHOLE title must fit inside the central 80% of the width. There MUST be
+  clearly visible empty background - at least the width of two big letters -
+  to the LEFT of the leftmost letter AND to the RIGHT of the rightmost letter of
+  every single title line. The title NEVER touches or approaches the side edges.
+- Keep ALL other text too - series line, band number, author - inside the same
+  central safe area: at least 10% of the width free on the LEFT and RIGHT, at
+  least 7% of the height free at the TOP, at least 6% at the BOTTOM.
+- NO letter of any text may touch or reach an outer edge.
+- Better a slightly smaller title with clear margins than a big title that
+  touches the edge. When in doubt, shrink the title.
+- The illustration still fills the whole image to the edges; only the TEXT stays
+  inside the safe margin.
+
+Semi-realistic, richly painted digital illustration for a German children's
+detective-adventure series, target age 8-10. Cinematic, atmospheric, warm,
+mysterious and inviting - absolutely NOT scary, NOT horror.
+
+LIGHT: a LOW EVENING SUN just above the horizon, raking almost horizontally
+across the scene. Warm amber and golden light along the horizon, deepening upward
+into a deep teal-blue dusk sky. Long soft shadows. This is warm raking side light,
+NOT a magical glow.
+
+COMPOSITION (portrait, taller than wide):
+- The UPPER ~40% is calm dusk sky - room for the title (title inside the side
+  margins, not edge to edge). The horizon sits low, around 55% of the height.
+- We stand BEHIND three children and look with them across a vast dried-out
+  lake bed.
+
+SCENE: dusk over a wide, empty, dried-out lake bed of cracked grey-brown mud. Far
+out in the mud stands a lone old stone church tower, narrow and slightly leaning,
+with a simple iron cross on top, dark in silhouette against the amber sky.
+IMPORTANT DETAIL: a DARK HORIZONTAL BAND runs all the way around the tower stone
+HIGH UP near the top - an old waterline mark, straight and level, clearly visible.
+Between the children and the tower, low broken stone walls rise out of the mud
+like teeth, and a CHAIN OF SHALLOW PUDDLES reflects the amber sky, leading the eye
+to the tower. At one side lies a small OLD ROWING BOAT painted blue, paint
+flaking, empty.
+
+THE THREE CHILDREN (seen from behind, same kids as the reference cover), standing
+close together in the lower third at the edge where dry grass and gravel stop and
+the grey mud begins:
+- LEFT - MILA: a girl, dark hair in a ponytail, hoodie.
+- CENTER - JONAS: a boy, brown messy hair, a backpack.
+- RIGHT - BEN: a boy, a little shorter, wearing a bright RED BASEBALL CAP
+  (clearly visible, essential recurring detail), holding a long wooden stick, its
+  tip resting on the ground.
+
+TEXT ON THE COVER (spell every word EXACTLY, clean warm-gold serif lettering,
+high contrast, ALL of it inside the safe margin described above):
+- Top, small, letter-spaced caps: DIE HERRENHAUS-DETEKTIVE
+- Just below, smaller, with a short dash each side: - BAND 4 -
+- The MAIN TITLE, large and dominant but clearly within the side margins, in two
+  lines of bold golden letters:
+  DAS VERSUNKENE
+  DORF
+- Bottom centre, above the bottom margin: Benjamin Krug
+
+The main title should be large - about 35% of the cover height - BUT it must NEVER
+be wider than 80% of the cover, and it must keep clear empty space on the left and
+right of every line. If in doubt, make the title smaller rather than let it touch
+the edges. Spell every word exactly. Do NOT add any other words, letters or
+numbers. Do NOT include: monsters, ghosts, skeletons, scary faces, glowing eyes,
+blood, boats with people in them, a fourth child, a mansion, modern elements,
+cars, phones, neon colours, manga or cartoon style.
+```
+
+**Nachfass-Sätze:**
+- Titel zu breit: *„Der Titel beruehrt noch den Rand. Mach ihn kleiner und lasse
+  auf beiden Seiten mindestens 10% freien Himmel."*
+- Wasserrand fehlt: *„Der dunkle waagerechte Wasserstands-Ring am Turm fehlt.
+  Setze ihn deutlich sichtbar hoch oben rund um den Turm, knapp unter die
+  Spitze."*
+- Bens Kappe rot statt Shirt: *„Ben traegt eine rote Baseballkappe, aber ein
+  gruenes Shirt - nicht rot."*
+
+---
+
+## 4-alt. Prompt A (ÜBERHOLT) — VORDERSEITE, Illustration OHNE Text
+
+> **Nur Fallback.** Der Reihen-Look nutzt jetzt den großen Titel im Bild
+> (Abschnitt 4). Diese text-freie Fassung + separater Satz (Abschnitt 5) bleibt
+> als Rückfalloption, falls das Bildmodell den großen Titel partout nicht sauber
+> schreibt.
 
 > **Warum ohne Text?** Deutsche Umlaute und lange Komposita sind genau die
 > Stelle, an der Bildmodelle scheitern, und Reihen-Typografie lässt sich nur mit
