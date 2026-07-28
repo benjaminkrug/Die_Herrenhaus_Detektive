@@ -34,7 +34,7 @@ ASIN = {
     1: "B0GNZDSLSH",   # Das verbotene Herrenhaus
     2: "B0GV3LJ1W9",   # Das Geheimnis des Brunnens
     3: "B0H5B5WSP5",   # Die zweite Quelle
-    # 4: "...",        # Das versunkene Dorf      -- noch nicht veroeffentlicht
+    4: "B0HBWVMTS2",   # Das versunkene Dorf
 }
 
 URL_MUSTER = "https://www.amazon.de/review/create-review?asin={asin}"
