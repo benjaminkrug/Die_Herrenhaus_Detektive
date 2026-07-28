@@ -77,6 +77,35 @@ Analyse + Empfehlung je Punkt — **entschieden wird mit dem Autor.**
 **Zuflucht und als Hüter-Auftrag** schufen — und dass das Erbe nie zum Besitzen
 gedacht war, sondern zum gemeinsamen Tragen.
 
+### ⭐ Umlagerung (Uniqueness-Fix, mit Autor entschieden)
+
+**Der Motor ist keine Objekt-Jagd, sondern eine menschliche Frage:**
+
+> **Gehört die fünfte Familie — Nele — wirklich dazu?**
+
+Grund: „Sammle die drei Münzen" würde Band 2 wiederholen (dort: sammle die vier
+Familien-Erbstücke). Deshalb dienen die **Münzen/das Wappen als Beweisstücke** in
+einer größeren Frage, sie sind nicht die Struktur.
+
+- **Der Riss** dreht sich nicht nur ums Geld/Erbe, sondern um **einen Menschen:**
+  Ein Teil des Dorfes sträubt sich gegen Nele — die Ahrens *blieben zurück*,
+  während „unsere" Familien gründeten (und standen in der alten Sternbach-Geschichte
+  auf der „anderen Seite"). Nimmt Eichenhain sie auf?
+- **Das Zuflucht-Thema wird aktiv statt historisch:** nicht „früher war Eichenhain
+  eine Zuflucht", sondern *jetzt*: „Sind wir es noch?" → derselbe Serie-2-Motor
+  „beschützen/handeln", schon in Band 5 lebendig.
+- **Ein Herz statt zwei Stränge:** Mystery (Münzen/Wappen) und Emotion
+  (Nele/Zugehörigkeit) sind **eine** Sache.
+- **Der Tiefpunkt** ist nicht „die letzte Münze fehlt", sondern **„Nele will gehen,
+  weil das Dorf sie nicht will."**
+- **Die Wende ist eine Wahl, kein Beweis** (Band-4-Prinzip: die Großmutter wird
+  von ihrer Enkelin umgestimmt, nicht vom Stein). Belonging kann man nicht
+  beweisen — nur wählen.
+- **Meier trägt den Ensemble-Bogen der ganzen Serie:** Band 1 Antagonist (sperrt
+  die Kinder aus) → Band 2 stolzer Gründer-Erbe → Band 5: *sein Stolz* ist es, der
+  sich zuerst gegen die fünfte Familie sträubt — und *seine* Wahl, Nele
+  aufzunehmen, vollendet den Bogen. Der Mann, der einst aussperrte, nimmt auf.
+
 **Wie alles ineinandergreift:**
 - **Der Riss** (wem gehört das Erbe?) ist der Motor. Er löst sich nicht durch ein
   Machtwort, sondern **weil der Fund selbst zeigt: eine Aufgabe kann man nicht
