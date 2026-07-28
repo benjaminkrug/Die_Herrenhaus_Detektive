@@ -227,7 +227,7 @@ def add_impressum_page(doc):
         "",
         "Independently published",
         "",
-        "ISBN: ###ISBN_BAND4###",
+        "ISBN: 9798188627935",
         "",
         "Dieses Buch ist ein Werk der Fiktion. Namen, Personen,",
         "Orte und Ereignisse sind frei erfunden. Jede Ähnlichkeit",
