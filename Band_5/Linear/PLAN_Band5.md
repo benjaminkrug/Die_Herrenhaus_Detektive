@@ -49,21 +49,61 @@ Rückgrat = Band-4-Pipeline. **Fett = Finale-Zusatz gegenüber Band 4.**
 
 Analyse + Empfehlung je Punkt — **entschieden wird mit dem Autor.**
 
-1. **Dramatischer Motor in der Gegenwart?**
-   *Empfehlung: ja, aber leise.* Kein Bösewicht — ein Wettlauf/Druck (jemand
-   anderes will die Münzen; Streit im Dorf, wem sie gehören; eine Frist). Wie
-   Band 4s Countdown.
-2. **Kommt Nele nach Eichenhain?**
-   *Empfehlung: ja.* Strukturell nötig (siehe Serie-2-Brücke: sie ist der
-   Neuling-Stellvertreter) und ihr Bogen verdient einen physischen Abschluss.
-3. **Was öffnet das vollständige Wappen — was ist die „Aufgabe der Gründer"?**
-   Die eigentliche Finalfrage. *Nicht sofort festnageln* — in Phase 1 aus mehreren
-   Optionen erarbeiten und begründen (wie Band 4). Rahmen steht: **kein Schatz,
-   sondern eine Aufgabe** (warum Eichenhain existiert / was es schützen soll).
+1. **Dramatischer Motor.** ✅ **ENTSCHIEDEN: Riss in der Dorfgemeinschaft.**
+   Der Fund spaltet Eichenhain — wem gehört das Erbe der Gründer? Die Nachfahren
+   (Meier, Bergmann, Winter …) geraten aneinander; die Kinder müssen das Ensemble
+   zusammenhalten und versöhnen. Figuren-getrieben, kein Bösewicht. Zahlt alle
+   Gründerfamilien aus und bringt sie an einen Tisch.
+2. **Nele.** ✅ **ENTSCHIEDEN: Nele zieht nach Eichenhain.** Stärkster Abschluss
+   ihres Bogens UND Serie-2-Brückenkopf (Kanon für Wiederkehrer, Neuling für neue
+   Leser). Als Außenseiterin ohne Anteil an der Familien-Rivalität kann sie
+   zugleich der klare, neutrale Blick im Riss sein.
+3. **Was öffnet das vollständige Wappen?** ✅ **ENTSCHIEDEN: Zuflucht + Hüter
+   (Fusion).** Die Gründer waren selbst Flüchtige (aus Sternbach). Sie gründeten
+   Eichenhain als **Ort, der Menschen aufnimmt** — und wurden zugleich betraut,
+   etwas zu **bewahren** (die Heilquelle / das, was den Ort besonders macht). Die
+   Aufgabe: den Ort ein Zuhause halten UND das Anvertraute schützen. *Details
+   (was genau bewahrt wird, wie das Wappen es öffnet) in Phase 1.*
 4. **Die Serie-2-Tür.** ⭐
    *Festgelegt mit dem Autor (siehe Abschnitt 3):* Band 5 schließt die Handlung
    **vollständig**, lässt aber am Ende **emotional** eine Tür einen Spalt offen —
    ein Flüstern, kein Cliffhanger, **keine Information, die Serie 2 braucht.**
+
+---
+
+## 1b. Konzept-Kern Band 5 (aus den Phase-0-Entscheidungen — Saat für die Outline)
+
+**Der Satz:** Das vollständige Wappen enthüllt, dass die Gründer Eichenhain als
+**Zuflucht und als Hüter-Auftrag** schufen — und dass das Erbe nie zum Besitzen
+gedacht war, sondern zum gemeinsamen Tragen.
+
+**Wie alles ineinandergreift:**
+- **Der Riss** (wem gehört das Erbe?) ist der Motor. Er löst sich nicht durch ein
+  Machtwort, sondern **weil der Fund selbst zeigt: eine Aufgabe kann man nicht
+  besitzen, nur gemeinsam tragen.** Die vier Nachfahren-Familien (Meier,
+  Bergmann, Hoffmann, Winter) müssen von „meins" zu „unseres".
+- **Die drei fehlenden Münzen + das fünfte Zeichen** sind der Detektiv-Weg dahin:
+  Jede Münze sitzt bei einer Nachfahren-Familie; das fünfte Zeichen gehört den
+  **Ahrens** — Neles Linie. Erst alle fünf zusammen vervollständigen das Wappen.
+- **Nele** ist der Schlüssel und der Beweis: die letzte Sternbach-Nachfahrin
+  kommt nach Eichenhain — dorthin, das ihre Vorfahren mitgegründet haben. **Das
+  Aufnehmen der Heimatlosen, das die Gründer als Aufgabe hinterließen, geschieht
+  im Finale leibhaftig.** Voller Kreis: Sternbachs Familien gründeten Eichenhain;
+  die letzte Sternbacherin kommt heim.
+- **Serie-1-Bogen schließt:** Haus → Dorf → Herkunft → **Sinn** (wozu das alles).
+- **Serie-2-Keim (nur Flüstern):** Die Kinder erben die Hüter-Aufgabe. Serie 2 =
+  sie leben sie („beschützen"). Band 5 baut das NICHT mechanisch auf — es hallt
+  nur im Epilog nach.
+
+**Verknüpfung mit dem ganzen Wasser-Motiv der Reihe:** Heilquelle (Band 1,
+Gründungsmythos „Gegründet an der Heilquelle — Seit 1712"), Brunnen/erste Quelle
+(Band 2), zweite Quelle (Band 3), versunkenes Sternbach (Band 4). Das „Anvertraute"
+in Phase 1 sollte an diesen roten Faden andocken — noch offen, aber der Kandidat
+liegt nahe (die Quelle als das, was Eichenhain hütet).
+
+> **Wachpunkt Ton:** kein Pathos, keine Predigt. Die „Aufgabe" muss für 8-10-
+> Jährige greifbar und konkret bleiben (ein Ort, eine Handlung, eine Geste) — wie
+> die Münze in Band 4 die abstrakte „Schuld" greifbar machte.
 
 ---
 
