@@ -35,26 +35,78 @@ frische Enthüllung liegt im **ZUFLUCHT-Teil und in der FÜNFTEN Familie:**
 Das ist neu, baut auf Band 2 auf (statt es zu wiederholen) und verbindet
 Band 4 (Sternbach/Flüchtlinge) mit Band 1 (Zugehörigkeit). **Das ist der Kern.**
 
+### Der Twist ist in Band 4 schon vorbereitet (am Primärtext belegt)
+
+Der Band-5-Twist — *die Fünfte wurde nicht vergessen, sondern beim Gründen
+weggelassen* — erfindet keine Dunkelheit, er **löst eine ein**, die Band 4 legte:
+
+- **Band 4 Kap 6:** *„Vier davon sind gegangen. In der Nacht. […] Sie haben
+  gesagt, sie kommen wieder." — „Es kam niemand."* + Kap 17: *„da war niemand
+  mehr."* → **Die vier Gründer verließen die Fünfte und kamen zu spät.** Schuld =
+  Kanon.
+- **Band 2 Kap 15 (Gründerbrief):** erzählt nur *harter Winter → warme Quelle →
+  Häuser drumherum*. **Kein Sternbach, keine Flut, keine Fünfte** — die **geschönte
+  Gründungslegende**, die das Verlassen verschweigt. Genau das deckt Band 5 auf.
+- **Band 4 Kap 19:** *„Da müssten eigentlich fünf sein."* / *„Niemand hatte ihn je
+  gefragt, ob er dazugehört. Er hatte einfach geantwortet."* (= die These von Band 5).
+
+**Zwei Präzisierungen, die die Bücher erzwingen:**
+1. **Founding-time, nicht schleichend:** Band 2 zeigt das Wappen von Anfang an mit
+   **vier** Symbolen (Zeitkapsel + Höhlenzeichnung *„vier Figuren"*). Also bei der
+   Gründung weggelassen, der *Grund* über Generationen vergessen.
+2. **Ton (Band 4-Wachpunkt):** Flut nie als Opfer-Drama; Winter-Kind
+   (Grabstein 1699--1710) **bewusst offen**. Twist mit Zurückhaltung erzählen —
+   es geht um **Verlassen + verlorene Heimat**, nicht um Tote. **Nicht auflösen.**
+
 ---
 
-## 1. Die Münzen — zwei Gruppen, NIE verwechseln (Band 4 Kanon)
+## 1. Die Münzen — Pfänder der vier Familien (Band 4 Kanon, am Primärtext geprüft)
 
-| | **A — mitgenommen** | **B — zurückgelassen** |
-|---|---|---|
-| Wer | die 4 Familien → nach Eichenhain | die Ahrens, in Sternbach |
-| Heute | **1 zurückgegeben (Winter, Band 4, jetzt unter Wasser), 3 verschollen** | 1 bei Großmutter Ahrens, 3 über Generationen verloren |
-| Gehören in | Gedenkstein (Sternbach) | Steinblock im 5. Haus (Sternbach) |
+> **KORRIGIERT nach Lesen von Band 4 Kap 6/17/18** — die frühere Fassung dieser
+> Tabelle war falsch (sagte „1 bei Großmutter Ahrens"). Der echte Text sagt etwas
+> anderes, und das hat direkte Folgen für Band 5.
 
-**Band-5-Jagd = die drei verschollenen Gruppe-A-Münzen (Meier, Bergmann,
-Hoffmann).** Milas Schlussfrage in Band 4 Kap 18 („Und die anderen drei Münzen?")
+**Was Band 4 wirklich festlegt (Kap 17--18):**
+- Die **vier Familien, die Sternbach verließen** (Meier, Bergmann, Hoffmann,
+  Winter), nahmen je ein **Pfand** (Münze) mit — man nimmt ein Pfand und **kommt
+  wieder, um es zurückzugeben.**
+- Sie **kamen wieder** — aber Sternbach war schon ertrunken, *„da war niemand
+  mehr"* → sie konnten die Pfänder **nicht zurückgeben** und steckten sie wieder
+  ein. *„Deshalb war sie noch bei uns. Dreihundert Jahre lang."* (Kap 17)
+- Der **Gedenkstein** (Sternbach) hat **vier Mulden** für diese vier Pfänder.
+- **Band 4 Kap 18:** Jonas legt **Winters Münze** in eine Mulde; **Frau Ahrens
+  legt IHRE Münze** (das einzige Ahrens-Andenken, Kap 6 *„Eins ist uns geblieben"*)
+  **in die Mulde daneben.** → *„Zwei von vier."* Beide liegen jetzt **unter Wasser.**
+
+| Münze | Stand am Ende von Band 4 |
+|-------|--------------------------|
+| **Winter** (Blume) | **zurückgegeben**, Gedenkstein, unter Wasser — **nicht zurückfordern** |
+| **Ahrens** (Nele/Oma) | **zurückgegeben**, Gedenkstein, unter Wasser — **die Ahrens haben KEINE Münze mehr** |
+| **Meier** (Baum) | **noch bei der Familie / verschollen in Eichenhain** → Band-5-Jagd |
+| **Bergmann** (Kreuz) | **noch bei der Familie / verschollen** → Band-5-Jagd |
+| **Hoffmann** (Ring) | **weggezogene Linie, verschollen** → Band-5-Jagd (wackeligster Faden) |
+
+**Band-5-Jagd = die drei noch bei den Familien liegenden Pfänder (Meier, Bergmann,
+Hoffmann).** Milas Schlussfrage Band 4 Kap 18 („Und die anderen drei Münzen?")
 meint genau diese.
 
-> **HARTE REGEL:** Winters Münze ist in Band 4 **zurückgegeben** (emotionaler
-> Höhepunkt) und liegt jetzt unter Wasser in Sternbach. **Band 5 darf sie NICHT
-> zurückfordern** — sonst entwertet es Band 4s Ende. Das Finale braucht also einen
-> Mechanismus, der die zurückgegebene Münze NICHT physisch braucht (z. B. Abrieb/
-> Wissen/Zeichnung statt Original, oder das Wappen wird über die Symbole gelöst,
-> nicht über eingesteckte Münzen). **In Phase 1 sauber lösen.**
+> **HARTE REGEL (zwei Münzen!):** Winters **und Frau Ahrens'** Münze sind in Band 4
+> zurückgegeben (emotionaler Höhepunkt) und liegen unter Wasser. **Band 5 darf
+> KEINE der beiden zurückfordern.**
+>
+> **FOLGE FÜR DEN KATALYSATOR:** „Nele bringt die Ahrens-Münze" ist damit
+> **unmöglich** — es gibt keine mehr. Der Katalysator muss **Wissen statt Objekt**
+> sein: Nele bringt die **Geschichte** (fünf Familien, die Fünfte waren die Ahrens,
+> das Wappen müsste fünf haben, die vier kamen zu spät wieder). Das **fünfte
+> Zeichen** ist über das **Symbol** bekannt (Band 4: Türschwelle im 5. Haus trug
+> *„drei Wellen und ein Stern"*) — **kein Ahrens-Original nötig.** Das Wappen wird
+> also über **Symbole** vollendet, nie über eingesteckte Münzen.
+
+> **⚠️ Sechs Silbermünzen (Band 2 Kap 15):** Im Gründer-Cache lagen *„sechs
+> Silbermünzen"* (jetzt beim Bürgermeister). Das ist ein **anderes Artefakt** als
+> die Pfänder. Band 5 darf die drei Pfänder **nicht** mit diesen sechs
+> verwechseln. **`→ Phase 4`** ggf. mit einer Zeile klarstellen, damit ein
+> aufmerksamer Leser nicht stolpert.
 
 ---
 
