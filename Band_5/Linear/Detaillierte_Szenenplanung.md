@@ -51,10 +51,10 @@
 2 Szenen = ein durchgehender Vorgang · 3 = Standard · 4 = Ermittlung an mehreren
 Orten. Wortzahl nach **Last**, nicht Schema.
 
-> **⚠️ Längen-Abgleich:** Die Outline nannte 1.500--1.700 W/Kapitel -- das liegt
-> **über** der gemessenen Serien-Praxis (B3: 1.004--1.265; B4: 900--1.500).
-> **Vorschlag: ~1.100--1.500 nach Last.** **`→ mit Autor bestätigen`**, bevor Akt 1
-> geschrieben wird.
+> **Längen-Vorgabe `ENTSCHIEDEN` (mit Autor):** **1.100--1.300 Wörter nach Last.**
+> (Die Outline nannte anfangs 1.500--1.700 -- das lag über der Serien-Praxis
+> [B3: 1.004--1.265; B4: 900--1.500] und wurde verworfen.) Schwere Kapitel an die
+> Obergrenze, leichte an die Untergrenze -- **nie strecken**, nur nach Inhalt.
 
 ### Serien-Signatur: der erste Satz (nicht kopieren!)
 Jeder Band: **Jonas + Bewegungsverb, er kommt irgendwo an** -- aber jede Ankunft
@@ -114,7 +114,7 @@ steht jetzt da und nimmt jemanden auf). *Trägt schon im ersten Satz das Thema.*
 ---
 
 ### Kapitel 2 -- Was die Großmutter erzählt hat
-**Tag 2 | Jonas' Haus → Herrenhaus (Winter) | Ziel: ~1.400 Wörter | 3 Szenen**
+**Tag 2 | Jonas' Haus → Herrenhaus (Winter) | Ziel: ~1.300 Wörter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -140,7 +140,7 @@ steht jetzt da und nimmt jemanden auf). *Trägt schon im ersten Satz das Thema.*
 ---
 
 ### Kapitel 3 -- Vier Zeichen im Stein
-**Tag 3 | Dorfplatz (Steinmetz) + Brunnen | Ziel: ~1.300 Wörter | 3 Szenen**
+**Tag 3 | Dorfplatz (Steinmetz) + Brunnen | Ziel: ~1.200 Wörter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
@@ -162,7 +162,7 @@ steht jetzt da und nimmt jemanden auf). *Trägt schon im ersten Satz das Thema.*
 ---
 
 ### Kapitel 4 -- „Die gehört doch nicht hierher"
-**Tag 4 | Meiers Laden / Dorf → Jonas' Haus | Ziel: ~1.300 Wörter | 3 Szenen**
+**Tag 4 | Meiers Laden / Dorf → Jonas' Haus | Ziel: ~1.200 Wörter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|

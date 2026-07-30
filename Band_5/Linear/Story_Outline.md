@@ -130,8 +130,8 @@ Band-4-Bogen: „sagt jetzt Sternbach").
 
 ### 0.13 Ton, Jahreszeit, Länge
 Früher **Herbst** (Heimkehr-Stimmung, eine Saison nach Band 4). **Kinder bleiben
-10.** Kapitel-Ziel **~1.500--1.700 Wörter** (`→ mit Autor bestätigen`). Der „Gegner"
-ist Angst, nicht Bosheit.
+10.** Kapitel-Ziel **1.100--1.300 Wörter nach Last** `ENTSCHIEDEN` (an der Serien-
+Praxis; frühere 1.500--1.700 verworfen). Der „Gegner" ist Angst, nicht Bosheit.
 
 ### 0.14 Rest-Risiko, bewusst markiert
 **Sechs Silbermünzen** (Band 2 Kap 15, Gründer-Cache beim Bürgermeister) sind
@@ -531,7 +531,7 @@ leises Flüstern.
   verwechseln; **eine Zeile zur Abgrenzung von den sechs Silbermünzen.**
 - Wochentage/Herbstferien-Logik der Zeitleiste; Tag 10--12 sauber entzerren.
 - Rolle Holzer/kühle Nachbarin konkretisieren.
-- Kapitel-Länge final mit Autor bestätigen (~1.500--1.700 Wörter?).
+- Kapitel-Länge `ENTSCHIEDEN`: 1.100--1.300 Wörter nach Last.
 - Arbeitstitel final: „Das fünfte Zeichen" vs. Alternativen.
 
 ------------------------------------------------------------------------
