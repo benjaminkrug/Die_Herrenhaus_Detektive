@@ -222,5 +222,164 @@ Band 3 abgrenzen.
 
 ------------------------------------------------------------------------
 
-*Ende Szenenplanung AKT 1. Nächster Schritt nach Freigabe: AKT 2 (Kap 5--9) --
-dort die Gänge-Geografie und die Pfänder-Fundorte festzurren.*
+## AKT 2 -- SUCHE WIRD RISS (Kapitel 5--9)
+
+> **Zwei `→ Phase 4`-Punkte hier aufgelöst -- vollständig aus Band-2/3-Kanon:**
+>
+> **(a) Gänge-Geografie & Zugang `GELÖST`:**
+> - **Zugang** über den **Herrenhaus-Tunnel** (Keller → Tunnel → die alte Metalltür-
+>   Stelle → **73 Stufen** hinunter, bearbeiteter Stein). **Winter** wohnt im
+>   Herrenhaus und kennt die Gänge -- er ermöglicht den Zugang. *(Der Brunnen selbst
+>   wurde 1953 gebaut, um den Original-Eingang zu **versiegeln** -- also NICHT durch
+>   den Brunnenschacht.)*
+> - Die Gänge sind seit **Band 2 „gesichert" (nicht versiegelt), Meier leitet die
+>   Arbeiten** -- daher ist es **Meiers Fest-Renovierung**, die den Seitengang jetzt
+>   zumauert (Ironie: er versiegelt ahnungslos den Beweis).
+> - **Der Merkstein-Gang = die nie gelöste Stelle der Geheimtinte-Karte:** Band 2
+>   Kap 9 endet an einer **Kreuzung mit drei Gängen, die der Wasserfleck auf der
+>   Karte verdeckt** -- unaufgelöst. Einer der drei ist ein **„Kreuz = versiegelt"-
+>   Gang** (Kartenkanon). Nele liest mit dem fünften Zeichen, was die Karte nie zeigte.
+> - **Die Karte** liegt in **Jonas' Rucksack** (Band 1/2). *`→ Phase 4` kurz
+>   verifizieren, dass er sie in B3/B4 nicht verloren hat -- höchstwahrscheinlich nein.*
+>
+> **(b) Pfänder-Fundorte `GELÖST` -- klar getrennt von den Band-2-Erbstücken:**
+> - Band-2-**Erbstücke** (öffneten die Metalltür): Winters goldener Knopf, **Meiers
+>   Bronze-Siegel**, **Bergmanns Silberkreuz**, **Karls Messingring**. Das sind
+>   **NICHT** die Pfänder.
+> - Die **Pfänder** sind **separate, alte, abgegriffene Sternbach-Münzen** -- eine je
+>   fortgegangener Familie, seit 300 Jahren in den Familien, **oft ohne dass sie
+>   wissen, was sie haben** (Kanon_Check §2). Meier: Kap 5. Bergmann: Kap 6. Hoffmann
+>   (Karls Linie): verschollen → Kap 16.
+
+### Kapitel 5 -- Meiers Stolz
+**Tag 5 | Meiers Laden / Lager | Ziel: ~1.300 Wörter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Meiers Laden | Die vier fragen Meier nach **alten Familienstücken** -- eine Münze. Meier, seit Kap 3 gewarnt, ist **kühl und abweisend** (die Kinder rütteln an seiner Geschichte). Hindernis: er will nicht helfen. |
+| 2 | Meiers Lager/Hinterzimmer | **Sein Stolz ist der Weg hinein** (ironisch): auf *„Ihr seid doch der Gründer-Erbe -- Ihr habt bestimmt das Älteste"* holt Meier eine Kiste mit Familienkram. Darin eine **alte, abgegriffene Münze mit dem Baum** -- das **Pfand**. Meier wischt es weg: *„Altes Geld. Wertlos."* |
+| 3 | Meiers Laden | **Nele erkennt** es als Sternbach-Pfand (Form, Rand). Doch es beim Namen zu nennen bedroht Meiers Geschichte -- er **nimmt die Münze zurück**, macht die Kiste zu: *„Vier Familien. Seit dreihundert Jahren. Daran ändert kein altes Geldstück etwas."* Die Kinder haben nur einen Blick (Nele eine **Zeichnung** der Rückseite). |
+
+> **Cliffhanger:** Draußen vergleicht Nele ihre Zeichnung mit der **Geheimtinte-Karte**
+> in Jonas' Rucksack -- das Rückseiten-Zeichen ist das der Gründer. *„Das gehört nach
+> unten. Unter das Dorf."*
+
+**Prüfzeilen:**
+- Neues/Hindernis: Pfand 1 gefunden, aber **Meiers Widerstand** verhärtet.
+- **R3:** **Jonas** vermittelt/beobachtet · **Mila** setzt Meier zu · **Ben** eine
+  komische Not-Zeile im Lager · **Nele** erkennt + zeichnet das Zeichen (aktiv).
+- **Falle:** Das Pfand ist **NICHT** das Bronze-Siegel (Band 2) -- separate Münze.
+- **Wachpunkt:** Meier **stolz/ängstlich, nicht böse** -- er nimmt die Münze aus
+  Angst zurück, nicht aus Bosheit.
+
+### Kapitel 6 -- Die Schachtel der Frau Bergmann
+**Tag 6 | Frau Bergmanns Haus | Ziel: ~1.300 Wörter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Frau Bergmanns Küche | Wärmer als bei Meier. Sie kennt die Kinder (Band 2), lässt sie ein. Sie erzählt -- Karl, das Zurückbleiben; sie **versteht** das Wort „zurückgeblieben" anders als das Dorf. |
+| 2 | Bei ihrer alten Schachtel | In der Schachtel (bei **Karls Messingring**, den sie seit Band 2 hütet) eine zweite **alte Münze mit dem Kreuz** -- das **Bergmann-Pfand.** Sie gibt es **bereitwillig** (Gegensatz zu Meier). Zum dritten -- **Karls/Hoffmanns** Linie -- nur: *„Das ist längst weg, Kind."* |
+| 3 | Frau Bergmanns Küche | Zwei Pfänder jetzt. **Jonas' eigener Schluss** (R3): Die Vier-Zeichen-Zeitkapsel aus Band 2 war nur ein **Teil** -- wenn es fünf Familien gab, muss es einen **volleren Bericht** geben, und zwar dort, wo die Karte nie hinreichte. |
+
+> **Cliffhanger:** Jonas breitet die **Geheimtinte-Karte** aus und legt den Finger auf
+> die alte, vom **Wasserfleck** verdeckte **Kreuzung mit drei Gängen** (Band 2 Kap 9):
+> *„Da waren wir nie. Das hat die Karte nie gezeigt."*
+
+**Prüfzeilen:**
+- Neues: Pfand 2 (bereitwillig) + die **Karten-Lücke** wird zum nächsten Ziel.
+- **R3 -- Jonas' Akt-2-Entdeckung:** er verknüpft die alte Karte mit der neuen Spur
+  (behebt B4-Lehre „Jonas in Akt 2 zu wenig Eigenes") · **Mila** drängt hinunter ·
+  **Ben** Sorge (Humor) vor dem Untergrund.
+- **Ton:** Frau Bergmanns Trauer **knapp**, warm, nicht sentimental. Karls Ring als
+  stiller Band-2-Rückruf.
+- **Setup:** Hoffmann-Pfand bewusst **offen** gelassen (Achse für Akt 3 → Payoff 16).
+
+### Kapitel 7 -- Unter dem Dorf
+**Tag 7 | Herrenhaus-Tunnel → Gänge unter dem Dorf | Ziel: ~1.200 Wörter | 3 Szenen**
+> **Entdeckungskapitel:** wenig Dialog, viel Schauplatz/Körper (Band-4-Praxis:
+> 18--20 % Dialog erlaubt -- **nicht** erzwingen).
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Herrenhaus, Keller/Tunnel | **Winter** lässt sie in den Tunnel (er wohnt hier, kennt die gesicherten Gänge). Abstieg: **73 Stufen**, bearbeiteter Stein, älter als Winters Tunnel -- Serien-Textur aus Band 2. **Spuren der Fest-Renovierung** (frisches Material, Werkzeug): der Countdown wird sichtbar. |
+| 2 | Kreuzung mit drei Gängen | Die **vom Wasserfleck verdeckte** Kreuzung. Mit **Neles Wissen** + der Karte wählen sie den **„Kreuz = versiegelt"-Gang.** Er ist **zugemauert.** **Ben** (Beobachtung, **anders als Band 3**): Er merkt, dass der Putz an einer Stelle **frischer/falsch** ist -- und ein kalter Luftzug (Band-2-Echo). |
+| 3 | Vor der zugemauerten Wand | **Nele wischt den Grind ab:** darunter das **fünfte Zeichen** -- *drei Wellen + Stern mit acht Spitzen* -- und **frischerer Putz darüber.** |
+
+> **Cliffhanger:** Nele, die Hand auf dem überputzten Zeichen: *„Jemand hat das
+> zugemacht. Mit Absicht."* -- und daneben liegt schon das Material, mit dem die
+> Renovierung den Gang **ganz** schließen wird.
+
+**Prüfzeilen:**
+- Neues: die zugemauerte Passage + das überputzte fünfte Zeichen (Detektiv-Frage 3).
+- **R3:** **Ben klug** (bemerkt den frischen Putz -- Beobachtung, **kein** Wasser-
+  Engineering wie Band 3) · **Nele** liest/legt frei · **Jonas** führt mit der Karte
+  · **Mila** treibt voran.
+- **Ben-Abgrenzung:** In Band 3 war Bens Untergrund-Moment das **Wasser-Umleiten**;
+  hier ist es **Beobachtung** (falscher Putz). Nicht wiederholen.
+- **Sicherheit (Serien-Regel):** Enge/Dunkel/Herzklopfen, **keine Lebensgefahr** --
+  kein Einsturz, niemand eingeschlossen. Spannung = „rechtzeitig rein?".
+- **Kanon:** Zugang + 73 Stufen + Kreuzung + „Kreuz=versiegelt" alle aus Band 2.
+
+### Kapitel 8 -- Streit auf dem Dorfplatz
+**Tag 8 | Dorfplatz | Ziel: ~1.200 Wörter | 3 Szenen**
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Dorfplatz | Die Kinder tragen ihren Fund ans Licht (zwei Pfänder, die zugemauerte Passage, das überputzte Zeichen). Es **spaltet** das Dorf: Winter/Krüger/Bergmann glauben; **Meiers Lager** wehrt ab. |
+| 2 | Dorfplatz, Eskalation | Aus einer Sachfrage wird ein **öffentlicher Riss.** Jemand sagt laut, **die Ahrens gehörten nicht hierher.** Nele steht dabei. **Ben** stellt sich -- zitternd, aber laut -- **vor sie:** *„Sie gehört zu uns."* (mutiger Moment) -- reicht nicht, den Platz zu drehen. |
+| 3 | Dorfplatz | Das **Komitee**, verärgert, ordnet an, den Gang **früher zuzumauern** -- *„Schluss mit dem Unsinn."* Der Countdown wird kürzer. |
+
+> **Cliffhanger:** Nele dreht sich um und läuft weg -- Jonas ruft ihr nach, sie
+> bleibt nicht stehen.
+
+**Prüfzeilen:**
+- Wendung: der Konflikt kippt von „Beweis" zu „**Wollen sie es überhaupt?**"
+- **R3:** **Ben mutig** (stellt sich vor Nele) · **Mila** verteidigt laut · **Jonas**
+  versucht zu vermitteln und scheitert.
+- **Ton:** Der Riss ist **Angst, nicht Bosheit** -- auch die Ablehnenden sind keine
+  Schurken. Die Gemeinschaft, die vier Bände wuchs, bricht **sichtbar.**
+- **Uhr:** Die vorgezogene Versiegelung verschärft die Frist (Setup Kap 9/11).
+
+### Kapitel 9 -- Der Gang wird zugemacht
+**Tag 9 | Jonas' Haus / Brunnen | Ziel: ~1.100 Wörter | 2 Szenen**
+> **2 Szenen** (durchgehende, gedämpfte Nachwirkung -- kein Ermittlungs-Kapitel).
+
+| # | Ort | Was passiert |
+|---|-----|--------------|
+| 1 | Am Brunnen / vor den Gängen | Die **Versiegelung beginnt** (Meiers Leute). Den Kindern wird klar: Sie müssen hinter die Mauer, **bevor sie weg ist** -- aber der Riss heißt **keine Erwachsenen-Hilfe**, und **Nele hat sich zurückgezogen** (nur sie liest die Zeichen). Das dritte Pfand fehlt weiter. |
+| 2 | Jonas' Haus | Gedämpft. Jonas ahnt, dass sie das **Falsche jagen** (Beweise statt Herzen -- Vorschein auf Kap 12). Nele ist still, in sich gekehrt. |
+
+> **Cliffhanger:** Nele, leise, zu Jonas: *„Vielleicht fahr ich einfach heim. In
+> Seebruck weiß wenigstens jeder, dass ich dazugehöre."* -- Übergang zum Tiefpunkt.
+
+**Prüfzeilen:**
+- Sackgassen häufen sich: Objekt-Weg (drittes Pfand) tot, Mauer bald zu, Nele fort.
+- **R3:** **Jonas** trägt (POV, innere Wende-Ahnung) · **Mila** ballt ohnmächtig die
+  Fäuste · **Ben** ungewohnt still · **Nele** Rückzug (Payoff der Saat aus Kap 4).
+- **Ton:** leise, kein Melodram. Neles Satz **trocken**, nicht weinerlich.
+
+------------------------------------------------------------------------
+
+## Akt-2-Bilanz (R3-Auszählung -- vor Akt 3 prüfen)
+
+| Figur | Eigene Handlungen/Entdeckungen in Akt 2 (Soll) |
+|-------|-----------------------------------------------|
+| **Jonas** | **Eigene Entdeckungen:** verknüpft die alte Karte mit der Spur (6), führt mit der Karte unter Tage (7); ahnt die Wende (9). ✓ (mehr Eigenes in Akt 2, wie B4-Lehre fordert). |
+| **Mila** | Setzt Meier zu (5), treibt den Abstieg (7), verteidigt Nele laut (8). |
+| **Ben** | **klug:** frischer Putz unter Tage (7); **mutig:** stellt sich vor Nele (8); Humor (5). Nicht nur ängstlich ✓. |
+| **Nele** | **aktiv + Herz:** erkennt/zeichnet das Pfand-Zeichen (5), liest das überputzte fünfte Zeichen (7); Rückzug-Payoff (8/9). |
+
+**Stand nach Akt 2:** Zwei Pfänder gefunden; die Spur führt **unter das Dorf**; die
+zugemauerte Wahrheit + der Twist-Vorschein entdeckt (Frage 3). Der Riss ist
+öffentlich, der Gang bald zu, Nele am Absprung. Detektiv-Frage 3 halb offen (was
+GENAU hinter der Mauer liegt → Kap 11); Frage 4 (nimmt das Dorf sie auf?) drängt.
+
+**Offen für Akt 3 (Kap 10--14):** **Merkstein-Wortlaut** festlegen (Band-4-Ton,
+nicht anklagend); den **A8-Callback** (Winters Testament „…vergessen werden
+sollten") in Kap 11 platzieren -- als Bonus, nicht Voraussetzung; wie die vier
+**hinter die Mauer** kommen, bevor sie versiegelt ist (Nele wird gebraucht).
+
+------------------------------------------------------------------------
+
+*Ende Szenenplanung AKT 1--2. Nächster Schritt nach Freigabe: AKT 3 (Kap 10--14) --
+der Tiefpunkt, der Merkstein hinter der Mauer und der A8-Callback.*
