@@ -86,105 +86,119 @@ steht jetzt da und nimmt jemanden auf). *Trägt schon im ersten Satz das Thema.*
 
 ## AKT 1 -- NELE KOMMT (Kapitel 1--4)
 
+> **Revidiert nach Szenen-Analyse (2. Durchgang).** Sechs Nachschärfungen:
+> (1) **Wärme zuerst, Kälte später** -- Frau Kessler in Kap 1 nur ein wortloser
+> Schatten; (2) **Kinder ermitteln aktiv** -- die Legenden-Lücke ist Jonas' Schluss,
+> nicht Winters Vortrag; (3+4) **schärfere Cliffhanger** in Kap 1+2; (5) **Umzugs-
+> Logik geklärt**; (6) **Kap 4 = Akt-Wendepunkt** (Kinder übernehmen), Kessler
+> eskaliert (Blick → Worte).
+>
+> **Kälte-Leiter (bewusste Steigerung, keine Wiederholung):** Kessler-Blick (Kap 1)
+> → anonyme Worte am Laden (Kap 4.1) → Kessler-Worte an der Tür (Kap 4.3) →
+> öffentlicher Streit (Kap 8). Jede Stufe ist neu, nicht dieselbe Kälte zweimal.
+
 ### Kapitel 1 -- Der Umzugswagen
 **Tag 1 | Eichenhain: Dorfstraße + Jonas' Haus | Ziel: ~1.300 Wörter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Dorfstraße | **BEWEGUNG AB SATZ 1** (Serien-Signatur, aber neu -- s. o.): Jonas eilt zur Dorfstraße, weil ein **Umzugswagen** kommt. Die Bewegung endet **nicht** in Atemlosigkeit, sondern darin, dass er **wartet und empfängt.** Herbst-Eichenhain **nebenbei** durch bewegte Details (nasses Laub, Nebel überm Feld, kühles Licht) -- kein statisches Beschreiben. **Nele** klettert vom Wagen; Wiedersehen der vier -- warm, aber Nele bleibt **still/verhalten** (Kanon). Körper: Kisten, Tor, Hände. |
-| 2 | Jonas' Haus, beim Ausladen | **Neles Wohnsituation etabliert (leicht):** Nele + Oma ziehen nach Eichenhain; Nele kommt vor, wohnt hier, die Oma folgt. **Jonas' Mutter** heißt sie willkommen -- ein stiller Spiegel von Jonas' eigenem Ankommen (Band 1). **Erster kalter Zug:** **Frau Kessler** (Nachbarin) geht vorbei, hört den Namen -- *„Ahrens? Vom See?"* -- und geht **wortlos** weiter. Die vier spüren es. |
-| 3 | Neles Zimmer / Hof | Die vier allein. Nele, spröde-aber-tauend, sagt, ihre Großmutter habe ihr etwas aufgetragen. **Mini-Haken:** *„Die Wahrheit. Die richtige."* Sie zögert -- es ist ihr ernst und unangenehm zugleich. |
+| 1 | Dorfstraße | **BEWEGUNG AB SATZ 1** (Serien-Signatur neu): Jonas eilt zur Dorfstraße, weil der **Umzugswagen** kommt -- die Bewegung endet **nicht** atemlos, sondern darin, dass **er der Wartende/Empfangende** ist (Umkehr zu Band 1). Herbst **nebenbei** (nasses Laub, Nebel überm Feld, kühles Licht). **WARM ZUERST:** lautes, fröhliches Wiedersehen der vier -- Mila kommandiert das Ausladen, Ben albert. **Nele** bleibt dabei **still/verhalten** (Kanon) -- die einzige leise Note im Trubel. |
+| 2 | Jonas' Haus, beim Ausladen | **Umzugs-Logik geklärt:** Die **Ahrens ziehen nach Eichenhain**; der Wagen bringt ihre Sachen, aber das Ahrens-Haus ist **noch nicht fertig** und die Großmutter regelt noch Seebruck -- also wohnt **Nele solange bei Jonas' Familie.** **Jonas' Mutter** nimmt sie selbstverständlich auf -- stiller Spiegel von Jonas' eigenem Ankommen (B1). **Erster Schatten, ganz klein:** **Frau Kessler** geht vorbei, hört den Namen Ahrens, wird **kühl und geht wortlos weiter** -- kein Satz, nur ein Blick. Nur Nele bemerkt es ganz. |
+| 3 | Neles Zimmer / Hof | Abends, die vier allein, noch warm vom Tag. Nele wird ernst: Ihre Großmutter habe ihr etwas aufgetragen, das sie **hier** erzählen soll. Sie ringt damit -- wichtig und schwer zugleich. |
 
-> **Cliffhanger:** Nele: *„Oma sagt, ich soll euch die Wahrheit erzählen. Über das
-> Dorf. Über uns."* -- Kapitelende, bevor sie beginnt.
+> **Cliffhanger (geschärft -- mitten hinein statt Ankündigung):** Nele holt Luft und
+> **beginnt:** *„In Sternbach waren es nicht vier Familien. Es waren fünf."* --
+> harter Schnitt.
 
 **Prüfzeilen:**
-- Neues/Hindernis: Neles Ankunft (neu) + der kalte Zug am Namen Ahrens.
-- Mini-Entscheidung: Jonas' Familie nimmt Nele auf; die vier wollen zuhören.
-- **R3:** Jonas empfängt/beobachtet · **Mila** bricht die Verlegenheit (packt an,
-  schleppt eine Kiste -- eigene Handlung) · **Ben** Humor (nervös wegen Frau Kessler,
-  aber eine komische Zeile beim Ausladen).
-- **Wachpunkt WÄRME:** Das erste Drittel muss die **Gemeinschaft warm** zeigen,
-  sonst tut der Riss später nicht weh. Das Dorf ist noch heil.
-- **Wachpunkt:** Die Sternbach-Geschichte hier **NICHT** ausbreiten -- das ist Kap 2.
-  Kap 1 endet genau davor.
-- **Kanon-Falle:** Herbst über Laub/Nebel/Licht zeigen; **nicht** über den
-  Brunnenpegel (der Brunnen wird von der Heilquelle gespeist -- Band 2).
+- Neues/Hindernis: Neles Ankunft + der winzige erste Schatten (nur ein Blick).
+- **WÄRME-PRIORITÄT:** Szene 1--2 tragen die **heile Gemeinschaft**; Kessler ist ein
+  Nebenton, **kein Beat.** Das Dorf ist noch gut -- sonst tut der Riss später nicht weh.
+- **R3:** **Mila** kommandiert/schleppt (Handlung) · **Ben** Humor beim Ausladen ·
+  **Jonas** empfängt/beobachtet · **Nele** die eine leise Note.
+- **Wachpunkt:** Sternbach-Geschichte **NICHT** ausbreiten -- Kap 1 endet auf dem
+  ersten Satz der Enthüllung, Kap 2 setzt ihn fort.
+- **Kanon-Falle:** Herbst über Laub/Nebel/Licht, **nicht** über den Brunnenpegel
+  (Heilquelle, B2).
 
 ---
 
 ### Kapitel 2 -- Was die Großmutter erzählt hat
-**Tag 2 | Jonas' Haus → Herrenhaus (Winter) | Ziel: ~1.300 Wörter | 3 Szenen**
+**Tag 1 Abend (Forts.) → Tag 2 | Neles Zimmer → Herrenhaus | Ziel: ~1.300 Wörter | 3 Szenen**
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Jonas' Zimmer/Küche | **Nele erzählt** (Katalysator). **Als SZENE, nicht Vortrag** (R1/R2): Sie **zeichnet** dabei das fünfte Zeichen -- *drei Wellen + ein Stern mit acht Spitzen* -- auf ein Blatt, die anderen beugen sich vor. Inhalt knapp, in kurzen Sätzen: fünf Familien in Sternbach; vier gingen **in der Nacht**, sagten, sie kämen wieder, **kamen zu spät**; die Fünfte -- die Ahrens -- blieb. Das Wappen *müsste fünf haben.* **Kein Objekt:** *„Das Letzte, was wir hatten, liegt jetzt dort, wo es hingehört."* (B4-Callback, für Neuleser eigenständig.) |
-| 2 | Herrenhaus, an der Haustür (Wappen) | Zu **Winter.** Er **bestätigt** Sternbach (er weiß es, Band 4) und fährt mit dem Finger die **vier** Zeichen über der Tür nach. **Neuer Beat:** Die offizielle Gründungslegende (Gründerbrief, Band 2) erzählt nur *harter Winter → warme Quelle → Häuser drumherum* -- **kein Sternbach, keine Fünfte.** Die geschönte Geschichte gegen die wahre. Winter, der selbst spät heimkam, wird still. |
-| 3 | Herrenhaus, Fenster zum Dorf | Winter **warnt:** Das rüttelt an einer Geschichte, auf die manche **stolz** sind. Von draußen: **Hämmern.** |
+| 1 | Neles Zimmer (Fortsetzung, gleicher Abend) | **Nele erzählt zu Ende** -- dort weiter, wo Kap 1 abbrach (kein Nacht-Sprung mitten in der Enthüllung). **Als SZENE:** Sie **zeichnet** das fünfte Zeichen -- *drei Wellen + ein Stern mit acht Spitzen* -- die anderen beugen sich vor und **unterbrechen mit Fragen** (Körper, R1). Knapp: fünf Familien; vier gingen **in der Nacht**, kamen **zu spät** wieder; die Fünfte -- die Ahrens -- blieb. Das Wappen müsste fünf haben. **Kein Objekt:** *„Das Letzte, was wir hatten, liegt jetzt dort, wo es hingehört."* (B4-Callback, eigenständig.) |
+| 2 | Herrenhaus, an der Haustür (Tag 2) | **Die Kinder ermitteln AKTIV.** Am Vier-Zeichen-Wappen stutzt **Jonas** -- **er erinnert sich an den Gründerbrief** (Krüger las ihn, B2): *„harter Winter, warme Quelle, Häuser drumherum"* -- **kein Wort von Sternbach, kein fünftes.** *Jonas' eigener Schluss:* die offizielle Geschichte hat die Fünfte nie erwähnt. **Winter bestätigt** (knapp, **kein Vortrag**) und wird still -- er kam selbst spät heim. |
+| 3 | Herrenhaus, Fenster zum Dorf | Winter warnt: Das rüttelt an einer Geschichte, auf die viele **stolz** sind -- und mehr: **in zwölf Tagen, zum Fest, feiert das Dorf genau diese vier Familien in Stein.** Unten sehen sie den **Steinmetz** anfangen. |
 
-> **Cliffhanger:** Winter sieht zum Dorfplatz hinunter: *„Sie meißeln heute das neue
-> Wappen. Mit vier Zeichen."*
+> **Cliffhanger (geschärft -- Uhr + Wunde zugleich):** Winter, leise: *„Wenn der
+> Stein fertig ist, steht eure Geschichte für immer fest. Mit vier Namen."* **Nele
+> sagt nichts.** Sie sieht nur hinunter.
 
 **Prüfzeilen:**
 - Neues: die Fünf-Familien-Wahrheit (Detektiv-Frage 1) + Legende≠Wahrheit.
-- **R3:** **Jonas** verknüpft (das Vier-Zeichen-Wappen) · **Ben** stellt die **kluge**
-  Frage: *„Wenn es fünf waren -- warum stehen dann überall vier?"* (sein kluger
-  Beitrag) · **Mila** drängt sofort auf Handeln.
-- Detektiv-Fortschritt: erster Widerspruch aufgedeckt (Legende vs. Ahrens-Geschichte).
-- **Wachpunkt EXPOSITION:** Der gefährlichste Info-Block des Buchs. **Nele muss
-  dabei etwas TUN** (zeichnen), und die anderen unterbrechen mit Fragen/Körper --
-  sonst wird es Vortrag. Kurze, ungleiche Sätze (R7).
-- **Wachpunkt TON:** Das Verlassen **knapp und traurig**, nie Opfer-Drama
-  („kamen zu spät" -- nicht mehr). Winter-Kind nicht erwähnen.
+- **R3 -- Jonas' eigener Beat:** die Legenden-Lücke ist **Jonas' Entdeckung**, nicht
+  Winters Erklärung (behebt die B4-Lehre „Jonas zu wenig Eigenes") · **Ben** die
+  kluge Frage *„warum stehen dann überall vier?"* · **Mila** drängt auf Handeln.
+- **Wachpunkt R2:** Winter **bestätigt**, er doziert nicht -- die Erkenntnis gehört
+  den Kindern.
+- **Wachpunkt EXPOSITION:** Nele **tut** etwas (zeichnen), die anderen unterbrechen
+  -- kein Info-Dump. Kurze, ungleiche Sätze (R7).
+- **Wachpunkt TON:** *„kamen zu spät"* -- nie Opfer-Drama; Winter-Kind nicht erwähnen.
+- **Zeitleiste:** Szene 1 knüpft an den Vorabend an (die Enthüllung läuft durch),
+  dann Tag 2 zum Herrenhaus -- die Outline-Zeitleiste bleibt im Rahmen.
 
 ---
 
 ### Kapitel 3 -- Vier Zeichen im Stein
 **Tag 3 | Dorfplatz (Steinmetz) + Brunnen | Ziel: ~1.200 Wörter | 3 Szenen**
+> **Textur:** Uhr/Einsatz + **Meiers stolze Wand** (öffentlich, kühler) -- bewusst
+> abgesetzt von Kap 4 (persönliche Wunde + Wendepunkt).
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Dorfplatz | Der **Steinmetz** meißelt das **neue Fest-Wappen** (vier Symbole). Fest-Vorbereitung ringsum (Herbstfest). **Meier** daneben, stolz, im Komitee. Die vier schauen zu; **Nele wird still**, als sie die vier Zeichen sieht. *(Kanon: NEUES Wappen -- getrennt vom historischen Herrenhaus-Wappen + der Kirchen-Steintafel, s. Welt&Figuren §6.1.)* |
-| 2 | Dorfplatz, bei Meier | Die Kinder fragen vorsichtig nach einem **fünften** Zeichen. Meier lacht es weg: *„Vier Familien. Vier. Das steht fest."* **Frist gesetzt:** Enthüllung **beim Fest (Tag 12)**, danach ist der Stein fertig. **Gänge gepflanzt:** Krüger/ein Komitee-Wort erwähnt, dass für das Fest die **alten Gänge unter dem Brunnen gesichert** und ein Teil **zugemauert** wird. |
-| 3 | Dorfplatz, am halbfertigen Stein | **Nele liest**, was unter die vier Zeichen gemeißelt werden soll -- die **vier Familiennamen.** |
+| 1 | Dorfplatz | Der **Steinmetz** meißelt das **neue Fest-Wappen** (vier Symbole); Fest-Vorbereitung, Herbst-Betrieb. **Meier** stolz im Komitee. Die vier treten heran; **Nele wird still**, als sie die vier Zeichen sieht. *(Kanon: NEUES Wappen -- getrennt vom Herrenhaus-Wappen + der Kirchen-Steintafel, Welt&Figuren §6.1.)* |
+| 2 | Dorfplatz, bei Meier | Die Kinder fragen nach einem **fünften** Zeichen. Meier lacht es weg: *„Vier Familien. Vier."* -- **stolz und dicht, nicht böse.** **Frist bekräftigt:** Enthüllung beim Fest (Tag 12). **Gänge gepflanzt:** Krüger/ein Komitee-Wort erwähnt, dass die **alten Gänge unter dem Brunnen** fürs Fest gesichert und ein Teil **zugemauert** wird. |
+| 3 | Dorfplatz, am halbfertigen Stein | **Nele liest** die vier Namen, die eingemeißelt werden. Und die Kinder fassen einen ersten Entschluss: Wenn Reden nichts hilft, brauchen sie einen **Beweis** (Momentum in Kap 4). |
 
-> **Cliffhanger:** Nele, leise: *„Und da, wo mein Name stehen müsste, ist nur Stein."*
+> **Cliffhanger:** Nele legt die Hand auf die glatte Stelle neben den vier Namen:
+> *„Und da, wo mein Name stehen müsste, ist nur Stein."*
 
 **Prüfzeilen:**
-- Neues: der Fest-Stein (Deadline-Objekt) + die Gänge (Ort + zweiter Countdown) gepflanzt.
-- Mini-Entscheidung: die vier nehmen sich vor, es nicht auf sich beruhen zu lassen.
-- **R3:** **Mila** hält gegen Meier (ihr Kämpfer-Beat) · **Ben** nervös vor Meier,
-  eine komische/kluge Zwischenzeile · **Jonas** beobachtet Meiers Stolz genau.
-- **Wachpunkt:** Die Gänge werden **nur gepflanzt**, nicht betreten (das ist Akt 2, Kap 7).
-- **Wachpunkt:** Meier ist **stolz, nicht böse** -- seine Härte ist Angst, dass die
-  eigene Geschichte kleiner wird. Kein Antagonisten-Ton.
+- Neues: Fest-Stein (Deadline) + Gänge (Ort/zweiter Countdown) gepflanzt; **die
+  Beweis-Idee entsteht** (Motor für Kap 4).
+- **R3:** **Mila** hält gegen Meier (Kämpfer-Beat) · **Ben** nervös-komisch vor Meier
+  · **Jonas** liest Meiers Stolz genau.
+- **Wachpunkt:** Gänge **nur planten**, nicht betreten (Akt 2, Kap 7).
+- **Wachpunkt:** Meier **stolz, nicht böse** -- Härte = Angst, dass die eigene
+  Geschichte kleiner wird. Kein Antagonisten-Ton.
 
 ---
 
 ### Kapitel 4 -- „Die gehört doch nicht hierher"
 **Tag 4 | Meiers Laden / Dorf → Jonas' Haus | Ziel: ~1.200 Wörter | 3 Szenen**
+> **Der Akt-1-Wendepunkt:** von *Schläge einstecken* zu *die Kinder übernehmen.*
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Bei Meiers Laden | Die Kinder hören mit, wie zwei Dorfleute reden: *„Die Ahrens sind die, die zurückblieben. Die gehört doch nicht hierher."* **Nele hört es.** Die Kälte wird öffentlich und konkret. |
-| 2 | Jonas' Haus | Die vier sammeln sich. **Sie beschließen: beweisen, dass die Ahrens dazugehören -- vor der Enthüllung.** Der **Plan** formt sich: die **drei Pfänder** finden (Winter erklärte die Pfänder in Kap 4-Vorlauf/Rückgriff -- vier Familien, kamen zu spät zurück, behielten sie 300 Jahre). **Erste Spur: Meier** (alte Gründer-Sachen). |
-| 3 | Jonas' Haus, am Abend | **Frau Kessler** kommt an die Tür und sagt zu Jonas' Mutter: *„Überleg dir gut, wen du bei dir wohnen lässt."* **Jonas' Mutter stellt sich vor Nele** (warm, aber die Drohung ist echt). Nele hört es vom Flur. |
+| 1 | Bei Meiers Laden | Die Kinder hören zwei Dorfleute: *„Die Ahrens sind die, die zurückblieben. Die gehört doch nicht hierher."* **Nele hört es mit.** Die Kälte ist jetzt **Worte**, nicht nur ein Blick (Eskalation seit Kap 1). |
+| 2 | Jonas' Haus | **Der Wendepunkt:** Statt einzustecken, **übernehmen die Kinder.** **Mila** legt den **Plan** dar und erinnert an die **Pfänder** (Winter hatte sie erklärt: vier Familien, kamen zu spät zurück, behielten die Münzen 300 Jahre) -- findet man sie, hat man den Beweis. **Jonas** entscheidet: **erste Spur Meier** (alte Gründer-Sachen). Kurzer Team-Schwung, auch Humor -- gegen die Schwere. |
+| 3 | Jonas' Haus, Abend | **Eskalation Kessler:** jetzt ihre **ersten Worte** -- sie kommt an die Tür und sagt zu Jonas' Mutter: *„Überleg dir gut, wen du bei dir wohnen lässt."* **Jonas' Mutter stellt sich vor Nele** (warm, fest -- die Zuflucht hält). Nele hört es vom Flur. |
 
-> **Cliffhanger:** Die Warnung an der Haustür -- der Riss steht jetzt buchstäblich
-> an der Schwelle. **Akt-1-Ende.**
+> **Cliffhanger (Akt-1-Ende):** Die Warnung an der Haustür -- der Riss steht jetzt an
+> der **Schwelle.** Aber die vier haben zum ersten Mal **ein Ziel.**
 
 **Prüfzeilen:**
-- Neues/Hindernis: die öffentliche Ablehnung + der Plan.
-- Mini-Entscheidung: beweisen -- und wo anfangen (Meier).
-- **R3:** **Mila** legt den Plan dar / erinnert an die Pfänder-Logik (**eigene
-  Lösung**) · **Ben** ein kluger oder komischer Beitrag · **Jonas** vermittelt und
-  spürt Neles Schmerz **doppelt** (sein eigenes Ankommen, Band 1).
+- **Wendepunkt:** Kap 4 dreht von *empfangen* auf *handeln* -- ab hier haben die
+  Kinder eine Aufgabe (Motor in Akt 2).
+- **R3:** **Mila** der Plan (eigene Lösung) · **Jonas** die Entscheidung (Meier
+  zuerst) · **Ben** klug/komisch · **Nele** Rückzug-**Saat** (Stille, kein Ausbruch).
 - **Wachpunkt:** Jonas' Familie als **Zuflucht im Kleinen** muss fest wirken --
-  gegen die Kälte des Dorfes. Die Nachbarin ist **verunsichert, nicht böse.**
-- **Wachpunkt:** Neles Reaktion ist **Stille/Rückzug-Saat**, kein großer Ausbruch
-  (ihre Stimme -- still, trocken).
-- **Pfänder-Falle:** Nicht mit den Band-2-Erbstücken oder den sechs Silbermünzen
-  verwechseln (s. `Setup_Payoff_Tracker` B).
+  gegen die Kälte des Dorfes. Kessler **verunsichert, nicht böse.**
+- **Wachpunkt Ton:** trotz Schwere **Kinder-Energie/Humor** halten -- nicht durchweg düster.
+- **Pfänder-Falle:** nicht mit Band-2-Erbstücken / sechs Silbermünzen verwechseln
+  (s. `Setup_Payoff_Tracker` B).
 
 ------------------------------------------------------------------------
 
@@ -192,10 +206,10 @@ steht jetzt da und nimmt jemanden auf). *Trägt schon im ersten Satz das Thema.*
 
 | Figur | Eigene Handlungen/Entdeckungen in Akt 1 (Soll) |
 |-------|-----------------------------------------------|
-| **Jonas** | Verknüpft das Wappen (2), spürt/vermittelt (4) -- POV, die meisten Fäden. |
-| **Mila** | Bricht die Verlegenheit (1), drängt gegen Meier (3), **legt den Plan dar (4)** -- ≥1 eigene Lösung ✓. |
-| **Ben** | **kluge Frage „warum vier?" (2)** + Humor (1,3) -- ≥1 kluger Beitrag ✓. |
-| **Nele** | **aktiv:** bringt die Wahrheit (1--2), **zeichnet das fünfte Zeichen** (2), liest die Namen (3). |
+| **Jonas** | **Eigene Entdeckung: die Legenden-Lücke (2)** -- er erinnert den Gründerbrief; **Entscheidung Meier zuerst (4)**; empfängt/vermittelt (1). POV **mit** eigenem Fund (behebt B4-Lehre). |
+| **Mila** | Kommandiert/schleppt (1), drängt gegen Meier (3), **legt den Plan dar (4)** -- ≥1 eigene Lösung ✓. |
+| **Ben** | **kluge Frage „warum vier?" (2)** + Humor (1,3,4) -- ≥1 kluger Beitrag ✓. |
+| **Nele** | **aktiv:** erzählt/**zeichnet das fünfte Zeichen** (1--2), liest die Namen (3); Rückzug-Saat (4). |
 
 **Stand nach Akt 1:** Welt warm etabliert (neuleserfreundlich), Katalysator gelegt,
 zwei Fristen gesetzt (Fest-Stein + Gänge, Tag 12), Riss persönlich und an der
