@@ -226,15 +226,22 @@ Band 3 abgrenzen.
 
 > **Zwei `→ Phase 4`-Punkte hier aufgelöst -- vollständig aus Band-2/3-Kanon:**
 >
-> **(a) Gänge-Geografie & Zugang `GELÖST`:**
-> - **Zugang** über den **Herrenhaus-Tunnel** (Keller → Tunnel → die alte Metalltür-
->   Stelle → **73 Stufen** hinunter, bearbeiteter Stein). **Winter** wohnt im
->   Herrenhaus und kennt die Gänge -- er ermöglicht den Zugang. *(Der Brunnen selbst
->   wurde 1953 gebaut, um den Original-Eingang zu **versiegeln** -- also NICHT durch
->   den Brunnenschacht.)*
-> - Die Gänge sind seit **Band 2 „gesichert" (nicht versiegelt), Meier leitet die
->   Arbeiten** -- daher ist es **Meiers Fest-Renovierung**, die den Seitengang jetzt
->   zumauert (Ironie: er versiegelt ahnungslos den Beweis).
+> **(a) Gänge-Geografie & Zugang `GELÖST` (am Primärtext geprüft):**
+> - **Band 2 Kap 16 (Bürgermeister-Beschluss):** *„Die Gänge werden gesichert. Nicht
+>   versiegelt. Gesichert."* → Der Untergrund ist **offiziell begehbar/sicher.** Und
+>   am Ende von Band 2 sind die Kinder *„aus dem Brunnen geklettert"* -- der
+>   Brunnen-Eingang ist also **offen** (nicht mehr der 1953-Verschluss).
+> - **Zwei Zugänge Kanon:** (1) der **Herrenhaus-Keller** (Tür unter der Treppe →
+>   Tunnel → **73 Stufen**, bearbeiteter Stein) und (2) der **Brunnen** auf dem
+>   Dorfplatz.
+> - **Band 5 nutzt in Kap 7 den Herrenhaus-Keller -- aus DISKRETION** (nicht weil der
+>   Brunnen zu wäre): **Winter** wohnt dort und lässt sie unbemerkt runter, *bevor*
+>   der Streit öffentlich wird (Kap 8). **Der Brunnen bleibt als Notweg für Akt 3
+>   reserviert** (Kap 11, wenn der Herrenhaus-Gang zugemauert ist).
+> - Die Sicherungs-Arbeiten leitete seit **Band 2 Meier** -- daher ist es **Meiers
+>   Fest-Renovierung**, die den Seitengang jetzt zumauert (Ironie: er versiegelt
+>   ahnungslos den Beweis). Wachpunkt: als **allgemeine Fest-Sicherung** zeigen, nicht
+>   als gezieltes Zumauern genau des Beweises.
 > - **Der Merkstein-Gang = die nie gelöste Stelle der Geheimtinte-Karte:** Band 2
 >   Kap 9 endet an einer **Kreuzung mit drei Gängen, die der Wasserfleck auf der
 >   Karte verdeckt** -- unaufgelöst. Einer der drei ist ein **„Kreuz = versiegelt"-
@@ -258,19 +265,25 @@ Band 3 abgrenzen.
 |---|-----|--------------|
 | 1 | Meiers Laden | Die vier fragen Meier nach **alten Familienstücken** -- eine Münze. Meier, seit Kap 3 gewarnt, ist **kühl und abweisend** (die Kinder rütteln an seiner Geschichte). Hindernis: er will nicht helfen. |
 | 2 | Meiers Lager/Hinterzimmer | **Sein Stolz ist der Weg hinein** (ironisch): auf *„Ihr seid doch der Gründer-Erbe -- Ihr habt bestimmt das Älteste"* holt Meier eine Kiste mit Familienkram. Darin eine **alte, abgegriffene Münze mit dem Baum** -- das **Pfand**. Meier wischt es weg: *„Altes Geld. Wertlos."* |
-| 3 | Meiers Laden | **Nele erkennt** es als Sternbach-Pfand (Form, Rand). Doch es beim Namen zu nennen bedroht Meiers Geschichte -- er **nimmt die Münze zurück**, macht die Kiste zu: *„Vier Familien. Seit dreihundert Jahren. Daran ändert kein altes Geldstück etwas."* Die Kinder haben nur einen Blick (Nele eine **Zeichnung** der Rückseite). |
+| 3 | Meiers Laden | **Mila erkennt mit ihrem Zeichen-Auge** (Kanon: B2 K7 / B3 / B4), dass das **Rückseiten-Zeichen dasselbe ist wie am Wappen** -- ein Gründer-Zeichen. **Nele** *benennt* es dann: ein **Sternbach-Pfand.** (Sehen = Mila, Bedeutung = Nele.) Doch es so zu nennen bedroht Meiers Geschichte -- er **nimmt die Münze zurück** und macht die Kiste zu. Die Kinder behalten nur eine **Zeichnung** (Nele). |
 
-> **Cliffhanger:** Draußen vergleicht Nele ihre Zeichnung mit der **Geheimtinte-Karte**
-> in Jonas' Rucksack -- das Rückseiten-Zeichen ist das der Gründer. *„Das gehört nach
-> unten. Unter das Dorf."*
+> **Cliffhanger (menschlich, nicht Karte):** Als Meier die Münze wegschließt, zittert
+> seine Hand, und sein Satz kommt zu hart: *„Vier Familien. Seit dreihundert Jahren.
+> Daran ändert kein altes Geldstück etwas."* -- Für einen Moment ist es **nicht Stolz,
+> sondern Angst.** Jonas sieht es. *(Pflanzt Meiers inneren Riss → Wende Kap 15.)*
 
 **Prüfzeilen:**
-- Neues/Hindernis: Pfand 1 gefunden, aber **Meiers Widerstand** verhärtet.
-- **R3:** **Jonas** vermittelt/beobachtet · **Mila** setzt Meier zu · **Ben** eine
-  komische Not-Zeile im Lager · **Nele** erkennt + zeichnet das Zeichen (aktiv).
+- Neues/Hindernis: Pfand 1 gefunden, aber **Meiers Widerstand** verhärtet -- und ein
+  erster Riss von innen (die Angst).
+- **R3 -- Milas Akt-2-Entdeckung:** **Mila** erkennt das Gründer-Zeichen (ihr Auge,
+  Kanon) -- **≥1 eigene Entdeckung ✓** (behebt „Mila nur Schub") · **Nele** benennt
+  es (aktiv) · **Ben** eine komische Not-Zeile im Lager · **Jonas** liest Meiers Angst.
 - **Falle:** Das Pfand ist **NICHT** das Bronze-Siegel (Band 2) -- separate Münze.
-- **Wachpunkt:** Meier **stolz/ängstlich, nicht böse** -- er nimmt die Münze aus
-  Angst zurück, nicht aus Bosheit.
+- **#5-Faden (nachhalten):** Meiers **physische** Münze bleibt bei ihm; die Kinder
+  haben nur die Zeichnung. **Payoff: Meier gibt genau diese Münze bei seiner Wende
+  (Kap 15)** freiwillig her -- die Geste ist der Beweis seiner Verwandlung.
+- **Wachpunkt:** Meier **ängstlich, nicht böse** -- er hortet aus Furcht, dass die
+  eigene Geschichte kleiner wird.
 
 ### Kapitel 6 -- Die Schachtel der Frau Bergmann
 **Tag 6 | Frau Bergmanns Haus | Ziel: ~1.300 Wörter | 3 Szenen**
@@ -301,8 +314,8 @@ Band 3 abgrenzen.
 
 | # | Ort | Was passiert |
 |---|-----|--------------|
-| 1 | Herrenhaus, Keller/Tunnel | **Winter** lässt sie in den Tunnel (er wohnt hier, kennt die gesicherten Gänge). Abstieg: **73 Stufen**, bearbeiteter Stein, älter als Winters Tunnel -- Serien-Textur aus Band 2. **Spuren der Fest-Renovierung** (frisches Material, Werkzeug): der Countdown wird sichtbar. |
-| 2 | Kreuzung mit drei Gängen | Die **vom Wasserfleck verdeckte** Kreuzung. Mit **Neles Wissen** + der Karte wählen sie den **„Kreuz = versiegelt"-Gang.** Er ist **zugemauert.** **Ben** (Beobachtung, **anders als Band 3**): Er merkt, dass der Putz an einer Stelle **frischer/falsch** ist -- und ein kalter Luftzug (Band-2-Echo). |
+| 1 | Herrenhaus, Keller/Tunnel | **Winter** lässt sie **diskret** über seinen Keller hinunter (Tür unter der Treppe → Tunnel) -- **bevor** der Streit öffentlich ist, damit niemand sie sieht. Abstieg: **73 Stufen**, bearbeiteter Stein, älter als Winters Tunnel (Band-2-Textur). **Spuren der Fest-Renovierung** (frisches Material, Werkzeug): der Countdown wird sichtbar. |
+| 2 | Kreuzung mit drei Gängen | Die **vom Wasserfleck verdeckte** Kreuzung. **Mila liest die alten Pfeile/Wandsymbole** (Band-2-Kanon: Pfeile an den Wänden) und Nele ihr Wissen -- zusammen bestimmen sie den **„Kreuz = versiegelt"-Gang.** Er ist **zugemauert.** **Ben** (Beobachtung, **anders als Band 3**): der Putz ist an einer Stelle **frischer/falsch** -- und ein kalter Luftzug (Band-2-Echo). |
 | 3 | Vor der zugemauerten Wand | **Nele wischt den Grind ab:** darunter das **fünfte Zeichen** -- *drei Wellen + Stern mit acht Spitzen* -- und **frischerer Putz darüber.** |
 
 > **Cliffhanger:** Nele, die Hand auf dem überputzten Zeichen: *„Jemand hat das
@@ -312,8 +325,8 @@ Band 3 abgrenzen.
 **Prüfzeilen:**
 - Neues: die zugemauerte Passage + das überputzte fünfte Zeichen (Detektiv-Frage 3).
 - **R3:** **Ben klug** (bemerkt den frischen Putz -- Beobachtung, **kein** Wasser-
-  Engineering wie Band 3) · **Nele** liest/legt frei · **Jonas** führt mit der Karte
-  · **Mila** treibt voran.
+  Engineering wie Band 3) · **Mila** liest die Wand-Pfeile (Zeichen-Auge) · **Nele**
+  legt das fünfte Zeichen frei · **Jonas** führt mit der Karte.
 - **Ben-Abgrenzung:** In Band 3 war Bens Untergrund-Moment das **Wasser-Umleiten**;
   hier ist es **Beobachtung** (falscher Putz). Nicht wiederholen.
 - **Sicherheit (Serien-Regel):** Enge/Dunkel/Herzklopfen, **keine Lebensgefahr** --
