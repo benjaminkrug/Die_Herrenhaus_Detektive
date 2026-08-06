@@ -85,14 +85,16 @@ Mila stellte sich neben ihn.
 Sie leuchtete in den Gang.
 Der Lichtstrahl verschwand nach ein paar Metern in der Dunkelheit.
 
-„Herr Winter hat das alles gebaut", flüsterte sie.
-„Allein.
-Im Geheimen."
+„Das hat Herr Winter nicht allein geschafft", flüsterte sie.
+„So ein Tunnel.
+Das ist unmöglich."
 
-„Er muss Jahre dafür gebraucht haben", sagte Jonas.
+„Vielleicht hat er ihn bauen lassen", sagte Jonas.
+„Oder er war schon vorher da."
 
-Mila nickte.
-„Er muss wirklich etwas Wichtiges versteckt haben."
+Mila nickte langsam.
+„Aber warum?
+Was hat er hier versteckt, das so viel Mühe wert war?"
 
 „Wie lang ist der Tunnel?" fragte sie dann.
 
@@ -106,7 +108,8 @@ Er hatte beide Hände in den Taschen.
 Seine Kappe saß schief.
 
 „Hundert Meter unter der Erde", sagte er.
-„In einem Tunnel, den ein verschwundener Mann gegraben hat."
+„In einem Tunnel, den irgendjemand gegraben hat.
+Frag lieber nicht, wer."
 
 Er atmete tief ein.
 
@@ -397,8 +400,22 @@ Auf einer Eisentür.
 
 Sein ganzer Körper kribbelte.
 
-Mila legte die Hand auf die Eisentür.
+So lange hatten sie gesucht.
+Das Tagebuch.
+Das Symbol.
+Die Karte.
+Und jetzt standen sie davor.
+
+Jonas fuhr mit dem Finger über das eingeritzte Zeichen.
+Die drei Linien.
+Den Kreis.
+Tief ins Eisen geritzt.
+
+Mila legte die Hand auf die Tür.
 „Sie ist kalt."
+
+Ben stellte sich neben sie.
+„Wenn da drin kein Gold ist", murmelte er, „will ich mein Geld zurück."
 
 Jonas griff nach dem Riegel.
 

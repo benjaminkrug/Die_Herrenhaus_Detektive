@@ -16,7 +16,7 @@ Sein Atem stockte.
 
 Ein Dokument. Schweres Pergament. Die Schrift war alt, aber lesbar. Schwarze Tinte, geschwungene Buchstaben. Oben in der Mitte ein Wappen: vier Eichen.
 
-„Die Gründungsurkunde", flüsterte Jonas. „Von Eichenhain."
+„Die Gründungsurkunde", las Jonas. „Von Eichenhain."
 
 Mila beugte sich über seine Schulter. „Da stehen die Namen. Winter. Meier. Bergmann. Hoffmann. Und das Datum: 1712."
 
@@ -32,11 +32,11 @@ Die Schrift war anders als die der Urkunde. Einfacher. Schneller geschrieben.
 
 Er las laut vor: „An die, die nach uns kommen. Eichenhain wurde an diesem Ort gegründet, weil hier eine Quelle entspringt. Reines Wasser. Heilendes Wasser. Schützt die Quelle. Sie gehört allen."
 
-Sein Herzschlag war das einzige Geraeusch.
+Sein Herzschlag war das einzige Geräusch.
 
 Ben nahm die Münzen eine nach der anderen aus der Truhe. Sechs Silbermünzen. Er legte sie nebeneinander auf den Sockel.
 
-„Das ist die Zeitkapsel", sagte Mila leise. „Sie haben sie hier versteckt. Vor ueber dreihundert Jahren."
+„Das ist die Zeitkapsel", sagte Mila leise. „Sie haben sie hier versteckt. Vor über dreihundert Jahren."
 
 Jonas hielt den Brief fest. Seine Hände zitterten nicht mehr. Jetzt wusste er, warum die Gründerfamilien das Gangsystem gebaut hatten. Wegen der Quelle.
 

@@ -8,7 +8,7 @@ Nichts.
 
 Er klopfte noch einmal. Hinter der Tür schlurften Schritte. Langsam. Dann ging die Tür auf. Einen Spalt.
 
-Frau Bergmann war klein. Weisses Haar, zusammengebunden. Wache Augen hinter einer runden Brille. In der rechten Hand ein Stock mit Silberknauf. Sie musterte die drei Kinder.
+Frau Bergmann war klein. Weißes Haar, zusammengebunden. Wache Augen hinter einer runden Brille. In der rechten Hand ein Stock mit Silberknauf. Sie musterte die drei Kinder.
 
 „Was wollt ihr?", fragte sie. Ihre Stimme war fest.
 
@@ -56,7 +56,7 @@ Ben schluckte. „Und dann?"
 
 „Wir kletterten hinein." Frau Bergmann öffnete die Augen. Sie waren feucht. „Die Taschenlampe ging aus. Nach einer Stunde. Vielleicht zwei. Und dann war es dunkel."
 
-„Vierzehn Stunden", flüsterte Jonas.
+„Vierzehn Stunden", sagte Jonas leise.
 
 Frau Bergmann nickte. „Vierzehn Stunden. Im Dunkeln. Ich hörte Wasser tropfen. Karl weinte. Ich weinte."
 
@@ -72,7 +72,7 @@ Frau Bergmann stand auf. Sie stellte die Tassen in die Spüle. „Ich will nicht
 
 An der Tür drehte Jonas sich um. „Frau Bergmann — was haben Sie dort unten gesehen?"
 
-Sie hielt inne. Ihr Rücken wurde steif. „Nichts", sagte sie. Aber ihre Stimme wurde duenn.
+Sie hielt inne. Ihr Rücken wurde steif. „Nichts", sagte sie. Aber ihre Stimme wurde dünn.
 
 Sie schloss die Tür.
 

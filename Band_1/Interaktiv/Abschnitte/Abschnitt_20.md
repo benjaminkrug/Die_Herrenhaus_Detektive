@@ -21,7 +21,7 @@ Pyjama unter der Jacke.
 
 „Wenn mein Onkel mich erwischt, bin ich tot."
 
-„Warum Pyjama?" flüsterte Mila.
+„Warum Pyjama?" fragte Mila.
 
 „Falls jemand mich sieht.
 Dann bin ich schlafgewandelt."

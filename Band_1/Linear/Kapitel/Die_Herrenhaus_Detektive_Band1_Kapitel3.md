@@ -236,8 +236,11 @@ Etwas Metallisches.
 
 Er kniete sich hin.
 Er schob die Grashalme beiseite.
+Dort steckte etwas halb in der Erde.
+Jahrelang von Gras überwuchert.
 
-Dort lag ein Schlüssel.
+Er kratzte die Erde weg.
+Es war ein Schlüssel.
 
 Er war alt.
 Schwer.
@@ -299,7 +302,7 @@ Stimmt.
 Es roch nach Erde und altem Eisen.
 Und nach etwas anderem.
 Etwas Süßlichem.
-Wie Kerzenwachs.
+Fast wie Wachs.
 
 Jonas nahm den Schlüssel zurück.
 Er fühlte sich schwer an in seiner Hand.

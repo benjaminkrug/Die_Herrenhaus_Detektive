@@ -12,7 +12,7 @@ Ben stand einen Schritt zurück. Er zog seine rote Kappe tiefer. „Mein Bauch d
 
 „Und ich habe meistens recht!"
 
-Jonas laechelte. Aber Ben hatte nicht ganz unrecht. Die Spalte war schmal. Dunkel. Jonas musste die Schultern einziehen. Der Fels presste gegen seine Brust. Und niemand wusste, was dahinter lag.
+Jonas lächelte. Aber Ben hatte nicht ganz unrecht. Die Spalte war schmal. Dunkel. Jonas musste die Schultern einziehen. Der Fels presste gegen seine Brust. Und niemand wusste, was dahinter lag.
 
 Er sah auf die Karte. Der Gang war eingezeichnet. Eine dünne Linie, die hinter der Schatzkammer weiterführte. Bergab.
 

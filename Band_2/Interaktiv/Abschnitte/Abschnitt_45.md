@@ -28,13 +28,13 @@ Nichts bewegte sich.
 
 Ben drehte die Flasche um. Auf der Rückseite stand mehr. Winzige Schrift. „Mineralgehalt höher als Heilbad Wiesbaden. Natürliche Heilquelle. Bestätigt."
 
-Jonas spürte ein Kribbeln im Bauch. Winter hatte die Quelle nicht nur gefunden. Er hatte sie untersucht. Getestet. Bewiesen.
+Jonas spürte, wie sein Herz schneller schlug. Winter hatte die Quelle nicht nur gefunden. Er hatte sie untersucht. Getestet. Bewiesen.
 
-Mila stellte die Flasche zurueck. „Und das liegt hier unten. Vergessen." Sie ballte die Faeuste. „Das darf nicht so bleiben."
+Mila stellte die Flasche zurück. „Und das liegt hier unten. Vergessen." Sie ballte die Fäuste. „Das darf nicht so bleiben."
 
-Jonas steckte zwei Flaschen in seinen Rucksack. Fuer spaeter.
+Jonas steckte zwei Flaschen in seinen Rucksack. Für später.
 
-Mila leuchtete flussabwaerts. „Zweihundert Meter." Ihre Stimme war fest. „Wir gehen weiter."
+Mila leuchtete flussabwärts. „Zweihundert Meter." Ihre Stimme war fest. „Wir gehen weiter."
 
 Aber rechts gab es noch einen Seitengang. Schmal. Dunkel. Ohne Markierungen.
 
@@ -47,5 +47,3 @@ Aber rechts gab es noch einen Seitengang. Schmal. Dunkel. Ohne Markierungen.
 **Am Ufer bleiben — den trockenen Gang erkunden → Abschnitt 45b**
 
 **Den Seitengang nehmen → Abschnitt 59**
-
-**Die Flaschen genauer untersuchen → Abschnitt 48b**

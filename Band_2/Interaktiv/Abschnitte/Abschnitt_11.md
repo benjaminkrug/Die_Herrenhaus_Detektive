@@ -20,15 +20,15 @@ Der Kellereingang stand offen. Die Treppe führte steil nach unten.
 
 Jonas stieg hinab. Mila folgte dicht hinter ihm. Ben kam als Letzter.
 
-Im Keller war es kalt. Die Luft roch nach feuchtem Stein und altem Eisen. Jonas spuerte die Kuehle auf seiner Haut.
+Im Keller war es kalt. Die Luft roch nach feuchtem Stein und altem Eisen. Jonas spürte die Kühle auf seiner Haut.
 
-„Links, dann rechts", murmelte er. „Dann die schmale Oeffnung."
+„Links, dann rechts", sagte er leise. „Dann die schmale Öffnung."
 
 „Du kennst den Weg auswendig?", fragte Ben.
 
 „Nach dem letzten Mal? Klar."
 
-„Ich nicht." Ben stolperte ueber einen losen Stein. „Ich hab alles verdraengt."
+„Ich nicht." Ben stolperte über einen losen Stein. „Ich hab alles verdrängt."
 
 Mila lachte leise. „Du hast beim letzten Mal geschrien wie ein Kindergartenkind."
 
@@ -36,9 +36,9 @@ Mila lachte leise. „Du hast beim letzten Mal geschrien wie ein Kindergartenkin
 
 „Hast du wohl."
 
-„Okay, einmal. Aber der Stein ist mir auf den Fuss gefallen."
+„Okay, einmal. Aber der Stein ist mir auf den Fuß gefallen."
 
-Der Tunnel. Niedrige Decke. Raue Steinwaende. Jonas musste den Kopf einziehen. Die Waende rueckten naeher. Oder bildete er sich das ein? Nach zwanzig Metern wurde der Gang breiter.
+Der Tunnel. Niedrige Decke. Raue Steinwände. Jonas musste den Kopf einziehen. Die Wände rückten näher. Oder bildete er sich das ein? Nach zwanzig Metern wurde der Gang breiter.
 
 „Da", sagte Jonas.
 
@@ -52,19 +52,19 @@ Jonas fuhr mit dem Finger über die Linien. Jede Linie hatte eine kleine Vertief
 
 „Was soll das sein?", fragte Ben.
 
-Mila verschränkte die Arme. „Vier Linien. Vier Irgendwas."
+Mila runzelte die Stirn. „Vier Linien. Vier Irgendwas."
 
-Jonas kniff die Augen zusammen. Das Kribbeln in seinen Haenden wurde staerker. Er hielt die Lampe dichter an die Tuer. Ganz dicht.
+Jonas kniff die Augen zusammen. Das Kribbeln in seinen Händen wurde stärker. Er hielt die Lampe dichter an die Tür. Ganz dicht.
 
-Da. Neben jeder Linie. Winzige Buchstaben. In das Metall geritzt. So klein, dass man sie fast uebersah.
+Da. Neben jeder Linie. Winzige Buchstaben. In das Metall geritzt. So klein, dass man sie fast übersah.
 
 W. M. B. H.
 
 „Was starrst du da an?", fragte Ben.
 
-Jonas antwortete nicht sofort. Sein Herz haemmerte. W wie Winter. M wie Meier. B wie Bergmann. H wie Hoffmann.
+Jonas antwortete nicht sofort. Sein Herz hämmerte. W wie Winter. M wie Meier. B wie Bergmann. H wie Hoffmann.
 
-Vier Linien. Vier Familien. Und er wusste, was in die Vertiefungen gehoerte.
+Vier Linien. Vier Familien. Und er wusste, was in die Vertiefungen gehörte.
 
 ---
 

@@ -4,7 +4,7 @@ Jonas sah Meier durch die Tür verschwinden.
 
 „Hinterher", flüsterte Mila.
 
-„Nein", flüsterte Ben.
+„Nein", zischte Ben.
 
 Aber Mila war schon los.
 Jonas folgte.

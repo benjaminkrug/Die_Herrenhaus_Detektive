@@ -14,7 +14,7 @@ Sie gingen los. Über den Kirchplatz. Vorbei an der Bäckerei. Am alten Rathaus.
 
 Frau Bergmann lief langsam. Aber sicher. Ihr Stock klapperte auf dem Kopfsteinpflaster.
 
-Ben flüsterte Jonas ins Ohr: „Weißt du, was das Verrückteste ist?"
+Ben beugte sich zu Jonas. „Weißt du, was das Verrückteste ist?", raunte er.
 
 „Was?"
 

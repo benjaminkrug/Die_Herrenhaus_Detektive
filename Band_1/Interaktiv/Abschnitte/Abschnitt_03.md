@@ -5,7 +5,7 @@
 Ben trat einen Schritt näher.
 Er nahm den Grashalm aus dem Mund.
 
-„Weil dort oben seltsame Dinge passieren", flüsterte er.
+„Weil dort oben seltsame Dinge passieren", raunte er.
 
 Mila verdrehte die Augen.
 „Ben, jetzt hör aber auf."

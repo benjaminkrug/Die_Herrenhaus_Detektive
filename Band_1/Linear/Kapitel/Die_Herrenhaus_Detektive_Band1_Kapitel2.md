@@ -372,15 +372,13 @@ Jonas runzelte die Stirn.
 Herr Krüger beugte sich etwas vor.
 Seine Stimme wurde leiser.
 
-„Das Haus hat viele Räume.
-Und manche Häuser haben Räume, die man nicht sieht."
+„Manche Häuser haben Räume, die man nicht sieht."
 
-Sein Puls beschleunigte sich.
-„Sie meinen geheime Räume?"
+Jonas' Puls beschleunigte sich.
+„Was meinen Sie damit?"
 
 Herr Krüger lehnte sich zurück.
-„Ich meine gar nichts.
-Ich sage nur, was ich weiß."
+„Das musst du schon selbst herausfinden."
 
 Er warf den Tauben das letzte Stück Brot hin.
 
@@ -422,7 +420,7 @@ Als wüsste sie auch nicht weiter.
 Seine Augen waren groß wie Untertassen.
 
 „Hat er das wirklich gesagt?" fragte Mila.
-„Hat er wirklich geheime Räume gesagt?"
+„Hat er wirklich Räume gemeint, die man nicht sieht?"
 
 „Ja", sagte Jonas.
 „Räume, die man nicht sieht."

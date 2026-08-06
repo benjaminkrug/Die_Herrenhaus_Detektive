@@ -106,4 +106,4 @@ Sie wussten jetzt, wonach sie suchten.
 
 *Ihr habt das Gemälde gesehen. Jetzt fehlt der Schlüssel dazu.*
 
-→ **Weiter bei Abschnitt 15**
+*→ Weiter bei Abschnitt 15*

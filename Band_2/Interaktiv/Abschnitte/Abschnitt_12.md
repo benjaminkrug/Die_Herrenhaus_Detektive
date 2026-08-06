@@ -8,17 +8,17 @@ Mila sah ihn an. „Winter, Meier, Bergmann, Hoffmann."
 
 Winters goldener Knopf. Er glänzte matt im Taschenlampenlicht.
 
-„Der Knopf aus dem Tunnel", flüsterte Ben. „Den hattest du noch?"
+„Der Knopf aus dem Tunnel", sagte Ben. „Den hattest du noch?"
 
 Jonas nickte. Er hielt den Knopf vor die erste Vertiefung. Er passte genau. Wie ein Puzzleteil.
 
-Jonas drueckte ihn hinein. Der Knopf klemmte. Jonas drehte ihn eine Viertelumdrehung nach rechts.
+Jonas drückte ihn hinein. Der Knopf klemmte. Jonas drehte ihn eine Viertelumdrehung nach rechts.
 
 Klick.
 
-Ein Summen ging durch das Metall. Die erste Linie leuchtete auf. Golden. Warm. Als ob jemand eine Lampe dahinter angemacht haette. Waerme kroch durch die Tuer in Jonas' Haende.
+Ein Summen ging durch das Metall. Die erste Linie leuchtete auf. Golden. Warm. Als ob jemand eine Lampe dahinter angemacht hätte. Wärme kroch durch die Tür in Jonas' Hände.
 
-Ben wich einen Schritt zurueck. „Das leuchtet! Warum leuchtet das?"
+Ben wich einen Schritt zurück. „Das leuchtet! Warum leuchtet das?"
 
 Mila berührte die leuchtende Linie. „Warm", sagte sie. Ihre Augen waren weit.
 

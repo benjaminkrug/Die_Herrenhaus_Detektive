@@ -24,33 +24,33 @@ Jonas sah ihn an. „Sie wussten es?"
 
 „Die Zeitkapsel", sagte Jonas. „Von den Gründerfamilien."
 
-„Dreihundert Jahre alt", fuegte Mila hinzu.
+„Dreihundert Jahre alt", fügte Mila hinzu.
 
 Um sie herum wurde es still. Die Dorfbewohner traten näher. Ein Kreis bildete sich.
 
 Meier kam aus dem Herrenhaus gerannt. Außer Atem.
 
-„Ich habe euch gesehen!", rief er. „Aus dem Fenster! Ihr seid aus dem Brunnen geklettert!" Er schnaufte. „Noch fuenf Minuten, und ich haette die Feuerwehr gerufen!"
+„Ich habe euch gesehen!", rief er. „Aus dem Fenster! Ihr seid aus dem Brunnen geklettert!" Er schnaufte. „Noch fünf Minuten, und ich hätte die Feuerwehr gerufen!"
 
 Er blieb stehen. Sah die Truhe. Sah Krüger.
 
-„Ist das —", begann er.
+„Ist das —“, begann er.
 
 „Ja", sagte Jonas. „Das ist es."
 
-Meier schuettelte den Kopf. „Unglaublich."
+Meier schüttelte den Kopf. „Unglaublich."
 
-Krueger legte seine Hand auf die Truhe. „Wir sollten sie oeffnen. Hier. Jetzt. Unter uns."
+Krüger legte seine Hand auf die Truhe. „Wir sollten sie öffnen. Hier. Jetzt. Unter uns."
 
 „Unter uns?" Mila runzelte die Stirn. „Zweihundert Menschen stehen um uns herum."
 
-„Dann eben im Gemeindehaus", sagte Krueger. „Aber nur wir. Die, die es verstehen."
+„Dann eben im Gemeindehaus", sagte Krüger. „Aber nur wir. Die, die es verstehen."
 
-Jonas sah sich um. Die Gesichter. Neugierig. Aufgeregt. Die ganze Geschichte gehoerte Eichenhain. Nicht nur Krueger.
+Jonas sah sich um. Die Gesichter. Neugierig. Aufgeregt. Die ganze Geschichte gehörte Eichenhain. Nicht nur Krüger.
 
-Aber Krueger kannte die Familien. Die Namen. Die Zusammenhaenge. Beim Buergermeister waere die Truhe ein Fundgegenstand. Bei Krueger waere sie Geschichte.
+Aber Krüger kannte die Familien. Die Namen. Die Zusammenhänge. Beim Bürgermeister wäre die Truhe ein Fundgegenstand. Bei Krüger wäre sie Geschichte.
 
-„Wem gehoert so eine Wahrheit?", fragte Jonas leise.
+„Wem gehört so eine Wahrheit?", fragte Jonas leise.
 
 Mila sah ihn an. „Allen."
 
@@ -60,6 +60,6 @@ Ben zog seine Kappe ab. „Oder denen, die sie verstehen."
 
 *Was tun die Kinder?*
 
-**Die Truhe mit Krueger oeffnen — er versteht die Geschichte. Er soll entscheiden, was das Dorf erfaehrt. → Abschnitt 29**
+**Die Truhe mit Krüger öffnen — er versteht die Geschichte. Er soll entscheiden, was das Dorf erfährt. → Abschnitt 29**
 
-**Direkt zum Buergermeister — die Wahrheit gehoert allen, nicht nur einem Mann. → Abschnitt 32**
+**Direkt zum Bürgermeister — die Wahrheit gehört allen, nicht nur einem Mann. → Abschnitt 32**

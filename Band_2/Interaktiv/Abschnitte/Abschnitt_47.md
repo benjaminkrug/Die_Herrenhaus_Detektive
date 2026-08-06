@@ -2,7 +2,7 @@
 
 Wandmalereien.
 
-Jonas leuchtete die Felswand ab. Es roch nach Staub und etwas Suessem. Wie trockene Blumen. Braune und rote Farben auf grauem Stein. Die Bilder waren alt. Sehr alt. Aber deutlich.
+Jonas leuchtete die Felswand ab. Es roch nach Staub und etwas Süßem. Wie trockene Blumen. Braune und rote Farben auf grauem Stein. Die Bilder waren alt. Sehr alt. Aber deutlich.
 
 Menschen. Kleine Figuren, die um eine Quelle standen. Manche knieten. Manche hielten Schalen. Wasser floss in geschwungenen Linien.
 
@@ -28,11 +28,11 @@ Ben kam näher. Er schob seine Kappe hoch und starrte auf die Malereien. „Die 
 
 Jonas sah auf die Farben. Verblasst. Abgeblättert. Aber nicht verschwunden. „Hunderte", sagte er. „Vielleicht mehr."
 
-Ben stiess einen leisen Pfiff aus. „Und niemand weiss davon. Das liegt hier unten. Vergessen."
+Ben stieß einen leisen Pfiff aus. „Und niemand weiß davon. Das liegt hier unten. Vergessen."
 
 „Nicht, wenn wir das hier rausbringen", sagte Mila. Ihre Stimme war hart.
 
-Mila ging an der Wand entlang. Ihre Haende glitten ueber den Stein. Dann blieb sie stehen.
+Mila ging an der Wand entlang. Ihre Hände glitten über den Stein. Dann blieb sie stehen.
 
 „Jonas. Komm her."
 

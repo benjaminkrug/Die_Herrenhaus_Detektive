@@ -4,11 +4,11 @@ Der Gang wurde breiter. Jonas leuchtete die Wände ab. Überall Markierungen. Pf
 
 „Jemand hat den Weg markiert", sagte er.
 
-„Vor langer Zeit", flüsterte Mila. Sie fuhr mit dem Finger über einen Pfeil. „Die Ränder sind ganz glatt. Abgenutzt."
+„Vor langer Zeit", sagte Mila. Sie fuhr mit dem Finger über einen Pfeil. „Die Ränder sind ganz glatt. Abgenutzt."
 
 Wasser tropfte von der Decke. Einzelne Tropfen. Sie landeten auf Jonas' Nacken. Kalt. Er fröstelte.
 
-Der Boden war uneben. Lose Steine. Pfützen. Ihre Schritte hallten von den Waenden zurueck.
+Der Boden war uneben. Lose Steine. Pfützen. Ihre Schritte hallten von den Wänden zurück.
 
 Dann öffnete sich der Gang.
 
@@ -30,9 +30,9 @@ Jonas leuchtete geradeaus. „Der mittlere sieht am kürzesten aus."
 
 Ein kalter Luftzug wehte aus dem linken Gang. Aus dem rechten kam nichts. Der mittlere roch muffig und still.
 
-Jonas kniete sich hin. Der Boden links war nass. Eine duenne Spur Wasser floss am Rand entlang. Der rechte Gang hatte glattere Waende. Abgeschliffen. Als waeren dort viele Menschen gegangen.
+Jonas kniete sich hin. Der Boden links war nass. Eine dünne Spur Wasser floss am Rand entlang. Der rechte Gang hatte glattere Wände. Abgeschliffen. Als wären dort viele Menschen gegangen.
 
-„Wir muessen uns entscheiden", sagte Jonas.
+„Wir müssen uns entscheiden", sagte Jonas.
 
 ---
 
@@ -44,4 +44,4 @@ Jonas kniete sich hin. Der Boden links war nass. Eine duenne Spur Wasser floss a
 
 **Den mittleren Gang — geradeaus → Abschnitt 20b**
 
-**Bonus: Wenn du weisst, wohin das Wasser in den Gängen fliesst → Abschnitt 18b**
+**Bonus: Wenn du weißt, wohin das Wasser in den Gängen fließt → Abschnitt 18b**

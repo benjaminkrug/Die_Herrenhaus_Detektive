@@ -16,7 +16,7 @@ Dann hörte er es.
 
 Ein Knirschen. Leise zuerst. Dann lauter.
 
-„Was ist das?", flüsterte Ben.
+„Was ist das?", fragte Ben.
 
 Jonas drehte sich um. Der Taschenlampenstrahl zeigte die Decke hinter ihnen. Risse. Breite Risse im Stein.
 

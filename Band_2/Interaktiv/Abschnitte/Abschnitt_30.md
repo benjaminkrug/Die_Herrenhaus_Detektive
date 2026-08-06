@@ -2,7 +2,7 @@
 
 Hundert Augen. Alle auf Jonas gerichtet.
 
-Das Gemeindehaus war voll. Jeder Stuhl besetzt. Menschen standen an den Waenden. Jonas hatte so viele Leute noch nie in Eichenhain gesehen.
+Das Gemeindehaus war voll. Jeder Stuhl besetzt. Menschen standen an den Wänden. Jonas hatte so viele Leute noch nie in Eichenhain gesehen.
 
 Der Bürgermeister saß vorne. Neben ihm Krüger. Neben Krüger die drei Kinder.
 
@@ -30,7 +30,7 @@ Applaus. Erst vereinzelt. Dann stärker. Jonas spürte, wie ihm warm wurde.
 
 Ben klatschte mit beiden Händen. Dann merkte er, dass der Applaus ihnen galt. Er hörte auf. Wurde rot bis zu den Ohren.
 
-„Die klatschen für uns", flüsterte er. „Echt jetzt?"
+„Die klatschen für uns", raunte er. „Echt jetzt?"
 
 Mila lehnte sich zu Jonas. „Wir haben es geschafft", sagte sie leise.
 

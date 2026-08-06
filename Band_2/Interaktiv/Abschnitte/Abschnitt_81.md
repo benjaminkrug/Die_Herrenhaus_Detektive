@@ -1,6 +1,6 @@
 # Abschnitt 81
 
-Frau Bergmann nahm den Ring von ihrer Halskette. Ihre Haende waren unsicher. Aber diesmal nicht vor Angst.
+Frau Bergmann nahm den Ring von ihrer Halskette. Ihre Hände waren unsicher. Aber diesmal nicht vor Angst.
 
 „Das Schloss", sagte Jonas. Er leuchtete auf die Truhe. Vorne, unter dem Wappen, war ein kleines rundes Loch. Genau so groß wie der Ring.
 
@@ -28,13 +28,13 @@ Darunter ein Brief. Dickeres Papier. Tinte, braun geworden.
 
 Und Münzen. Sechs Stück. Alt. Mit Prägungen, die Jonas nicht kannte.
 
-„Die Gründungsurkunde", flüsterte er. Er nahm das Pergament vorsichtig heraus. Faltete es auf. Ein Kribbeln lief ueber seinen Ruecken.
+„Die Gründungsurkunde", las er leise. Er nahm das Pergament vorsichtig heraus. Faltete es auf. Ein Kribbeln lief über seinen Rücken.
 
 Er las vor. Laut. Langsam.
 
 „Wir, die Familien Winter, Meier, Bergmann und Hoffmann, gründen an dieser Quelle die Siedlung Eichenhain. Das Wasser dieser Quelle ist unser Anfang. Es soll geschützt werden. Für immer."
 
-Jonas hoerte sein eigenes Blut rauschen.
+Jonas hörte sein eigenes Blut rauschen.
 
 Frau Bergmann weinte. Leise. Ihre Schultern zuckten.
 
@@ -50,34 +50,34 @@ Jonas sah Mila an. Mila sah Frau Bergmann an. Frau Bergmann hielt die Urkunde an
 
 Jonas sah Mila an. Mila nickte langsam.
 
-"Frau Bergmann", sagte Jonas. "Wir muessen das allen zeigen. Im Dorf."
+„Frau Bergmann", sagte Jonas. „Wir müssen das allen zeigen. Im Dorf."
 
-Frau Bergmann wurde still. Ihre Haende schlossen sich um die Urkunde. Fest.
+Frau Bergmann wurde still. Ihre Hände schlossen sich um die Urkunde. Fest.
 
-"Allen?", fluesserte sie.
+„Allen?", fragte sie leise.
 
-"Das ganze Dorf soll wissen, was 1953 passiert ist", sagte Mila. "Sie haben Ihnen nicht geglaubt. Jetzt muessen sie es glauben."
+„Das ganze Dorf soll wissen, was 1953 passiert ist", sagte Mila. „Sie haben Ihnen nicht geglaubt. Jetzt müssen sie es glauben."
 
 Frau Bergmann schloss die Augen. Ihr Atem ging schnell.
 
-Ben zog seine Kappe tiefer. "Aber dann muss sie es nochmal erzaehlen", sagte er leise. "Vor allen Leuten. Alles."
+Ben zog seine Kappe tiefer. „Aber dann muss sie es nochmal erzählen", sagte er leise. „Vor allen Leuten. Alles."
 
 Jonas' Magen zog sich zusammen. Ben hatte recht. Hundert Gesichter. Hundert Augen. Und Frau Bergmann, die siebzig Jahre geschwiegen hat.
 
-"Wir koennten es auch allein machen", sagte Ben. "Die Truhe zeigen. Ohne sie."
+„Wir könnten es auch allein machen", sagte Ben. „Die Truhe zeigen. Ohne sie."
 
-Mila schuettelte den Kopf. "Ohne Frau Bergmann glaubt uns keiner. Drei Kinder mit einer alten Kiste."
+Mila schüttelte den Kopf. „Ohne Frau Bergmann glaubt uns keiner. Drei Kinder mit einer alten Kiste."
 
-"Aber MIT ihr —" Ben presste die Lippen zusammen. "Dann steht eine alte Frau vor dem ganzen Dorf und weint."
+„Aber MIT ihr —“ Ben presste die Lippen zusammen. „Dann steht eine alte Frau vor dem ganzen Dorf und weint."
 
-Frau Bergmann oeffnete die Augen. Sie sah die drei Kinder an. Einen nach dem anderen.
+Frau Bergmann öffnete die Augen. Sie sah die drei Kinder an. Einen nach dem anderen.
 
-"Ich habe siebzig Jahre geschwiegen", sagte sie. Ihre Stimme war duenn. "Ich weiss nicht, ob ich reden kann."
+„Ich habe siebzig Jahre geschwiegen", sagte sie. Ihre Stimme war dünn. „Ich weiß nicht, ob ich reden kann."
 
 ---
 
 *Was sagt ihr?*
 
-**"Wir gehen zusammen. Das Dorf muss Ihre Geschichte hoeren." → Abschnitt 82**
+**„Wir gehen zusammen. Das Dorf muss Ihre Geschichte hören." → Abschnitt 82**
 
-**"Wir machen das allein. Sie haben genug durchgemacht." → Abschnitt 85**
+**„Wir machen das allein. Sie haben genug durchgemacht." → Abschnitt 85**

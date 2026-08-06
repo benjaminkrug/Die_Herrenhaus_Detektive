@@ -91,7 +91,7 @@ Oben stand in krakeliger Schrift: DAS HAUS.
 Mila beugte sich vor.
 Ben stellte sich auf die Zehenspitzen.
 
-Und dann sahen sie es.
+Da sahen sie es.
 
 Mitten auf dem Plan war ein Raum.
 Klein.

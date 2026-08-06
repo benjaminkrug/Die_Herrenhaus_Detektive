@@ -20,7 +20,7 @@ Darunter ein Foto. Schwarzweiß, körnig. Zwei Kinder standen vor dem Rathaus. D
 
 „Lisbeth Bergmann und Karl Hoffmann", las Jonas vor. „Am Montag, dem 12. Oktober 1953, verschwanden zwei Kinder in den unterirdischen Gängen unter dem Dorf."
 
-Mila nahm den Artikel. Las weiter. „Der Suchtrupp fand die Kinder nach vierzehn Stunden. Der Gemeinderat beschloss einstimmig die Versiegelung aller Zugaenge."
+Mila nahm den Artikel. Las weiter. „Der Suchtrupp fand die Kinder nach vierzehn Stunden. Der Gemeinderat beschloss einstimmig die Versiegelung aller Zugänge."
 
 „Einstimmig", sagte Ben. „Alle waren dafür."
 
@@ -34,11 +34,11 @@ Milas Oma stand plötzlich hinter ihnen. Sie sah auf den Zeitungsartikel. Ihr L�
 
 „Legt das zurück", sagte sie. Ihre Stimme war anders. Kühler.
 
-„Aber Oma —"
+„Aber Oma —“
 
 „Frau Bergmann spricht nicht darüber." Milas Oma nahm ihre Brille ab. „Seit siebzig Jahren nicht. Das Dorf hat beschlossen, die Sache ruhen zu lassen."
 
-„Aber —", begann Jonas.
+„Aber —“, begann Jonas.
 
 „Nein." Milas Oma sah ihn an. Nicht böse. Aber bestimmt. „Ihr wisst nicht, was diese Nacht mit dem Mädchen gemacht hat. Lasst sie in Ruhe."
 
@@ -46,9 +46,9 @@ Sie räumte den Karton weg. Die Kinder standen im Flur.
 
 Ben zog seine Kappe zurecht. „Ich glaube, Frau Bergmann will nicht reden."
 
-Mila verschränkte die Arme. „Frau Bergmann war zehn. Genau wie wir. Vielleicht will sie reden. Vielleicht hat nur nie jemand gefragt."
+Mila hob das Kinn. „Frau Bergmann war zehn. Genau wie wir. Vielleicht will sie reden. Vielleicht hat nur nie jemand gefragt."
 
-Jonas spürte ein Kribbeln im Bauch. Mila hatte recht. Frau Bergmann lebte fünfzig Meter entfernt. Am Kirchplatz. Hinter Blumenkästen und Katzen.
+Jonas spürte, wie sich sein Magen zusammenzog. Mila hatte recht. Frau Bergmann lebte fünfzig Meter entfernt. Am Kirchplatz. Hinter Blumenkästen und Katzen.
 
 „Wir versuchen es", sagte er.
 

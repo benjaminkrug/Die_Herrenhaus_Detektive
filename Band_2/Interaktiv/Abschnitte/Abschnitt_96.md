@@ -36,11 +36,11 @@ Mila sprang auf. Sie verschränkte die Arme. „Jetzt oder nie. Wir sammeln alle
 
 „Wenn alle vier Gegenstände in den Mulden stecken", sagte Winter, „klickt es. Und die Tür geht auf. So haben es die Gründer gebaut. Vier Familien. Vier Schlüssel. Nur zusammen kommt man rein."
 
-Mila oeffnete den Mund. „Und was ist —"
+Mila öffnete den Mund. „Und was ist —“
 
-„Eins nach dem anderen", sagte Winter. „Erst die Tuer. Dann reden wir ueber den Rest."
+„Eins nach dem anderen", sagte Winter. „Erst die Tür. Dann reden wir über den Rest."
 
-Ein Kribbeln lief ueber Jonas' Ruecken. Vier Gegenstände. Vier Familien. Ein Geheimnis.
+Eine Gänsehaut lief über Jonas' Rücken. Vier Gegenstände. Vier Familien. Ein Geheimnis.
 
 „Wir schaffen das", sagte er.
 

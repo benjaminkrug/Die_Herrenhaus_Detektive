@@ -1,0 +1,699 @@
+metadata:
+  band: 1
+  endings: 14
+  generated_by: build_graph_yaml.py
+  series: Die Herrenhaus-Detektive
+  start: '1'
+  title: Das verbotene Herrenhaus — Entscheidungsbuch
+  total_sections: 94
+sections:
+  '1':
+    cluster: START
+    file: Abschnitt_01.md
+    next: '2'
+    title: Die Autotür knallte zu.
+    type: story
+  '100':
+    cluster: D
+    file: Abschnitt_100.md
+    next: '101'
+    title: Krüger weinte lange.
+    type: story
+  '101':
+    cluster: D
+    file: Abschnitt_101.md
+    next: '102'
+    title: Die Schatzkammer.
+    type: story
+  '102':
+    choices:
+    - target: '103'
+      text: „Holen wir Herrn Meier dazu. Er sollte das sehen." → Abschnitt 103
+    - target: '104'
+      text: „Wir bringen alles zum Bürgermeister." → Abschnitt 104
+    cluster: D
+    file: Abschnitt_102.md
+    title: Jonas öffnete die Truhe.
+    type: choice
+  '103':
+    cluster: D
+    ending_id: 116
+    file: Abschnitt_103.md
+    stars: 4
+    title: Krügers Tränen
+    type: ending
+  '104':
+    cluster: D
+    ending_id: 117
+    file: Abschnitt_104.md
+    stars: 3
+    title: Der offizielle Weg
+    type: ending
+  '105':
+    cluster: D
+    ending_id: 118
+    file: Abschnitt_105.md
+    stars: 2
+    title: Zu spät
+    type: ending
+  '11':
+    cluster: A
+    file: Abschnitt_11.md
+    next: '12'
+    title: Den Rest des Tages half Jonas seiner Mutter beim A…
+    type: story
+  '12':
+    cluster: A
+    file: Abschnitt_12.md
+    next: '13'
+    title: Am nächsten Morgen standen sie zu dritt am Brunnen…
+    type: story
+  '13':
+    choices:
+    - target: '14'
+      text: Durch die Lücke klettern → Abschnitt 14
+    - target: 14b
+      text: Erst den Schuppen untersuchen → Abschnitt 14b
+    cluster: A
+    file: Abschnitt_13.md
+    title: Sie gingen am Zaun entlang.
+    type: choice
+  '14':
+    choices:
+    - target: '15'
+      text: Ins Dorfarchiv gehen und recherchieren → Abschnitt 15
+    - target: 15b
+      text: Direkt ins Haus einsteigen → Abschnitt 15b
+    cluster: A
+    file: Abschnitt_14.md
+    title: Jonas kletterte durch die Lücke.
+    type: choice
+  14b:
+    cluster: A
+    file: Abschnitt_14b.md
+    next: '15'
+    title: Jonas ging am Zaun entlang.
+    type: story
+  '15':
+    cluster: A
+    file: Abschnitt_15.md
+    next: '16'
+    title: Am nächsten Morgen standen sie vor dem Rathaus.
+    type: story
+  15b:
+    cluster: A
+    file: Abschnitt_15b.md
+    next: '15'
+    title: „Vergiss das Archiv", sagte Jonas.
+    type: story
+  '16':
+    cluster: A
+    file: Abschnitt_16.md
+    next: '17'
+    title: Turm — drei — Mond.
+    type: story
+  '17':
+    choices:
+    - target: '18'
+      text: Die Treppe hoch zum ersten Stock → Abschnitt 18
+    - target: 18b
+      text: Erst das Erdgeschoss erkunden → Abschnitt 18b
+    cluster: A
+    file: Abschnitt_17.md
+    title: Eine Stunde später standen sie am Zaun.
+    type: choice
+  '18':
+    cluster: A
+    file: Abschnitt_18.md
+    next: '19'
+    title: Die Treppe war aus dunklem Holz.
+    type: story
+  18b:
+    cluster: A
+    file: Abschnitt_18b.md
+    next: '18'
+    title: Jonas ging nach rechts.
+    type: story
+  '19':
+    cluster: A
+    file: Abschnitt_19.md
+    next: '20'
+    title: Sie rannten die Treppe hinunter.
+    type: story
+  '2':
+    cluster: START
+    file: Abschnitt_02.md
+    next: '3'
+    title: „Du bist der Neue, oder?" sagte das Mädchen.
+    type: story
+  '20':
+    choices:
+    - target: '21'
+      text: Verstecken und beobachten → Abschnitt 21
+    - target: 21b
+      text: Sofort fliehen → Abschnitt 21b
+    cluster: A
+    file: Abschnitt_20.md
+    title: Die Uhr zeigte halb elf.
+    type: choice
+  '21':
+    cluster: A
+    file: Abschnitt_21.md
+    next: '22'
+    title: „Hinter den Sessel", hauchte Mila.
+    type: story
+  21b:
+    cluster: A
+    file: Abschnitt_21b.md
+    next: '22'
+    title: Jonas' Beine bewegten sich von selbst.
+    type: story
+  '22':
+    choices:
+    - target: '23'
+      text: Selbst in den Keller gehen → Abschnitt 23
+    - target: '32'
+      text: Meier direkt damit konfrontieren → Abschnitt 32
+    cluster: A
+    file: Abschnitt_22.md
+    title: Am nächsten Morgen trafen sie sich am Brunnen.
+    type: choice
+  '23':
+    choices:
+    - target: '24'
+      text: Weitergehen. Bis zum letzten Raum. → Abschnitt 24
+    - target: 24b
+      text: Umkehren. Zu gefährlich. → Abschnitt 24b
+    cluster: A
+    file: Abschnitt_23.md
+    title: Eine Stunde später standen sie im Salon.
+    type: choice
+  '24':
+    cluster: A
+    file: Abschnitt_24.md
+    next: '25'
+    title: Jonas drückte die Klinke.
+    type: story
+  24b:
+    cluster: A
+    file: Abschnitt_24b.md
+    next: '24'
+    title: Jonas blieb stehen.
+    type: story
+  '25':
+    choices:
+    - target: '26'
+      text: Ruhe bewahren und die Eisentür öffnen → Abschnitt 26
+    - target: 26b
+      text: Hämmern und rufen → Abschnitt 26b
+    - target: 26c
+      text: Zurück durch den Tunnel → Abschnitt 26c
+    cluster: A
+    file: Abschnitt_25.md
+    title: Jonas drehte den Schlüssel.
+    type: choice
+  '26':
+    cluster: A
+    file: Abschnitt_26.md
+    next: '27'
+    title: „Vorwärts", sagte Jonas.
+    type: story
+  26b:
+    cluster: A
+    file: Abschnitt_26b.md
+    next: '27'
+    title: Ben hämmerte gegen die Kellertür.
+    type: story
+  26c:
+    cluster: A
+    file: Abschnitt_26c.md
+    next: '25'
+    title: „Zurück", sagte Jonas.
+    type: story
+  '27':
+    cluster: A
+    file: Abschnitt_27.md
+    next: '28'
+    title: Jonas trat durch die zweite Tür.
+    type: story
+  '28':
+    choices:
+    - target: '29'
+      text: Verstecken und belauschen → Abschnitt 29
+    - target: '30'
+      text: Herausspringen und konfrontieren → Abschnitt 30
+    - target: '31'
+      text: Fliehen → Abschnitt 31
+    cluster: A
+    file: Abschnitt_28.md
+    title: Der Ausgang führte durch einen kurzen Gang.
+    type: choice
+  '29':
+    cluster: A
+    ending_id: 108
+    file: Abschnitt_29.md
+    stars: 4
+    title: Das Rätsel-Museum
+    type: ending
+  '3':
+    cluster: START
+    file: Abschnitt_03.md
+    next: '4'
+    title: „Aber warum?" fragte Jonas.
+    type: story
+  '30':
+    cluster: A
+    ending_id: 106
+    file: Abschnitt_30.md
+    stars: 3
+    title: Gut, aber...
+    type: ending
+  '31':
+    cluster: A
+    ending_id: 107
+    file: Abschnitt_31.md
+    stars: 3
+    title: Mit Hilfe
+    type: ending
+  '32':
+    cluster: A
+    ending_id: 119
+    file: Abschnitt_32.md
+    stars: 2
+    title: Hausarrest
+    type: ending
+  '4':
+    cluster: START
+    file: Abschnitt_04.md
+    next: '5'
+    title: Jonas lag im Bett und starrte an die Decke.
+    type: story
+  '41':
+    cluster: B
+    file: Abschnitt_41.md
+    next: '42'
+    title: Der Feldweg endete an der Mühle.
+    type: story
+  '42':
+    choices:
+    - target: '43'
+      text: Den Stein verschieben --> Abschnitt 43
+    - target: 43b
+      text: Morgen wiederkommen, wenn es hell ist --> Abschnitt 43b
+    cluster: B
+    file: Abschnitt_42.md
+    title: Die Lehmspuren führten zur Mauer.
+    type: choice
+  '43':
+    cluster: B
+    file: Abschnitt_43.md
+    next: '44'
+    title: Jonas packte den Stein mit beiden Händen.
+    type: story
+  43b:
+    cluster: B
+    file: Abschnitt_43b.md
+    next: '42'
+    title: „Morgen", sagte Jonas. „Wir kommen morgen wieder."
+    type: story
+  '44':
+    choices:
+    - target: '45'
+      text: Nach rechts, zum Wasser --> Abschnitt 45
+    - target: '47'
+      text: Erst zur Eisentür (links) --> Abschnitt 47
+    cluster: B
+    file: Abschnitt_44.md
+    title: Nach achtzig Schritten blieb Mila stehen.
+    type: choice
+  '45':
+    cluster: B
+    file: Abschnitt_45.md
+    next: '46'
+    title: Sie gingen nach rechts.
+    type: story
+  '46':
+    cluster: B
+    file: Abschnitt_46.md
+    next: '47'
+    title: Jonas leuchtete die Wandmalereien ab.
+    type: story
+  '47':
+    choices:
+    - target: '48'
+      text: Den Kerzenstummel einsetzen und anzünden --> Abschnitt 48
+    - target: 48b
+      text: Zurück ins Dorf und nachforschen --> Abschnitt 48b
+    cluster: B
+    file: Abschnitt_47.md
+    title: Sie gingen zurück zur Abzweigung.
+    type: choice
+  '48':
+    cluster: B
+    file: Abschnitt_48.md
+    next: '49'
+    title: „Probieren wir es", sagte Jonas.
+    type: story
+  48b:
+    cluster: B
+    file: Abschnitt_48b.md
+    next: '49'
+    title: „Wir gehen zurück", sagte Jonas. „Wir brauchen meh…
+    type: story
+  '49':
+    cluster: B
+    file: Abschnitt_49.md
+    next: '50'
+    title: Jonas trat durch die Eisentür.
+    type: story
+  '5':
+    cluster: START
+    file: Abschnitt_05.md
+    next: '6'
+    title: „Also", begann sie.
+    type: story
+  '50':
+    choices:
+    - target: '51'
+      text: Ben die Zeichnungen studieren lassen --> Abschnitt 51
+    - target: '58'
+      text: Die Pläne mitnehmen, ohne sie genauer anzusehen --> Abschnitt 58
+    cluster: B
+    file: Abschnitt_50.md
+    title: Jonas kniete vor der Truhe.
+    type: choice
+  '51':
+    cluster: B
+    file: Abschnitt_51.md
+    next: '52'
+    title: Ben kniete sich hin.
+    type: story
+  '52':
+    choices:
+    - target: '53'
+      text: Warten, bis Meier weg ist, dann reingehen → Abschnitt 53
+    - target: '54'
+      text: Meier morgen direkt konfrontieren → Abschnitt 54
+    - target: '59'
+      text: Meier ins Haus folgen → Abschnitt 59
+    cluster: B
+    file: Abschnitt_52.md
+    title: Am Abend saßen sie am Brunnen.
+    type: choice
+  '53':
+    cluster: B
+    file: Abschnitt_53.md
+    next: '55'
+    title: Sie warteten.
+    type: story
+  '54':
+    cluster: B
+    file: Abschnitt_54.md
+    next: '55'
+    title: Am nächsten Morgen gingen sie zu Meier.
+    type: story
+  '55':
+    cluster: B
+    file: Abschnitt_55.md
+    next: '56'
+    title: Krüger saß am Brunnen.
+    type: story
+  '56':
+    choices:
+    - target: '57'
+      text: Alles zeigen und der Gemeinde helfen → Abschnitt 57
+    - target: '58'
+      text: Nur die Truhe übergeben → Abschnitt 58
+    cluster: B
+    file: Abschnitt_56.md
+    title: Jonas legte die Mappe auf den Schreibtisch.
+    type: choice
+  '57':
+    cluster: B
+    ending_id: 111
+    file: Abschnitt_57.md
+    stars: 4
+    title: Der Brunnen fließt
+    type: ending
+  '58':
+    cluster: B
+    ending_id: 110
+    file: Abschnitt_58.md
+    stars: 3
+    title: Die Truhe
+    type: ending
+  '59':
+    cluster: B
+    ending_id: 109
+    file: Abschnitt_59.md
+    stars: 2
+    title: Pitschnass
+    type: ending
+  '6':
+    cluster: START
+    file: Abschnitt_06.md
+    next: '7'
+    title: Herr Krüger saß auf seiner Bank am Brunnen.
+    type: story
+  '66':
+    cluster: C
+    file: Abschnitt_66.md
+    next: '67'
+    title: „Wir brauchen Fakten", sagte Jonas.
+    type: story
+  '67':
+    cluster: C
+    file: Abschnitt_67.md
+    next: '68'
+    title: Die Ladentür klingelte.
+    type: story
+  '68':
+    choices:
+    - target: '69'
+      text: Ins Dorfarchiv gehen → Abschnitt 69
+    - target: '70'
+      text: Zum Bürgermeister gehen → Abschnitt 70
+    cluster: C
+    file: Abschnitt_68.md
+    title: Sie gingen weiter die Dorfstraße hinunter.
+    type: choice
+  '69':
+    cluster: C
+    file: Abschnitt_69.md
+    next: '71'
+    title: Das Dorfarchiv war im Keller des Rathauses.
+    type: story
+  '7':
+    choices:
+    - target: '11'
+      text: Direkt zum Herrenhaus gehen → Abschnitt 11
+    - target: '41'
+      text: Die alte Mühle untersuchen → Abschnitt 41
+    - target: '66'
+      text: Im Dorf Informationen sammeln → Abschnitt 66
+    - target: '91'
+      text: Krüger nachlaufen und mehr fragen → Abschnitt 91
+    cluster: START
+    file: Abschnitt_07.md
+    title: Sie standen noch am Brunnen.
+    type: choice
+  '70':
+    cluster: C
+    file: Abschnitt_70.md
+    next: '71'
+    title: Das Rathaus war ein gelbes Gebäude am Marktplatz.
+    type: story
+  '71':
+    choices:
+    - target: '72'
+      text: Meier weiter beobachten → Abschnitt 72
+    - target: '74'
+      text: Endlich zum Herrenhaus gehen → Abschnitt 74
+    - target: '73'
+      text: Krüger nochmal fragen → Abschnitt 73
+    - target: '86'
+      text: Aufgeben → Abschnitt 86
+    cluster: C
+    file: Abschnitt_71.md
+    title: Es war Abend.
+    type: choice
+  '72':
+    cluster: C
+    file: Abschnitt_72.md
+    next: '75'
+    title: Drei Tage lang beobachteten sie Meier.
+    type: story
+  '73':
+    cluster: C
+    file: Abschnitt_73.md
+    next: '76'
+    title: Herr Krüger saß am Brunnen.
+    type: story
+  '74':
+    choices:
+    - target: '77'
+      text: Ehrlich sein und alles zeigen → Abschnitt 77
+    - target: '78'
+      text: Fliehen! → Abschnitt 78
+    cluster: C
+    file: Abschnitt_74.md
+    title: Mit allem, was sie wussten, gingen sie zum Herrenh…
+    type: choice
+  '75':
+    cluster: C
+    file: Abschnitt_75.md
+    next: '79'
+    title: Am nächsten Morgen gingen sie zur Mühle.
+    type: story
+  '76':
+    cluster: C
+    file: Abschnitt_76.md
+    next: '79'
+    title: Krüger führte sie zur Mühle.
+    type: story
+  '77':
+    cluster: C
+    file: Abschnitt_77.md
+    next: '80'
+    title: Jonas holte tief Luft.
+    type: story
+  '78':
+    cluster: C
+    ending_id: 112
+    file: Abschnitt_78.md
+    stars: 2
+    title: Die Flucht
+    type: ending
+  '79':
+    choices:
+    - target: '80'
+      text: Beweise zum Bürgermeister bringen → Abschnitt 80
+    - target: '85'
+      text: Beweise aufheben und erstmal nichts tun → Abschnitt 85
+    cluster: C
+    file: Abschnitt_79.md
+    title: Jonas schlug den Ordner auf.
+    type: choice
+  '80':
+    cluster: C
+    file: Abschnitt_80.md
+    next: '81'
+    title: Sie saßen auf dem Boden der Schatzkammer.
+    type: story
+  '81':
+    choices:
+    - target: '82'
+      text: Die Beweise zum Bürgermeister bringen → Abschnitt 82
+    - target: '85'
+      text: Die Beweise aufheben, aber nichts unternehmen → Abschnitt 85
+    cluster: C
+    file: Abschnitt_81.md
+    title: Mila zog ein Blatt aus dem Umschlag.
+    type: choice
+  '82':
+    cluster: C
+    file: Abschnitt_82.md
+    next: '83'
+    title: Der Bürgermeister hieß Schröder.
+    type: story
+  '83':
+    cluster: C
+    file: Abschnitt_83.md
+    next: '84'
+    title: Der Gemeinderatssaal war voll.
+    type: story
+  '84':
+    cluster: C
+    ending_id: 114
+    file: Abschnitt_84.md
+    stars: 4
+    title: Heinrich-Winter-Weg
+    type: ending
+  '85':
+    cluster: C
+    ending_id: 113
+    file: Abschnitt_85.md
+    stars: 3
+    title: Beweise, aber...
+    type: ending
+  '86':
+    cluster: C
+    ending_id: 115
+    file: Abschnitt_86.md
+    stars: 1
+    title: Am Bach gespielt
+    type: ending
+  '91':
+    cluster: D
+    file: Abschnitt_91.md
+    next: '92'
+    title: Jonas rannte los.
+    type: story
+  '92':
+    choices:
+    - target: '93'
+      text: Anklopfen → Abschnitt 93
+    - target: '94'
+      text: Erst durchs Fenster spähen → Abschnitt 94
+    - target: '105'
+      text: Doch nicht — lieber direkt zum Herrenhaus gehen → Abschnitt 105
+    cluster: D
+    file: Abschnitt_92.md
+    title: Jonas lag wach.
+    type: choice
+  '93':
+    cluster: D
+    file: Abschnitt_93.md
+    next: '95'
+    title: Jonas klopfte.
+    type: story
+  '94':
+    cluster: D
+    file: Abschnitt_94.md
+    next: '95'
+    title: „Warte", flüsterte Jonas.
+    type: story
+  '95':
+    choices:
+    - target: '96'
+      text: „Wir haben einen Schlüssel gefunden. Am Brunnen. Mit einem W." → Abschnitt 96
+    - target: '97'
+      text: „Sie vermissen ihn." → Abschnitt 97
+    cluster: D
+    file: Abschnitt_95.md
+    title: Krüger hielt die Teetasse mit beiden Händen.
+    type: choice
+  '96':
+    cluster: D
+    file: Abschnitt_96.md
+    next: '98'
+    title: Jonas griff in seine Hosentasche.
+    type: story
+  '97':
+    cluster: D
+    file: Abschnitt_97.md
+    next: '98'
+    title: Jonas sagte nichts über den Schlüssel.
+    type: story
+  '98':
+    choices:
+    - target: '99'
+      text: „Öffnen Sie ihn. Bitte." → Abschnitt 99
+    - target: 99b
+      text: „Wir öffnen ihn zusammen. Am Brunnen. An Ihrem Treffpunkt." → Abschnitt 99b
+    cluster: D
+    file: Abschnitt_98.md
+    title: Krüger ging zum Schrank.
+    type: choice
+  '99':
+    cluster: D
+    file: Abschnitt_99.md
+    next: '100'
+    title: „Öffnen Sie ihn", sagte Jonas.
+    type: story
+  99b:
+    cluster: D
+    file: Abschnitt_99b.md
+    next: '100'
+    title: „Nicht hier", sagte Jonas.
+    type: story

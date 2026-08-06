@@ -12,7 +12,7 @@ Mila reichte es ihm. Er drückte es in die rechte Mulde. Klick. Eine zweite Lini
 
 Das Kreuz glitt in die linke Mulde. Klick. Silbernes Leuchten.
 
-„Und jetzt der Ring", flüsterte Ben.
+„Und jetzt der Ring", raunte Ben.
 
 Jonas nahm Karls Messingring. Er war warm von seiner Hand. Er setzte ihn in die letzte Mulde.
 
@@ -30,7 +30,7 @@ Jonas nahm das Handy vom Lautsprecher. Er hielt es ans Ohr. „Herr Winter? Die 
 
 „Gut", sagte Winter. Seine Stimme war ruhig. Aber Jonas hörte die Aufregung darunter.
 
-Ben fluesterte: „Er hat Angst. Genau wie ich." Pause. „Wobei — ich bin mutiger. Ich bin wenigstens hier."
+Ben flüsterte: „Er hat Angst. Genau wie ich." Pause. „Wobei — ich bin mutiger. Ich bin wenigstens hier."
 
 „Geht die Treppe runter", sagte Winter. „Fünfundzwanzig Stufen. Dann kommt ein Gang."
 
@@ -46,9 +46,9 @@ Jonas leuchtete umher. Kein Pfeiler. Nur Trümmer am Boden. Holzsplitter. Verrot
 
 „Er ist weg", sagte Jonas. „Zusammengebrochen."
 
-Am anderen Ende war es still. Winters Atem ging schneller. „Dreissig Jahre", murmelte er. „Dreissig Jahre sind eine lange Zeit."
+Am anderen Ende war es still. Winters Atem ging schneller. „Dreißig Jahre", murmelte er. „Dreißig Jahre sind eine lange Zeit."
 
-Die Decke ueber ihnen knackte. Laut. Nicht leise — laut. Staub rieselte herab. Kleine Steine prasselten auf den Boden.
+Die Decke über ihnen knackte. Laut. Nicht leise — laut. Staub rieselte herab. Kleine Steine prasselten auf den Boden.
 
 „LAUFT!", schrie Winter durchs Telefon.
 
@@ -56,7 +56,7 @@ Jonas rannte. Mila direkt hinter ihm. Ben schrie. Ein Brocken fiel von der Decke
 
 Mila stolperte. Ihre Schulter streifte die Wand. Sie zischte vor Schmerz. Aber sie rannte weiter.
 
-Zehn Meter. Fuenfzehn. Dann: Stille. Der Gang hinter ihnen war voller Staub. Steine lagen auf dem Boden. Der Weg zurueck war versperrt.
+Zehn Meter. Fünfzehn. Dann: Stille. Der Gang hinter ihnen war voller Staub. Steine lagen auf dem Boden. Der Weg zurück war versperrt.
 
 ---
 

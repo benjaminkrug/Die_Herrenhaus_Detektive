@@ -30,7 +30,7 @@ Jonas drehte eine Flasche. Das Etikett trug eine krakelige Handschrift.
 
 *Wasserprobe, 1989. Quelle unter der Mühle. H. Winter.*
 
-Jonas' Herz schlug schneller. „Winter", sagte er. „Er war hier."
+Ein Schauer lief ihm über den Rücken. „Winter", sagte er. „Er war hier."
 
 Mila nahm eine andere Flasche. „Wasserprobe, 1991", las sie. „Er hat das Wasser untersucht. Über Jahre."
 

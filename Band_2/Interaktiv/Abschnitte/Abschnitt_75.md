@@ -6,13 +6,13 @@ Frau Bergmann schüttelte den Kopf. „Nein. Nein, das kann ich nicht."
 
 „Doch", sagte Mila. „Sie können."
 
-„Ich bin achtzig Jahre alt. Ich kann keine Leitern klettern. Ich kann nicht —"
+„Ich bin achtzig Jahre alt. Ich kann keine Leitern klettern. Ich kann nicht —“
 
 „Sie kennen den Weg", sagte Jonas ruhig. „Niemand sonst."
 
 Frau Bergmann sah ihn an. Lang. Prüfend. Dann wanderte ihr Blick zum Ring auf dem Tisch.
 
-Sie griff danach. Hielt ihn in der offenen Hand. Das Metall roch nach Messing und Zeit. Ihre Haende schlossen sich darum.
+Sie griff danach. Hielt ihn in der offenen Hand. Das Metall roch nach Messing und Zeit. Ihre Hände schlossen sich darum.
 
 „Karl hat ihn mir gegeben", sagte sie leise. „Am letzten Tag. Bevor seine Familie weggezogen ist."
 
@@ -34,7 +34,7 @@ Jonas spürte, wie ihm warm wurde. Im Bauch. In der Brust. Überall.
 
 Frau Bergmann hängte den Ring zurück an ihre Kette. „Karl hat siebzig Jahre gewartet. Ich auch." Sie sah die Kinder an. Ihre Augen waren feucht. Aber entschlossen. „Es wird Zeit."
 
-Sie nahm ihren Stock aus der Ecke. Zog ihre festen Schuhe an. Waehlte eine Taschenlampe aus der Schublade. Sie knipste sie an. Das Licht flackerte kurz. Dann hielt es. Dann griff sie nach einer alten Jacke am Haken.
+Sie nahm ihren Stock aus der Ecke. Zog ihre festen Schuhe an. Wählte eine Taschenlampe aus der Schublade. Sie knipste sie an. Das Licht flackerte kurz. Dann hielt es. Dann griff sie nach einer alten Jacke am Haken.
 
 „Worauf wartet ihr?", sagte sie.
 

@@ -4,7 +4,7 @@ Krüger stand am Brunnenrand. Sein Regenschirm tropfte. Er sagte kein Wort. Er s
 
 Dann kniete er sich hin. Langsam. Sein Stock fiel ins Gras. Er legte beide Hände auf den Deckel.
 
-„Die vier Symbole", flüsterte er. „Stern. Baum. Kreuz. Ring."
+„Die vier Symbole", murmelte er. „Stern. Baum. Kreuz. Ring."
 
 Jonas nickte. „Die Gründungsurkunde. Die Münzen. Alles ist echt."
 
@@ -28,33 +28,33 @@ Krüger nahm die Zeichnungen. Setzte seine Brille auf. Studierte die Linien. Die
 
 „Der Brunnen", sagte er langsam. „Die alten Rohre von der Quelle zum Brunnen."
 
-„Die kann man reparieren", sagte Ben. „Hier ist der Bruch. Wenn man dort gräbt und das Rohr flickt —"
+„Die kann man reparieren", sagte Ben. „Hier ist der Bruch. Wenn man dort gräbt und das Rohr flickt —“
 
 „— fließt der Brunnen wieder", beendete Krüger den Satz.
 
-Mila verschraenkte die Arme. „Das Dorf muss das erfahren. Die Quelle gehoert allen."
+Mila reckte das Kinn. „Das Dorf muss das erfahren. Die Quelle gehört allen."
 
-Irgendwo tropfte Wasser von einem Ast. Krueger sah die drei Kinder an. Nass. Dreckig. Strahlend.
+Irgendwo tropfte Wasser von einem Ast. Krüger sah die drei Kinder an. Nass. Dreckig. Strahlend.
 
 „Ihr wisst, was das bedeutet?", fragte er.
 
-Jonas nickte. „Eichenhains Brunnen kann wieder fliessen."
+Jonas nickte. „Eichenhains Brunnen kann wieder fließen."
 
-Krueger stand auf. Hob seinen Stock auf. Seine Stimme war fest. „Dann muessen wir zum Buergermeister."
+Krüger stand auf. Hob seinen Stock auf. Seine Stimme war fest. „Dann müssen wir zum Bürgermeister."
 
 „Warte", sagte Ben. Er kaute auf seiner Unterlippe. „Was ist mit Meier?"
 
 Jonas sah ihn an. „Was meinst du?"
 
-„Er hat uns die Taschenlampe gegeben. Sein Vater war im Suchtrupp." Ben zeigte zum Herrenhaus. „Wenn wir direkt zum Buergermeister gehen, erfaehrt er es aus der Zeitung."
+„Er hat uns die Taschenlampe gegeben. Sein Vater war im Suchtrupp." Ben zeigte zum Herrenhaus. „Wenn wir direkt zum Bürgermeister gehen, erfährt er es aus der Zeitung."
 
 Mila schnaubte. „Er hat uns gewarnt, wir sollen nicht runter!"
 
 „Er hat sich Sorgen gemacht", sagte Ben leise. „Auf seine Art."
 
-Jonas sah zum Herrenhaus. Meier stand im Regen. Allein. Die Haende in den Taschen.
+Jonas sah zum Herrenhaus. Meier stand im Regen. Allein. Die Hände in den Taschen.
 
-Vielleicht hatte Ben recht. Meier war ein Gruenderkind. Genau wie Frau Bergmann. Er verdiente es, die Wahrheit als Erster zu hoeren.
+Vielleicht hatte Ben recht. Meier war ein Gründerkind. Genau wie Frau Bergmann. Er verdiente es, die Wahrheit als Erster zu hören.
 
 Oder vielleicht war das Dorf wichtiger als ein einzelner Mann.
 
@@ -62,6 +62,6 @@ Oder vielleicht war das Dorf wichtiger als ein einzelner Mann.
 
 *Was tut ihr?*
 
-**Zum Buergermeister gehen — das Dorf muss es zuerst erfahren. → Abschnitt 55**
+**Zum Bürgermeister gehen — das Dorf muss es zuerst erfahren. → Abschnitt 55**
 
 **Meier zuerst informieren — er verdient die Chance, selbst zu handeln. → Abschnitt 57**

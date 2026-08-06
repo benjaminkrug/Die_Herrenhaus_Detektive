@@ -2,15 +2,15 @@
 
 Das Dorf feierte.
 
-Bunte Girlanden hingen zwischen den Bäumen am Dorfplatz. Herr Fischer hatte seinen Grill aufgestellt. Es roch nach Bratwurst und warmem Zucker. Frau Müller trug Tabletts mit Kuchen aus der Bäckerei. Aus einem Radio dudelte Musik. Kinder rannten um den Brunnen herum und steckten ihre Hände ins Wasser. Ihr Lachen hallte ueber den Platz.
+Bunte Girlanden hingen zwischen den Bäumen am Dorfplatz. Herr Fischer hatte seinen Grill aufgestellt. Es roch nach Bratwurst und warmem Zucker. Frau Müller trug Tabletts mit Kuchen aus der Bäckerei. Aus einem Radio dudelte Musik. Kinder rannten um den Brunnen herum und steckten ihre Hände ins Wasser. Ihr Lachen hallte über den Platz.
 
 Der Brunnen plätscherte. Klares Wasser. Eiskalt und frisch. Wie seit siebzig Jahren nicht mehr.
 
-Ben zeigte auf das alte Rohr, das er repariert hatte. Auf der Seite stand ein eingepraegtes Wort: ***QUELLE.***
+Ben zeigte auf das alte Rohr, das er repariert hatte. Auf der Seite stand ein eingeprägtes Wort: ***QUELLE.***
 
-„Die Quelle", fluesterte Jonas. „Sie war die ganze Zeit da. Unter unseren Fuessen."
+„Die Quelle", flüsterte Jonas. „Sie war die ganze Zeit da. Unter unseren Füßen."
 
-Jonas sass auf dem Brunnenrand. Genau dort, wo alles angefangen hatte. Wo er den Brief gelesen hatte. Wo die Geschichte begonnen hatte.
+Jonas saß auf dem Brunnenrand. Genau dort, wo alles angefangen hatte. Wo er den Brief gelesen hatte. Wo die Geschichte begonnen hatte.
 
 Mila setzte sich neben ihn. „Nicht schlecht", sagte sie. „Für drei Kinder."
 

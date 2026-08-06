@@ -1,6 +1,6 @@
 # Abschnitt 83
 
-Am naechsten Morgen war das Rathaus voll. Jeder Stuhl besetzt. Leute standen an den Wänden. Milas Oma. Meier. Krüger auf seiner Bank in der ersten Reihe. Der Bürgermeister am Rednerpult.
+Am nächsten Morgen war das Rathaus voll. Jeder Stuhl besetzt. Leute standen an den Wänden. Milas Oma. Meier. Krüger auf seiner Bank in der ersten Reihe. Der Bürgermeister am Rednerpult.
 
 Jonas hatte noch nie so viele Menschen in einem Raum gesehen.
 

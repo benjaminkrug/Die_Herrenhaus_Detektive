@@ -16,7 +16,7 @@ Meier setzte sich auf die Bank vor dem Laden. „Mein Vater war im Suchtrupp. 19
 
 „Er hat etwas gesehen. Dort unten." Meier sah die Kinder an. „Er hat es mir nie erzählt. Aber nachts — manchmal hat er schlecht geträumt."
 
-„Und jetzt liegt das alles noch da unten", sagte Mila. Sie verschränkte die Arme. „Dann müssen wir es finden."
+„Und jetzt liegt das alles noch da unten", sagte Mila. Sie ballte die Fäuste. „Dann müssen wir es finden."
 
 Ben trat von einem Fuß auf den anderen. „Das klingt nicht gut. Das klingt überhaupt nicht gut."
 
@@ -28,7 +28,7 @@ Meier stand auf. Er ging in den Laden. Nach einer Minute kam er zurück. In sein
 
 Er drückte die Taschenlampe Jonas in die Hand. Sie war schwer. Kalt.
 
-„Neue Batterien sind drin", sagte Meier. „Falls ihr sie braucht." Er sah zum Himmel. Wolken schoben sich vor die Sonne. „Aber beeilt euch. Wenn der Regen kommt, drueckt das Wasser in die Gaenge. Dann bricht alles zusammen."
+„Neue Batterien sind drin", sagte Meier. „Falls ihr sie braucht." Er sah zum Himmel. Wolken schoben sich vor die Sonne. „Aber beeilt euch. Wenn der Regen kommt, drückt das Wasser in die Gänge. Dann bricht alles zusammen."
 
 „Danke", sagte Jonas.
 
@@ -42,7 +42,7 @@ Jonas betrachtete die Geheimtinte-Karte. Er hielt sie ins Licht. Da — am unter
 
 Die anderen beugten sich vor.
 
-Jonas las laut: „*Vier Familien gründeten Eichenhain. Ihr Zeichen öffnet den Weg.*"
+Jonas las laut: „*Vier Familien gründeten Eichenhain. Ihr Zeichen öffnet den Weg.*„
 
 „Vier Familien", wiederholte Mila. „Die Gründerfamilien."
 
@@ -64,7 +64,7 @@ Darunter vier Namen. Vier Familien.
 
 Die drei Kinder starrten auf die Tafel. Vier Gründerfamilien. Die gleichen Namen wie überall. Winter, Bergmann, Hoffmann, Meier.
 
-„Die vier Familien haben Eichenhain gegründet", sagte Jonas. „Und ihr Zeichen öffnet den Weg. Das heißt —"
+„Die vier Familien haben Eichenhain gegründet", sagte Jonas. „Und ihr Zeichen öffnet den Weg. Das heißt —“
 
 „— wir brauchen etwas von jeder Familie", sagte Mila. Ihre Augen blitzten. „Vier Familien. Vier Zeichen. Dann geht der Weg auf."
 

@@ -1,14 +1,14 @@
 # Abschnitt 16b
 
-„Wir schaffen das auch ohne den vierten Gegenstand", sagte Mila. Sie verschränkte die Arme. „Jetzt oder nie."
+„Wir schaffen das auch ohne den vierten Gegenstand", sagte Mila. Sie reckte das Kinn. „Jetzt oder nie."
 
-„Oder nie", murmelte Ben. „Ich waere fuer nie."
+„Oder nie", murmelte Ben. „Ich wäre für nie."
 
-Mila hoerte nicht auf ihn. „Los, sucht was Rundes. Irgendwas."
+Mila hörte nicht auf ihn. „Los, sucht was Rundes. Irgendwas."
 
 Sie durchkämmten den Tunnel. Ben fand ein Stück altes Metall im Schuppen des Herrenhauses. Grünlich. Verbogen. So groß wie eine Münze.
 
-„Das sieht aus wie der Ring von meiner Oma", sagte Ben. „Nur haesslicher."
+„Das sieht aus wie der Ring von meiner Oma", sagte Ben. „Nur hässlicher."
 
 „Her damit", sagte Mila.
 
@@ -32,7 +32,7 @@ Jonas kniete nieder. Er leuchtete hindurch. Dahinter lag Dunkelheit. Und ein kal
 
 Mila sah ihn an. „Dann müssen wir schnell sein."
 
-Bens Mund war trocken. „Und wenn sie zugeht, waehrend wir drin sind?"
+Bens Mund war trocken. „Und wenn sie zugeht, während wir drin sind?"
 
 Irgendwo knackte Holz. Alle drei sahen den schmalen Spalt an.
 

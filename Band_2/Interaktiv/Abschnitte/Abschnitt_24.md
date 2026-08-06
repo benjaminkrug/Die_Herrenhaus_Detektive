@@ -20,29 +20,29 @@ Eine Kammer. Noch größer als die letzte. Und in der Mitte: Wasser. Es sprudelt
 
 Das Wasser lief über glatte Steine in eine natürliche Rinne. Es plätscherte und gurgelte. Der Klang füllte die ganze Kammer.
 
-„Das klingt wie ein Brunnen", sagte Ben. „Nur viel aelter."
+„Das klingt wie ein Brunnen", sagte Ben. „Nur viel älter."
 
 Jonas stellte die Truhe ab. Er kniete am Rand. Die Luft roch anders hier. Frisch. Wie nach Regen auf warmem Stein.
 
-Das Wasser war klar. So klar, dass er den Grund sehen konnte. Er hielt seine Hand hinein. Eisig. So kalt, dass seine Haende sofort taub wurden.
+Das Wasser war klar. So klar, dass er den Grund sehen konnte. Er hielt seine Hand hinein. Eisig. So kalt, dass seine Hände sofort taub wurden.
 
-„Heilendes Wasser", fluesterte er. Er dachte an den Brief. An die Gruenderfamilien.
+„Heilendes Wasser", murmelte er. Er dachte an den Brief. An die Gründerfamilien.
 
 Mila kniete neben ihm. „Deshalb haben sie Eichenhain hier gebaut. Wegen dieser Quelle."
 
 „Dreihundert Jahre", sagte Jonas. „Und niemand hat sie gefunden."
 
-Ben schoepfte Wasser mit den Haenden. Trank einen Schluck. Seine Augen wurden gross.
+Ben schöpfte Wasser mit den Händen. Trank einen Schluck. Seine Augen wurden groß.
 
-„Das schmeckt anders", sagte er. „Besser. Viel besser als normales Wasser." Er schoepfte noch einmal. „Kann ich davon was mitnehmen? Fuer meine Mutter?"
+„Das schmeckt anders", sagte er. „Besser. Viel besser als normales Wasser." Er schöpfte noch einmal. „Kann ich davon was mitnehmen? Für meine Mutter?"
 
 Mila lachte. „Ben. Konzentrier dich."
 
 „Ich bin konzentriert! Aber das Wasser ist echt gut."
 
-Jonas stand auf. Er laechelte. Sie hatten sie gefunden. Die Quelle unter dem Dorf.
+Jonas stand auf. Er lächelte. Sie hatten sie gefunden. Die Quelle unter dem Dorf.
 
-Dann hoerte er es. Ein tiefes Grollen. Weit unter ihnen. Der Boden vibrierte kurz unter seinen Fuessen.
+Dann hörte er es. Ein tiefes Grollen. Weit unter ihnen. Der Boden vibrierte kurz unter seinen Füßen.
 
 ---
 

@@ -97,17 +97,41 @@ SONDERN: "Sein Herz klopfte schneller."
 
 ## Charakterprofile
 
+> **KANON-REGEL ZUM ALTER (geprueft und festgelegt 2026-07-18):**
+> Jonas, Mila und Ben sind **zehn Jahre alt -- in JEDEM Band der Reihe.**
+> Das Alter waechst nicht mit. Diese Frage ist entschieden und wird nicht neu
+> aufgemacht.
+>
+> **Begruendung:** (1) Kein Handlungspunkt haengt am Alter -- ein Geburtstag
+> wuerde nichts erzaehlen, nur Buchhaltung erzeugen (jeder neue Band + jede
+> Interaktiv-Version braeuchte dann eine eigene Altersentscheidung).
+> (2) Die Reihe wird ausdruecklich als "jeder Band in sich abgeschlossen"
+> beworben (A+ Content) -- ein Kind kann mit Band 4 anfangen. Ein mitwachsendes
+> Alter setzt Lesereihenfolge voraus. (3) Serienstandard: Fuenf Freunde, TKKG,
+> Die drei ??? frieren das Alter aus genau diesem Grund ein.
+> (4) Zielgruppe ist 8-10 -- zehnjaehrige Helden sitzen genau richtig.
+>
+> Textbefund zur Sicherheit: Die einzige woertliche Altersangabe fuer die drei in
+> Band 1-3 ist Band 2, Kapitel 13 (Mila zu Ben: "Du bist zehn"). Alle uebrigen
+> "zehn"-Stellen betreffen Zeitangaben, Entfernungen oder Lisbeth/Karl (1953).
+>
+> **Ausnahme Band 4: Nele Ahrens ist 11** -- das einzige leicht aeltere Kind,
+> was ihren Vorsprung unterstuetzt.
+
 ### Jonas (Hauptperspektive)
 - **Rolle:** Der Neue im Dorf Eichenhain. Zugezogen.
-- **Alter:** ca. 10 Jahre
+- **Alter:** 10 Jahre (in allen Baenden -- siehe Kanon-Regel oben)
 - **Eigenschaften:** Neugierig, aufmerksam, beobachtet genau, stellt viele Fragen. Mutig, aber nicht leichtsinnig. Denkt nach bevor er handelt.
 - **Sprechweise:** Direkt, fragt viel ("Warum?", "Was ist das?"). Kurze Saetze. Manchmal nachdenklich.
 - **Koerpersprache:** Kneift Augen zusammen, blinzelt, spuert Kribbeln im Bauch
-- **Funktion:** Leser identifizieren sich mit ihm. Er entdeckt alles zum ersten Mal, genau wie der Leser.
+- **Funktion:** Leser identifizieren sich mit ihm. Er ist bei allem dabei, und der Leser erlebt alles durch ihn.
+- **WICHTIG -- praezisiert 2026-07-22:** Er entdeckt **das meiste zuerst, aber NICHT alles.**
+  Frueher stand hier "Er entdeckt alles zum ersten Mal". Das ist zu eng gelesen worden und
+  macht ihn zum Kanal statt zur Figur. **Perspektive heisst dabei sein, nicht alles finden.**
 
 ### Mila
 - **Rolle:** Die Mutige. Kennt das Dorf.
-- **Alter:** ca. 10 Jahre
+- **Alter:** 10 Jahre (in allen Baenden -- siehe Kanon-Regel oben)
 - **Eigenschaften:** Draengt vorwaerts, zeigt keine Angst (oder verbirgt sie). Praktisch, loesungsorientiert. Klug. Manchmal ungeduldig.
 - **Sprechweise:** Bestimmt, kurz angebunden. Verdreht oft die Augen ueber Ben. Sagt Dinge wie "Quatsch", "Jetzt oder nie", "Wenn wir jetzt umdrehen, erfahren wir nie etwas."
 - **Koerpersprache:** Verschraenkt Arme, verdreht Augen, schiebt Vorhaenge beiseite, geht voran
@@ -115,7 +139,7 @@ SONDERN: "Sein Herz klopfte schneller."
 
 ### Ben
 - **Rolle:** Der Aengstliche/Skeptiker. Kennt das Dorf.
-- **Alter:** ca. 10 Jahre
+- **Alter:** 10 Jahre (in allen Baenden -- siehe Kanon-Regel oben)
 - **Aussehen:** Traegt immer eine rote Kappe
 - **Eigenschaften:** Hat oft Angst, gibt es offen zu. Vorsichtig. Aber in entscheidenden Momenten ueberraschend mutig und klug (besonders in Kapitel 13).
 - **Sprechweise:** Nervoes, warnt oft. "Ich habe ein ganz schlechtes Gefuehl." "Letzte Chance zum Umkehren." Fluestert viel. Aber auch witzig -- sorgt fuer humorvolle Momente.
@@ -127,6 +151,34 @@ SONDERN: "Sein Herz klopfte schneller."
 - Mila und Ben streiten oft (liebevoll)
 - Jonas vermittelt zwischen den beiden
 - Alle drei sind ein Team -- keiner wird ausgeschlossen
+
+### ABWECHSLUNG IM HANDELN (Regel fuer alle Baende, 2026-07-22)
+
+> **"Jonas fragt, Mila draengt, Ben bremst" ist die GRUNDHALTUNG, kein Gesetz.**
+> Wenn jede Szene der Formel folgt, werden die drei berechenbar -- und
+> berechenbare Figuren sind der haeufigste Grund, warum Text maschinell wirkt.
+
+**Die Formel muss regelmaessig gebrochen werden:**
+- **Mila zoegert** manchmal, statt zu draengen (sie darf verletzlich sein)
+- **Ben treibt** manchmal, statt zu bremsen (er hat mutige und kluge Momente)
+- **Jonas handelt** manchmal, statt zu fragen
+
+**Verteilungs-Regel, pro Akt pruefbar:**
+
+| | Muss pro Akt haben |
+|---|---|
+| Jonas | die **meisten** Entdeckungen -- aber mindestens eine gehoert einem anderen |
+| Mila | mindestens **eine eigene Entdeckung oder Loesung** (nicht nur Antreiben) |
+| Ben | mindestens **einen klugen Beitrag** (nicht nur Humor und Angst) |
+
+**Und umgekehrt genauso wichtig:** Wenn EIN Kind einen ganzen Akt lang traegt,
+ist der Akt schief -- auch wenn es das richtige Kind ist.
+
+*Anlass der Regel (Band 4, Akt 1):* Mila loeste das zentrale Raetsel, Ben hatte
+vier eigene Beitraege (Ablass-Erklaerung, Stock, Pfand-Keim, Streich-Verdacht),
+Winter lieferte den Ort -- **und Jonas hatte in fuenf Kapiteln genau eine eigene
+Entdeckung.** Ben wurde in drei von fuenf Kapiteln oefter genannt als die
+Perspektivfigur. Das faellt beim Schreiben nicht auf, nur beim Auszaehlen.
 
 ---
 
@@ -569,3 +621,352 @@ Jedes Kapitel muss enthalten:
 - **Foerster** = Beschuetzer-Hindernis (s. o.).
 - **Band-4-Hook** = "Groesser werden" ueber das Wappen/die vier Familien.
 - Vollstaendige Begruendungen: `Band_3/Linear/PLAN_Band3.md`. Welt-/Geo-Details: `Band_3/Linear/Welt_und_Figuren.md`. Hinweis-Buchhaltung: `Band_3/Linear/Setup_Payoff_Tracker.md`.
+
+------------------------------------------------------------------------
+
+# BAND 4: Das versunkene Dorf (Arbeitstitel)
+
+> Status: PLANUNG. Konzept steht (`Band_4/Linear/PLAN_Band4.md`), Serienbogen
+> steht (`Band_4/Linear/Serienbogen_Band4_5.md`). Outline, Szenenplanung und
+> Kapitel folgen. Der Kontinuitaets-Tracker unten ist ABSICHTLICH LEER -- er
+> wird beim Schreiben Kapitel fuer Kapitel gefuellt (wie in Band 2 + 3).
+
+## Ausgangslage Band 4
+
+- **Sommer nach Band 3** (Band 3 endete im Herbst), also rund 10 Monate spaeter.
+  Sommerferien. Ein heisser, trockener Sommer -- seit Wochen kein Regen.
+- **Erster Band, der ausserhalb von Eichenhain spielt.**
+- Heinrich Winter ist zurueck und wohnt wieder im Herrenhaus (Band 3, Kap 17).
+  Das Haus ist bewohnt, Licht in den Fenstern -- die Auszahlung von Band 1.
+- Foerster Holzer gehoert zum Dorf, ist Freund der Kinder, Team mit Meier.
+  Der Wald ist "nicht mehr verboten" fuer die drei (Band 3, Kap 18).
+- Das Wehr im Wald ist fachgerecht gesichert, der Schieber offen -- das Wasser
+  fliesst kontrolliert in die alten Gaenge ab. Das Dorf ist ausser Gefahr.
+- Der Brunnen ist repariert, Frau Wenzels Haus steht. Frau Wenzel ist wohlauf.
+- Krueger ist weiterhin Anker/Mentor, fuettert jetzt mit Winter zusammen Tauben.
+- Meier ist Verbuendeter und stolzer Gruenderfamilien-Erbe.
+
+### Was die Kinder aus Band 3 mitbringen (Gegenstaende)
+- **Die MUENZE** -- in Jonas' Tasche. Eiche auf einer Seite, FREMDES Symbol auf
+  der anderen (3 Wellen + 8-Spitzen-Stern). Der zentrale Gegenstand von Band 4.
+  **WICHTIG: Sie ist kein Wegweiser, sie ist ein PFAND** (siehe unten).
+- **Das Pergament der Gruender** -- bei Winter. Unterer Rand abgerissen, bricht
+  ab bei *"Die vier Familien kamen aus dem..."*. Die Muenze passt in die Luecke.
+- Die Geheimtinte-Karte (aus Band 2/3) -- bei Jonas, fuer Band 4 ausgereizt.
+
+## Das Kern-Geheimnis Band 4 (steht fest, wird beim Schreiben aufgeloest)
+
+Die vier Gruenderfamilien kamen aus **Sternbach** -- einem Dorf, das vor rund
+300 Jahren in einem See versunken ist. Heute heisst der See **Der Graue See**;
+der Name "Sternbach" wurde nach der Flut aus dem Sprachgebrauch getilgt. Genau
+deshalb hat Winter ihn jahrzehntelang nicht gefunden.
+
+**Das Symbol IST der Ortsname:** 3 Wellen = Bach, 8-Spitzen-Stern = Stern ->
+**Sternbach**. Die Kinder loesen das selbst; der Leser kann mitraten.
+
+**Die fuenfte Familie:** Das Wappen von Eichenhain hat vier Symbole. In Sternbach
+taucht ein fuenftes auf. Es gehoerte einer fuenften Familie, die BLIEB, als die
+vier gingen. Am See gilt seit 300 Jahren: *"Die vier haben uns im Stich
+gelassen."*
+
+**Die Wahrheit, die die Kinder beweisen:** Die vier gingen nicht heimlich und
+nicht aus Feigheit. Sie zogen los, um **Hilfe und hoeher gelegenes Land zu
+holen**, und liessen ein Pfand zurueck -- das Versprechen zurueckzukehren. Sie
+kamen zu spaet; das Wasser war schneller.
+
+**Der Payoff der Muenze -- die Muenzen sind PAARE (Kanon, festgelegt Phase 4):**
+Ein Pfand wird zweimal gepraegt. Jede der vier Familien **nahm eine Muenze mit
+und liess die passende Gegenmuenze in Sternbach** -- acht Stueck, vier Paare,
+wie ein Kerbholz. Jonas traegt seit Band 3 eine der mitgenommenen.
+
+*Warum so:* Ohne die Paar-Regel widerspricht sich der Kanon -- Jonas' Muenze
+wurde in EICHENHAIN gefunden, kann also nicht in Sternbach zurueckgelassen
+worden sein. Die Paar-Loesung repariert das und traegt zugleich den Beweis:
+Die Familie Ahrens besitzt ihre Gegenmuenze seit 300 Jahren -- als Andenken an
+den Verrat. **Sie hatten den Gegenstand immer. Verloren war nur die Bedeutung.**
+(Dasselbe Motiv wie Band 2: Das Dorf hatte die Fakten, nicht den Sinn.)
+
+**Das Buch endet damit, dass Jonas seine Muenze zurueckgibt** -- 300 Jahre zu
+spaet, aber er gibt sie zurueck. Das ist der emotionale Zielpunkt; alles laeuft
+darauf zu.
+
+**Der zweite Beweis -- der Gedenkstein:** Das Muenzenpaar beweist, dass es ein
+Versprechen GAB. Dass die vier es gehalten haben, legt ein Stein am Osthang
+nahe, den sie nach der Flut gesetzt haben: vier Symbole, eine Jahreszahl, vier
+Vertiefungen fuer vier Muenzen. **Sie sind zurueckgekommen.** Nur bei
+Rekordtiefstand erreichbar -- deshalb fand ihn nie jemand.
+
+**Warum die Vertiefungen LEER sind:** Die vier konnten ihr Pfand nicht
+zurueckgeben -- es war niemand mehr da, dem sie es haetten geben koennen. Sie
+behielten die Muenzen. **Deshalb lag eine davon 300 Jahre spaeter noch in
+Eichenhain, wo Ben sie in Band 3 fand.** Der Stein ist eine **unvollendete
+Geste**; Jonas' Rueckgabe vollendet sie.
+
+### Die ZWEI Vierergruppen (Kanon -- beim Schreiben streng trennen!)
+
+Aus der Paar-Regel folgen **acht** Muenzen in zwei Gruppen. Sie duerfen im Text
+nie verwechselt werden:
+
+| | **A -- die mitgenommenen** | **B -- die zurueckgelassenen** |
+|---|---|---|
+| Wer hat sie | die vier Familien, mit nach Eichenhain | die Ahrens, in Sternbach |
+| Wo verwahrt | verstreut (Band-5-Thema) | im **Steinblock im fuenften Haus** |
+| Heute | 1 bei Jonas (Band 3), **3 verschollen** | 1 bei Grossmutter Ahrens, 3 ueber Generationen verloren |
+| Gehoeren in | die Vertiefungen des **Gedenksteins** (Kap 17/18) | die Vertiefungen des **Steinblocks** (Kap 11) |
+
+- **Der Steinblock im fuenften Haus** (Kap 11) ist der Ort, an dem die vier
+  Pfaender der Gruppe B verwahrt wurden -- deshalb vier Vertiefungen.
+  **Das erklaert zugleich, warum das fuenfte Haus groesser ist als die anderen**
+  (Kap 8): Es war das Haus, dem alle etwas anvertraut hatten.
+- **Warum SEINE Vertiefungen leer sind:** Die Ahrens nahmen beim Fliehen mit,
+  was zu tragen war. Ueber 300 Jahre ging alles verloren -- **bis auf das eine
+  Stueck im Kaestchen der Grossmutter** (Kap 12).
+- **Milas Schlussfrage in Kap 18** ("Und die anderen drei Muenzen?") meint
+  **Gruppe A** -- den Band-5-Hook. In Kap 13 geht es dagegen um Gruppe B.
+  Beim Schreiben sauber trennen, sonst liest es sich wie eine Wiederholung.
+
+**WICHTIG -- der Stein beweist es nicht allein.** Er belegt nur, dass die vier
+irgendwann dort waren. Grossmutter Ahrens weist ihn deshalb zunaechst zurueck
+("ein schlechtes Gewissen ist noch kein gehaltenes Wort"). **Umgestimmt wird sie
+nicht von einem Beweis, sondern von ihrer Enkelin** -- Nele haelt ihr entgegen,
+dass sie die Muenze 300 Jahre lang aufgehoben hat. Der Konflikt des Buchs ist
+damit nicht "Mensch gegen Beweis", sondern **"Mensch gegen die eigene
+Ueberzeugung"**. Details: `Story_Outline.md`, Abschnitt 0.2c.
+
+**Der Countdown:** Der trockene Sommer hat den Seespiegel gesenkt, die Ruinen
+sind begehbar. Das Wasser steigt wieder -- danach ist Sternbach fuer Jahrzehnte
+weg. **KEINE Lebensgefahr zu keinem Zeitpunkt.** Spannung aus dem sich
+schliessenden Zeitfenster, nicht aus Bedrohung. Ein nasser Schuh ist die
+Obergrenze der koerperlichen Folgen.
+
+## Neue Figuren Band 4
+
+### Nele Ahrens (11) -- die Rivalin
+- **Rolle:** Nachfahrin der fuenften Familie. Erste gleichaltrige Gegenspielerin
+  der Serie (Band 1-3 hatten Haeuser, Wasser und Erdreich als Gegner).
+- **Alter:** 11 -- bewusst ein Jahr aelter als die drei.
+- **Aussehen/Wesen:** Lebt am Grauen See. Kennt Wasser, Pegel und Ruinen genau.
+  Leise, beobachtet, weiss Dinge, die sie nicht sagt.
+  **NICHT eine zweite Mila:** Mila ist laut und stuermt vor, Nele ist still und
+  ist schon dagewesen.
+- **Ihr Vorsprung:** Ortskenntnis, nicht Alter oder Klugheit. Sie sucht seit
+  Beginn des trockenen Sommers selbst und war meist schon dort, wo die drei
+  gerade zum ersten Mal stehen.
+- **SIE SCHREIBT DEN BRIEF** (siehe unten) -- heimlich, weil sie allein nicht
+  weiterkommt. Und bereut es, als die drei tatsaechlich auftauchen.
+- **Verlauf (4 Stufen):**
+  1. *Feindselig/territorial* -- "das ist unser See, verschwindet". Aktives
+     Hindernis. (Dass sie selbst den Brief geschrieben hat, weiss noch niemand.)
+  2. *Waffenstillstand* -- sie hilft, wird Teil der Gruppe.
+  3. *Sie fuehrt sie bei EINER Sache bewusst in die Irre* -- aus ANGST vor dem,
+     was die drei beweisen koennten, nicht aus Bosheit. Das Auffliegen ist der
+     TIEFPUNKT in Akt 3.
+  4. *Wende* -- sie entscheidet, dass der Streit ihrer Ururgrosseltern nicht
+     ihrer ist. Gehoert am Ende dazu.
+- **PFLICHT (faires Spiel):** Mindestens ZWEI Vorzeichen fuer die Irrefuehrung
+  saeen, BEVOR sie auffliegt. Der Leser soll "oh nein" denken, nicht "die war
+  von Anfang an gemein".
+- **FUER BAND 5:** offen, ob sie nach Eichenhain kommt oder Brieffreundin bleibt.
+
+### Familie Ahrens -- die fuenfte Familie
+- Nachfahren derer, die in Sternbach blieben. Leben bis heute am Grauen See.
+- Tragen die Geschichte vom Verrat der vier Familien seit 300 Jahren weiter.
+- **Wichtig fuer den Ton: keine Boesewichte.** Sie glauben eine Geschichte, die
+  ihnen so erzaehlt wurde -- und sie ist nachvollziehbar, weil aus ihrer Sicht
+  tatsaechlich niemand zurueckkam.
+- Sie haben ebenfalls gesucht, ueber Generationen. **Das ist die Antwort auf
+  Winters Satz aus Band 3, Kap 18: "Ich war nicht der Erste."**
+
+### Der Brief -- Ausloeser des Buchs
+In Band 3 (Kap 17) stand der Bericht ueber die Kinder namentlich in der Zeitung.
+Nele liest davon und schreibt ihnen. Sinngemaess: *"Ich habe von euch gelesen.
+Bei uns ist etwas aufgetaucht, und niemand hier will darueber reden."*
+
+Damit werden die drei **zum ersten Mal ALS DETEKTIVE angefragt** -- der
+Serien-Aufstieg fuer Band 4. Winter erkennt das Symbol im Brief und faehrt sie
+in den Ferien hin.
+
+## Wer mitfaehrt -- und wer in Eichenhain bleibt
+
+**Mit an den See faehrt NUR Winter.** Er ist Tueroeffner (Auto, Erlaubnis der
+Eltern, Zugang zu Erwachsenen-Stellen), vor Ort aber gebunden mit
+Verwaltung/Archiv/Pegelterminen.
+
+**Was er dort konkret tut (praezisiert, Akt-3-Planung):** Er sucht ab Tag 3 die
+**Schriftquellen** ab -- Gemeindearchiv, Kirchenbuecher -- nach dem Wort
+*Sternbach*. **Den Namen haben ihm die KINDER geliefert** (sie loesen das Symbol
+in Kap 5). **Und er findet nichts.** Der Name wurde nach der Flut getilgt --
+**die Antwort steht in keinem Papier.** Sie liegt in einem Stein und in einer
+Muenze.
+
+> Das ist die staerkste Form der Winter-Regel: Er findet nicht bloss zufaellig
+> nichts -- **er KANN nicht ermitteln.** Seine Vergeblichkeit spiegelt die der
+> Kinder an der Muehle, und sie bereitet Kap 18 vor: Die Archive geben ihm
+> nichts; **seinen Namen bekommt er von einem Menschen zurueck.**
+>
+> **Umfang: hoechstens zwei kurze Beruehrungen** (Kap 10, Kap 14), zusammen
+> ~150 Woerter. Nebenstraenge muessen fuer 8-10-Jaehrige fast schwerelos sein.
+
+### WINTER BETRITT STERNBACH NIE (Absicht -- nicht "reparieren")
+
+Kap 3 sieht er die Turmsilhouette vom Gasthoffenster. Kap 4 gehen die Kinder
+allein. Kap 16 bleibt er am Fuss des Osthangs stehen. **Er setzt keinen Fuss in
+das Dorf, das er vierzig Jahre gesucht hat.** Keine Gasse, keine Tuerschwelle,
+kein Haus.
+
+Erst in Kap 18 erreicht er den **Gedenkstein** -- mit dem Boot, und da ist
+Sternbach bereits versunken.
+
+> Das ist die haerteste und beste Fassung seiner Figur: Der Mann, der sein Leben
+> mit der Suche verbracht hat, geht nie dort. Das Wasser holt es sich vorher.
+> Was er bekommt, ist der Stein, den seine **eigene Familie** gesetzt hat -- und
+> den erreicht er in dem Moment, in dem eine Ahrens ihm die Hand gibt.
+
+**Wenn die Kinder in Kap 17 den Stein finden, erfaehrt er nur DASS, nicht WAS**
+(Jonas nickt ihm vor dem Gasthof zu). Sonst haette Kap 18 fuer ihn keine
+Entdeckung mehr. Und er geht bewusst **nicht** mit zu den Ahrens: **Sein Name
+ist in diesem Haus das Problem** (Kap 3, der Wirt verstummt).
+
+> **HARTE REGEL: Winter darf in Band 4 keinen einzigen Hinweis finden.**
+> Er hat Band 3 gerettet. Ermittelt er hier mit, schrumpfen die Kinder.
+> Pruefung pro Kapitel: Wer hat die Entdeckung gemacht?
+
+**In Eichenhain bleiben** Holzer, Meier, Krueger und Frau Wenzel. Sie kommen im
+Schlussteil wieder vor. Begruendung: Sechs Erwachsene an einem Schauplatz, an
+dem drei Kinder ermitteln sollen, ist einer zu viel -- und CLAUDE.md warnt
+ausdruecklich vor "zu vielen Nebenfiguren auf einmal".
+
+## Charakter-Entwicklung Band 4 (ABSICHT -- wird beim Schreiben bestaetigt)
+
+| Charakter | Stand Ende Band 3 | Absicht fuer Band 4 |
+|-----------|-------------------|---------------------|
+| Jonas | Fuehrt ruhig, verbindet, traegt die Muenze | Traegt zum ersten Mal Verantwortung ausserhalb seines Dorfes. Muss eine PERSON lesen (Nele), nicht nur Spuren -- neue Faehigkeit. Erkennt am Ende, dass die Muenze eine Schuld ist, keine Trophaee. |
+| Mila | Mut = Handeln trotz Furcht | Trifft zum ersten Mal jemanden, der schneller und sturer ist als sie. Ihre Entwicklung: aushalten, nicht die Beste zu sein -- und Nele trotzdem vertrauen. |
+| Ben | Signature-Move: die rettende Idee | Braucht wieder mindestens 1 mutigen/klugen Moment. Am fremden Ort ist er der, der zuerst mit Nele redet statt sie zu bekaempfen (Herz statt Mut). |
+| Heinrich Winter | Zurueck, wohnt im Herrenhaus | Findet die Antwort auf seine Lebensfrage -- aber NICHT selbst. Er muss aushalten, dass Kinder finden, was er 40 Jahre gesucht hat. |
+| Nele Ahrens | (neu) | Hindernis -> Verbuendete -> Irrefuehrerin -> Freundin. Von der geerbten Feindschaft zur eigenen Entscheidung. |
+| Holzer / Meier / Krueger / Frau Wenzel | Verbuendete, Teil der Gemeinschaft | Bleiben in Eichenhain, Rahmen am Anfang und Ende. |
+
+## Band 4 Kontinuitaets-Tracker
+
+> GEFUELLT nach Fertigstellung aller 19 Kapitel. Master-Referenz fuer Band 5.
+> Eingetragen ist, was **im Kapiteltext steht** -- nicht, was geplant war.
+
+### Zeitlinie Band 4
+
+**Spielzeit: 11 Tage + Epilog.** Sommerferien, ~10 Monate nach dem Herbst von
+Band 3. Ein Tag = ein Datum, die Kapitel sind lueckenlos aneinandergehaengt.
+
+> **Wochentage (Befund behoben):** Die Anreise ist **Samstag**, Tag 3 ein
+> **Sonntag**, an dem Winter zu keinem Amt kann -- deshalb gehoert dieser Tag den
+> Kindern allein. Schliessung Freitagabend (Tag 8), Abreise Montag (Tag 11).
+> Volle Tabelle in `Story_Outline.md` Abschnitt 2b.
+
+- **Tag 1, Freitag (Eichenhain, Hitze, seit drei Wochen kein Regen):** Ein Brief kommt, adressiert nur an "DIE HERRENHAUS-DETEKTIVE, EICHENHAIN" -- der Brieftraeger hat nachgefragt, ob sie das sind. Absender: keiner. Inhalt: *"Ich habe von euch gelesen. Bei uns ist etwas aufgetaucht. Und niemand hier will darueber reden."* Ben haelt es fuer einen Streich (sie standen mit Foto in der Zeitung, der Ausschnitt haengt bei Meier im Schaufenster). Jonas' Weg: weder glauben noch wegwerfen -- **den Poststempel pruefen.** Dann findet er die Zeichnung in der Umschlagecke: drei Wellen, darueber ein Stern mit acht Spitzen. Er legt seine Muenze daneben. Dasselbe Zeichen. (Kapitel 1)
+- **Tag 1, Freitag, danach:** Der Stempel gibt einen Ortsnamen mit sechs Buchstaben + einen unbekannten Landkreis. Bei Winter im Herrenhaus: die Muenze wieder ans Pergament (Ritual, Ben nennt es *das Puzzle*). Winter kennt die Gegend -- **er war zweimal dort und ist weitergefahren.** Der "Graue See", kein alter Name, keine Zeichen. Krueger, Meier und Holzer kommen dazu; Entscheidung in unter zehn Minuten: die Kinder fahren, **Winter faehrt mit.** Holzers einziger Satz: *"Passt auf das Wasser auf."* An der Haustuer: *"Wenn das stimmt, dann habe ich vierzig Jahre lang am falschen Ort gesucht."* Und leise: *"Und ich war nicht der Erste."* (Kapitel 2)
+- **Tag 2, Samstag (Anreise, ~400 km / vier Autostunden):** Vom Talrand aus zum ersten Mal der See -- ein breiter heller Rand rundum, Rekordtiefstand. Seebruck: zwanzig Haeuser, ein Steg auf dem Trockenen. Gasthof *Zum Anker*. Beim Namen "Winter" stockt der Wirt eine halbe Sekunde -- Jonas sieht es. Wirt: *"Da geht keiner hin"* und *"In fuenf Tagen ist der Spuk sowieso vorbei."* Am Anschlagbrett die BEKANNTMACHUNG: Instandsetzung am Grundablass fertig, **ab Freitag wird wieder eingestaut.** Ben erklaert den Ablass (Omas Bach), Winter ergaenzt den trockenen Sommer. Abends kuendigt Winter Gemeinde + Archiv an; die Kinder wollen nicht in ein Buero. Nachts hoert Jonas ein fernes gleichmaessiges **Rauschen** und sieht weit draussen etwas Spitzes stehen. Bens Fernglas: **ein Kirchturm.** (Kapitel 3)
+- **Tag 3, Sonntag, ab 6:40 Uhr:** Die drei gehen allein hinaus (Winter zur Gemeinde). Das Schlammfeld: runde Steine, Muschelschalen, ein toter Fisch in einer Pfuetze, es riecht falsch. **Ben holt sich einen Stock und tippt den Boden ab** (Holzers Technik aus Band 3). Am Turm laeuft **ein dunkler Rand** rundherum, fast oben an der Spitze -- da stand das Wasser. Erste Mauern, erste Tuerluecke. Dann liegt am Rand ein blaues Ruderboot, daneben ein barfuessiges Maedchen: *"Das ist unser See. Geht wieder dahin, wo ihr herkommt."* Und beim Weggehen: **"Und fass die Mauern nicht an, Jonas."** (Kapitel 4)
+- **Tag 3, Sonntag, Mittag/Nachmittag:** Sie kannte seinen Namen. Mila folgert: das Maedchen hat den Brief geschrieben; Jonas widerspricht (wer Hilfe holt, schickt sie nicht weg). Ben verliert seine Limoflasche an den Wirt und murrt: **"Pfand heisst doch, dass es zurueckkommt."** Ueber der Karte loest **Mila** das Symbol: die drei Linien sind kein Meer, sondern ein Bach -- Bach + Stern = **STERNBACH.** Der Wirt hoert es, stellt ein Glas zu hart ab: *"Den Namen sagt man hier nicht."* (Kapitel 5)
+- **Tag 4, Montag, Vormittag:** Sie fragen sich durch Seebruck -- Ladenfrau weist ab, Netzflicker schweigt, die Waeschefrau schickt sie *"zu Frau Ahrens. Die weiss die alten Sachen. Fragt sie nett."* In der Kueche (Blumentoepfe mit rotem Muster, ein Maedchen trocknet im Hintergrund einen laengst trockenen Teller): **die falsche Geschichte.** Fuenf Familien, der Hang rutschte, das Wasser stieg -- vier gingen nachts mit Pferden und Wagen, sagten, sie holen Hilfe. *"Es kam niemand."* Die fuenfte blieb und versorgte die Alten: *"Das waren wir."* Ein **Andenken** ist geblieben, zeigen will sie es nicht. Auf die Frage, ob sie schon mal unten war: *"Nie."* Mila platzt fast, Jonas haelt sie zurueck -- und **verschweigt seine eigene Ausrede** ("ich wohne da erst seit einem Jahr"). Zum Abschied: *"Dreihundert Jahre. Und jetzt schickt Eichenhain Kinder."* (Kapitel 6)
+- **Tag 4, Montag, danach:** Mila will zurueck und richtigstellen; Jonas: *"Wir muessen es beweisen."* Vom Nordufer kommt man nicht durch -- **Mila findet den Pfad am Osthang** (wo ein Zaun ist, geht jemand entlang). Weiter suedlich faellt der Hang steil in eine enge Bucht ab; da geht offensichtlich niemand hin. Unten: eine echte Gasse, ein gepflasterter Marktplatz mit umgestuerztem Steinkreuz. Oben am Hang steht kurz **ein Mann mit einer Kamera**, macht zwei Bilder und ist weg. An einer Tuerluecke wischt Jonas eine Schwelle frei: **ein Baum mit vier Aesten -- das Zeichen der Familie Meier.** (Kapitel 7)
+- **Tag 4, Montag, den halben Tag:** Sie legen die Schwellen frei (wischen, Wasser drueber, wischen). **Kreuz mit unterem Querbalken = Bergmann. Ring = Hoffmann. Blume mit fuenf Blaettern = Winter.** Mila erkennt alle vier ohne Zoegern. Dann sieht Jonas von hoeher oben, dass die vier Haeuser **im Kreis** stehen, alle Tueren nach innen -- und dass **eine Luecke groesser ist als die anderen.** Das fuenfte Haus: hellerer, dickerer Stein, breitere Schwelle, ein Bogenrest. Ueber der Schwelle, frei liegend, **drei Wellen und ein Stern.** Als sie hineingehen wollen, steht das Maedchen in der Tuerluecke: **"Nicht in dieses Haus."** (Kapitel 8)
+- **Tag 4, Montagabend + Tag 5, Dienstag:** Die Blockade haelt bis in die Daemmerung (Mila laut, Jonas ruhig, Ben mit einem Keks -- der Keks kommt am weitesten). Am naechsten Morgen sitzt sie schon da. Sie arbeiten in den anderen Gassen (zwei Schwellen ohne Zeichen, ein schwarzer Loeffel), **sie sieht nur zu -- die Ruinen sind ihr egal**, aber sobald jemand zum fuenften Haus geht, steht sie auf. Mila fragt direkt nach dem Brief: *"Denkt doch, was ihr wollt."* Ben setzt sich neben sie und redet ueber den Loeffel; sie schnaubt fast ein Lachen und sagt beilaeufig: **"Oben auf dem Friedhof kann man wenigstens noch was lesen."** Abends ist der untere Rand der Schwelle **feucht** -- morgens war er trocken. Ihr Abschiedssatz: *"Ihr sucht nach Beweisen, dass sie gute Leute waren. Ich suche nach dem Gegenteil."* (Kapitel 9)
+- **Tag 6, Mittwoch (Waffenstillstand):** In der Tuerluecke steht jetzt **eine Pfuetze** -- und sie steht davor statt darin. *"Es kommt von unten. Der Boden ist voll."* Dann das Eingestaendnis: **"Ich suche seit Juni. Ihr seid zu dritt. Ich bin allein. Deshalb habe ich den Brief geschrieben."** Und der Grund fuers Umschwenken: sie will nicht, dass Eichenhainer in ihrem Haus stehen und erzaehlen, wie toll die vier Familien waren. Jonas' Angebot: gemeinsam suchen und **alles** aufschreiben, auch was der jeweils anderen Seite nicht passt. Milas Zustimmung ist ein einziges Wort: *"Meinetwegen."* Das Maedchen gibt die Tuer frei und nennt zum ersten Mal ihren Namen: **Nele.** -- Abends Winter mit drei Zetteln: der See heisst seit 1961 der Graue See, davor steht in keinem Papier etwas. Nachts die **ersten Regentropfen seit drei Wochen.** (Kapitel 10)
+- **Tag 7, Donnerstag, Vormittag:** Der Regen hat nichts genuetzt, aber die Pfuetze bedeckt die ganze Schwelle. Nele geht als Erste hinein. Innen: zwei bis drei Raeume, eine Treppe mit fuenf Stufen, die ins Nichts fuehrt. Sie erzaehlt die Geschichte ihrer Grossmutter **fast woertlich** -- und Jonas merkt: jede einzelne Tatsache stimmt, nur die Folgerung ist eine Behauptung. Ben kommt vom Wasserholen zurueck: **das Kirchendach ist weg.** Nele will abbrechen (*"da ist nichts mehr, ich war hundertmal hier"*) und bietet stattdessen das Andenken bei ihrer Oma an -- Jonas: *"Gleich. Erst das hier fertig."* Dann findet Mila **die Nische**: ein eingepasster Steinblock mit **vier gleich grossen, glatt ausgearbeiteten Mulden. Alle vier leer.** (Kapitel 11)
+- **Tag 7, Donnerstag, Nachmittag/Abend:** Rateweg nach oben (Ben: Kerzen. Werkzeug. Eine Werkstatt). Bei Frau Ahrens diesmal kein Kuchen. Sie holt eine **Blechdose mit einer gemalten Blume**, darin ein Tuch, darin **die Gegenmuenze** -- Eiche auf der einen Seite, drei Wellen und ein Stern auf der anderen. *"Die haben sie hiergelassen."* Ben macht den Mund auf und wieder zu (Beinahe-Erkenntnis). Jonas erinnert sich an Neles Friedhofs-Satz und schlaegt die Grabsteine vor -- **Nele redet dagegen und lenkt auf die Muehle um** (Mila sieht es und sagt nichts). Zum Schluss legt Jonas seine Muenze daneben: **nicht aehnlich, dasselbe.** Frau Ahrens wird ganz still. (Kapitel 12)
+- **Tag 8, Freitag (Muehle, Tag 1):** Sie graben den Vormittag lang: Scherben, zwei Hufeisen, ein Knopf. In der Pause bringt **Ben** es beilaeufig auf den Punkt -- wer nie wiederkommen will, nimmt alles mit oder laesst alles da, *"aber du machst doch nicht extra zwei Haelften. Das ist ein Pfand."* Mila erinnert an die Limoflasche vom ersten Abend; **Ben hat seinen Satz woertlich schon einmal gesagt.** Jonas spricht es aus: **"Ein Pfand gibt man, wenn man wiederkommen will."** Abends bei Frau Ahrens: sie bestaetigt, dass es **vier** waren und bei ihrer Familie verwahrt wurden -- und antwortet trotzdem: *"Ein Versprechen ist kein gehaltenes Versprechen, mein Junge. Aber wo waren sie dann?"* Nachts an der Strassenecke merkt Jonas, dass **das Rauschen weg ist.** (Kapitel 13)
+- **Tag 9, Samstag (Muehle, Tag 2):** Winter beim Fruehstueck: *"Sie haben gestern Abend zugemacht. Ab jetzt steigt es."* Auf die Frage, wie es laeuft, antwortet Jonas nur *"Gut"* -- er haelt Winter bewusst aussen vor. Winter: **"Neun Tage. Kein einziges Blatt Papier."** Unten steht der Steg im Wasser, die ausgeraeumte Grube ist wieder voll. Jonas teilt auf: Mila Bachlauf, Ben Rad, Nele hintere Mauer, er selbst Speicher. **Ben stellt auf den Stock um und tastet unter Wasser -- die Technik funktioniert, er findet nichts.** Nele fragt nach, wie das geht. Vom Turm steht nur noch die Spitze mit der Reihe Schallfenster. Am Nachmittag geht Jonas an den Abschnitten vorbei: bei Mila umgedrehte Steine, bei Ben eine Spur Stockloecher -- **bei Nele glatter Schlamm, kein einziger Fussabdruck.** Er rechnet drei Ausweichmanoever zurueck: *"Du wolltest, dass wir woanders NICHT suchen."* (Kapitel 14)
+- **Tag 9, Samstag, direkt danach:** Neles Gestaendnis: **am Osthang, weiter suedlich, ist eine Kante im Fels, die zu gerade ist.** Sie weiss es **seit Juli** -- vom Boot aus, abends bei flacher Sonne. Sie war nie dort: vom Wasser kommt man nicht hinauf, von oben braucht man ein Seil und jemanden, der weiss, wo man ist. *"Ich hab niemanden."* Warum sie schwieg: **nicht Bosheit, Angst** -- wenn dort etwas ist, waren die vier zurueck, dann hat ihre Oma dreihundert Jahre etwas Falsches erzaehlt, *"und dann ist alles, was wir sind, nur ein Irrtum."* Sie rudert weg. **Ben deckt auf, worueber Mila wirklich wuetend ist:** nicht ueber die verlorenen Tage, sondern darueber, dass sie die Ablenkung gesehen und geschwiegen hat. Beim Aufstieg: der untere Dorfteil steht unter Wasser, der Marktplatz ist ein flacher See. Es bleibt **ein** Weg hinunter -- der Osthang. Zwei Tage. (Kapitel 15)
+- **Tag 10, Sonntag, Vormittag:** Winter faehrt sie ans Ufer, bietet an mitzugehen -- sieht den Pfad an -- und **stoppt sich selbst: "Nein, das schaffe ich nicht."** Er setzt sich an den Hangfuss. Oben der Friedhof: dreissig Schritte, die meisten Steine liegen um und sind glattgewaschen. Sieben sind lesbar. **BERGMANN 1671-1709. HOFFMANN 1688-1710. MEIER 1652-1704. WINTER 1699-1710** (elf Jahre alt). Und am Rand, groesser: **AHRENS, mit drei Zeilen Jahreszahlen, die letzte 1770.** Vier Familien hoeren 1710 auf, eine macht weiter. **Tiefpunkt der Beweislage** -- Mila: *"Vielleicht hatten sie recht."* Niemand widerspricht. Dann kommt das blaue Boot: Nele steigt aus, allein, **mit einem zusammengerollten Seil ueber der Schulter.** (Kapitel 16)
+- **Tag 10, Sonntag, Nachmittag/Abend:** Mila sagt kein Wort ueber die zwei verlorenen Tage, sondern nur *"Dann los"* -- **sie entscheidet, ihr ein zweites Mal zu vertrauen.** Nele bindet das Seil (*"Einer haelt oben. Immer einer."* -- von ihrem Vater, beim Boot). Unten steht **der Gedenkstein** im Wasser, brusthoch, die untere Haelfte ueberspuelt. Oben frei: **Baum, Kreuz, Ring, Blume -- und darunter gross 1710.** Nach der Flut. *"Sie sind zurueckgekommen."* Nele fuehlt unter Wasser etwas, kann es nicht deuten -- und **fordert Ben auf, es mit dem Stock zu machen** (dritte Stufe). Beim vierten Mal klingt es hohl. Sie graben eine Viertelstunde blind: Mila findet die erste Mulde, Jonas die zweite, **Ben die dritte mit dem Stock, ohne die Hand ins Wasser zu tun**, Nele die vierte. Vier Mulden, so gross wie die im fuenften Haus. **"Sie sind leer."** Jonas begreift: sie kamen mit den Pfaendern zurueck und **konnten sie nicht zurueckgeben, weil niemand mehr da war** -- deshalb hauten sie die Loecher in den Stein und steckten die Muenzen wieder ein. *"Deshalb war sie noch bei uns. Dreihundert Jahre lang."* -- Vor dem Gasthof nickt Jonas Winter nur zu; Winter erfaehrt **DASS**, nicht **WAS**: *"Geht ihr."* -- In der Kueche erzaehlt **Nele** es, die drei schweigen (exakte Umkehrung zu Kap 6). Frau Ahrens' Antwort: *"Ein schlechtes Gewissen ist noch kein gehaltenes Wort. Nein."* (Kapitel 17)
+- **Tag 11, Montag (Abreisetag):** Beim Packen glaubt keiner mehr daran. Jonas will trotzdem hin -- *"Nicht wegen dem Stein. Zum Tschuessagen."* In der Kueche steht **Nele** auf, holt die Blechdose und stellt ihrer Grossmutter die Frage, die niemand je gestellt hat: **"Warum hebt man ein Andenken an Verraeter auf?"** Frau Ahrens: *"Das habe ich mich nie gefragt. Man fragt sich das nicht. Man hat es einfach."* Sie holt ihre Jacke: **"Zeigt es mir."** -- Zu Fuss geht es nicht mehr, die Bucht ist voll. Nele rudert selbst; **Frau Ahrens ist zum ersten Mal in ihrem Leben ueber Sternbach** -- und man sieht nichts mehr davon. Hinterher kommen zwei weitere Boote (der Wirt, die Waeschefrau). Der Stein liegt knapp unter Wasser. **Jonas legt seine Muenze in die erste Mulde. Frau Ahrens legt ihre in die daneben. Zwei von vier.** *"Dreihundert Jahre zu spaet. Aber jetzt liegen sie da."* Jonas und Frau Ahrens haben denselben nassen Aermel; Nele zieht zum ersten Mal einen Mundwinkel hoch. Am Ufer wartet **Winter** -- den Weg, den er gestern nicht hochgehen wollte, ist er zu Fuss gekommen. **Frau Ahrens gibt ihm die Hand.** -- Abends an der letzten Kurve: der Turm ist nur noch ein Kreuz, der dunkle Rand am Stein ist **zum Greifen nah.** Milas Frage: **"Und die anderen drei Muenzen?"** (Kapitel 18)
+- **~2 Wochen spaeter, letzte Ferienwoche (Epilog):** Im Herrenhaus haengt das Pergament gerahmt, und Winter hat ein eigenes Blatt dazugelegt: *"Sternbach am Grauen See. Gefunden im August von Jonas, Mila und Ben. Und von Nele Ahrens, die vorher da war."* **An dieser Zeile schliesst sich Winters Band-3-Haken:** Jonas liest sie noch einmal und erinnert sich an das Fluestern an der Haustuer aus Kap 2 (*"Und ich war nicht der Erste"*) -- *"Jetzt hatte er es selbst aufgeschrieben."* Kein gesprochenes Wort. Meier laesst sich die Tuerschwelle mit seinem Baum beschreiben (*"Meiner?" -- "Ihrer."*) und schnaeuzt sich ausfuehrlich. Frau Wenzel bekommt Bens Fassung mit dem Boot, in der das Wasser tiefer ist. Krueger: *"Das ist gut. Das ist genau richtig."* Holzer: *"Ihr habt nasse Aermel gekriegt. Passt schon."* -- **Neles zweiter Brief**, diesmal mit Absender: es regnet endlich, vom Turm sieht man nichts mehr, ihre Oma hat den Blumentopf ans Fenster zum See gestellt und **sagt jetzt Sternbach.** -- Jonas' Hand faehrt aus Gewohnheit in die leere Tasche; es fuehlt sich an *"wie ein aufgeraeumtes Regal"*. Zum Schluss der Blick auf das Wappen ueber der Haustuer: Baum, Kreuz, Ring, Blume. Vier Familien gingen, fuenf hatten dort gewohnt. **"Da muessten eigentlich fuenf sein."** KEIN Cliffhanger -- nachhallender Schluss. (Kapitel 19, Epilog)
+
+### Gefundene Hinweise/Gegenstaende Band 4
+
+- **Die MUENZE aus Band 3** (Jonas' Tasche, seit dem Herbst taeglich dabei): Eiche / drei Wellen + 8-Spitzen-Stern. Erweist sich als **Pfand einer der vier Familien**, nicht als Wegweiser. **In Kap 18 in die erste Mulde des Gedenksteins zurueckgelegt. Jonas hat sie ab da NICHT MEHR.**
+- **Der Brief** (Kap 1): Schulheftpapier, krakelige Schrift, ohne Absender, adressiert nur "Die Herrenhaus-Detektive, Eichenhain". In der Ecke die Zeichnung: drei Wellen + Stern. **Verfasserin: Nele Ahrens** (zugegeben Kap 10). Der Poststempel liefert Ort + Landkreis.
+- **Das Pergament** (bei Winter, aus Band 3): Der Satz *"Die vier Familien kamen aus dem ..."* wird nicht durch das fehlende Papierstueck ergaenzt, sondern **durch Winters eigenes Blatt im Rahmen** (Kap 19). Haengt jetzt gerahmt im Flur des Herrenhauses.
+- **Die GEGENMUENZE der Familie Ahrens** (Kap 12): dunkler, sonst identisch. Verwahrt in einer Blechdose mit gemalter Blume, in einem Tuch. Seit 300 Jahren von Mutter zu Tochter. **In Kap 18 in die zweite Mulde gelegt.**
+- **Der Steinblock im fuenften Haus** (Kap 11): in eine Wandnische eingepasst, **vier gleich grosse, glatt ausgearbeitete Mulden, alle leer.** Der Verwahrort der vier zurueckgelassenen Pfaender (Gruppe B). Erklaert, warum das fuenfte Haus groesser war. **Ab Tag 7/8 wieder unter Wasser.**
+- **Der GEDENKSTEIN in der Suedbucht am Osthang** (Kap 17): brusthoch, aufrecht, im Wasser. Oben **Baum / Kreuz / Ring / Blume**, darunter gross **1710**. Unter Wasser dieselben **vier Mulden -- leer.** Von den zurueckgekehrten vier Familien gesetzt. **Ab Kap 18 unter Wasser, mit zwei Muenzen darin.**
+- **Die sieben lesbaren Grabsteine** (Kap 16): BERGMANN 1671-1709, HOFFMANN 1688-1710, MEIER 1652-1704, WINTER 1699-1710, AHRENS mit drei Zeilen bis 1770. Milas Zettel mit den Namen. Der Friedhof liegt oberhalb des Wasserspiegels -- **er bleibt erreichbar.**
+- **Die vier Tuerschwellen-Zeichen in Sternbach** (Kap 7/8): Baum mit vier Aesten (Meier), Kreuz mit unterem Querbalken (Bergmann), Ring (Hoffmann), fuenfblaettrige Blume (Winter). Die Haeuser stehen **im Kreis, alle Tueren nach innen**; das fuenfte, groessere Haus schliesst den Kreis. **Alles wieder unter Wasser.**
+- **Neles Ruderboot** (blau, abblaetternde Farbe) und **ihr Seil**. Das Boot bringt in Kap 18 alle zum Stein.
+- **Bens schwarzer Loeffel** (Kap 9) -- kein Hinweis, sondern sein Eintrittsticket zu Nele. Er steckt ihn ein.
+- **Neles zweiter Brief** (Kap 19), diesmal mit Absender. Bei Mila.
+
+### Was die Kinder in Band 4 NEU erfahren
+
+- Die vier Gruenderfamilien von Eichenhain kamen aus **STERNBACH am Grauen See** -- einem Dorf, das seit ueber 300 Jahren unter Wasser liegt (Kap 5-8).
+- Das fremde Symbol ist **zweierlei zugleich**: der Ortsname (Bach + Stern) und das Zeichen der **fuenften Familie** (Kap 5/8).
+- Es gab **fuenf** Familien in Sternbach, nicht vier. Die fuenfte -- **Ahrens** -- blieb, versorgte die Alten und lebt bis heute am See (Kap 6).
+- Warum die vier gingen: Ein Hangrutsch staute den Bach, das Wasser stieg. Sie zogen nachts los, **um Hilfe und hoeheres Land zu holen** (Kap 6/13).
+- **Die Muenze ist ein Pfand, kein Andenken und kein Wegweiser.** Ein Pfand wird zweimal gepraegt: eines mitgenommen, das Gegenstueck dagelassen. Man gibt es nur, wenn man wiederkommen will (Kap 13).
+- Die vier Pfaender lagen im Haus der fuenften Familie -- daher der Stein mit vier Mulden (Kap 11/13).
+- **Die vier sind zurueckgekommen.** Der Gedenkstein von **1710** beweist es -- gesetzt nach der Flut, mit allen vier Zeichen (Kap 17).
+- Sie kamen **zu spaet**: Es war niemand mehr da, dem man das Pfand haette zurueckgeben koennen. Deshalb sind die Mulden im Stein leer -- und deshalb lag Jonas' Muenze 300 Jahre spaeter noch in Eichenhain (Kap 17).
+- Aus Sternbach gingen die vier weiter und gruendeten **Eichenhain** (1712 laut Gedenktafel -- zwei Jahre nach dem Stein).
+- Die Geschichte vom Verrat ist **nicht geloegen, sondern gefolgert**: Jede Tatsache darin stimmt, nur der Schluss war falsch (Kap 11).
+- Der Name "Sternbach" wurde **getilgt** -- in keinem Archiv, keinem Kirchenbuch, auf keiner Karte. Der See heisst erst seit 1961 der Graue See (Kap 10/14).
+- Erwachsene koennen an einer Frage vierzig Jahre scheitern, und **Kinder koennen sie loesen** -- weil sie an einen anderen Ort gefahren sind und einen Menschen gelesen haben, nicht ein Papier.
+
+## Offene Fragen aus Band 3 -- MUSS Band 4 einloesen
+
+> **Abgeglichen gegen den fertigen Kapiteltext.** Details + Kapitelnummern in
+> `Band_4/Linear/Setup_Payoff_Tracker.md`, Abschnitt B.
+
+- [x] Woher kamen die vier Gruenderfamilien? -> Sternbach, versunken im See
+      (Kap 5 der Name, Kap 7/8 der Beweis)
+- [x] Was bedeutet das fremde Symbol (3 Wellen + Stern)? -> **beides**: der
+      Ortsname (Kap 5) UND das Zeichen der fuenften Familie (Kap 8)
+- [x] Wer hat ausser Winter noch gesucht? -> **die Gruender selbst** (Gedenkstein
+      1710, Kap 17), die Familie Ahrens (Kap 6/12), Nele (Kap 10).
+      Hoerbar geschlossen in Kap 19 am gerahmten Pergament
+- [x] Warum verliessen die vier ihren Ort? -> um Hilfe und hoeheres Land zu holen
+      (Kap 6), als Versprechen gedeutet (Kap 13), durch 1710 belegt (Kap 17)
+- [x] Das fehlende Pergament-Stueck -> **die Frage** ist beantwortet, das Papier
+      bleibt verschollen: Winter schreibt den Satz in Kap 19 selbst zu Ende
+- [x] Die Muenze -> als Pfand erkannt (Kap 13) und in die Mulde zurueckgelegt
+      (Kap 18)
+
+> Keine dieser Zeilen darf "teilweise" beantwortet bleiben. Wer Band 4 liest und
+> Band 5 nie kauft, muss ein abgeschlossenes Buch gelesen haben.
+
+## Was Band 4 NICHT anfassen darf (gehoert dem Finale)
+
+> Aus `Band_4/Linear/Serienbogen_Band4_5.md`, hier wiederholt, weil DIESE Datei
+> beim Kapitelschreiben offen liegt. Band 4 darf diese Punkte hoechstens ANDEUTEN:
+
+1. **Die drei uebrigen Pfand-Muenzen.** Vier Familien -> vier Muenzen. Jonas hat
+   eine. Band 4 stellt fest, DASS es vier gab -- findet aber keine weitere.
+2. **Was die Gruender in Eichenhain eigentlich vorhatten.** Band 4 klaert, WARUM
+   sie gingen. Nicht, WOZU sie Eichenhain gegruendet haben.
+3. **Die Faeden Bergmann und Hoffmann.** Liegen seit Band 2 still. Band 4 weckt
+   sie nicht -- Band 5 holt sie zurueck.
+4. **Sternbach selbst.** Der Ort versinkt am Ende wieder. Er ist erzaehlt und
+   abgeschlossen; Band 5 spielt nicht dort.
+
+## Offene Fragen -- FUER BAND 5 (in Band 4 zu saeen, NICHT aufzuloesen)
+
+- Wo sind die drei uebrigen Pfand-Muenzen?
+- Wozu wurde Eichenhain wirklich gegruendet -- was war die Aufgabe der Gruender?
+
+## Zentrale Festlegungen Band 4 (Konzept, mit Autor geprueft)
+
+- **Schauplatz:** Sternbach im Grauen See. Wasser ist hier der VORHANG, nicht die
+  Gefahr -- bewusste Umkehrung zu Band 2 (Geheimnis) und Band 3 (Bedrohung).
+- **Countdown:** das Wasser kommt zurueck. Zeitfenster, keine Lebensgefahr.
+- **Kern:** die fuenfte Familie und eine 300 Jahre alte falsche Geschichte.
+- **Neu fuer die Serie:** Die falsche Geschichte wird AKTIV VERTEIDIGT (in Band 2
+  wurde sie beschwiegen), und versoehnt wird auf KINDER-Ebene, nicht zwischen
+  Erwachsenen. Band 1-3 hatten dreimal denselben Motor -- das ist der Unterschied.
+- **Kapitellaenge Band 4: 900-1.500 Woerter** (breiter als Band 2 + 3). Das
+  Fenster ist eine Erlaubnis, kein Ziel. Verlaengert wird nur, wo etwas FEHLT --
+  nie, um eine Zahl zu erreichen. Regeln: `PLAN_Band4.md`, Abschnitt 4.
+- **Qualitaetssicherung NACH JEDEM AKT** (nicht erst am Buchende):
+  `qa_messung.py`, `schablonen_analyse.py`, `Menschlichkeits_Checkliste.md`.
+  Grundregel: **Die Skripte liefern Kandidaten, keine Urteile.**
+  Details: `PLAN_Band4.md`, Abschnitt 6.
+- Vollstaendige Begruendungen: `Band_4/Linear/PLAN_Band4.md`.
+  Serien-Trennlinie: `Band_4/Linear/Serienbogen_Band4_5.md`.

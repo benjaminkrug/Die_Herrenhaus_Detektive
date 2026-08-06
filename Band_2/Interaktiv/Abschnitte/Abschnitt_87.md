@@ -1,6 +1,6 @@
 # Abschnitt 87
 
-Das Windspiel klimperte ueber der Tuer. Die Katze auf der Fensterbank hob den Kopf. Jonas stand vor Frau Bergmanns Haus.
+Das Windspiel klimperte über der Tür. Die Katze auf der Fensterbank hob den Kopf. Jonas stand vor Frau Bergmanns Haus.
 
 Sein Finger war schon am Messingklopfer. Aber er ließ los.
 
@@ -12,7 +12,7 @@ Mila sah ihn an. „Was?"
 
 Ben nickte schnell. „Er hat recht. Wir können eine alte Frau nicht zwingen."
 
-Mila verschränkte die Arme. „Aber —"
+Mila verschränkte die Arme. „Aber —“
 
 „Nein", sagte Jonas. „Nicht so."
 
@@ -46,7 +46,7 @@ Draußen wurde es dunkel. Die Laternen am Kirchplatz gingen an. Das Windspiel kl
 
 Frau Bergmann schloss das Album. Langsam. Wie sie es jeden Abend tat. Seit siebzig Jahren.
 
-Niemand wuerde fragen. Niemand wuerde klopfen. Ihr Geheimnis blieb ihr Geheimnis. Die Gaenge blieben stumm. Die Quelle plaetscherte im Dunkeln. Und die Truhe stand auf ihrem Steinsockel. Unberuehrt. Verschlossen.
+Niemand würde fragen. Niemand würde klopfen. Ihr Geheimnis blieb ihr Geheimnis. Die Gänge blieben stumm. Die Quelle plätscherte im Dunkeln. Und die Truhe stand auf ihrem Steinsockel. Unberührt. Verschlossen.
 
 Vorerst.
 
@@ -55,7 +55,7 @@ Vorerst.
 **ENDE 223 — „Stille am Kirchplatz"**
 ★
 
-*Manchmal liegt der Schluessel direkt vor der Tuer. Man muss nur klopfen. Krueger kennt Lisbeths Geschichte. Vielleicht solltet ihr ihn fragen.*
+*Manchmal liegt der Schlüssel direkt vor der Tür. Man muss nur klopfen. Krüger kennt Lisbeths Geschichte. Vielleicht solltet ihr ihn fragen.*
 
 *→ Von vorne: Abschnitt 1*
 *→ Direkt zur Entscheidung: Abschnitt 7*

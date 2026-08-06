@@ -43,9 +43,8 @@ Ihre Augen wurden groß.
 „Leise.
 Weit weg."
 
-Jonas' Herz schlug schneller.
-Seine Hände lagen auf dem Stein.
-Die Finger kribbelten.
+Jonas legte die Hände auf den Stein.
+Seine Finger kribbelten.
 
 Was war dahinter?
 Winters Geheimnis?

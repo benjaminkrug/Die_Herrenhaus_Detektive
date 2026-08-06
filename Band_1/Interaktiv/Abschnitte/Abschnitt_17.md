@@ -61,7 +61,7 @@ Zu laut.
 Aber Jonas blieb stehen.
 Er kniete sich hin.
 
-„Was machst du?" flüsterte Ben.
+„Was machst du?" fragte Ben.
 
 Jonas schob den Staub beiseite.
 Zwischen den Dielen schimmerte etwas.

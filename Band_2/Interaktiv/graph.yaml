@@ -1,0 +1,928 @@
+metadata:
+  band: 2
+  endings: 18
+  generated_by: build_graph_yaml.py
+  series: Die Herrenhaus-Detektive
+  start: '1'
+  title: Das Geheimnis des Brunnens — Entscheidungsbuch
+  total_sections: 126
+sections:
+  '1':
+    cluster: START
+    file: Abschnitt_01.md
+    next: '2'
+    title: Jonas saß auf dem Brunnenrand.
+    type: story
+  '100':
+    cluster: D
+    file: Abschnitt_100.md
+    next: 100b
+    title: Die Metalltür glänzte im Schein der Taschenlampe.
+    type: story
+  100b:
+    cluster: D
+    file: Abschnitt_100b.md
+    next: '101'
+    title: Ben lag auf den Knien. Er hustete. Staub wirbelte …
+    type: story
+  '101':
+    cluster: D
+    file: Abschnitt_101.md
+    next: 101b
+    title: Der Raum öffnete sich vor ihnen.
+    type: story
+  101b:
+    cluster: D
+    file: Abschnitt_101b.md
+    next: '102'
+    title: „Jetzt müsst ihr einen Raum sehen", sagte Winter a…
+    type: story
+  '102':
+    choices:
+    - target: '103'
+      text: Alles dem Dorf präsentieren — auch die zweite Karte. Die Wahrheit gehört allen. → Abschnitt
+        103
+    - target: '105'
+      text: Die Truhe übergeben, aber die zweite Karte nicht erwähnen. Manche Geheimnisse muss man schützen.
+        → Abschnitt 105
+    cluster: D
+    file: Abschnitt_102.md
+    title: Jonas hob das erste Dokument heraus. Vorsichtig. M…
+    type: choice
+  '103':
+    cluster: D
+    file: Abschnitt_103.md
+    next: '104'
+    title: Winters Stimme knisterte aus dem Lautsprecher. Das…
+    type: story
+  '104':
+    cluster: D
+    ending_id: 216
+    file: Abschnitt_104.md
+    stars: 4
+    title: Winters Anruf
+    type: ending
+  '105':
+    cluster: D
+    ending_id: 217
+    file: Abschnitt_105.md
+    stars: 3
+    title: Fast alles
+    type: ending
+  '106':
+    cluster: D
+    ending_id: 218
+    file: Abschnitt_106.md
+    stars: 2
+    title: Kein Empfang
+    type: ending
+  '11':
+    cluster: A
+    file: Abschnitt_11.md
+    next: '12'
+    title: Das Herrenhaus ragte vor ihnen auf. Jonas kannte j…
+    type: story
+  '12':
+    choices:
+    - target: '13'
+      text: Meier im Herrenhaus holen → Abschnitt 13
+    - target: '14'
+      text: Krüger nach den Bergmanns fragen → Abschnitt 14
+    - target: 14b
+      text: Direkt ohne die Gegenstände probieren → Abschnitt 14b
+    cluster: A
+    file: Abschnitt_12.md
+    title: „Vier Linien", sagte Jonas langsam. „Vier Gründerf…
+    type: choice
+  '13':
+    cluster: A
+    file: Abschnitt_13.md
+    next: 13b
+    title: Sie fanden Meier im Garten des Herrenhauses. Er tr…
+    type: story
+  13b:
+    cluster: A
+    file: Abschnitt_13b.md
+    next: 13c
+    title: Meier drehte das Siegel in seinen Händen. Hin und …
+    type: story
+  13c:
+    cluster: A
+    file: Abschnitt_13c.md
+    next: '15'
+    title: Meier stand am Eingang zum Keller. Er hatte die Ar…
+    type: story
+  '14':
+    cluster: A
+    file: Abschnitt_14.md
+    next: 14c
+    title: Krüger saß auf seiner Bank. Wie immer. Es roch nac…
+    type: story
+  14b:
+    choices:
+    - target: '13'
+      text: Meier im Herrenhaus fragen → Abschnitt 13
+    - target: '14'
+      text: Krüger nach den Bergmanns fragen → Abschnitt 14
+    cluster: A
+    file: Abschnitt_14b.md
+    title: Jonas drückte beide Hände gegen die Metalltür. Kal…
+    type: choice
+  14c:
+    cluster: A
+    file: Abschnitt_14c.md
+    next: '15'
+    title: Krüger lehnte sich zurück. Seine Hände lagen auf d…
+    type: story
+  '15':
+    choices:
+    - target: '16'
+      text: Frau Bergmann besuchen und nach dem Gegenstand fragen → Abschnitt 16
+    - target: 16b
+      text: Ohne den vierten Gegenstand improvisieren → Abschnitt 16b
+    - target: 34a
+      text: Aufgeben und nach Hause gehen → Abschnitt 34a
+    cluster: A
+    file: Abschnitt_15.md
+    title: Drei Linien leuchteten. Gold, Bronze, Silber. Sie …
+    type: choice
+  '16':
+    cluster: A
+    file: Abschnitt_16.md
+    next: '17'
+    title: Das Haus war klein. Blumenkästen an den Fenstern. …
+    type: story
+  16b:
+    cluster: A
+    file: Abschnitt_16b.md
+    next: '17'
+    title: „Wir schaffen das auch ohne den vierten Gegenstand…
+    type: story
+  '17':
+    cluster: A
+    file: Abschnitt_17.md
+    next: '18'
+    title: Sie waren durch. Die Metalltür lag hinter ihnen. O…
+    type: story
+  '18':
+    choices:
+    - target: '19'
+      text: Den linken Gang — dort weht frische Luft → Abschnitt 19
+    - target: '20'
+      text: Den rechten Gang — breit und trocken → Abschnitt 20
+    - target: 20b
+      text: Den mittleren Gang — geradeaus → Abschnitt 20b
+    - target: 18b
+      text: 'Bonus: Wenn du weißt, wohin das Wasser in den Gängen fließt → Abschnitt 18b'
+    cluster: A
+    file: Abschnitt_18.md
+    title: Der Gang wurde breiter. Jonas leuchtete die Wände …
+    type: choice
+  18b:
+    cluster: A
+    file: Abschnitt_18b.md
+    next: '19'
+    title: Jonas kniete sich hin. Er legte die Hand auf den B…
+    type: story
+  '19':
+    cluster: A
+    file: Abschnitt_19.md
+    next: '21'
+    title: Der linke Gang wurde schnell enger. Jonas musste d…
+    type: story
+  '2':
+    cluster: START
+    file: Abschnitt_02.md
+    next: '3'
+    title: Krüger saß auf seiner Bank am Kirchplatz. Eine Tau…
+    type: story
+  '20':
+    cluster: A
+    file: Abschnitt_20.md
+    next: '22'
+    title: Der rechte Gang war breit. Jonas konnte die Arme a…
+    type: story
+  '200':
+    cluster: SPECIAL
+    codewort_system: true
+    ending_id: 222
+    file: Abschnitt_200.md
+    stars: 5
+    title: Eichenhain
+    type: ending
+  20b:
+    cluster: A
+    file: Abschnitt_20b.md
+    next: '18'
+    title: Der mittlere Gang führte geradeaus. Schnurgerade. …
+    type: story
+  '21':
+    choices:
+    - target: '22'
+      text: Den Pfeilen folgen, vorwärts durch den Gang → Abschnitt 22
+    - target: 26b
+      text: Versuchen, die Steine wegzuräumen und zurückzugraben → Abschnitt 26b
+    - target: '33'
+      text: Laut um Hilfe rufen und warten → Abschnitt 33
+    cluster: A
+    file: Abschnitt_21.md
+    title: Ben atmete schnell. Zu schnell. Seine Hände zitter…
+    type: choice
+  '22':
+    cluster: A
+    file: Abschnitt_22.md
+    next: '23'
+    title: Der Gang öffnete sich. Jonas trat in eine Kammer u…
+    type: story
+  '23':
+    choices:
+    - target: '24'
+      text: Die ganze Truhe mitnehmen → Abschnitt 24
+    - target: 24b
+      text: Nur den Brief lesen und die Truhe stehen lassen → Abschnitt 24b
+    cluster: A
+    file: Abschnitt_23.md
+    title: Jonas kratzte am alten Wachs. Es saß fest. Hart wi…
+    type: choice
+  '24':
+    cluster: A
+    file: Abschnitt_24.md
+    next: '25'
+    title: „Wir nehmen sie mit", sagte Jonas. „Das Dorf muss …
+    type: story
+  24b:
+    cluster: A
+    file: Abschnitt_24b.md
+    next: 25b
+    title: Jonas faltete den Brief wieder zusammen. Er legte …
+    type: story
+  '25':
+    cluster: A
+    file: Abschnitt_25.md
+    next: 25b
+    title: Die Quelle sprudelte vor ihnen. Klar. Eiskalt. Jon…
+    type: story
+  25b:
+    cluster: A
+    file: Abschnitt_25b.md
+    next: 26b
+    title: Die Kammer öffnete sich vor ihnen. Rund. Größer al…
+    type: story
+  '26':
+    cluster: A
+    file: Abschnitt_26.md
+    next: '27'
+    title: „Frau Bergmann", sagte Ben. Seine Stimme war aufge…
+    type: story
+  26b:
+    cluster: A
+    file: Abschnitt_26b.md
+    next: '26'
+    title: „Zurück!", rief Jonas. „Den gleichen Weg!"
+    type: story
+  '27':
+    cluster: A
+    file: Abschnitt_27.md
+    next: '28'
+    title: Eine Leiter. Rostig. In die Wand eingelassen. Sie …
+    type: story
+  '28':
+    choices:
+    - target: '29'
+      text: Die Truhe mit Krüger öffnen — er versteht die Geschichte. Er soll entscheiden, was das Dorf
+        erfährt. → Abschnitt 29
+    - target: '32'
+      text: Direkt zum Bürgermeister — die Wahrheit gehört allen, nicht nur einem Mann. → Abschnitt 32
+    cluster: A
+    file: Abschnitt_28.md
+    title: Gesichter. Überall Gesichter. Die Dorfbewohner sta…
+    type: choice
+  '29':
+    cluster: A
+    file: Abschnitt_29.md
+    next: '30'
+    title: „Zeig mir alles", sagte Krüger. Seine Stimme war l…
+    type: story
+  '3':
+    cluster: START
+    file: Abschnitt_03.md
+    next: '4'
+    title: „Wartet mal." Ben kramte in seinem Rucksack. „Ich …
+    type: story
+  '30':
+    choices:
+    - target: '31'
+      text: Die Gänge sichern und das Gangsystem zum Denkmal machen → Abschnitt 31
+    - target: '32'
+      text: Die Truhe dem Bürgermeister übergeben und die Sache abschließen → Abschnitt 32
+    cluster: A
+    file: Abschnitt_30.md
+    title: Hundert Augen. Alle auf Jonas gerichtet.
+    type: choice
+  '31':
+    cluster: A
+    ending_id: 208
+    file: Abschnitt_31.md
+    stars: 4
+    title: Die Quelle von Eichenhain
+    type: ending
+  '32':
+    cluster: A
+    ending_id: 206
+    file: Abschnitt_32.md
+    stars: 3
+    title: Die versiegelte Wahrheit
+    type: ending
+  '33':
+    cluster: A
+    ending_id: 207
+    file: Abschnitt_33.md
+    stars: 3
+    title: Der versperrte Weg
+    type: ending
+  '34':
+    cluster: A
+    ending_id: 219
+    file: Abschnitt_34.md
+    stars: 2
+    title: Nicht dabei
+    type: ending
+  34a:
+    choices:
+    - target: '16'
+      text: Ein letztes Mal. Zu Frau Bergmann. Diesmal bleiben wir. → Abschnitt 16
+    - target: '34'
+      text: Nein. Es reicht. Wir gehen nach Hause. → Abschnitt 34
+    cluster: A
+    file: Abschnitt_34a.md
+    title: Jonas stand im Tunnel. Drei Linien leuchteten. Die…
+    type: choice
+  '4':
+    cluster: START
+    file: Abschnitt_04.md
+    next: '5'
+    title: Milas Oma trug eine Lesebrille auf der Nasenspitze…
+    type: story
+  '41':
+    cluster: B
+    file: Abschnitt_41.md
+    next: '42'
+    title: Efeu kroch über die Steinmauern. Das Mühlrad hing …
+    type: story
+  '42':
+    choices:
+    - target: '43'
+      text: Durch die Spalte klettern → Abschnitt 43
+    - target: 43b
+      text: Morgen wiederkommen mit besserer Ausrüstung → Abschnitt 43b
+    cluster: B
+    file: Abschnitt_42.md
+    title: Die Spalte war eng. Jonas leuchtete hinein. Raue S…
+    type: choice
+  '43':
+    cluster: B
+    file: Abschnitt_43.md
+    next: '44'
+    title: Jonas zwängte sich durch die Spalte. Stein drückte…
+    type: story
+  43b:
+    cluster: B
+    file: Abschnitt_43b.md
+    next: 43c
+    title: „Morgen", sagte Ben. „Wir kommen morgen wieder."
+    type: story
+  43c:
+    cluster: B
+    file: Abschnitt_43c.md
+    next: '44'
+    title: Der Regen peitschte ihnen ins Gesicht. Jonas' Schu…
+    type: story
+  '44':
+    cluster: B
+    file: Abschnitt_44.md
+    next: '45'
+    title: Der Gang öffnete sich.
+    type: story
+  '45':
+    choices:
+    - target: '46'
+      text: Dem Fluss folgen zur Quelle → Abschnitt 46
+    - target: 45b
+      text: Am Ufer bleiben — den trockenen Gang erkunden → Abschnitt 45b
+    - target: '59'
+      text: Den Seitengang nehmen → Abschnitt 59
+    cluster: B
+    file: Abschnitt_45.md
+    title: Jonas kniete sich neben die Glasflaschen. Fünf Stü…
+    type: choice
+  45b:
+    cluster: B
+    file: Abschnitt_45b.md
+    next: 45c
+    title: Jonas stellte die Flasche zurück. Er leuchtete die…
+    type: story
+  45c:
+    cluster: B
+    file: Abschnitt_45c.md
+    next: 45d
+    title: Nach fünfzig Metern stoppte Ben. „Da ist was."
+    type: story
+  45d:
+    choices:
+    - target: 45e
+      text: 'Bonus: Wenn du weißt, wer Pfeile in diese Wände geritzt hat → Abschnitt 45e'
+    cluster: B
+    file: Abschnitt_45d.md
+    next: '48'
+    title: Der Gang wurde breiter. Die Wände glätter. Und feu…
+    type: choice
+  45e:
+    cluster: B
+    file: Abschnitt_45e.md
+    next: '48'
+    title: Jonas sah die Pfeile an den Wänden. Eingeritzt. Ti…
+    type: story
+  '46':
+    cluster: B
+    file: Abschnitt_46.md
+    next: '47'
+    title: Sie folgten dem Fluss.
+    type: story
+  '47':
+    cluster: B
+    file: Abschnitt_47.md
+    next: '48'
+    title: Wandmalereien.
+    type: story
+  '48':
+    choices:
+    - target: '49'
+      text: Den letzten Ring drücken und die Truhe öffnen → Abschnitt 49
+    - target: '57'
+      text: Zurückgehen und Krüger um Hilfe bitten → Abschnitt 57
+    cluster: B
+    file: Abschnitt_48.md
+    title: Die Truhe stand auf einem Steinsockel. Schwer. Alt…
+    type: choice
+  '49':
+    cluster: B
+    file: Abschnitt_49.md
+    next: '50'
+    title: Jonas drückte den Ring.
+    type: story
+  '5':
+    cluster: START
+    file: Abschnitt_05.md
+    next: '6'
+    title: Die Katze auf der Türschwelle hob den Kopf. Sie gä…
+    type: story
+  '50':
+    cluster: B
+    file: Abschnitt_50.md
+    next: 50b
+    title: Ben starrte auf das Blatt. Seine Augen wurden groß…
+    type: story
+  50b:
+    choices:
+    - target: '51'
+      text: Zurück mit der Truhe — durch den Tunnel, so schnell es geht → Abschnitt 51
+    - target: '57'
+      text: Die Rohr-Pläne mitnehmen, die Truhe dalassen → Abschnitt 57
+    cluster: B
+    file: Abschnitt_50b.md
+    title: Der Gang wurde breiter. Feuchter. Jonas hörte Wass…
+    type: choice
+  '51':
+    choices:
+    - target: '52'
+      text: Bens Idee anhören → Abschnitt 52
+    - target: '58'
+      text: Zur Mühle zurückrennen → Abschnitt 58
+    cluster: B
+    file: Abschnitt_51.md
+    title: Jonas hob die Truhe hoch. Schwer. Aber nicht zu sc…
+    type: choice
+  '52':
+    cluster: B
+    file: Abschnitt_52.md
+    next: '53'
+    title: Ben holte die Karte heraus. Seine Hände waren nass…
+    type: story
+  '53':
+    cluster: B
+    file: Abschnitt_53.md
+    next: '54'
+    title: Die Leiter war alt. Rostig. Die Sprossen knirschte…
+    type: story
+  '54':
+    choices:
+    - target: '55'
+      text: Zum Bürgermeister gehen — das Dorf muss es zuerst erfahren. → Abschnitt 55
+    - target: '57'
+      text: Meier zuerst informieren — er verdient die Chance, selbst zu handeln. → Abschnitt 57
+    cluster: B
+    file: Abschnitt_54.md
+    title: Krüger stand am Brunnenrand. Sein Regenschirm trop…
+    type: choice
+  '55':
+    cluster: B
+    file: Abschnitt_55.md
+    next: '56'
+    title: Drei Blätter Papier knallten auf den Schreibtisch.…
+    type: story
+  '56':
+    cluster: B
+    ending_id: 211
+    file: Abschnitt_56.md
+    stars: 4
+    title: Der Brunnen fließt
+    type: ending
+  '57':
+    choices:
+    - target: 57b
+      text: Meiers Hilfe annehmen — zurück in den Tunnel → Abschnitt 57b
+    cluster: B
+    ending_id: 210
+    file: Abschnitt_57.md
+    stars: 3
+    title: Die vergessene Urkunde
+    type: ending
+  57b:
+    cluster: B
+    file: Abschnitt_57b.md
+    next: '55'
+    title: Meier kam am nächsten Morgen. Gummistiefel. Schauf…
+    type: story
+  '58':
+    cluster: B
+    ending_id: 209
+    file: Abschnitt_58.md
+    stars: 2
+    title: Der Brief aus der Tiefe
+    type: ending
+  '59':
+    cluster: B
+    file: Abschnitt_59.md
+    next: 59b
+    title: „Der Seitengang", sagte Jonas. „Vielleicht führt e…
+    type: story
+  59b:
+    cluster: B
+    file: Abschnitt_59b.md
+    next: 59c
+    title: Der Seitengang wurde breiter. Jonas leuchtete mit …
+    type: story
+  59c:
+    cluster: B
+    ending_id: 220
+    file: Abschnitt_59c.md
+    stars: 2
+    title: Meiers Geheimnis
+    type: ending
+  '6':
+    cluster: START
+    file: Abschnitt_06.md
+    next: '7'
+    title: Meier wischte sich die Hände an seiner Schürze ab.…
+    type: story
+  '66':
+    cluster: C
+    file: Abschnitt_66.md
+    next: '67'
+    title: Wind fegte über den Kirchplatz. Die Karte in Jonas…
+    type: story
+  '67':
+    choices:
+    - target: '68'
+      text: Anklopfen → Abschnitt 68
+    - target: '69'
+      text: Erst durchs Fenster schauen → Abschnitt 69
+    - target: 67b
+      text: Aufgeben — aber morgen nochmal versuchen → Abschnitt 67b
+    - target: 67e
+      text: Loslassen. Weggehen. Sie will nicht reden. → Abschnitt 67e
+    cluster: C
+    file: Abschnitt_67.md
+    title: Frau Bergmanns Haus stand direkt am Kirchplatz. Zw…
+    type: choice
+  67b:
+    cluster: C
+    file: Abschnitt_67b.md
+    next: 67c
+    title: Die drei liefen über den Kirchplatz. Zurück zur St…
+    type: story
+  67c:
+    cluster: C
+    file: Abschnitt_67c.md
+    next: 67d
+    title: Nächster Morgen. Jonas saß am Küchentisch. Toast. …
+    type: story
+  67d:
+    cluster: C
+    ending_id: 215
+    file: Abschnitt_67d.md
+    stars: 2
+    title: Die halbe Wahrheit
+    type: ending
+  67e:
+    choices:
+    - target: 67b
+      text: Doch zurückgehen. Nochmal klopfen. Diesmal richtig. → Abschnitt 67b
+    - target: '87'
+      text: Nein. Endgültig loslassen. → Abschnitt 87
+    cluster: C
+    file: Abschnitt_67e.md
+    title: Jonas drehte sich um. Einfach so. Ohne ein Wort.
+    type: choice
+  '68':
+    cluster: C
+    file: Abschnitt_68.md
+    next: '70'
+    title: Jonas griff nach dem Messingklopfer.
+    type: story
+  '69':
+    cluster: C
+    file: Abschnitt_69.md
+    next: '70'
+    title: „Wartet", flüsterte Jonas. „Erst schauen."
+    type: story
+  '7':
+    choices:
+    - target: '11'
+      text: Zurück in den Tunnel — die zweite Metalltür öffnen. Auch wenn der Regen die Gänge gefährlich
+        macht. → Abschnitt 11
+    - target: '41'
+      text: Zur alten Mühle schleichen — dort geht es weiter. Tiefer. Ins Unbekannte. → Abschnitt 41
+    - target: '66'
+      text: Bei Frau Bergmann anklopfen — sie will reden. Auch wenn sie Angst hat. → Abschnitt 66
+    - target: '91'
+      text: Winter anrufen — er kennt jedes Geheimnis. Aber warum ist er nie zurückgekommen? → Abschnitt
+        91
+    cluster: START
+    file: Abschnitt_07.md
+    title: Jonas breitete die Karte auf seinem Schreibtisch a…
+    type: choice
+  '70':
+    choices:
+    - target: '71'
+      text: „Erzählen Sie weiter." → Abschnitt 71
+    - target: '72'
+      text: „Was haben Sie gesehen?" → Abschnitt 72
+    - target: 70b
+      text: 'Bonus: Wenn du weißt, wie viele Kammern unter dem Brunnen liegen → Abschnitt 70b'
+    cluster: C
+    file: Abschnitt_70.md
+    title: Frau Bergmann faltete die Hände. Ihre Knöchel wurd…
+    type: choice
+  70b:
+    cluster: C
+    file: Abschnitt_70b.md
+    next: '71'
+    title: Jonas beugte sich vor. „Frau Bergmann — es gibt dr…
+    type: story
+  '71':
+    cluster: C
+    file: Abschnitt_71.md
+    next: '73'
+    title: „Erzählen Sie weiter", sagte Jonas leise. „Bitte."
+    type: story
+  '72':
+    cluster: C
+    file: Abschnitt_72.md
+    next: 72b
+    title: „Was haben Sie gesehen?", fragte Jonas. „Dort unte…
+    type: story
+  72b:
+    cluster: C
+    file: Abschnitt_72b.md
+    next: 72c
+    title: Frau Bergmann stellte eine Holzschachtel auf den T…
+    type: story
+  72c:
+    cluster: C
+    file: Abschnitt_72c.md
+    next: '73'
+    title: Frau Bergmann griff in die Schachtel. Ein Briefums…
+    type: story
+  '73':
+    cluster: C
+    file: Abschnitt_73.md
+    next: '74'
+    title: Frau Bergmann hielt den Messingring zwischen Daume…
+    type: story
+  '74':
+    choices:
+    - target: '75'
+      text: „Führen Sie uns hin!" — Auch wenn es wehtut. → Abschnitt 75
+    - target: '76'
+      text: „Wir finden den Weg selbst." — Sie hat genug durchgemacht. → Abschnitt 76
+    cluster: C
+    file: Abschnitt_74.md
+    title: Frau Bergmann legte den Ring auf den Tisch. Er rol…
+    type: choice
+  '75':
+    cluster: C
+    file: Abschnitt_75.md
+    next: '77'
+    title: „Führen Sie uns hin", sagte Jonas. „Bitte."
+    type: story
+  '76':
+    cluster: C
+    file: Abschnitt_76.md
+    next: '78'
+    title: „Wir finden den Weg selbst", sagte Mila. „Mit der …
+    type: story
+  '77':
+    cluster: C
+    file: Abschnitt_77.md
+    next: '79'
+    title: Frau Bergmann stand in der Haustür. Stock in der r…
+    type: story
+  '78':
+    choices:
+    - target: 78b
+      text: Zurück nach oben — Frau Bergmann um Hilfe bitten → Abschnitt 78b
+    - target: '86'
+      text: Laut rufen und auf Hilfe warten → Abschnitt 86
+    cluster: C
+    file: Abschnitt_78.md
+    title: Der Brunnen war kalt. Die Steinplatte lag zur Seit…
+    type: choice
+  78b:
+    cluster: C
+    file: Abschnitt_78b.md
+    next: '79'
+    title: „Wir brauchen Hilfe", sagte Jonas.
+    type: story
+  '79':
+    cluster: C
+    file: Abschnitt_79.md
+    next: 79b
+    title: Frau Bergmann ging voraus. Ihr Stock klapperte auf…
+    type: story
+  79b:
+    cluster: C
+    file: Abschnitt_79b.md
+    next: '80'
+    title: Frau Bergmann blieb stehen. Mitten im Gang. Ihre T…
+    type: story
+  '80':
+    cluster: C
+    file: Abschnitt_80.md
+    next: '81'
+    title: Jonas leuchtete weiter. Die Decke wölbte sich hoch…
+    type: story
+  '81':
+    choices:
+    - target: '82'
+      text: „Wir gehen zusammen. Das Dorf muss Ihre Geschichte hören." → Abschnitt 82
+    - target: '85'
+      text: „Wir machen das allein. Sie haben genug durchgemacht." → Abschnitt 85
+    cluster: C
+    file: Abschnitt_81.md
+    title: Frau Bergmann nahm den Ring von ihrer Halskette. I…
+    type: choice
+  '82':
+    cluster: C
+    file: Abschnitt_82.md
+    next: '83'
+    title: „Wir gehen zusammen zurück", sagte Jonas. „Alle vi…
+    type: story
+  '83':
+    cluster: C
+    file: Abschnitt_83.md
+    next: '84'
+    title: Am nächsten Morgen war das Rathaus voll. Jeder Stu…
+    type: story
+  '84':
+    cluster: C
+    ending_id: 214
+    file: Abschnitt_84.md
+    stars: 4
+    title: Lisbeths Tränen
+    type: ending
+  '85':
+    cluster: C
+    ending_id: 213
+    file: Abschnitt_85.md
+    stars: 3
+    title: Ohne Lisbeth
+    type: ending
+  '86':
+    cluster: C
+    ending_id: 212
+    file: Abschnitt_86.md
+    stars: 2
+    title: Verlaufen
+    type: ending
+  '87':
+    cluster: C
+    ending_id: 223
+    file: Abschnitt_87.md
+    stars: 1
+    title: Stille am Kirchplatz
+    type: ending
+  '91':
+    cluster: D
+    file: Abschnitt_91.md
+    next: '92'
+    title: Jonas starrte auf den Brief in seinen Händen.
+    type: story
+  '92':
+    choices:
+    - target: '93'
+      text: Nochmal anrufen → Abschnitt 93
+    - target: '94'
+      text: Eine Nachricht hinterlassen → Abschnitt 94
+    - target: '106'
+      text: Aufgeben → Abschnitt 106
+    cluster: D
+    file: Abschnitt_92.md
+    title: Krügers Küche roch nach Kaffee und alten Büchern.
+    type: choice
+  '93':
+    cluster: D
+    file: Abschnitt_93.md
+    next: '95'
+    title: „Nochmal", sagte Jonas.
+    type: story
+  '94':
+    cluster: D
+    file: Abschnitt_94.md
+    next: '95'
+    title: Jonas räusperte sich. Der Piepton hallte noch in s…
+    type: story
+  '95':
+    choices:
+    - target: '96'
+      text: „Wie kommen wir durch die Tür?" → Abschnitt 96
+    - target: '97'
+      text: „Was ist da unten?" → Abschnitt 97
+    cluster: D
+    file: Abschnitt_95.md
+    title: Winters Stimme kam aus dem Lautsprecher. Ruhig. Kl…
+    type: choice
+  '96':
+    choices:
+    - target: 96b
+      text: 'Bonus: Wenn du die Metalltür schon mit eigenen Augen gesehen hast → Abschnitt 96b'
+    cluster: D
+    file: Abschnitt_96.md
+    next: '98'
+    title: „Wie kommen wir durch die Metalltür?", fragte Jona…
+    type: choice
+  96b:
+    cluster: D
+    file: Abschnitt_96b.md
+    next: '98'
+    title: Krügers Küche roch nach Kaffee und alten Büchern. …
+    type: story
+  '97':
+    cluster: D
+    file: Abschnitt_97.md
+    next: '98'
+    title: „Was ist da unten?", fragte Jonas. „Was werden wir…
+    type: story
+  '98':
+    choices:
+    - target: '99'
+      text: Winter vertrauen und die Zeitkapsel holen — er kennt den Weg. → Abschnitt 99
+    - target: 99b
+      text: Mehr über die zweite Quelle erfahren — vielleicht ist DAS der Schlüssel. → Abschnitt 99b
+    - target: 99c
+      text: Selbst entscheiden — wir gehen ohne seine Anweisungen in die Gänge. → Abschnitt 99c
+    cluster: D
+    file: Abschnitt_98.md
+    title: Winter wurde still.
+    type: choice
+  '99':
+    cluster: D
+    file: Abschnitt_99.md
+    next: '100'
+    title: „Wir holen erst die Zeitkapsel", sagte Jonas. „Ein…
+    type: story
+  99b:
+    cluster: D
+    file: Abschnitt_99b.md
+    next: '100'
+    title: „Erzählen Sie uns von der zweiten Quelle", sagte J…
+    type: story
+  99c:
+    cluster: D
+    file: Abschnitt_99c.md
+    next: 99d
+    title: Jonas legte auf. Das Telefon klickte.
+    type: story
+  99d:
+    cluster: D
+    file: Abschnitt_99d.md
+    next: 99e
+    title: Der Tunnel war kalt. Die Luft roch nach feuchtem E…
+    type: story
+  99e:
+    cluster: D
+    ending_id: 221
+    file: Abschnitt_99e.md
+    stars: 3
+    title: Der eigene Weg
+    type: ending

@@ -18,7 +18,7 @@ Sie gingen schweigend nach draußen. Der Brunnen stand auf dem Platz. Wie immer.
 
 Mila trat gegen einen Kieselstein. „Der hat keine Ahnung. Gänge versiegelt. Quelle vergessen."
 
-Jonas sagte nichts. Er stand am Brunnen. Seine Hand lag auf dem kuehlen Stein. Unter seinen Fuessen lag ein ganzes Netz aus Gaengen. Eine Quelle. Dreihundert Jahre Geschichte.
+Jonas sagte nichts. Er stand am Brunnen. Seine Hand lag auf dem kühlen Stein. Unter seinen Füßen lag ein ganzes Netz aus Gängen. Eine Quelle. Dreihundert Jahre Geschichte.
 
 Und niemand durfte es sehen.
 
@@ -28,23 +28,23 @@ Ben setzte sich neben ihn. Seine Kappe war schief. „Hinter Glas", murmelte er.
 
 „Wo niemand sie versteht", sagte Mila leise.
 
-Jonas schloss die Augen. Er dachte an die Quelle. Wie sie aus dem Felsen sprudelte. Klar und kalt. Seit zweihundert Jahren. Seit dreihundert. Und niemand wuerde sie je wieder sehen. Weil ein Mann hinter einem Schreibtisch entschieden hatte, dass es zu gefaehrlich war.
+Jonas schloss die Augen. Er dachte an die Quelle. Wie sie aus dem Felsen sprudelte. Klar und kalt. Seit zweihundert Jahren. Seit dreihundert. Und niemand würde sie je wieder sehen. Weil ein Mann hinter einem Schreibtisch entschieden hatte, dass es zu gefährlich war.
 
 Aber sie hatten es gesehen. Sie wussten, was dort lag.
 
-„Wir wissen es", sagte er schliesslich. „Wir haben es gesehen. Die Quelle. Die Kammer. Die Zeichnungen."
+„Wir wissen es", sagte er schließlich. „Wir haben es gesehen. Die Quelle. Die Kammer. Die Zeichnungen."
 
-Ben nickte. „Und niemand kann das zuruecknehmen."
+Ben nickte. „Und niemand kann das zurücknehmen."
 
-Jonas laechelte. Schwach. Aber echt.
+Jonas lächelte. Schwach. Aber echt.
 
 Er ging zum Brunnen. Legte die Hand auf den Stein. Und hielt den Atem an.
 
 Der Stein war warm. Von unten. Ganz schwach. Aber eindeutig.
 
-„Sie ist noch da", fluesterte er. „Unter allem."
+„Sie ist noch da", flüsterte er. „Unter allem."
 
-Mila und Ben sahen ihn an. Jonas zog die Hand zurueck. Die Waerme blieb auf seiner Haut. Die Quelle lebte. Egal, was der Buergermeister entschied.
+Mila und Ben sahen ihn an. Jonas zog die Hand zurück. Die Wärme blieb auf seiner Haut. Die Quelle lebte. Egal, was der Bürgermeister entschied.
 
 ---
 

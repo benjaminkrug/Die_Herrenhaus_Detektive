@@ -24,13 +24,13 @@ Durch die Spalte. Durch die Schatzkammer. Die Treppe hoch. Raus aus der Mühle.
 
 Regen. Kalte Luft. Sie standen im Wald. Nass bis auf die Knochen. Keuchend.
 
-Jonas liess sich ins Gras fallen. Seine Beine brannten. Seine Lunge brannte. Alles brannte.
+Jonas ließ sich ins Gras fallen. Seine Beine brannten. Seine Lunge brannte. Alles brannte.
 
-Mila sass neben ihm. Ihre Haende lagen auf den Knien. Sie zitterten. Nicht vor Kaelte. Vor etwas anderem.
+Mila saß neben ihm. Ihre Hände lagen auf den Knien. Sie zitterten. Nicht vor Kälte. Vor etwas anderem.
 
 Jonas sah auf die nassen Papiere in seiner Hand. Die Urkunde. Der Brief. Beweise. Aber nicht alles.
 
-Die Truhe war weg. Die Muenzen. Und ob Bens Zeichnungen noch lesbar waren —
+Die Truhe war weg. Die Münzen. Und ob Bens Zeichnungen noch lesbar waren —
 
 Ben zog das Blatt aus seiner Tasche. Nass. Die Tinte verlaufen. Kaum noch erkennbar.
 
@@ -38,21 +38,21 @@ Ben zog das Blatt aus seiner Tasche. Nass. Die Tinte verlaufen. Kaum noch erkenn
 
 Jonas legte ihm die Hand auf die Schulter. „Du hast es versucht."
 
-Sein Herzschlag war das einzige Geraeusch. Dann der Regen. Und ihr eigener Atem.
+Sein Herzschlag war das einzige Geräusch. Dann der Regen. Und ihr eigener Atem.
 
-„Die Truhe ist noch da unten", sagte Mila schliesslich. „Unter dem Wasser."
+„Die Truhe ist noch da unten", sagte Mila schließlich. „Unter dem Wasser."
 
-Jonas nickte. Sie lag auf dem Grund. Mit den Muenzen. Mit dem, was sie nicht retten konnten.
+Jonas nickte. Sie lag auf dem Grund. Mit den Münzen. Mit dem, was sie nicht retten konnten.
 
-Er hielt die nasse Urkunde hoch. Die Schrift war noch lesbar. Gerade so. Dreihundert Jahre alte Tinte, staerker als der Regen.
+Er hielt die nasse Urkunde hoch. Die Schrift war noch lesbar. Gerade so. Dreihundert Jahre alte Tinte, stärker als der Regen.
 
 „Das reicht", sagte er. „Das reicht, um zu beweisen, dass die Quelle existiert."
 
-Ben zog seine Kappe aus und wrang sie aus. „Und naechstes Mal nehmen wir Plastiktueten mit."
+Ben zog seine Kappe aus und wrang sie aus. „Und nächstes Mal nehmen wir Plastiktüten mit."
 
 Mila lachte. Kurz. Heiser. Aber sie lachte.
 
-Sie hatten die Wahrheit gefunden. Aber nicht alles mitnehmen koennen. Der Brunnen wuerde weiter schweigen. Vorerst. Aber die Urkunde war ihr Beweis. Und die Erinnerung — die konnte kein Wasser wegspuelen.
+Sie hatten die Wahrheit gefunden. Aber nicht alles mitnehmen können. Der Brunnen würde weiter schweigen. Vorerst. Aber die Urkunde war ihr Beweis. Und die Erinnerung — die konnte kein Wasser wegspülen.
 
 ---
 

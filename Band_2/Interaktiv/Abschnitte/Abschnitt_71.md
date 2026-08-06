@@ -18,25 +18,25 @@ Jonas' Magen zog sich zusammen.
 
 Sie presste die Lippen zusammen. Sie griff fester um die Teetasse.
 
-„Irgendwann hat Karl geweint", sagte sie leise. „Er wollte nicht, dass ich es hoere."
+„Irgendwann hat Karl geweint", sagte sie leise. „Er wollte nicht, dass ich es höre."
 
-„Aber Sie haben es gehoert", sagte Mila.
+„Aber Sie haben es gehört", sagte Mila.
 
 Frau Bergmann nickte. „Und dann habe ich auch geweint."
 
-Mila legte ihre Hand auf den Tisch. Ganz nah an Frau Bergmanns Hand. Nicht ganz beruehrend. Aber nah.
+Mila legte ihre Hand auf den Tisch. Ganz nah an Frau Bergmanns Hand. Nicht ganz berührend. Aber nah.
 
-„Was haben Sie dann gemacht?", fragte Ben. Er hatte seine Kappe abgenommen. Hielt sie in beiden Haenden.
+„Was haben Sie dann gemacht?", fragte Ben. Er hatte seine Kappe abgenommen. Hielt sie in beiden Händen.
 
 „Karl hat Lieder gesungen", sagte Frau Bergmann. „Leise. Kinderlieder. Damit wir keine Angst haben."
 
 „Hat es geholfen?", fragte Jonas.
 
-„Ein bisschen." Frau Bergmann schluckte schwer. „Und dann -- Stimmen. Ganz weit weg. Meiers Vater. Mit einer Laterne."
+„Ein bisschen." Frau Bergmann schluckte schwer. „Und dann — Stimmen. Ganz weit weg. Meiers Vater. Mit einer Laterne."
 
 Jonas' Kehle war eng. Er konnte nicht sprechen.
 
-„Vierzehn Stunden", sagte Frau Bergmann. „Und danach hat niemand mehr darüber geredet. Das Dorf hat alles zugeschüttet. Und Karl —"
+„Vierzehn Stunden", sagte Frau Bergmann. „Und danach hat niemand mehr darüber geredet. Das Dorf hat alles zugeschüttet. Und Karl —“
 
 Sie brach ab. Ihr Finger strich über den Messingring an ihrer Kette.
 

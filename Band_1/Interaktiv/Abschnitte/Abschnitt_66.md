@@ -10,7 +10,6 @@ Dann wieder zu seinen Freunden.
 Also gehen wir nicht einfach rein.
 Wir fragen erst im Dorf."
 
-Mila verschränkte die Arme.
 „Im Dorf?"
 
 „Ja", sagte Jonas.

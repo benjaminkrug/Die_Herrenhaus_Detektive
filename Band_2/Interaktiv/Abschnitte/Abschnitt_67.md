@@ -2,7 +2,7 @@
 
 Frau Bergmanns Haus stand direkt am Kirchplatz. Zwei Stockwerke. Alte Backsteine. Efeu kletterte an der Fassade hoch.
 
-Blumenkaesten hingen an jedem Fenster. Rote Geranien. Ein Windspiel klimperte leise an der Haustuer. Lavendel. Jonas roch es schon von der Strasse.
+Blumenkästen hingen an jedem Fenster. Rote Geranien. Ein Windspiel klimperte leise an der Haustür. Lavendel. Jonas roch es schon von der Strasse.
 
 Die Katze auf der Fensterbank hob den Kopf. Gelbe Augen. Sie musterte die drei Kinder. Dann gähnte sie und legte sich wieder hin.
 
@@ -20,7 +20,7 @@ Jonas grinste. „Genau der richtige Geist, Ben."
 
 „Das war Sarkasmus!", zischte Ben.
 
-Jonas sah die Haustür an. Dunkelbraun. Abgeblätterter Lack. Ein Messingklopfer in Form eines Löwenkopfs. Seine Haende wurden feucht.
+Jonas sah die Haustür an. Dunkelbraun. Abgeblätterter Lack. Ein Messingklopfer in Form eines Löwenkopfs. Seine Hände wurden feucht.
 
 Mila trat neben ihn. „Hör auf zu starren. Türen sind zum Klopfen da."
 

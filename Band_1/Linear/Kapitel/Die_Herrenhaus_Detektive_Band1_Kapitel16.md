@@ -339,15 +339,20 @@ Wie man einen alten Freund begrüßt.
 Er blieb kurz stehen.
 Leuchtete die Decke an.
 
-„Heinrich hat diesen Tunnel mit eigenen Händen gegraben.
-Meter für Meter.
-Stein für Stein.
-Zwei Jahre hat es gedauert."
+„Ein Teil davon war schon da", sagte Krüger.
+„Ein alter Gang, uralt.
+Niemand weiß mehr, wer ihn gegraben hat."
+
+Er ließ das Licht über die Wände wandern.
+„Heinrich hat ihn nur verlängert.
+Bis zum Keller.
+Bis zur Mühle.
+Zwei Jahre hat er daran gearbeitet."
 
 Ben pfiff leise.
-„Allein?"
+„Trotzdem eine Menge Arbeit."
 
-„Allein."
+„Das war es", sagte Krüger.
 
 Ben lief neben Jonas.
 Auf halbem Weg zupfte er ihn am Ärmel.

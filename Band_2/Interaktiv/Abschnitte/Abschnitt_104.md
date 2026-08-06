@@ -6,33 +6,33 @@ Jonas saß auf dem Brunnenrand. Die Sonne wärmte seinen Nacken. Alles hatte sic
 
 Am Brunnen hing eine neue Tafel. Bronze. Glänzend. Jonas las die Worte, die er schon auswendig kannte:
 
-*Dieser Brunnen wurde 1712 von den vier Gruenderfamilien errichtet: Winter, Meier, Hoffmann, Bergmann. Versiegelt 1953. Darunter ruht die Quelle, die den Anfang von Eichenhain bildet.*
+*Dieser Brunnen wurde 1712 von den vier Gründerfamilien errichtet: Winter, Meier, Hoffmann, Bergmann. Versiegelt 1953. Darunter ruht die Quelle, die den Anfang von Eichenhain bildet.*
 
 Darunter, kleiner: *Wiederentdeckt von Jonas, Mila und Ben.*
 
 Jonas lächelte.
 
-Hinter ihm am Herrenhaus arbeiteten Handwerker. Sie sicherten die Gaenge. Stahlträger. Lampen. Meier leitete die Arbeiten. Er war jeden Tag dort. Früh morgens bis spät abends.
+Hinter ihm am Herrenhaus arbeiteten Handwerker. Sie sicherten die Gänge. Stahlträger. Lampen. Meier leitete die Arbeiten. Er war jeden Tag dort. Früh morgens bis spät abends.
 
-Frau Bergmann kam jetzt manchmal vorbei. Sie brachte Kuchen mit. Fuer die Arbeiter. Sie laechelte oefter als frueher.
+Frau Bergmann kam jetzt manchmal vorbei. Sie brachte Kuchen mit. Für die Arbeiter. Sie lächelte öfter als früher.
 
-Krueger sass auf seiner Bank. Wie immer. Aber er laechelte oefter.
+Krüger saß auf seiner Bank. Wie immer. Aber er lächelte öfter.
 
-Und Winter? Winter hatte geschrieben. Einen echten Brief. Mit der Post. An Jonas persoenlich. Er kam nach Hause. Bald. Vielleicht im Fruehling.
+Und Winter? Winter hatte geschrieben. Einen echten Brief. Mit der Post. An Jonas persönlich. Er kam nach Hause. Bald. Vielleicht im Frühling.
 
-Ben hatte den Brief als Erster gesehen. „Post? Fuer dich? Wer schreibt denn noch Briefe?"
+Ben hatte den Brief als Erster gesehen. „Post? Für dich? Wer schreibt denn noch Briefe?"
 
 „Jemand, der zwanzig Jahre in den Bergen gelebt hat", hatte Jonas gesagt.
 
 Ben hatte genickt. „Stimmt. Der hat bestimmt nicht mal WLAN."
 
-Jetzt setzte sich Mila neben Jonas auf den Brunnenrand. Ihre Schulter war verheilt. Nur eine kleine Narbe blieb. Ben kam von der anderen Seite. Er hatte eine Tuete Gummibaerchen dabei. Wie immer.
+Jetzt setzte sich Mila neben Jonas auf den Brunnenrand. Ihre Schulter war verheilt. Nur eine kleine Narbe blieb. Ben kam von der anderen Seite. Er hatte eine Tüte Gummibärchen dabei. Wie immer.
 
 „Langweilig hier", sagte Mila. Sie grinste.
 
-„Total", sagte Ben. Er stopfte sich drei Gummibärchen in den Mund. Suess und klebrig an den Fingern.
+„Total", sagte Ben. Er stopfte sich drei Gummibärchen in den Mund. Süß und klebrig an den Fingern.
 
-Jonas sagte nichts. Er griff in seinen Rucksack. Seine Hand beruehrte etwas Glattes. Leder. Alt und rissig.
+Jonas sagte nichts. Er griff in seinen Rucksack. Seine Hand berührte etwas Glattes. Leder. Alt und rissig.
 
 Er zog die Karte heraus.
 
@@ -48,7 +48,7 @@ Der Wald hinter Eichenhain. Bäume. Ein Bach. Felsen. Und das rote X.
 
 Milas Daumen lag auf dem X. „Das Herz von Eichenhain."
 
-„Da draußen", sagte Jonas. Er schaute zum Waldrand. Die Bäume standen dicht. Dunkel. Geheimnisvoll. Es roch nach Harz und feuchter Erde. Ein Vogel rief. Blaetter raschelten. Der Wind trug kuehle Luft herueber. „Da draußen wartet noch etwas auf uns."
+„Da draußen", sagte Jonas. Er schaute zum Waldrand. Die Bäume standen dicht. Dunkel. Geheimnisvoll. Es roch nach Harz und feuchter Erde. Ein Vogel rief. Blätter raschelten. Der Wind trug kühle Luft herüber. „Da draußen wartet noch etwas auf uns."
 
 Ben schluckte seinen Gummibär herunter. „Ich habe ein ganz schlechtes Gefühl."
 

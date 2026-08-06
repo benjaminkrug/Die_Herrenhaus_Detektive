@@ -8,7 +8,7 @@ Frau Bergmann saß am Tisch. Vor ihr lag ein Fotoalbum. Aufgeschlagen. Sie stric
 
 Jonas kniff die Augen zusammen. Das Foto zeigte zwei Kinder. Schwarzweiß. Ein Mädchen mit langen Zöpfen. Ein Junge mit Erde im Haar. Sie standen vor Bäumen. Im Hintergrund — Jonas' Herz machte einen Sprung — im Hintergrund war der Brunnen.
 
-„Das ist sie", flüsterte er. „Als Kind. Mit Karl."
+„Das ist sie", sagte er leise. „Als Kind. Mit Karl."
 
 Mila drängte sich neben ihn. „Sie schaut sich alte Fotos an?"
 
@@ -26,11 +26,11 @@ Die Haustür ging auf. Frau Bergmann stand im Rahmen. Ihre Augen waren rot.
 
 „Was macht ihr da?", fragte sie. Nicht wütend. Müde.
 
-„Es tut mir leid", sagte Jonas schnell. „Wir wollten nicht —"
+„Es tut mir leid", sagte Jonas schnell. „Wir wollten nicht —“
 
 Dann sah Frau Bergmann die Karte in seiner Hand. Sie hielt inne. Ihr Blick blieb an dem Papier hängen.
 
-„Ist das —", begann sie.
+„Ist das —“, begann sie.
 
 „Eine Karte", sagte Jonas. „Von den Gängen. Von Heinrich Winter."
 

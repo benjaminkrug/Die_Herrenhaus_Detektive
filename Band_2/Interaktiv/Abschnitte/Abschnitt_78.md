@@ -8,17 +8,17 @@ Jonas leuchtete hinunter. Die rostige Leiter verschwand im Nichts. Kalte Luft st
 
 „Natürlich", murmelte Ben. „Immer du."
 
-Sie kletterten hinunter. Die Sprossen der Leiter waren glitschig. Jonas zaehlte: acht, neun, zehn Sprossen. Dann fester Boden.
+Sie kletterten hinunter. Die Sprossen der Leiter waren glitschig. Jonas zählte: acht, neun, zehn Sprossen. Dann fester Boden.
 
 Der Gang war schmal. Niedrige Decke.
 
-„Ich kann die Decke beruehren", sagte Ben. „Das ist nicht normal."
+„Ich kann die Decke berühren", sagte Ben. „Das ist nicht normal."
 
-„Fuer dich ist nichts unter der Erde normal", sagte Mila.
+„Für dich ist nichts unter der Erde normal", sagte Mila.
 
-Jonas leuchtete die Waende ab. Raue Steine. Die Taschenlampe warf lange Schatten.
+Jonas leuchtete die Wände ab. Raue Steine. Die Taschenlampe warf lange Schatten.
 
-„Die Karte", sagte Mila. „Wo muessen wir hin?"
+„Die Karte", sagte Mila. „Wo müssen wir hin?"
 
 Jonas zog sie heraus. Aber genau hier war der Wasserfleck. Die Linien verschwammen. Ein Tintenklecks verdeckte die Kreuzung.
 
@@ -42,19 +42,19 @@ Sie gingen links. Der Gang wurde enger. Dann breiter. Dann wieder enger. Nach ze
 
 Sie gingen hinein. Bergab. Dann wieder hoch. Dann endete der Gang an einer Wand.
 
-„Sackgasse", sagte Ben. „Ueberraschung."
+„Sackgasse", sagte Ben. „Überraschung."
 
-Zurueck. Die andere Kreuzung. Ein neuer Weg.
+Zurück. Die andere Kreuzung. Ein neuer Weg.
 
-„Wenn das ein Computerspiel waere", sagte Ben, „haette ich laengst neu gestartet."
+„Wenn das ein Computerspiel wäre", sagte Ben, „hätte ich längst neu gestartet."
 
 „Das ist kein Spiel", sagte Mila leise.
 
-„Bitte nicht schon wieder", murmelte Ben.
+„Bitte nicht schon wieder", seufzte Ben.
 
 Wieder eine Sackgasse.
 
-Jonas' Magen zog sich zusammen. Nicht vor Aufregung. Vor Sorge. Kein Laut von oben drang hierher. Kein Wind. Keine Voegel. Nur ihr eigener Atem. Alle Gaenge sahen gleich aus. Graue Waende. Graue Decke. Grauer Boden.
+Jonas' Magen zog sich zusammen. Nicht vor Aufregung. Vor Sorge. Kein Laut von oben drang hierher. Kein Wind. Keine Vögel. Nur ihr eigener Atem. Alle Gänge sahen gleich aus. Graue Wände. Graue Decke. Grauer Boden.
 
 „Wir verirren uns", sagte Ben leise. „Genau wie Frau Bergmann damals."
 

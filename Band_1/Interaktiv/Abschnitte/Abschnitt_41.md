@@ -18,7 +18,7 @@ Mila ging an ihnen vorbei. Direkt auf die Ruine zu. Ihre Schritte waren schnell 
 
 Jonas sah sich um. Die Mauer war an einer Stelle eingebrochen. Dahinter lag ein dunkler Raum. Das alte Mahlwerk. Zwei Mühlsteine lagen im Gras. Verwittert. Rund. Größer als Wagenräder.
 
-„Winter hat hier etwas versteckt", sagte Jonas. „Krüger hat von einem Tunnel gesprochen. Vielleicht endet er hier."
+„Winter hat hier etwas versteckt", sagte Jonas. „Krüger hat von Räumen gesprochen, die man nicht sieht. Vielleicht führt einer bis hierher."
 
 Ben zog die Nase hoch. „Der Tunnel endet hier. Und mein Mut auch."
 

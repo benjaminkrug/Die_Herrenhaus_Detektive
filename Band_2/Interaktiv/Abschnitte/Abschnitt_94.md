@@ -2,7 +2,7 @@
 
 Jonas räusperte sich. Der Piepton hallte noch in seinem Ohr.
 
-„Hallo, Herr Winter", sagte er. Seine Stimme war duenn. „Mein Name ist Jonas Berger. Ich bin zehn Jahre alt. Ich wohne in Eichenhain."
+„Hallo, Herr Winter", sagte er. Seine Stimme war dünn. „Mein Name ist Jonas Berger. Ich bin zehn Jahre alt. Ich wohne in Eichenhain."
 
 Er holte Luft.
 
@@ -52,11 +52,11 @@ Jonas rannte los. Er holte Mila und Ben. Zwanzig Minuten später saßen sie in K
 
 „Ich habe lange auf euch gewartet", sagte Winter. „Auf jemanden wie euch."
 
-Jonas hoerte Krueger mit dem Loeffel gegen die Tasse klopfen. „Eins noch", sagte Krueger leise. „Meier hat gestern Abend angefangen zu graben. Am Herrenhaus. Mit einer Schaufel."
+Jonas hörte Krüger mit dem Löffel gegen die Tasse klopfen. „Eins noch", sagte Krüger leise. „Meier hat gestern Abend angefangen zu graben. Am Herrenhaus. Mit einer Schaufel."
 
-Jonas' Magen sackte ab. „Er graebt?"
+Jonas' Magen sackte ab. „Er gräbt?"
 
-„Am Kellereingang. Seit gestern." Krueger sah zum Fenster. „Beeilt euch."
+„Am Kellereingang. Seit gestern." Krüger sah zum Fenster. „Beeilt euch."
 
 ---
 

@@ -2,9 +2,9 @@
 
 Jonas hob das erste Dokument heraus. Vorsichtig. Mit beiden Händen.
 
-Schweres Papier. Verschnoerkelte Schrift. Oben ein Wappen mit vier Eichen.
+Schweres Papier. Verschnörkelte Schrift. Oben ein Wappen mit vier Eichen.
 
-„Die Gruendungsurkunde", fluesterte er.
+„Die Gründungsurkunde", las er.
 
 Mila leuchtete mit der Taschenlampe darauf. Ihre linke Hand lag auf der Schulter. Sie verzog das Gesicht.
 
@@ -14,13 +14,13 @@ Mila leuchtete mit der Taschenlampe darauf. Ihre linke Hand lag auf der Schulter
 
 „Lest mir die Namen vor", bat Winter am Telefon.
 
-Jonas las. Langsam. Name fuer Name. Am anderen Ende der Leitung wurde es ganz still.
+Jonas las. Langsam. Name für Name. Am anderen Ende der Leitung wurde es ganz still.
 
 „Sind das Briefe da drunter?", fragte Mila.
 
-Jonas nickte. Vergilbtes Papier. Altmodische Handschrift. Und darunter Muenzen. Schwer. Dunkel angelaufen.
+Jonas nickte. Vergilbtes Papier. Altmodische Handschrift. Und darunter Münzen. Schwer. Dunkel angelaufen.
 
-„Sechs Stueck", zaehlte Ben. „Die sind bestimmt ein Vermoegen wert."
+„Sechs Stück", zählte Ben. „Die sind bestimmt ein Vermögen wert."
 
 „Die sind unbezahlbar", sagte Winter leise.
 
@@ -30,13 +30,13 @@ Jonas legte die Dokumente beiseite. Vorsichtig. Eins nach dem anderen. Unter den
 
 Darunter lag etwas Zusammengerolltes. In Leder eingewickelt. Braunes, rissiges Leder.
 
-Seine Haende wurden feucht. Er nahm die Rolle heraus. Sie war leicht. Duenn.
+Seine Hände wurden feucht. Er nahm die Rolle heraus. Sie war leicht. Dünn.
 
-„Was ist das?", fluesterte Mila.
+„Was ist das?", fragte Mila leise.
 
-„Rollt es auf", sagte Winter. Seine Stimme war kaum noch zu hoeren.
+„Rollt es auf", sagte Winter. Seine Stimme war kaum noch zu hören.
 
-Jonas oeffnete das Leder. Darin lag Papier. Alt. Duenn. Er rollte es auf.
+Jonas öffnete das Leder. Darin lag Papier. Alt. Dünn. Er rollte es auf.
 
 „Eine Karte!", rief Ben.
 
@@ -46,7 +46,7 @@ Er sah: den Wald hinter Eichenhain. Bäume. Einen Bach. Felsen. Und mitten drin,
 
 „Das ist sie", flüsterte Winter am Telefon. Seine Stimme brach. „Die zweite Quelle."
 
-Jonas starrte auf das X. Rot. Deutlich. Jemand hatte es vor ueber dreihundert Jahren dort hingemalt. Im Wald hinter dem Dorf lag noch ein Geheimnis.
+Jonas starrte auf das X. Rot. Deutlich. Jemand hatte es vor über dreihundert Jahren dort hingemalt. Im Wald hinter dem Dorf lag noch ein Geheimnis.
 
 „Die zweite Karte", sagte Mila. Ihre Augen waren riesig.
 
@@ -56,22 +56,22 @@ Ben setzte seine Kappe ab. „Da draußen gibt es noch eine Quelle?"
 
 Jonas rollte die Karte zusammen. Vorsichtig. Er steckte sie in seinen Rucksack. Ganz nach unten. Sicher.
 
-„Was machst du?", fragte Mila. Sie verschraenkte die Arme. „Die Karte gehoert nicht uns."
+„Was machst du?", fragte Mila. Ihre Augen wurden schmal. „Die Karte gehört nicht uns."
 
-„Wenn alle wissen, wo die zweite Quelle ist —" Ben zog seine Kappe tief. „Dann kommen Bagger. Touristen. Dann ist es vorbei."
+„Wenn alle wissen, wo die zweite Quelle ist —“ Ben zog seine Kappe tief. „Dann kommen Bagger. Touristen. Dann ist es vorbei."
 
-„Die Wahrheit gehoert allen", sagte Mila. „Nicht nur uns dreien."
+„Die Wahrheit gehört allen", sagte Mila. „Nicht nur uns dreien."
 
-„Aber wenn wir sie schuetzen koennten", sagte Ben. „Bis wir sie selbst gefunden haben."
+„Aber wenn wir sie schützen könnten", sagte Ben. „Bis wir sie selbst gefunden haben."
 
 Am Telefon war es still. Winter sagte nichts. Wartete.
 
-Jonas spuerte das Gewicht der Karte in seinem Rucksack. Sie war duenn. Leicht. Aber sie wog schwer.
+Jonas spürte das Gewicht der Karte in seinem Rucksack. Sie war dünn. Leicht. Aber sie wog schwer.
 
 ---
 
 *Was tust du mit dem Fund?*
 
-**Alles dem Dorf praesentieren — auch die zweite Karte. Die Wahrheit gehoert allen. → Abschnitt 103**
+**Alles dem Dorf präsentieren — auch die zweite Karte. Die Wahrheit gehört allen. → Abschnitt 103**
 
-**Die Truhe uebergeben, aber die zweite Karte nicht erwaehnen. Manche Geheimnisse muss man schuetzen. → Abschnitt 105**
+**Die Truhe übergeben, aber die zweite Karte nicht erwähnen. Manche Geheimnisse muss man schützen. → Abschnitt 105**

@@ -16,29 +16,29 @@ An der Leiter half Jonas ihr. Er stützte sie von unten. Ben hielt von oben ihre
 
 „Langsam", sagte Ben. „Eine Sprosse nach der anderen. Ich halte Sie fest."
 
-„Ich bin achtzig, nicht hundert", sagte Frau Bergmann. Aber sie liess sich helfen.
+„Ich bin achtzig, nicht hundert", sagte Frau Bergmann. Aber sie ließ sich helfen.
 
-Die letzte Sprosse. Jonas drueckte von unten. Ben zog von oben. Frau Bergmanns Kopf erschien ueber dem Brunnenrand.
+Die letzte Sprosse. Jonas drückte von unten. Ben zog von oben. Frau Bergmanns Kopf erschien über dem Brunnenrand.
 
-Tageslicht. Der Regen hatte aufgehoert.
+Tageslicht. Der Regen hatte aufgehört.
 
 Jonas blinzelte. Die Welt war hell. Bunt. Laut. Nach der Dunkelheit war es fast zu viel.
 
-Ben lag ruecklings im Gras. Er streckte alle Viere von sich. „Luft! Licht! Boden, der nicht einstuerzt!" Er kueste den Rasen. „Ich liebe dich, Wiese."
+Ben lag rücklings im Gras. Er streckte alle Viere von sich. „Luft! Licht! Boden, der nicht einstürzt!" Er küste den Rasen. „Ich liebe dich, Wiese."
 
-Mila verdrehte die Augen. „Du kuest gerade Gras."
+Mila verdrehte die Augen. „Du küst gerade Gras."
 
-„Und es schmeckt grossartig", sagte Ben.
+„Und es schmeckt großartig", sagte Ben.
 
-Frau Bergmann stand am Brunnen. Sie hielt sich am Steinrand fest. Wind wehte durch ihr weisses Haar.
+Frau Bergmann stand am Brunnen. Sie hielt sich am Steinrand fest. Wind wehte durch ihr weißes Haar.
 
 „Siebzig Jahre", sagte sie leise. „Endlich. Endlich glaubt mir jemand."
 
-Mila legte die Urkunde in Frau Bergmanns Haende. „Das gehoert Ihnen."
+Mila legte die Urkunde in Frau Bergmanns Hände. „Das gehört Ihnen."
 
-Frau Bergmann schuettelte den Kopf. „Das gehoert Eichenhain."
+Frau Bergmann schüttelte den Kopf. „Das gehört Eichenhain."
 
-Ben setzte sich auf und rueckte seine rote Kappe gerade. „Also gut. Was machen wir jetzt damit?"
+Ben setzte sich auf und rückte seine rote Kappe gerade. „Also gut. Was machen wir jetzt damit?"
 
 Jonas sah zum Rathaus. „Wir zeigen es allen."
 

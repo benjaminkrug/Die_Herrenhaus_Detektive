@@ -14,7 +14,7 @@ Dann sprach sie. Langsam. Jedes Wort einzeln.
 
 Frau Bergmann nickte. „Und Zeichnungen. An den Wänden. Uralt. Viel älter als alles im Dorf."
 
-Jonas beugte sich vor. Seine Haende umklammerten die Stuhlkante. „Was fuer Zeichnungen?"
+Jonas beugte sich vor. Seine Hände umklammerten die Stuhlkante. „Was für Zeichnungen?"
 
 „Menschen", sagte Frau Bergmann. Ihre Augen bekamen einen fernen Blick. Als würde sie es wieder sehen. „Menschen an einem Fluss. Oder einer Quelle. Mit Schalen in den Händen. Und Symbole. Kreise. Linien. Sterne."
 
@@ -32,17 +32,17 @@ Ihre Stimme wurde hart. „Und dann ging das Licht aus."
 
 Bens Kehle war eng. „Vierzehn Stunden", murmelte er.
 
-Frau Bergmann nickte langsam. „Vierzehn Stunden. Im Dunkeln. Danach hat Karl mir den Ring gegeben." Sie griff an ihre Halskette. „Und zwei Jahre spaeter war er weg. Weggezogen. Einfach so."
+Frau Bergmann nickte langsam. „Vierzehn Stunden. Im Dunkeln. Danach hat Karl mir den Ring gegeben." Sie griff an ihre Halskette. „Und zwei Jahre später war er weg. Weggezogen. Einfach so."
 
 „Vielleicht nicht einfach so", sagte Ben leise.
 
 Alle sahen ihn an.
 
-Ben drehte seine Kappe in den Haenden. „Er hat Ihnen den Ring gegeben. Vorher. Seinen Ring." Er sah Frau Bergmann an. „Das macht man nicht einfach so. Das macht man, wenn man weiss, dass man geht."
+Ben drehte seine Kappe in den Händen. „Er hat Ihnen den Ring gegeben. Vorher. Seinen Ring." Er sah Frau Bergmann an. „Das macht man nicht einfach so. Das macht man, wenn man weiß, dass man geht."
 
-Frau Bergmanns Augen wurden feucht. Sie oeffnete den Mund. Schloss ihn wieder.
+Frau Bergmanns Augen wurden feucht. Sie öffnete den Mund. Schloss ihn wieder.
 
-„Du bist ein kluger Junge", sagte sie schliesslich.
+„Du bist ein kluger Junge", sagte sie schließlich.
 
 Keiner sprach.
 

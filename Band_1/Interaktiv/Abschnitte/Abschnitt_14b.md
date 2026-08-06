@@ -115,4 +115,4 @@ Meine Oma arbeitet dort."
 
 *Das Foto führt euch zum Archiv. Karton 7 wartet.*
 
-→ **Weiter bei Abschnitt 15**
+*→ Weiter bei Abschnitt 15*

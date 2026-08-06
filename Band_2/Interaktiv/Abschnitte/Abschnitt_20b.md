@@ -12,19 +12,19 @@ Sie gingen trotzdem bis zum Ende. Die Wand war massiv. Stein. Keine Tür. Keine 
 
 Ben klopfte dagegen. Dumpf. Fest. „Vielleicht dahinter?"
 
-Jonas legte die flache Hand auf den Fels. Kalt und rau unter seiner Handfaeche. Er drückte. Schob. Kein Millimeter.
+Jonas legte die flache Hand auf den Fels. Kalt und rau unter seiner Handfläche. Er drückte. Schob. Kein Millimeter.
 
 „Gewachsener Fels", sagte er. „Da kommt man nicht durch."
 
-Aber dann sah er es. Rechts unten. Kratzer im Stein. Jemand hatte hier etwas eingeritzt. Duenn. Fast unsichtbar.
+Aber dann sah er es. Rechts unten. Kratzer im Stein. Jemand hatte hier etwas eingeritzt. Dünn. Fast unsichtbar.
 
-Er kniete sich hin. Leuchtete naeher. Drei Buchstaben: H.W.
+Er kniete sich hin. Leuchtete näher. Drei Buchstaben: H.W.
 
 „H.W.", las er laut.
 
 „Heinrich Winter", sagte Mila sofort. „Der war schon hier."
 
-Jonas fuhr mit dem Daumen ueber die Kratzer. Winter hatte vor dieser Wand gestanden. Vor Jahren. Vielleicht Jahrzehnten. Und war genauso umgekehrt wie sie.
+Jonas fuhr mit dem Daumen über die Kratzer. Winter hatte vor dieser Wand gestanden. Vor Jahren. Vielleicht Jahrzehnten. Und war genauso umgekehrt wie sie.
 
 Mila trat gegen die Wand. Einmal. Zweimal. Der Aufprall hallte durch den Gang.
 
@@ -40,11 +40,11 @@ Jonas drehte sich um. Fünfzig Meter zurück. Zur Kreuzung. Jeder Schritt fühlt
 
 „Nächster Versuch", sagte Mila. Ihre Stimme war fest. „Und diesmal der richtige."
 
-Wasser glaenzte am Boden der Kreuzung. Eine duenne Schicht. Vorhin war es trocken gewesen.
+Wasser glänzte am Boden der Kreuzung. Eine dünne Schicht. Vorhin war es trocken gewesen.
 
 „Das Wasser steigt", sagte Ben leise.
 
-Jonas sah es auch. Die duenne Schicht bewegte sich. Langsam. Aber sicher.
+Jonas sah es auch. Die dünne Schicht bewegte sich. Langsam. Aber sicher.
 
 ---
 

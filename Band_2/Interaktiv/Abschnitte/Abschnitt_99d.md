@@ -1,24 +1,24 @@
 # Abschnitt 99d
 
-Der Tunnel war kalt. Die Luft roch nach feuchtem Eisen. Vor ihnen: die Metalltuer. Vier Linien. Ein Stern. Das Metall schimmerte gruen im Taschenlampenlicht.
+Der Tunnel war kalt. Die Luft roch nach feuchtem Eisen. Vor ihnen: die Metalltür. Vier Linien. Ein Stern. Das Metall schimmerte grün im Taschenlampenlicht.
 
-Jonas hielt den goldenen Knopf in der Hand. Kalt. Glatt. Er setzte ihn in die erste Vertiefung. Das Metall summte kurz unter seinen Haenden. Klick. Die erste Linie leuchtete schwach. Waerme strahlte davon ab.
+Jonas hielt den goldenen Knopf in der Hand. Kalt. Glatt. Er setzte ihn in die erste Vertiefung. Das Metall summte kurz unter seinen Händen. Klick. Die erste Linie leuchtete schwach. Wärme strahlte davon ab.
 
 Dann nichts.
 
 Drei leere Vertiefungen. Drei dunkle Linien.
 
-Mila drueckte gegen die Tuer. Nichts. Sie klopfte. Haemmerte. Die Tuer bewegte sich keinen Millimeter.
+Mila drückte gegen die Tür. Nichts. Sie klopfte. Hämmerte. Die Tür bewegte sich keinen Millimeter.
 
 „Ohne die anderen drei geht es nicht", sagte sie.
 
-Ben lehnte an der Wand. „Ueberraschung."
+Ben lehnte an der Wand. „Überraschung."
 
-Jonas schloss die Augen. Winter hatte die Wahrheit gesagt. Vier Gegenstaende. Vier Familien. Kein Trick.
+Jonas schloss die Augen. Winter hatte die Wahrheit gesagt. Vier Gegenstände. Vier Familien. Kein Trick.
 
 „Wartet." Ben richtete die Taschenlampe nach links. „Da ist ein Spalt."
 
-Jonas sah es. Neben der Metalltuer. Ein schmaler Riss in der Wand. Halb zugemauert. Alte Steine, locker.
+Jonas sah es. Neben der Metalltür. Ein schmaler Riss in der Wand. Halb zugemauert. Alte Steine, locker.
 
 Mila zog einen Stein heraus. Dahinter: ein schmaler Gang. Eng. Dunkel. Aber begehbar.
 
@@ -26,7 +26,7 @@ Mila zog einen Stein heraus. Dahinter: ein schmaler Gang. Eng. Dunkel. Aber bege
 
 „Nein." Mila schob sich durch den Spalt. „Aber es ist EIN Weg."
 
-Ben stoehnte. „Natuerlich klettern wir in den engen Gang. Was sonst."
+Ben stöhnte. „Natürlich klettern wir in den engen Gang. Was sonst."
 
 Er folgte als Letzter.
 

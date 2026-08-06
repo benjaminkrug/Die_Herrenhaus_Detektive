@@ -429,11 +429,18 @@ Jede Linie.
 Jede Markierung.
 
 „Das war Herr Winters großes Geheimnis", sagte sie.
-„Er hat einen Tunnel gegraben.
+„Ein Tunnel.
 Vom Haus zur Mühle.
-Und am Ende des Tunnels hat er eine Schatzkammer gebaut."
+Und am Ende eine Schatzkammer."
 
-„Aber was ist der Schatz?" fragte Ben.
+Ben starrte auf die Karte.
+„So einen Tunnel gräbt man nicht allein.
+Der ist viel zu lang."
+
+Für einen Moment sagte niemand etwas.
+Woher kam dieser Tunnel wirklich?
+
+„Und was ist der Schatz?" fragte Ben.
 „Das Geld von der Bank?"
 
 „Vielleicht", sagte Jonas.
@@ -445,7 +452,7 @@ Manche Häuser haben Räume, die man nicht sieht.
 Jetzt verstand er.
 
 Herr Winter hatte nicht nur Räume versteckt.
-Er hatte einen ganzen Tunnel gebaut.
+Er hatte einen ganzen Tunnel benutzt.
 Und am Ende dieses Tunnels wartete sein Geheimnis.
 
 „Der Tunnel muss irgendwo in diesem Raum beginnen", sagte Mila.

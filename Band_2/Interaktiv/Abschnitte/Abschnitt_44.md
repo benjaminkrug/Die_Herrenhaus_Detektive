@@ -28,7 +28,7 @@ Mila leuchtete flussabwärts. Der Fluss verschwand in einem breiten Tunnel. Dunk
 
 Jonas stand auf. Seine Knie zitterten leicht. Ein unterirdischer Fluss unter Eichenhain. Mineralien in den Wänden. Kristallklares Wasser.
 
-„Das hier veraendert alles", sagte Mila leise.
+„Das hier verändert alles", sagte Mila leise.
 
 „Winter muss das gewusst haben", murmelte Jonas.
 

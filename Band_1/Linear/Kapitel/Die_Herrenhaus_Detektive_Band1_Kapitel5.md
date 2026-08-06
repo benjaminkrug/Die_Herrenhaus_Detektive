@@ -273,203 +273,38 @@ T, S, T?"
 Er starrte auf das Blatt.
 Dachte nach.
 
-Anfangsbuchstaben.
-Aber nicht von den Zeilen.
-Und nicht von jedem einzelnen Wort.
-
-Was, wenn es anders gemeint war?
-
-Er sah sich die Wörter noch einmal an.
-
 „Versuch mal die Zahlen", sagte Ben.
-„Die stehen da nicht zufällig."
+„Drei, sieben, eins.
+Die stehen da bestimmt nicht zufällig."
 
-Jonas sah ihn an.
-Ben hatte Recht.
+Jonas nickte langsam.
+Ben hatte recht.
+Turm, drei, Mond.
+Vielleicht der dritte Raum?
+Oder das dritte Fenster?
 
-Turm.
-Drei.
-Mond.
-Stein.
-Sieben.
-Nord.
-Tür.
-Eins.
-Licht.
+Er probierte es mit den Buchstaben.
+Er probierte es mit den Zahlen.
+Er drehte die Wörter um.
 
-Neun Wörter.
-Neun Anfangsbuchstaben.
+Nichts passte.
 
-T-D-M-S-S-N-T-E-L.
+Jonas lehnte sich zurück.
+Sein Kopf brummte.
 
-Jonas ordnete die Buchstaben im Kopf neu.
-Nein.
-Das war nicht der Weg.
+„Und?" fragte Mila.
 
-Dann sah er es.
+„Es ist ein Code", sagte Jonas.
+„Ganz sicher.
+Aber ich knacke ihn nicht.
+Noch nicht."
 
-Die Zahlen.
-Drei.
-Sieben.
-Eins.
-
-Moment.
-Die Zahlen.
-Was, wenn sie etwas zeigten?
-
-Der dritte Buchstabe von TURM?
-Das R.
-
-Der siebte Buchstabe von STEIN?
-Nein.
-STEIN hatte nur fünf Buchstaben.
-
-Jonas biss sich auf die Lippe.
-So ging es auch nicht.
-
-„Lass mich mal sehen", sagte Mila.
-Sie beugte sich über das Blatt.
-
-„Vielleicht die Anfangsbuchstaben der drei letzten Wörter?" sagte sie.
-
-Mond.
-Nord.
-Licht.
-
-M -- N -- L.
-
-„Auch nichts", sagte Ben.
-
-Jonas starrte auf die Wörter.
-
-Und dann traf es ihn.
-
-Die Anfangsbuchstaben der Reihe nach.
-Aber nicht alle.
-Nur die der Hauptwörter.
-Ohne die Zahlen.
-
-Turm -- Mond.
-Stein -- Nord.
-Tür -- Licht.
-
-T-M.
-S-N.
-T-L.
-
-Nein.
-Auch nicht.
-
-Aber warte.
-
-„Wartet", sagte Jonas.
-„Die Zahlwörter.
-Drei, Sieben, Eins.
-Die haben auch Anfangsbuchstaben."
-
-T -- D -- M.
-S -- S -- N.
-T -- E -- L.
-
-TDM -- SSN -- TEL.
-
-Jonas sprach die Buchstaben leise aus.
-Dann anders herum.
-Zeilenweise gelesen.
-
-T. D. M. S. S. N. T. E. L.
-
-Dreiergruppen.
-Was, wenn er die Reihenfolge änderte?
-
-Jonas schrieb schnell.
-Er probierte verschiedene Reihenfolgen.
-
-Plötzlich wurde sein Gesicht bleich.
-
-Er hatte es.
-
-Die Anfangsbuchstaben der letzten Wörter jeder Zeile ergaben:
-M -- N -- L
-
-Und die der ersten Wörter:
-T -- S -- T
-
-Und die der mittleren:
-D -- S -- E
-
-DSE.
-TST.
-MNL.
-
-Nein.
-Aber wenn man sie anders las ...
-
-Jonas' Hand zitterte.
-Er schrieb die Buchstaben spaltenweise statt zeilenweise.
-
-Erste Spalte: T -- S -- T
-Zweite Spalte: D -- S -- E
-Dritte Spalte: M -- N -- L
-
-Und wenn man nur die zweite Spalte las?
-
-D -- S -- E.
-
-Nein.
-
-Jonas schloss die Augen.
-Dachte nach.
-Öffnete sie wieder.
-
-„Gibst du auf?" fragte Ben.
-
-„Nie", murmelte Jonas.
-
-Dann sah er den Satz noch einmal.
-*Wer die Anfangsbuchstaben versteht, findet den Weg.*
-
-Den WEG.
-
-Jonas schrieb alle neun Anfangsbuchstaben in einer Reihe.
-T D M S S N T E L
-
-Er verschob die Buchstaben.
-Suchte nach einem Wort.
-
-Und da war es.
-
-Versteckt in der Reihenfolge.
-
-TSNL.
-DMSE.
-Nein.
-
-Dann probierte er es anders.
-Er nahm den dritten Buchstaben der ersten Zeile.
-Den zweiten der zweiten.
-Den ersten der dritten.
-
-M -- S -- T.
-
-MST?
-
-Er drehte es um: TSM?
-
-Jonas biss sich auf die Lippe.
-So einfach war es nicht.
-
-„Jonas?" fragte Mila.
-„Hast du etwas?"
-
-Jonas sah auf.
-Er war sich nicht sicher.
-Aber irgendetwas in diesem Code zog ihn an.
-Er spürte, dass die Lösung nah war.
-Ganz nah.
-
-„Noch nicht", sagte er.
-„Aber fast."
+Er sah die drei Zeilen an.
+Turm, Stein, Tür.
+Irgendwann würde er verstehen, was sie bedeuteten.
+Aber dafür brauchte er mehr.
+Mehr Hinweise.
+Mehr vom Haus.
 
 Er klappte das Tagebuch zu.
 Vorsichtig.
@@ -477,7 +312,7 @@ Vorsichtig.
 „Wir nehmen das mit", sagte er.
 
 „Mitnehmen?" Ben wurde nervös.
-„Das gehört dem Archiv."
+„Das ist Klauen."
 
 „Es gehört Herr Winter", sagte Jonas.
 „Und Herr Winter ist nicht hier."

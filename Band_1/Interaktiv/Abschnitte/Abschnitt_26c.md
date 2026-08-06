@@ -69,4 +69,4 @@ Dann drehte er sich um.
 
 *Der Rückweg ist versperrt. Nur vorwärts.*
 
-→ **Zurück zu Abschnitt 25**
+*→ Zurück zu Abschnitt 25*

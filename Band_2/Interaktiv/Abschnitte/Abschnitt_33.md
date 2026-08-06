@@ -14,11 +14,11 @@ Mila sah sich um. Ihr Blick fiel auf etwas. Ein schmaler Spalt in der Wand. Rech
 
 Jonas leuchtete hin. Der Spalt war eng. Aber dahinter lag ein Gang. Trocken. Er führte leicht nach oben.
 
-Sie zwaengten sich hindurch. Einer nach dem anderen. Jonas zuletzt. Sein Rucksack blieb haengen. Er zerrte. Riss ihn frei.
+Sie zwängten sich hindurch. Einer nach dem anderen. Jonas zuletzt. Sein Rucksack blieb hängen. Er zerrte. Riss ihn frei.
 
 „Schneller!", rief Mila.
 
-Jonas warf einen Blick zurueck. Das Wasser stieg. Der Gang hinter ihnen verschwand. Was auch immer dort unten lag — es war jetzt unerreichbar.
+Jonas warf einen Blick zurück. Das Wasser stieg. Der Gang hinter ihnen verschwand. Was auch immer dort unten lag — es war jetzt unerreichbar.
 
 Der Seitengang führte steil nach oben. Treppen. Grob in den Stein gehauen. Sie rannten. Kletterten. Keuchten.
 
@@ -34,19 +34,19 @@ Mila ließ sich neben ihn fallen. Sie atmete schwer. Ihre Knie gaben kurz nach. 
 
 „Wir leben." Mila boxte ihn gegen den Arm. „Das ist lustig."
 
-Jonas sah zurueck. Der Eingang war nur ein Loch im Boden. Halb verborgen unter Gestruepp. Da unten lag die Truhe. Im steigenden Wasser.
+Jonas sah zurück. Der Eingang war nur ein Loch im Boden. Halb verborgen unter Gestrüpp. Da unten lag die Truhe. Im steigenden Wasser.
 
-Aber dann sah er etwas. Das Wasser hatte Erde weggespuelt. Und dahinter — ein zweiter Durchgang. Schmaler als der erste. Halb verborgen hinter einer eingestuerzten Mauer.
+Aber dann sah er etwas. Das Wasser hatte Erde weggespült. Und dahinter — ein zweiter Durchgang. Schmaler als der erste. Halb verborgen hinter einer eingestürzten Mauer.
 
-„Seht ihr das?", fluesterte Jonas.
+„Seht ihr das?", fragte Jonas.
 
 Mila beugte sich vor. „Ein zweiter Tunnel."
 
-„Nicht der, durch den wir gekommen sind." Jonas praegte sich die Stelle ein. Die alte Eiche links. Der Felsbrocken rechts. Er wuerde sie wiederfinden.
+„Nicht der, durch den wir gekommen sind." Jonas prägte sich die Stelle ein. Die alte Eiche links. Der Felsbrocken rechts. Er würde sie wiederfinden.
 
-Ben schuettelte den Kopf. „Heute nicht. Bitte."
+Ben schüttelte den Kopf. „Heute nicht. Bitte."
 
-Jonas stand auf. Seine Beine zitterten. Aber er laechelte.
+Jonas stand auf. Seine Beine zitterten. Aber er lächelte.
 
 Es gab einen anderen Weg.
 

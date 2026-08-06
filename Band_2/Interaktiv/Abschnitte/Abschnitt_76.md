@@ -2,9 +2,9 @@
 
 „Wir finden den Weg selbst", sagte Mila. „Mit der Karte."
 
-Frau Bergmann sah sie an. Etwas in ihren Augen veraenderte sich. Enttaeuschung? Erleichterung? Jonas konnte es nicht sagen.
+Frau Bergmann sah sie an. Etwas in ihren Augen veränderte sich. Enttäuschung? Erleichterung? Jonas konnte es nicht sagen.
 
-Die Kueche roch nach Kamille und altem Holz.
+Die Küche roch nach Kamille und altem Holz.
 
 „Ihr wollt allein da runter?", fragte sie.
 
@@ -14,7 +14,7 @@ Frau Bergmann schüttelte den Kopf. „Die Gänge sind nicht wie auf einer Karte
 
 „Wir schaffen das", sagte Mila.
 
-Jonas war nicht so sicher. Sein Magen zog sich zusammen. Er breitete die Karte auf dem Tisch aus. Seine Hand glitt ueber die Linien. Manche waren verwischt. Kaum lesbar.
+Jonas war nicht so sicher. Sein Magen zog sich zusammen. Er breitete die Karte auf dem Tisch aus. Seine Hand glitt über die Linien. Manche waren verwischt. Kaum lesbar.
 
 „Drei Eingänge", sagte er. „Einer beim Brunnen. Einer bei der Mühle. Einer beim Herrenhaus."
 
@@ -26,15 +26,15 @@ Jonas nickte. Aber dann sah er es. Genau über dem Brunnen-Eingang. Der Wasserfl
 
 Ben beugte sich vor. „Der Wasserfleck. Genau an der wichtigsten Stelle."
 
-„Ohne Frau Bergmann muessen wir raten", sagte Jonas.
+„Ohne Frau Bergmann müssen wir raten", sagte Jonas.
 
-Mila verschraenkte die Arme. „Dann raten wir eben. Wir haben schon Schwereres geschafft."
+Mila zuckte mit den Schultern. „Dann raten wir eben. Wir haben schon Schwereres geschafft."
 
 „Wann genau?", fragte Ben.
 
 Mila streckte das Kinn vor. „Das Herrenhaus. Der Geheimgang. Oder hast du das schon vergessen?"
 
-Ben oeffnete den Mund. Dann schloss er ihn wieder. Aber er nickte. Langsam. Als ob er sich selbst ueberraschte.
+Ben öffnete den Mund. Dann schloss er ihn wieder. Aber er nickte. Langsam. Als ob er sich selbst überraschte.
 
 Frau Bergmann sagte nichts. Sie sah die Kinder an. Dann griff sie an den Ring um ihren Hals.
 

@@ -22,7 +22,7 @@ Jonas nahm die Papierrolle heraus. Seine Hände zitterten. Er löste das Band.
 
 Das Papier entrollte sich. Große Buchstaben. Geschwungene Schrift. Tinte, die einmal schwarz gewesen war und jetzt braun schimmerte.
 
-„Gründungsurkunde", las Jonas vor. „Im Jahre des Herrn —" Er brach ab. Die Jahreszahl war so alt. So unglaublich alt.
+„Gründungsurkunde", las Jonas vor. „Im Jahre des Herrn —“ Er brach ab. Die Jahreszahl war so alt. So unglaublich alt.
 
 „Lies weiter", drängte Mila.
 

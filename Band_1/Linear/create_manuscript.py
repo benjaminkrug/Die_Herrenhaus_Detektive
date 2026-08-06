@@ -15,6 +15,11 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 KAPITEL_DIR = os.path.join(BASE_DIR, "Kapitel")
 OUTPUT_FILE = os.path.join(BASE_DIR, "Manuskript.docx")
 
+# Rezensions-QR-Code (fuehrt direkt zum Amazon-Bewertungsformular).
+# Erzeugt + gegengelesen von ../../build_qr_rezension.py
+QR_REZENSION = os.path.join(BASE_DIR, "..", "Cover", "Linear",
+                            "qr_rezension_band1.png")
+
 # KDP Taschenbuch 5x8 Zoll (12.7 x 20.32 cm) - Kinderbuchformat
 PAGE_WIDTH = Cm(12.7)
 PAGE_HEIGHT = Cm(20.32)
@@ -64,30 +69,31 @@ def setup_document():
     paragraph_format.space_after = Pt(0)
     paragraph_format.line_spacing = Pt(14)
 
-    # Heading 1 Style anpassen (fuer navigierbares eBook-Inhaltsverzeichnis)
+    # Heading 1 Style = Kapiteltitel (Kindle erkennt Heading 1 als Kapitel).
+    # Muster A: groesser (17pt) und mehr Luft nach unten (22pt).
     h1_style = doc.styles['Heading 1']
     h1_font = h1_style.font
     h1_font.name = 'Georgia'
-    h1_font.size = Pt(14)
+    h1_font.size = Pt(17)
     h1_font.bold = True
     h1_font.color.rgb = RGBColor(0, 0, 0)
     h1_format = h1_style.paragraph_format
     h1_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h1_format.space_before = Pt(0)
-    h1_format.space_after = Pt(10)
+    h1_format.space_after = Pt(22)
     h1_format.page_break_before = False  # Wir machen den Seitenumbruch manuell
 
-    # Heading 2 Style fuer Kapitelnummer (Kindle erkennt Heading 1 als Kapitel)
+    # Heading 2 Style = Kapitelnummer (gesperrte graue Versalien, Muster A).
     h2_style = doc.styles['Heading 2']
     h2_font = h2_style.font
     h2_font.name = 'Georgia'
     h2_font.size = Pt(11)
     h2_font.bold = False
-    h2_font.color.rgb = RGBColor(100, 100, 100)
+    h2_font.color.rgb = RGBColor(90, 90, 90)
     h2_format = h2_style.paragraph_format
     h2_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h2_format.space_before = Pt(0)
-    h2_format.space_after = Pt(2)
+    h2_format.space_after = Pt(14)
 
     # Seitenformat (5x8 Zoll)
     section = doc.sections[0]
@@ -151,6 +157,14 @@ def add_page_break(doc):
     doc.add_page_break()
 
 
+def set_tracking(run, points):
+    """Sperrung (letter-spacing) in Punkten auf einen Run legen."""
+    rpr = run._element.get_or_add_rPr()
+    sp = OxmlElement('w:spacing')
+    sp.set(qn('w:val'), str(int(points * 20)))  # Wert in Twips (1/20 pt)
+    rpr.append(sp)
+
+
 def add_title_page(doc):
     """Erstellt die Titelseite."""
     # Leerraum oben
@@ -165,6 +179,10 @@ def add_title_page(doc):
     run.font.size = Pt(22)
     run.font.bold = True
     run.font.name = 'Georgia'
+    # Normal-Stil hat EXAKTEN Zeilenabstand (14pt) -- bei grossem, umbrechendem
+    # Titel wuerden die zwei Zeilen sonst uebereinander liegen. Einfacher
+    # (mitwachsender) Zeilenabstand fuer alle grossen Titelzeilen.
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(8)
 
     # Band
@@ -182,6 +200,7 @@ def add_title_page(doc):
     run.font.size = Pt(18)
     run.font.bold = True
     run.font.name = 'Georgia'
+    p.paragraph_format.line_spacing = 1.0
     p.paragraph_format.space_after = Pt(40)
 
     # Leerraum
@@ -211,11 +230,6 @@ def add_impressum_page(doc):
         "Alle Rechte vorbehalten.",
         "",
         "Independently published",
-        "",
-        "Lektorat: [NAME]",
-        "Korrektorat: [NAME]",
-        "Coverdesign: [NAME]",
-        "Satz und Layout: [NAME]",
         "",
         "ISBN: 9798248089956",
         "",
@@ -321,17 +335,23 @@ def add_chapter(doc, chapter_num, title, content):
     """Fuegt ein Kapitel zum Dokument hinzu."""
     add_page_break(doc)
 
-    # Leerraum oben (kompakt)
-    p = doc.add_paragraph()
-    p.paragraph_format.space_after = Pt(10)
+    # "Sink": echter Leerraum-Absatz, damit der Kapitelkopf nach unten einrueckt.
+    # 44pt (statt 56pt wie Band 4), weil die 5x8-Seite kleiner ist -- so bleibt
+    # der Einzug proportional gleich. Bewusst NICHT ueber space_before der ersten
+    # Zeile (Word verwirft Abstand am Seitenanfang).
+    spacer = doc.add_paragraph()
+    spacer.paragraph_format.space_before = Pt(0)
+    spacer.paragraph_format.space_after = Pt(44)
 
-    # Kapitelnummer (Heading 2 — wird im eBook als Sub-Heading erkannt)
+    # Kapitelnummer (Heading 2): gesperrte graue Versalien
     if chapter_num == 19:
-        label = "Epilog"
+        label = "EPILOG"
     else:
-        label = f"Kapitel {chapter_num}"
+        label = f"KAPITEL {chapter_num}"
 
     p = doc.add_heading(label, level=2)
+    if p.runs:
+        set_tracking(p.runs[0], 2.6)
 
     # Kapiteltitel als Heading 1 mit Bookmark (fuer navigierbares TOC)
     bookmark_name = f"kapitel_{chapter_num}"
@@ -490,6 +510,38 @@ def add_review_request_page(doc):
         p.paragraph_format.left_indent = Cm(1.0)
         p.paragraph_format.right_indent = Cm(1.0)
 
+    # QR-Code direkt zum Amazon-Bewertungsformular
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Einfach den Code scannen und eine Bewertung dalassen:")
+    run.font.size = Pt(11)
+    run.font.italic = True
+    run.font.name = 'Georgia'
+    p.paragraph_format.space_after = Pt(8)
+
+    if os.path.isfile(QR_REZENSION):
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        # Normal-Stil hat EXAKTEN Zeilenabstand (Pt(14)) -- der wuerde das Bild
+        # abschneiden. Fuer den Bild-Absatz auf einfachen (mitwachsenden)
+        # Zeilenabstand umstellen.
+        p.paragraph_format.line_spacing = 1.0
+        p.paragraph_format.space_before = Pt(6)
+        p.paragraph_format.space_after = Pt(6)
+        p.add_run().add_picture(QR_REZENSION, width=Inches(1.5))
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("(Handykamera auf den Code halten \u2013 "
+                        "der Link \u00f6ffnet sich von selbst.)")
+        run.font.size = Pt(9)
+        run.font.italic = True
+        run.font.name = 'Georgia'
+        p.paragraph_format.space_after = Pt(10)
+    else:
+        print(f"  WARNUNG: QR-Code nicht gefunden: {QR_REZENSION}")
+
     # Abschluss
     doc.add_paragraph()
     p = doc.add_paragraph()
@@ -508,167 +560,137 @@ def add_review_request_page(doc):
     run.font.name = 'Georgia'
 
 
+BAND2_KAPITEL1 = os.path.join(
+    BASE_DIR, "..", "..", "Band_2", "Linear", "Kapitel",
+    "Die_Herrenhaus_Detektive_Band2_Kapitel1.md")
+
+# Bis hierhin (einschliesslich) laeuft die Leseprobe -- Cliffhanger: das Siegel
+# ist gebrochen, alle halten den Atem an, bevor der Brief gelesen wird.
+BAND2_LESEPROBE_ENDE = "Mila beugte sich vor."
+
+
+def _lade_band2_leseprobe():
+    """Liest den ECHTEN Anfang von Band 2, Kapitel 1 -- Titel + Text bis zum
+    Cliffhanger. Kein abgetippter Text: die Leseprobe bleibt automatisch
+    synchron mit dem geschriebenen Band 2."""
+    with open(BAND2_KAPITEL1, "r", encoding="utf-8") as f:
+        lines = f.read().splitlines()
+
+    titel = "Der versiegelte Brief"
+    prosa, gestartet, fertig = [], False, False
+    for line in lines:
+        m = re.match(r"^# Kapitel\s+1\s*[-—]+\s*(.+)$", line.strip())
+        if m:
+            titel = m.group(1).strip()
+            gestartet = True
+            continue
+        if gestartet and not fertig:
+            prosa.append(line)
+            if line.strip() == BAND2_LESEPROBE_ENDE:
+                fertig = True
+                break
+
+    gruppen, aktuell = [], []
+    for line in prosa:
+        t = line.strip().replace(" -- ", " — ")   # sauberer Gedankenstrich
+        if not t:
+            if aktuell:
+                gruppen.append(aktuell); aktuell = []
+        elif t == "---":
+            if aktuell:
+                gruppen.append(aktuell); aktuell = []
+            gruppen.append("BREAK")
+        else:
+            aktuell.append(t)
+    if aktuell:
+        gruppen.append(aktuell)
+    return titel, gruppen
+
+
 def add_band2_teaser(doc):
-    """Erstellt die Leseprobe fuer Band 2."""
+    """Vorschau auf Band 2: echte Leseprobe aus dem geschriebenen Kapitel 1."""
     add_page_break(doc)
+    doc.add_paragraph()
 
-    for _ in range(1):
-        doc.add_paragraph()
-
-    # Ueberschrift
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Leseprobe")
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
+    run = p.add_run("LESEPROBE")
+    run.font.size = Pt(11); run.font.name = "Georgia"
     run.font.color.rgb = RGBColor(100, 100, 100)
+    set_tracking(run, 2.6)
     p.paragraph_format.space_after = Pt(4)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run("Die Herrenhaus-Detektive, Band 2")
-    run.font.size = Pt(14)
-    run.font.bold = True
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(4)
-
-    p = doc.add_paragraph()
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Das Geheimnis des Brunnens")
-    run.font.size = Pt(16)
-    run.font.bold = True
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(6)
-
-    # Kapitelnummer
-    p = doc.add_paragraph()
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Kapitel 1")
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
-    run.font.color.rgb = RGBColor(100, 100, 100)
+    run.font.size = Pt(13); run.font.name = "Georgia"
     p.paragraph_format.space_after = Pt(2)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Der versiegelte Brief")
-    run.font.size = Pt(14)
-    run.font.bold = True
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(14)
+    run = p.add_run("Das Geheimnis des Brunnens")
+    run.font.size = Pt(18); run.font.bold = True; run.font.name = "Georgia"
+    p.paragraph_format.line_spacing = 1.0
+    p.paragraph_format.space_after = Pt(18)
 
-    # Leseprobe-Text aus Band 2 Kapitel 1 (erste ~2 Seiten)
-    teaser_text = [
-        "Der Brunnen plaetscherte.",
-        "",
-        "Jonas blieb stehen. "
-        "Er stand mitten auf dem Marktplatz. "
-        "Die Sonne schien auf das Pflaster.",
-        "",
-        '"Schoener Tag, nicht wahr?" rief Frau Schneider.',
-        "",
-        'Jonas nickte. "Ja, sehr schoen."',
-        "",
-        '"Du siehst so nachdenklich aus", sagte sie. '
-        '"Ist alles in Ordnung?"',
-        "",
-        '"Alles gut", sagte Jonas schnell.',
-        "",
-        "Seine Stimme klang normal. "
-        "Aber sein Blick hing am Brunnen. "
-        "Steinerne Waende, moosig und gruen. "
-        "Wasser sprudelte aus einem Rohr.",
-        "",
-        "Er dachte an das Foto aus der Schatzkammer. "
-        "Eichenhain, 1952. "
-        "Kein Brunnen. "
-        "Nur Erde.",
-        "",
-        '"Warum stehst du so rum?" rief jemand.',
-        "",
-        "Jonas drehte sich um. "
-        "Mila kam ueber den Marktplatz gerannt. "
-        "Ben trottete hinter ihr her.",
-        "",
-        '"Ich stehe nicht rum", sagte Jonas. '
-        '"Ich denke nach."',
-        "",
-        '"Ueber den Brunnen?" '
-        "Mila blieb neben ihm stehen.",
-        "",
-        'Jonas nickte. "1952 gab es ihn noch nicht. '
-        'Das Foto beweist es."',
-        "",
-        '"Und?" '
-        "Ben schob seine rote Kappe zurecht. "
-        '"Leute bauen Brunnen. Das ist normal."',
-        "",
-        '"Mitten auf dem Marktplatz?" '
-        'Jonas schuettelte den Kopf. "Einfach so?"',
-        "",
-        'Ben zuckte die Schultern. '
-        '"Vielleicht wollte jemand huebsches Wasser."',
-        "",
-        '"Huebsches Wasser?" '
-        "Mila verdrehte die Augen.",
-        "",
-        '"Lass uns hoch zum Haus gehen", sagte Jonas. '
-        "Er sah zum Huegel.",
-    ]
+    titel, gruppen = _lade_band2_leseprobe()
 
-    for line in teaser_text:
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("KAPITEL 1")
+    run.font.size = Pt(11); run.font.name = "Georgia"
+    run.font.color.rgb = RGBColor(90, 90, 90)
+    set_tracking(run, 2.6)
+    p.paragraph_format.space_after = Pt(6)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(titel)
+    run.font.size = Pt(15); run.font.bold = True; run.font.name = "Georgia"
+    p.paragraph_format.space_after = Pt(16)
+
+    for gruppe in gruppen:
+        if gruppe == "BREAK":
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            run = p.add_run("* * *")
+            run.font.size = Pt(11); run.font.name = "Georgia"
+            p.paragraph_format.space_before = Pt(6)
+            p.paragraph_format.space_after = Pt(6)
+            continue
         p = doc.add_paragraph()
-        if line:
-            add_text_to_paragraph(p, line)
         p.paragraph_format.space_before = Pt(4)
         p.paragraph_format.space_after = Pt(0)
-
-    # Abbruch-Markierung
-    doc.add_paragraph()
+        add_text_to_paragraph(p, " ".join(gruppe))
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("* * *")
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_before = Pt(6)
+    run = p.add_run("[ … ]")
+    run.font.size = Pt(12); run.font.name = "Georgia"
+    run.font.color.rgb = RGBColor(120, 120, 120)
+    p.paragraph_format.space_before = Pt(14)
     p.paragraph_format.space_after = Pt(14)
-
-    # Call to Action
-    p = doc.add_paragraph()
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Wie geht es weiter?")
-    run.font.size = Pt(13)
-    run.font.bold = True
-    run.font.name = 'Georgia'
-    p.paragraph_format.space_after = Pt(8)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run(
         "Was verbirgt sich unter dem Brunnen?\n"
-        "Wer schweigt seit 70 Jahren \u2014 und warum?\n"
+        "Wer schweigt seit 70 Jahren — und warum?\n"
         "Und was steht in Winters versiegeltem Brief?"
     )
-    run.font.size = Pt(11)
-    run.font.name = 'Georgia'
-    run.font.italic = True
+    run.font.size = Pt(11); run.font.italic = True; run.font.name = "Georgia"
     p.paragraph_format.space_after = Pt(16)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Band 2: Das Geheimnis des Brunnens")
-    run.font.size = Pt(13)
-    run.font.bold = True
-    run.font.name = 'Georgia'
+    run = p.add_run("Das Geheimnis des Brunnens")
+    run.font.size = Pt(13); run.font.bold = True; run.font.name = "Georgia"
     p.paragraph_format.space_after = Pt(4)
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Jetzt auf Amazon erh\u00e4ltlich!")
-    run.font.size = Pt(12)
-    run.font.name = 'Georgia'
-    run.font.bold = True
+    run = p.add_run("Jetzt auf Amazon erhältlich!")
+    run.font.size = Pt(12); run.font.bold = True; run.font.name = "Georgia"
 
 
 def _add_series_block(doc, title, description, band_info=None):

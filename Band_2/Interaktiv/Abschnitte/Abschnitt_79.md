@@ -12,7 +12,7 @@ Jonas duckte sich. Die Decke kam tiefer. Dann wieder höher. Genau wie Frau Berg
 
 „Zweite Abzweigung rechts."
 
-Ben flüsterte Jonas ins Ohr: „Sie ist wie ein Navi. Ein Oma-Navi."
+Ben beugte sich zu Jonas. „Sie ist wie ein Navi", raunte er. „Ein Oma-Navi."
 
 Jonas unterdrückte ein Grinsen.
 
@@ -34,7 +34,7 @@ Frau Bergmann ging weiter. Ihre Schritte wurden sicherer. Schneller. Als ob der 
 
 Jonas hörte es auch. Ein leises Plätschern. Weit weg.
 
-„Und hier —" Frau Bergmann blieb stehen. Ihre Stimme wurde duenn. „Hier hat Karl meine Hand genommen."
+„Und hier —“ Frau Bergmann blieb stehen. Ihre Stimme wurde dünn. „Hier hat Karl meine Hand genommen."
 
 Sie sah ihre eigene Hand an. Leer. Dann ging sie weiter.
 

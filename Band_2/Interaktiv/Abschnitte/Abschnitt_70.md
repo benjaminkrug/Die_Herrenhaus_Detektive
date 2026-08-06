@@ -18,11 +18,11 @@ Sie schwieg. Die Küchenuhr tickte.
 
 Mila beugte sich vor. „Pfeile?"
 
-Frau Bergmann nickte. „Damit wir zurückfinden. Aber —"
+Frau Bergmann nickte. „Damit wir zurückfinden. Aber —“
 
 Sie brach ab. Griff nach ihrer Teetasse. Nahm einen Schluck. Stellte sie zurück. Das Porzellan klapperte.
 
-Mila sah Jonas an. „Sie schützt uns", flüsterte sie. „Nicht sich selbst. Sie hat Angst, dass uns das Gleiche passiert."
+Mila sah Jonas an. „Sie schützt uns", raunte sie. „Nicht sich selbst. Sie hat Angst, dass uns das Gleiche passiert."
 
 „Dann ging die Taschenlampe aus", flüsterte Frau Bergmann.
 
@@ -44,4 +44,4 @@ Jonas nickte langsam.
 
 **„Was haben Sie gesehen?" → Abschnitt 72**
 
-**Bonus: Wenn du weisst, wie viele Kammern unter dem Brunnen liegen → Abschnitt 70b**
+**Bonus: Wenn du weißt, wie viele Kammern unter dem Brunnen liegen → Abschnitt 70b**

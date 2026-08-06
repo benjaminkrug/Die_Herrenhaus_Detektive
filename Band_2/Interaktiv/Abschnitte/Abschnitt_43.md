@@ -2,7 +2,7 @@
 
 Jonas zwängte sich durch die Spalte. Stein drückte gegen seine Schultern. Dann war er durch.
 
-Er stand in einem Gang. Niedrig. Schmal. Die Luft schmeckte duenn. Metallisch. Wie alte Muenzen. Die Decke war kaum einen Meter ueber seinem Kopf. Der Boden fiel leicht ab.
+Er stand in einem Gang. Niedrig. Schmal. Die Luft schmeckte dünn. Metallisch. Wie alte Münzen. Die Decke war kaum einen Meter über seinem Kopf. Der Boden fiel leicht ab.
 
 Mila kam hinter ihm durch. Dann Ben. Er keuchte.
 
@@ -18,7 +18,7 @@ Er zog die Karte heraus. Hielt sie ins Licht.
 
 Mila beugte sich über die Karte. „Und dann?"
 
-„Dann kreuzt er etwas." Jonas kniff die Augen zusammen. „Eine Linie quer. Gewellt. Wie ein —"
+„Dann kreuzt er etwas." Jonas kniff die Augen zusammen. „Eine Linie quer. Gewellt. Wie ein —“
 
 „Fluss", sagte Ben. Er stand hinter ihnen und sah über Jonas' Schulter. „Das ist ein Fluss."
 
@@ -36,7 +36,7 @@ Sie gingen weiter. Der Gang wurde feuchter. Die Tropfen wurden lauter. Dann hör
 
 Ein Rauschen. Leise. Fern. Aber deutlich.
 
-„Hört ihr das?", flüsterte er.
+„Hört ihr das?", fragte er.
 
 Alle drei blieben stehen.
 

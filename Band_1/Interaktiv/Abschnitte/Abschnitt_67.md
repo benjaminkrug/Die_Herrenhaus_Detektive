@@ -103,7 +103,7 @@ Mila nickte langsam.
 „Er hat sich einfach erschrocken", sagte Jonas.
 „Das passiert jedem."
 
-Mila verschränkte die Arme.
+„Nein", sagte Mila.
 „Er hat die Milch umgeworfen.
 Bei dem Wort Geheimnis.
 Nicht bei Wetter.

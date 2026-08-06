@@ -8,13 +8,13 @@ Der Weg am Ufer wurde schmaler. Jonas ging voraus. Die Taschenlampe in der einen
 
 „Geht schon", sagte Mila hinter ihm.
 
-Jonas zaehlte die Schritte. Fuenfzig. Hundert. Der Fluss wurde lauter. Schneller. Das Wasser schaeumte ueber Felsen. Irgendwo knirschte Stein auf Stein. Ein tiefes Knirschen, das Jonas in den Zaehnen spuerte.
+Jonas zählte die Schritte. Fünfzig. Hundert. Der Fluss wurde lauter. Schneller. Das Wasser schäumte über Felsen. Irgendwo knirschte Stein auf Stein. Ein tiefes Knirschen, das Jonas in den Zähnen spürte.
 
-Dann hoerte er es.
+Dann hörte er es.
 
 Ein Donnern. Tief und dumpf. Wie ein Gewitter unter der Erde.
 
-„Was ist das?", flüsterte Ben.
+„Was ist das?", fragte Ben.
 
 Jonas ging weiter. Zehn Schritte. Zwanzig. Der Gang wurde breiter. Höher. Dann öffnete er sich.
 
@@ -32,7 +32,7 @@ Ben stand mit offenem Mund da. Seine rote Kappe war feucht von der Gischt. „Da
 
 Jonas trat näher. Die Luft war frisch und feucht. Er schmeckte Mineralien auf der Zunge. Das Wasser rauschte aus dem Fels. Eine natürliche Quelle. Tief unter der Erde.
 
-„Das Wasser war die ganze Zeit hier", flüsterte Jonas. „Direkt unter dem Dorf."
+„Das Wasser war die ganze Zeit hier", sagte Jonas leise. „Direkt unter dem Dorf."
 
 Mila kniete sich hin. Sie legte die Hand ins Wasser. „Das fließt nicht zufällig", sagte sie. Ihre Stimme war scharf. „Schaut euch die Rinne an. Gerade Kanten. Das ist ein Kanal. Jemand hat das gebaut."
 

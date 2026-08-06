@@ -14,13 +14,13 @@ Mila ging voraus. Der Gang war schmal. Jonas streifte mit den Schultern die Wän
 
 „Quatsch", rief Mila von vorne. „Weiter!"
 
-Der Gang drehte sich. Oder war es Jonas? Er verlor die Richtung. Oben und unten verschwammen fuer einen Moment.
+Der Gang drehte sich. Oder war es Jonas? Er verlor die Richtung. Oben und unten verschwammen für einen Moment.
 
-Nach hundert Metern wurde der Gang breiter. Jonas sah Werkzeugspuren an den Waenden. Frische Rillen im Stein. Neuer als im Haupttunnel.
+Nach hundert Metern wurde der Gang breiter. Jonas sah Werkzeugspuren an den Wänden. Frische Rillen im Stein. Neuer als im Haupttunnel.
 
-Dann: eine Markierung. Rot. Wie Kreide. Ein Pfeil, der zurueck zum Haupttunnel zeigte. Darunter ein Datum: *2019*.
+Dann: eine Markierung. Rot. Wie Kreide. Ein Pfeil, der zurück zum Haupttunnel zeigte. Darunter ein Datum: *2019*.
 
-„Jemand hat hier gegraben", sagte er. Seine Hand strich ueber die Rillen.
+„Jemand hat hier gegraben", sagte er. Seine Hand strich über die Rillen.
 
 „Winter?", fragte Ben.
 
@@ -36,7 +36,7 @@ Steinstufen führten nach oben. Moos in den Ritzen. Oben eine Holztür. Jonas dr
 
 Die Mühle.
 
-Jonas' Magen sackte ab. Sie standen wieder in der Muehle. Der Seitengang hatte sie im Kreis gefuehrt. Aber die Kreidemarkierung — die war neu. Jemand kannte diesen Weg.
+Jonas' Magen sackte ab. Sie standen wieder in der Mühle. Der Seitengang hatte sie im Kreis geführt. Aber die Kreidemarkierung — die war neu. Jemand kannte diesen Weg.
 
 „Nein!" Mila schlug mit der Faust gegen die Wand. „Das gibt es nicht!"
 
@@ -56,7 +56,7 @@ Ben stand auf. Er setzte seine Kappe wieder auf. „Und die Werkzeugspuren? Die 
 
 Jonas nickte langsam. Ben hatte recht. Die frischen Rillen im Stein. Jemand grub dort unten. Jetzt. Heute.
 
-Mila verschränkte die Arme. „Meier." Sie drehte sich zur Kellertür. „Ich gehe zurück rein."
+Mila presste die Lippen zusammen. „Meier." Sie drehte sich zur Kellertür. „Ich gehe zurück rein."
 
 „Jetzt?", fragte Ben.
 

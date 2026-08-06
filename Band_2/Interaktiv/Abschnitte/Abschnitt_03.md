@@ -12,7 +12,7 @@ Ben zog ein vergilbtes Blatt Papier hervor. Das leere Blatt aus der Kiste im ver
 
 Jonas kniff die Augen zusammen. „Zitronensaft?"
 
-„Geheimtinte." Ben hielt das Blatt gegen das Licht. „Man schreibt mit Zitronensaft. Das trocknet unsichtbar. Aber wenn man das Papier erwärmt —"
+„Geheimtinte." Ben hielt das Blatt gegen das Licht. „Man schreibt mit Zitronensaft. Das trocknet unsichtbar. Aber wenn man das Papier erwärmt —“
 
 „— wird die Schrift braun", sagte Mila. Ihre Augen wurden groß.
 
@@ -34,7 +34,7 @@ Jonas beugte sich vor. Sein Herz hämmerte. Er sah Linien, die sich kreuzten. G�
 
 ANFANG.
 
-„Das X ist unter dem Brunnen", flüsterte Jonas.
+„Das X ist unter dem Brunnen", sagte Jonas leise.
 
 Ben drehte das Blatt. In der oberen Ecke: ein Symbol. Vier Linien und ein Stern. Daneben stand winzig klein: *Tür*.
 

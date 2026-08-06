@@ -18,7 +18,7 @@ Jonas leuchtete die Kammer ab. Das Wasser floss in eine Richtung. Nach rechts. Z
 
 „Dahin", sagte er. „Das Wasser zeigt den Weg."
 
-Sie folgten dem Strom. Durch die niedrige Oeffnung. Ein enger Gang. Die Luft schmeckte nach Eisen und nassem Stein. Das Wasser reichte ihnen fast bis zu den Knien. Kalt. So kalt, dass Jonas kaum noch spuerte, wo seine Fuesse waren.
+Sie folgten dem Strom. Durch die niedrige Öffnung. Ein enger Gang. Die Luft schmeckte nach Eisen und nassem Stein. Das Wasser reichte ihnen fast bis zu den Knien. Kalt. So kalt, dass Jonas kaum noch spürte, wo seine Füße waren.
 
 Der Gang stieg an. Sanft zuerst. Dann steiler.
 

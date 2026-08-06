@@ -138,7 +138,9 @@ Staubkörner tanzten in dem schmalen Lichtstreifen, der durch den Spalt fiel.
 „Sieht leer aus", flüsterte er.
 
 Mila stellte sich neben ihn.
-„Ich gehe zuerst."
+„Ich gehe zuerst.
+Ich bin die Kleinste.
+Ich passe am leichtesten durch."
 
 „Was?" sagte Ben.
 „Nein!
